@@ -1,0 +1,25 @@
+nr|nederlands|frans
+0 | Nederlands | Français
+1 | Dag | Bonjour1
+2 | Hoe gaat het? | Comment ça va?2
+0 | Nederlands | Français3
+1 | Dag | Bonjour4
+2 | Hoe gaat het? | Elke 5
+0 | Nederlands | Français6
+1 | Dag | Bonjour7
+2 | Hoe gaat het? | Comment ça va?8
+0 | Nederlands | Français9
+1 | Dag | Bonjour10
+2 | Hoe gaat het? | Comment ça va?11
+0 | Nederlands | Français12
+1 | Dag | Bonjour13
+2 | Hoe gaat het? | Comment ça va?14
+0 | Nederlands | Français15
+1 | Dag | Bonjour16
+2 | Hoe gaat het? | Comment ça va?17
+0 | Nederlands | Français18
+1 | Dag | Bonjour19
+2 | Hoe gaat het? | Comment ça va?20
+0 | Nederlands | Français21
+1 | Dag | Bonjour22
+2 | Hoe gaat het? | Comment ça va?23

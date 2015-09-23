@@ -1,0 +1,28 @@
+html, body {
+	height:100%;
+}
+#Nederlands {
+	width: 50%;
+	height: 100%;
+	float: left;
+  	text-align: center;
+	/*vertical-align: middle;*/
+  	/*transform: translateY(100%);*/
+}
+
+#Frans {
+	width: 50%;
+	height: 100%;
+	float: right;
+	text-align: center;
+	/*vertical-align: middle;*/
+	/*transform: translateY(100%);*/
+}
+
+.subtitle {
+	position: relative;
+  	top: 30%;
+  	/*-webkit-transform: translateY(-40%);
+  	transform: translateY(-40%);*/
+  	vertical-align: middle;
+}
