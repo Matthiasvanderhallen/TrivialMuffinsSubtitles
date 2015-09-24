@@ -1,19 +1,24 @@
 html, body {
 	height:100%;
+	background-color: black;
 }
 #Nederlands {
-	width: 50%;
-	height: 100%;
-	float: left;
+	width: 100%;
+	height: 30%;
+	font-family: sans-serif;
+	color: white;
+	/*float: left;*/
   	text-align: center;
 	/*vertical-align: middle;*/
   	/*transform: translateY(100%);*/
 }
 
 #Frans {
-	width: 50%;
-	height: 100%;
-	float: right;
+	width: 100%;
+	/*height: 50%;*/
+	font-family: sans-serif;
+	color: white;
+	/*float: right;*/
 	text-align: center;
 	/*vertical-align: middle;*/
 	/*transform: translateY(100%);*/
