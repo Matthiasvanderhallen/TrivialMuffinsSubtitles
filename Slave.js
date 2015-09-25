@@ -1,5 +1,4 @@
 var inject = require('reconnect-core');
-//var WebSocket = require('ws');
 
 window.WebSocket = window.WebSocket || window.MozWebSocket;
 
@@ -9,8 +8,7 @@ window.WebSocket.prototype.on = function (event, callback) {
 };
 
 window.WebSocket.prototype.once = function (event, callback) {
-	alert('t2');
-    var self = this;
+  var self = this;
   this['on'+event] = function () {
     callback.apply(callback, arguments);
     self['on'+event] = null;
@@ -20,7 +18,6 @@ window.WebSocket.prototype.once = function (event, callback) {
 
 
 window.WebSocket.prototype.off = function (event, callback) {
-	alert('t3');
   this['on'+event] = callback;
   return this;
 };
@@ -29,15 +26,7 @@ window.WebSocket.prototype.removeListener = function (event, callback) {
 	this['on'+event] = null;
 }
 
-var connection = new WebSocket('ws://localhost:1337');
-console.log(connection);
-
 //var connection = new WebSocket('ws://localhost:1337');
-//console.log(connection);
-
-//console.log(WebSocket);
-
-//var client;// = new WebSocket();
 
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
@@ -131,7 +120,6 @@ function setVisibility(mode){
 
 var reconnect = inject(function(){
 	var connection = new WebSocket('ws://localhost:1337');
-	console.log(connection);
 	connection.onmessage = onMessage;
 	return connection;
 });
@@ -140,6 +128,5 @@ var re = reconnect({}, function (stream) {
   // stream = the stream you should consume 
 })
 .on('connect', function (con) {
-	console.log(con);
 })
 .connect();

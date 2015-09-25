@@ -1,0 +1,3 @@
+#!/bin/bash
+browserify Slave.js > Slave-bundle.js
+browserify Master.js > Master-bundle.js

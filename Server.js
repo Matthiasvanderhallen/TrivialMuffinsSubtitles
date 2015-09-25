@@ -1,7 +1,6 @@
 var WebSocketServer = require('websocket').server;
 var http = require('http');
 
-
 var server = http.createServer(function(request, response) {}); //We do not serve HTML from this server. This is a strict communication only server.
 server.listen(1337, function() { });
 
@@ -25,11 +24,11 @@ wsServer.on('request', function(request) {
     // all messages from users here.
     connection.on('message', function(message) {
         if (message.type === 'utf8') {
-            console.log("Sending: " + message.utf8Data);
+            //console.log("Sending: " + message.utf8Data);
             for(var i=0; i < clients.length; i++){
-                console.log(i);
+                //console.log(i);
                 if(clients[i].id != id){
-                    console.log("sent to id: " + clients[i].id);
+                    //console.log("sent to id: " + clients[i].id);
                     clients[i].conn.sendUTF(message.utf8Data);
                 }
             }

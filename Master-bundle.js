@@ -17,7 +17,6 @@ window.WebSocket.prototype.once = function (event, callback) {
   return this;
 };
 
-
 window.WebSocket.prototype.off = function (event, callback) {
   this['on'+event] = callback;
   return this;
@@ -27,73 +26,46 @@ window.WebSocket.prototype.removeListener = function (event, callback) {
 	this['on'+event] = null;
 }
 
+var globalConnection;
 //var connection = new WebSocket('ws://localhost:1337');
 
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
 
-var id;
+var subtitle = {current: 0, nl: [], fr: [], length: 0, size: 72};
 
-var subtitleInfo = {nl: "", fr: "", size: 72, mode: "dual"};
+d3.select("html").on('click', forward);
+d3.select("body").on('keydown', keyListener);
 
-//connection.onmessage = onMessage;
+function blackout(){
+	nederlands = nederlandsTitel.data([""]);
+	frans = fransTitel.data([""]);
 
-function onMessage(message){
-	var json;
-
-	console.log('received: ' + message.data);
-
-	try{
-		json = JSON.parse(message.data);
-	}catch (e) {
-		console.log(message.data);
-    	return;
+	var black = function (d){
+		return "";
 	}
 
-	if(json.type == 'id'){
-		id = json.id;
-	}
+	nederlands.text(black);
+	frans.text(black);
 
-	if(json.type == 'subtitle'){
-		subtitleInfo.nl = json.nl;
-		subtitleInfo.fr = json.fr;
-		showSubtitle(json.nl, json.fr);
-	}
-	
-	if(json.type == 'size'){
-		subtitleInfo.size = json.size;
-		console.log('I resize: ' + json.size);
-		setSize(json.size);
-	}
+	globalConnection.send(JSON.stringify({broadcast: true, type: "subtitle", nl: "", fr: ""}));
+};
 
-	if(json.type == 'mode'){
-		console.log(json.peer + " == " + id + "?");
-		if(json.peer == id){
-			subtitleInfo.mode = json.mode;
-			setVisibility(json.mode);
-		}
-	}
-
-	if(json.type == 'identify'){
-		identify();
+function forward(){
+	if(subtitle.current < subtitle.length){
+		jumpTo(++subtitle.current);
 	}
 };
 
-function identify(){
-	setVisibility("dual");
-	showSubtitle(id,id);
-	setTimeout(showSubtitle, 500, subtitleInfo.nl, subtitleInfo.fr);
-	setTimeout(setVisibility, 500, subtitleInfo.mode);
+function backward(){
+	if(subtitle.current > 0){
+		jumpTo(--subtitle.current);
+	}
 };
 
-function setSize(size){
-	nederlandsTitel.style("font-size", size + "px");
-	fransTitel.style("font-size", size + "px");
-}
-
-function showSubtitle(nl, fr) {
-	nederlands = nederlandsTitel.data([nl]);
-	frans = fransTitel.data([fr]);
+function jumpTo(a) {
+	nederlands = nederlandsTitel.data([subtitle.nl[a]]);
+	frans = fransTitel.data([subtitle.fr[a]]);
 
 	var returnText = function (d){
 		return d;
@@ -101,27 +73,81 @@ function showSubtitle(nl, fr) {
 
 	nederlands.text(returnText);
 	frans.text(returnText);
+
+	globalConnection.send(JSON.stringify({broadcast: true, type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a]}));			
 };
 
-function setVisibility(mode){
-	if(mode == "nl"){
-		d3.select("#separator").style("visibility", "collapse");
-		d3.select("#Frans").style("visibility", "collapse");
+function setSize(){
+	nederlandsTitel.style("font-size", subtitle.size + "px");
+	fransTitel.style("font-size", subtitle.size + "px");
+
+	console.log('I am sending resize');
+	globalConnection.send(JSON.stringify({broadcast: true, type: "size", size: subtitle.size}));
+	console.log('I sent resize');
+}
+
+function keyListener(){
+	if(d3.event.keyCode == 39){
+		forward();
+	} else if(d3.event.keyCode == 32){
+		forward();
+	} else if(d3.event.keyCode == 37){
+		backward();
+	} else if(d3.event.keyCode == 74){
+		var answer = prompt("To what slide do you want to jump?", subtitle.current);
+
+		if(isNumeric(answer) && answer < subtitle.length){
+			subtitle.current = answer;
+			jumpTo(subtitle.current);
+		}
+	} else if(d3.event.keyCode == 83){
+		var answer = prompt("Which size?", subtitle.size);
+		
+		if(isNumeric(answer)){
+			subtitle.size = answer;
+			setSize();
+		}
+	} else if(d3.event.keyCode == 66){
+		blackout();
+	} else if(d3.event.keyCode == 73){
+		globalConnection.send(JSON.stringify({broadcast: true, type: "identify"}));
+	} else if(d3.event.keyCode == 77){
+		var mode = prompt("What mode (dual, fr, nl): ", "dual");
+		var peer = prompt("What peer: ", 0);
+
+		if(isNumeric(peer)){
+			if(mode == "dual" || mode == "fr" || mode == "nl"){
+				globalConnection.send(JSON.stringify({broadcast: true, type: "mode", mode: mode, peer: peer}));
+			}
+		}
 	}
-	if(mode == "fr"){
-		d3.select("#separator").style("visibility", "collapse");
-		d3.select("#Nederlands").style("visibility", "collapse");
+};
+
+function isNumeric(n) {
+		return !isNaN(parseFloat(n)) && isFinite(n);
+};
+
+var pipeParser = d3.dsv("|", "text/plain");
+pipeParser("ondertitels.txt", parseData);
+
+function sanatize(subtitle){
+	return subtitle.trim().split('//')[0];
+}
+
+function parseData(data){
+	for(var i = 0; i < data.length; i++){
+		subtitle.nl.push(sanatize(data[i].nederlands));
+		subtitle.fr.push(sanatize(data[i].frans));
 	}
-	if(mode == "dual"){
-		d3.select("#separator").style("visibility", "visible");
-		d3.select("#Nederlands").style("visibility", "visible");
-		d3.select("#Frans").style("visibility", "visible");
-	}
+
+	subtitle.length = data.length;
+
+	jumpTo(0);
 };
 
 var reconnect = inject(function(){
 	var connection = new WebSocket('ws://localhost:1337');
-	connection.onmessage = onMessage;
+	globalConnection = connection;
 	return connection;
 });
 

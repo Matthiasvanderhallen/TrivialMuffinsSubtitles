@@ -1,6 +1,32 @@
+var inject = require('reconnect-core');
+
 window.WebSocket = window.WebSocket || window.MozWebSocket;
 
-var connection = new WebSocket('ws://localhost:1337');
+window.WebSocket.prototype.on = function (event, callback) {
+  this['on'+event] = callback;
+  return this;
+};
+
+window.WebSocket.prototype.once = function (event, callback) {
+  var self = this;
+  this['on'+event] = function () {
+    callback.apply(callback, arguments);
+    self['on'+event] = null;
+  };
+  return this;
+};
+
+window.WebSocket.prototype.off = function (event, callback) {
+  this['on'+event] = callback;
+  return this;
+};
+
+window.WebSocket.prototype.removeListener = function (event, callback) {
+	this['on'+event] = null;
+}
+
+var globalConnection;
+//var connection = new WebSocket('ws://localhost:1337');
 
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
@@ -21,7 +47,7 @@ function blackout(){
 	nederlands.text(black);
 	frans.text(black);
 
-	connection.send(JSON.stringify({broadcast: true, type: "subtitle", nl: "", fr: ""}));
+	globalConnection.send(JSON.stringify({broadcast: true, type: "subtitle", nl: "", fr: ""}));
 };
 
 function forward(){
@@ -47,7 +73,7 @@ function jumpTo(a) {
 	nederlands.text(returnText);
 	frans.text(returnText);
 
-	connection.send(JSON.stringify({broadcast: true, type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a]}));			
+	globalConnection.send(JSON.stringify({broadcast: true, type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a]}));			
 };
 
 function setSize(){
@@ -55,7 +81,7 @@ function setSize(){
 	fransTitel.style("font-size", subtitle.size + "px");
 
 	console.log('I am sending resize');
-	connection.send(JSON.stringify({broadcast: true, type: "size", size: subtitle.size}));
+	globalConnection.send(JSON.stringify({broadcast: true, type: "size", size: subtitle.size}));
 	console.log('I sent resize');
 }
 
@@ -83,14 +109,14 @@ function keyListener(){
 	} else if(d3.event.keyCode == 66){
 		blackout();
 	} else if(d3.event.keyCode == 73){
-		connection.send(JSON.stringify({broadcast: true, type: "identify"}));
+		globalConnection.send(JSON.stringify({broadcast: true, type: "identify"}));
 	} else if(d3.event.keyCode == 77){
 		var mode = prompt("What mode (dual, fr, nl): ", "dual");
 		var peer = prompt("What peer: ", 0);
 
 		if(isNumeric(peer)){
 			if(mode == "dual" || mode == "fr" || mode == "nl"){
-				connection.send(JSON.stringify({broadcast: true, type: "mode", mode: mode, peer: peer}));
+				globalConnection.send(JSON.stringify({broadcast: true, type: "mode", mode: mode, peer: peer}));
 			}
 		}
 	}
@@ -117,3 +143,16 @@ function parseData(data){
 
 	jumpTo(0);
 };
+
+var reconnect = inject(function(){
+	var connection = new WebSocket('ws://localhost:1337');
+	globalConnection = connection;
+	return connection;
+});
+
+var re = reconnect({}, function (stream) {
+  // stream = the stream you should consume 
+})
+.on('connect', function (con) {
+})
+.connect();
