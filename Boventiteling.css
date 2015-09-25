@@ -1,33 +1,64 @@
 html, body {
 	height:100%;
 	background-color: black;
+	overflow-y: hidden;
 }
 #Nederlands {
 	width: 100%;
-	height: 30%;
+	height: 35%;
+	/*height: 45%;*/
 	font-family: sans-serif;
 	color: white;
-	/*float: left;*/
   	text-align: center;
+  	/*float: left;*/
 	/*vertical-align: middle;*/
   	/*transform: translateY(100%);*/
 }
 
 #Frans {
 	width: 100%;
-	/*height: 50%;*/
+	/*height: 45%;*/
 	font-family: sans-serif;
 	color: white;
-	/*float: right;*/
 	text-align: center;
+	/*float: right;*/
 	/*vertical-align: middle;*/
 	/*transform: translateY(100%);*/
 }
 
 .subtitle {
-	position: relative;
-  	top: 30%;
+	/*position: relative;*/
+	margin-left: 5%;
+	margin-right: 5%;
+	font-size: 72px;
   	/*-webkit-transform: translateY(-40%);
   	transform: translateY(-40%);*/
   	vertical-align: middle;
 }
+
+.upper {
+	margin-top: -2.5%;
+	margin-bottom: 5%;
+}
+
+.lower{
+	margin-top: 0%;
+}
+
+hr.symbol {
+	padding: 0;
+	border: none;
+	border-top: medium double white;
+	color: white;
+	text-align: center;
+}
+
+hr.symbol:after {
+	content: "§";
+	display: inline-block;
+	position: relative;
+	top: -0.7em;
+	font-size: 1.5em;
+	padding: 0 0.25em;
+	background: black;
+}	

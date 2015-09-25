@@ -4,12 +4,13 @@
 <link rel="stylesheet" type="text/css" href="Boventiteling.css">
 <body>
 	<script src="d3.js"></script>
-	<div id="Nederlands">
+	<div id="Nederlands" class="upper">
 		<h1 id="HeaderNederlands" class="subtitle">
 			Nederlands
 		</h1>
 	</div>
-	<div id="Frans">
+	<hr class="symbol"/>
+	<div id="Frans" class="lower">
 		<h1 id="HeaderFrans" class="subtitle">
 			Français
 		</h1>
@@ -30,10 +31,26 @@
 		d3.select("html").on('click', forward);
 		d3.select("body").on('keydown', keyListener);
 
+		function blackout(){
+			nederlands = nederlandsTitel.data([""]);
+			frans = fransTitel.data([""]);
+
+			var black = function (d){
+				return "";
+			}
+
+			nederlands.text(black);
+			frans.text(black);
+		}
+
+		function sanatize(subtitle){
+			return subtitle.trim().split('//')[0];
+		}
+
 		function parseData(data){
 			for(var i = 0; i < data.length; i++){
-				subtitle.nl.push(data[i].nederlands);
-				subtitle.fr.push(data[i].frans);
+				subtitle.nl.push(sanatize(data[i].nederlands));
+				subtitle.fr.push(sanatize(data[i].frans));
 			}
 
 			subtitle.length = data.length;
@@ -99,6 +116,8 @@
 					zeroState();
 					jumpTo(subtitle.current);
 				}
+			} else if(d3.event.keyCode == 66){
+				blackout();
 			}
 		};
 
