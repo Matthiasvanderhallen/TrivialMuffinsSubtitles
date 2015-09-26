@@ -128,6 +128,10 @@ var pipeParser = d3.dsv("|", "text/plain");
 pipeParser("ondertitels.txt", parseData);
 
 function sanatize(subtitle){
+	if(subtitle==undefined){
+		subtitle = "";
+	}
+
 	return subtitle.trim().split('//')[0];
 }
 
