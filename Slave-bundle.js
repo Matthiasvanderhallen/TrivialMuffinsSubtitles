@@ -28,6 +28,7 @@ window.WebSocket.prototype.removeListener = function (event, callback) {
 }
 
 //var connection = new WebSocket('ws://localhost:1337');
+//connection.onmessage = onMessage;
 
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
@@ -36,12 +37,8 @@ var id;
 
 var subtitleInfo = {nl: "", fr: "", size: 72, mode: "dual"};
 
-//connection.onmessage = onMessage;
-
 function onMessage(message){
 	var json;
-
-	console.log('received: ' + message.data);
 
 	try{
 		json = JSON.parse(message.data);
@@ -62,12 +59,10 @@ function onMessage(message){
 	
 	if(json.type == 'size'){
 		subtitleInfo.size = json.size;
-		console.log('I resize: ' + json.size);
 		setSize(json.size);
 	}
 
 	if(json.type == 'mode'){
-		console.log(json.peer + " == " + id + "?");
 		if(json.peer == id){
 			subtitleInfo.mode = json.mode;
 			setVisibility(json.mode);

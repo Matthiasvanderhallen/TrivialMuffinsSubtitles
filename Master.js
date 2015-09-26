@@ -80,9 +80,7 @@ function setSize(){
 	nederlandsTitel.style("font-size", subtitle.size + "px");
 	fransTitel.style("font-size", subtitle.size + "px");
 
-	console.log('I am sending resize');
 	globalConnection.send(JSON.stringify({broadcast: true, type: "size", size: subtitle.size}));
-	console.log('I sent resize');
 }
 
 function keyListener(){
