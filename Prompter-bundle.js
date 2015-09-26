@@ -83,18 +83,12 @@ function setSize(size){
 }
 
 function showSubtitle(en){
-  console.log('showing subtitle ' + en);
-  prompt = promptTitle.data([en]);
+  prompt = promptTitle.data(en);
 
   var returnText = function (d){
-    console.log('returnText:' + d);
     if(subtitleInfo.panic){
-      console.log('returnText: panic=' + subtitleInfo.panic);
-      console.log('returnText: d=' + d);
       return d
     }else{
-      console.log('returnText: panic=false');
-      console.log('returnText: d=');
       return "";
     }
   }

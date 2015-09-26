@@ -27,15 +27,28 @@ html, body {
 
 .subtitle {
 	/*position: relative;*/
-	color: white;
 	font-family: sans-serif;
-	font-size: 72px;
 	margin-left: 5%;
 	margin-right: 5%;
 	text-align: center;
   	/*-webkit-transform: translateY(-40%);
   	transform: translateY(-40%);*/
   	vertical-align: middle;
+}
+
+.previous{
+	color: red;
+	font-size: 65px;
+}
+
+.current {
+	color: white;
+	font-size: 72px;
+}
+
+.next{
+	color: yellow;
+	font-size: 65px;
 }
 
 .upper {
