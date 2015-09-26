@@ -118,3 +118,11 @@ html, body {
 		font-size: 45px;
 	}
 
+/** PANIC **/
+	.panic {
+		display:none;
+		background:red;
+		position:absolute;
+		top: 0px;
+		right: 0px;
+	}
