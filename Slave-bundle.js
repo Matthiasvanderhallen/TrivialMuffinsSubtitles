@@ -100,17 +100,19 @@ function showSubtitle(nl, fr) {
 
 function setVisibility(mode){
 	if(mode == "nl"){
-		d3.select("#separator").style("visibility", "collapse");
-		d3.select("#Frans").style("visibility", "collapse");
+		d3.select("#separator").style("display", "none");
+		d3.select("#Frans").style("display", "none");
+		d3.select("#Nederlands").style("display", "flex");
 	}
 	if(mode == "fr"){
-		d3.select("#separator").style("visibility", "collapse");
-		d3.select("#Nederlands").style("visibility", "collapse");
+		d3.select("#separator").style("display", "none");
+		d3.select("#Nederlands").style("display", "none");
+		d3.select("#Frans").style("display", "flex");
 	}
 	if(mode == "dual"){
-		d3.select("#separator").style("visibility", "visible");
-		d3.select("#Nederlands").style("visibility", "visible");
-		d3.select("#Frans").style("visibility", "visible");
+		d3.select("#separator").style("display", "block");
+		d3.select("#Nederlands").style("display", "flex");
+		d3.select("#Frans").style("display", "flex");
 	}
 };
 
