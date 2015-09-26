@@ -1,1 +1,2 @@
-python -m SimpleHTTPServer 8000
+#!/bin/bash
+node Server.js

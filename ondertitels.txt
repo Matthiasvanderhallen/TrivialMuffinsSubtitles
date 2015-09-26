@@ -1,25 +1,257 @@
-nr|nederlands|frans
-0 | Nederlands | Français
-1 | Dag | Bonjour1
-2 | Hoe gaat het? | Comment ça va?2
-0 | Nederlands | Français3
-1 | Dag | Bonjour4
-2 | Hoe gaat het? | Elke 5
-0 | Nederlands | Français6
-1 | Dag | Bonjour7
-2 | Hoe gaat het? | Comment ça va?8
-0 | Nederlands | Français9
-1 | Dag | Bonjour10
-2 | Hoe gaat het? | Comment ça va?11
-0 | Nederlands | Français12
-1 | Dag | Bonjour13
-2 | Hoe gaat het? | Comment ça va?14
-0 | Nederlands | Français15
-1 | Dag | Bonjour16
-2 | Hoe gaat het? | Comment ça va?17
-0 | Nederlands | Français18
-1 | Dag | Bonjour19
-2 | Hoe gaat het? | Comment ça va?20
-0 | Nederlands | Français21
-1 | Dag | Bonjour22
-2 | Hoe gaat het? | Comment ça va?23
+nr|nederlands|frans|engels
+|Hoorde je wat ik speelde, Lane?||prompter1
+|Ik achtte het ongepast om te luisteren, meneer.||prompter2
+|Dat is dan jammer, voor jou. Ik speel dan wel niet correct -correct spelen kan iedereen–||prompter3
+|maar ik speel met een wonderbaarlijke expressie.||prompter4
+|Zeker, meneer.||prompter5
+|Lane, staan de komkommersandwiches voor Lady Bracknell klaar?||prompter6
+|Zeker, meneer.||prompter7
+|Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,||toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
+|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
+|Zeker, meneer; acht flessen en nog een halve.||toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
+|Hoe komt het dat in een vrijgezellen huishouding het personeel altijd de champagne drinkt?||prompter
+|Ik vraag het alleen maar uit belangstelling.||prompter
+|Ik schrijf dat toe aan de superieure kwaliteit van de vloeistof, meneer.||prompter
+|Ik heb menigmaal geconstateerd dat bij gehuwden de champagne zelden van een beter merk was.||prompter
+|||Prompter
+|| Mr. Constant Worthing!|Prompter
+|| Comment ça va, mon cher Constant? Qu’est-ce qui t’amène en ville? |Prompter
+|| Oh, le plaisir, le plaisir. Quoi d’autre? Encore en train de manger, Algy?|Prompter
+|| Mais c’est l’habitude dans la bonne société de prendre un petit five o’clock.|Prompter
+|| Où étais-tu donc depuis mardi? |Prompter
+|| A la campagne. |Prompter
+|| Et pour y faire quoi? |Prompter
+|| Quand on est en ville c’est pour s’amuser. Quand on est à la campagne|Prompter
+|| c’est pour amuser les autres. C’est complètement barbant. |Prompter
+|| Et tu amuses qui? |Prompter
+|| Oh, des voisins, des voisins. |Prompter
+|| Et tu as de bons voisins? |Prompter
+|| Horribles! Je ne leur parle jamais. |Prompter
+|| Comme tu dois les amuser.|Prompter
+|| Au fait, le Shropshire, c’est ton coin, n’est-ce pas? |Prompter
+|| Quoi? Le Shropshire? Naturellement.|Prompter
+|| Mais pourquoi donc ces tasses, ces sandwiches au concombre.|Prompter
+|| Quel gaspillage! Qui vient donc pour le thé? |Prompter
+|| Oh tout simplement Tante Augusta et |Prompter
+|| Gwendolen.
+|| Charmant. |Prompter
+|| N’est-ce pas? Mais je crains que Tante Augusta n’apprécie pas ta présence. |Prompter
+|| Puis-je demander pourquoi? |Prompter
+|| Mon cher, la manière dont tu flirtes avec Gwendolen est tout à fait choquante.|Prompter
+|| Presqu’autant que la manière dont Gwendolen flirte avec...|Prompter
+|| ...toi.
+|| J’aime Gwendolen. Je suis venu en ville tout exprès pour demander sa main. |Prompter
+|| Tu disais que c’était pour le plaisir? J’appelle ça une affaire. |Prompter
+|| Comme tu es romantique! |Prompter
+|| Je ne vois rien de romantique dans une demande en mariage.|Prompter
+|| C’est tout à fait romantique d’être amoureux |Prompter
+|| mais il n’y a rien de romantique dans une demande en mariage.|Prompter
+|| On peut être accepté, c’est le cas le plus souvent, je crois|Prompter
+|| et alors toute l’émotion retombe.|Prompter
+|| L’essence même de l’histoire d’amour c’est l’incertitude.|Prompter
+|| Si jamais je me mariais j’essaierais d’oublier ça tout de suite. |Prompter
+|| Je n’en doute pas, mon cher. |Prompter
+|| Le divorce a été tout spécialement inventé pour les gens qui|Prompter
+|| bizarrement, oublient qu’ils sont mariés. |Prompter
+|| Oh, ça ne sert à rien de discuter là-dessus.|Prompter
+|| Les divorces sont inscrits dans le Ciel.|Prompter
+|| S’il te plait, ne touche pas aux sandwiches au concombre.|Prompter
+|| Ils ont été préparés spécialement pour Tante Augusta.|Prompter
+|| Et toi, tu n’arrêtes pas d’en manger. |Prompter
+|| Moi, c’est tout à fait différent. C’est ma tante. |Prompter
+|| Prends donc une tartine beurrée. Elles sont pour Gwendolen.|Prompter
+|| Elle adore les tartines beurrées. |Prompter
+|| Très bonnes tartines beurrées.|Prompter
+|| Ne mange pas comme si tu allais tout avaler.|Prompter
+|| Tu n’es pas encore marié avec elle et je crois que tu ne le seras jamais. |Prompter
+|| Comment ça? |Prompter
+|| D’abord, les filles n’épousent pas leurs flirts. Elles pensent que ce n’est pas correct. |Prompter
+|| C’est absurde! |Prompter
+|| Pas du tout, c’est profond. Cela explique l’incroyable nombre de célibataires qu’on trouve partout.|Prompter
+|| Ensuite, je ne donne pas mon consentement. |Prompter
+|| Ton consentement! |Prompter
+|| Mon cher, Gwendolen est ma cousine et avant que je permette le mariage|Prompter
+|| tu devras t’expliquer sur la question de Cecily.|Prompter
+|| Cecily! Mais qu’est-ce que tu veux dire? Qu’est-ce que tu veux dire, Algy, avec Cecily?|Prompter
+|| Je ne connais personne du nom de Cecily.|Prompter
+|| Apportez-moi l’étui à cigarettes que M. Worthing|Prompter
+|| a laissé dans le fumoir la dernière fois qu’il a diné ici.|Prompter
+|| Veux-tu dire que tu as gardé mon étui pendant tout ce temps.|Prompter
+|| Tu aurais pu me le dire. J’ai écrit des lettres frénétiques à Scotland Yard,|Prompter
+|| j’ai même failli offrir une grosse récompense.|Prompter
+|| Eh bien, j’aimerais que tu m’en offres une. Justement, je suis à sec. |Prompter
+|| On n’offre pas une grosse récompense quand le truc a été retrouvé!|Prompter
+|| Je pense que c’est plutôt mesquin de ta part, Constant, je dois le dire.|Prompter
+|| Mais finalement ça n’a pas d’importance car|Prompter
+|| l’inscription que je vois dans l’étui montre bien qu’il n’est pas à toi.|Prompter
+|| Bien sûr qu’il est à moi|Prompter
+|| Tu l’as vu dans mes mains des dizaines de fois.|Prompter
+|| Et d’abord tu n’as pas le droit de lire ce qui est écrit dedans.|Prompter
+|| Ça ne se fait pas de lire un étui à cigarette privé. |Prompter
+|| Oh, c’est absurde d’avoir des attitudes aussi rigides|Prompter
+|| sur ce qu’on a le droit de lire ou non. |Prompter
+|| Plus de la moitié de la culture moderne repose sur des trucs qu’on n’a pas le droit de lire. |Prompter
+|| Je ne veux pas discuter de la culture moderne.|Prompter
+|| Ce n’est pas le genre de chose dont on peut parler en privé. Je veux simplement récupérer mon étui. |Prompter
+|| Mais ce n’est pas ton étui.|Prompter
+|| Cet étui est un cadeau de quelqu’un du nom de Cecily et tu as dit que tu ne connaissais personne de ce nom. |Prompter
+|| Bon, si tu veux tout savoir, Cecily est ma tante. |Prompter
+|| Ta tante! 
+|| Oui. C’est une charmante vieille dame. Elle vit à Tunbridge Wells. Allez Algy, rends-moi l’étui. |Prompter
+|| Mais pourquoi s’appelle-t-elle, elle-même, 'petite Cecily' si elle est ta tante|Prompter
+|| et qu’elle vit à Tunbridge Wells?|Prompter
+|| 'De la part de 4 la petite Cecily avec son affection la plus vive'|Prompter
+|| Qu’est-ce que tu vas chercher là, mon cher?|Prompter
+|| Il y a des tantes qui sont grandes, d’autres qui ne le sont pas.|Prompter
+|| C’est une question qu’une tante a le droit de décider elle-même.|Prompter
+|| Tu sembles croire que toutes les tantes doivent être exactement comme la tienne! C’est absurde!|Prompter
+|| Allez, pour l’amour du ciel, rendsmoi mon étui à cigarettes.|Prompter
+|| Oui, oui. Mais pourquoi ta tante t’appelle-t15 elle son oncle? //Wat loopt er hier mis?|Prompter
+|| 'De la petite Cecily à son cher Oncle Jack, avec son affection la plus vive'.|Prompter
+|| Bien sûr, je l’admets, une tante peut être une petite tante|Prompter
+|| mais pourquoi une tante, quelle que soit sa taille, appellerait|Prompter
+|| elle 'mon oncle' son propre neveu, je n’y comprends rien.|Prompter
+|| En plus ton nom n’est pas du tout Jack, c’est Constant. |Prompter
+|| Ce n’est pas Constant, c’est Jack. |Prompter
+|| Tu m’as toujours dit que c’était Constant. Je t’ai présenté à tout le monde sous le nom de Constant.|Prompter
+|| Tu réponds au nom de Constant. Tu as l’air de t’appeler Constant. |Prompter
+|| Tu es l’homme qui a l’air le plus constant que j’ai jamais vu. |Prompter
+|| C’est totalement absurde de dire que ton nom n’est pas Constant. C’est marqué sur tes cartes. |Prompter
+|| En voilà une. 'Monsieur Constant Worthing, B. 4, The Albany.'|Prompter
+|| Je la garde comme preuve que ton nom est bien Constant |Prompter
+|| au cas tu essaierais de nier la chose devant Gwendolen ou même n’importe qui.|Prompter
+|| Eh bien mon nom est Constant à la ville et Jack à la campagne et, l’étui, on me l’a donné à la campagne. |Prompter
+|| Bien, bien. Mais ça n’explique pas que ta petite tante Cecily|Prompter
+|| qui vit à Tunbridge Wells, t’appelle mon cher oncle. Allez mon vieux, tu ferais mieux de tout déballer. |Prompter
+|| Algy, mon cher, tu parles exactement comme un dentiste.|Prompter
+|| C’est extrêmement vulgaire de parler comme un dentiste quand on n’est pas un dentiste.|Prompter
+|| Cela crée un malaise.|Prompter
+|| Bon, bon! Allez, maintenant dis-moi tout. |Prompter
+|| Je dois dire que je t’ai toujours soupçonné d’être un Bunburiste clandestin|Prompter
+|| et j’en suis tout à fait sûr maintenant. |Prompter
+|| Bunburiste? C’est quoi sur terre un Bunburiste? |Prompter
+|| Je te révélerai le sens caché de ce mot dès que tu m’auras dit |Prompter
+|| pourquoi tu es Constant à la ville et Jack à la campagne. |Prompter
+|| Bon. Donne-moi d’abord mon étui. |Prompter
+|| Le voilà. Maintenant, j’écoute tes explications et s’il te plait fais-les bien improbables.|Prompter
+|| Mon cher, il n’y a rien d’improbable dans mes explications. En fait la situation est tout à fait banale.|Prompter
+|| Le vieux M. Thomas Cardew qui m’a adopté quand j’étais petit m’a désigné dans son testament|Prompter
+|| comme tuteur de sa petite-fille, Mlle Cecily Cardew. |Prompter
+|| Cecily, qui me considère comme son oncle par respect ce que tu es bien incapable de comprendre|Prompter
+|| vit chez moi à la campagne, sous la responsabilité de son admirable gouvernante, Miss Prism.|Prompter
+|| Et où ça, à la campagne?|Prompter
+|| Tu n’as rien à y faire, mon vieux et tu n’es pas près d’être invité…|Prompter
+|| Tout ce que je peux te dire c’est que ce n’est pas dans le Shropshire. |Prompter
+|| Je m’en doutais, mon cher, J’ai Bunburisé dans le Shropshire en deux occasions différentes.|Prompter
+|| Mais tu n’as pas tout dit. Pourquoi es-tu Constant à la ville et Jack à la campagne? |Prompter
+|| Ecoute, je ne suis pas sûr que tu sois capable de comprendre mes vraies raisons. |Prompter
+|| Tu n’es pas assez sérieux. Quand on se trouve dans la situation de tuteur|Prompter
+|| on doit montrer une attitude hautement morale sur tous les sujets.|Prompter
+|| C’est un devoir. Et comme une attitude hautement morale n’est pas compatible avec la santé et le plaisir|Prompter
+|| quand je veux aller en ville je prétends toujours que j’ai un jeune frère du nom de Constant|Prompter
+|| qui vit à Albany, et qui mène la vie la plus dissipée. Voilà, mon cher, la vérité pure et simple. |Prompter
+|| La vérité est rarement pure et jamais simple.|Prompter
+|| Sinon la vie moderne serait profondément ennuyeuse et |Prompter
+|| la littérature moderne tout à fait impossible. |Prompter
+|| Ce ne serait pas une mauvaise chose. |Prompter
+|| La critique littéraire n’est pas ton point fort, mon vieux.|Prompter
+|| Inutile d’essayer, laisse donc ça aux types qui ne sont pas allés à l’Université.|Prompter
+|| Ils font ça très bien dans les journaux. En fait ce que tu es vraiment, c’est un Bunburiste.|Prompter
+|| J’avais tout à fait raison en disant que tu es un Bunburiste.|Prompter
+|| Tu es même un des Bunburistes les plus parfaits que je connaisse. |Prompter
+|| Mais bon sang qu’est-ce que ça veut dire? |Prompter
+|| Tu t’es inventé un jeune frère bien utile appelé Constant|Prompter
+|| pour pouvoir aller en ville aussi souvent que tu veux.|Prompter
+|| Moi j’ai inventé Bunbury, un grand malade qui me permet |Prompter
+|| de filer à la campagne aussi souvent que je veux. Bunbury est très commode.|Prompter
+|| Par exemple, sans sa terrible mauvaise santé, je ne pourrais pas dîner ce soir|Prompter
+|| au Willis’s avec toi car je suis retenu par Tante Augusta depuis déjà huit jours. |Prompter
+|| Je ne t’ai pas prié de dîner avec moi ce soir, où que ce soit |Prompter
+|| Je sais. Tu es absurdement négligent pour tes invitations.|Prompter
+|| C’est bête, rien n’est aussi ennuyeux que de ne pas recevoir d’invitations. |Prompter
+|| Tu ferais mieux de dîner avec ta Tante Augusta. |Prompter
+|| Je n’en ai pas la moindre intention.|Prompter
+|| D’abord, j’ai dîné avec elle lundi, et dîner une fois la semaine avec la famille, c’est bien suffisant.|Prompter
+|| Ensuite quand je dîne chez elle je suis toujours placé près de deux femmes, ou aucune. |Prompter
+|| Enfin je sais parfaitement bien avec qui elle me mettrait ce soir. |Prompter
+|| Elle me placerait près de Marie Farquhar|Prompter
+|| qui flirte toujours par-dessus la table avec son propre mari.|Prompter
+|| La quantité de femmes à Londres qui flirtent avec leur mari est parfaitement scandaleuse.|Prompter
+|| C’est vraiment moche, c’est tout simplement laver son linge sale en public.|Prompter
+|| Bon, maintenant que je sais que tu es un Bunburiste il faut que je te parle de la technique. |Prompter
+|| Je ne suis pas du tout un Bunburiste. Si Gwendolen m’accepte, je vais tuer mon frère. |Prompter
+|| D’ailleurs de toute façon je crois que je vais le tuer. Cecily s’intéresse un peu trop à lui. |Prompter
+|| C’est plutôt ennuyeux. Allons, c’est dit, je 6 vais me débarrasser de Constant. |Prompter
+|| Et je te recommande vivement d’en faire autant avec monsieur… |Prompter
+|| avec ton grand malade au nom absurde. |Prompter
+|| Rien ne me convaincra de me séparer de Bunbury, et si tu te maries, |Prompter
+|| ce qui me parait extrêmement problématique, tu seras bien content de connaître Bunbury.|Prompter
+|| Un homme marié qui ne connait pas Bunbury se prépare bien des ennuis. |Prompter
+|| C’est encore une de tes absurdités. Si j’épouse une fille charmante comme Gwendolen, |Prompter
+|| et c’est la seule fille que je voudrais épouser, |Prompter
+|| je n’aurai certainement pas besoin de connaître Bunbury. |Prompter
+|| Alors ta femme le fera. Tu ne sembles pas comprendre que dans le mariage,|Prompter
+|| trois c’est bien, deux c’est nul. |Prompter
+|| Ça, mon jeune ami, c’est la théorie que le Drame Français corrompu a répandu|Prompter
+|| pendant les cinquante dernières années. |Prompter
+|| Oui. Et c’est ce que la respectable famille anglaise a mis en pratique. |Prompter
+|| Pour l’amour du ciel, ne joue pas les cyniques. C’est trop facile. |Prompter
+|| Mon petit vieux, ce n’est pas facile d’être quoi que ce soit de nos jours. |Prompter
+|| Il y a tellement de compétition. Ah, ça doit être la tante Augusta. |Prompter
+|| Il n’y a que la famille, ou les créanciers, pour sonner dans ce style wagnérien. |Prompter
+|| Ecoute, si je l’occupe pendant dix minutes, tu auras la possibilité de faire ta demande à Gwendolen.|Prompter
+|| Et alors je pourrai diner avec toi ce soir chez Willis’s? |Prompter
+|| Bon, si tu veux. |Prompter
+|| Parfait. Mais un repas sérieux, n’est-ce pas? |Prompter
+|| Je déteste les gens qui ne prennent pas les repas au sérieux.|Prompter
+|| C’est la preuve d’un caractère très superficiel. |Prompter
+|| Bonjour, mon cher Algernon, j’espère que tu te comportes bien. |Prompter
+|| Je me sens très bien, tante Augusta. Lady Bracknell Ce n’est pas du tout la même chose. |Prompter
+|| En fait les deux choses vont rarement ensemble.|Prompter
+|| Comme tu es élégante, ma chère! Gwendolen Je suis toujours élégante. N’est-ce pas, M. Worthing? |Prompter
+|| Vous êtes absolument parfaite, Miss Fairfax. |Prompter
+|| Oh! Mais j’espère bien que je ne le suis pas. Ça ne laisserait aucune place au progrès |Prompter
+|| et j’ai l’intention de progresser.|Prompter
+|| Désolée d’arriver un peu en retard, Algernon, mais il fallait que je passe chez Lady Harbury,|Prompter
+|| je ne l’avais pas vue depuis la mort de son pauvre mari. |Prompter
+|| Jamais je n’ai vu une femme aussi changée, elle parait avoir ans de moins.|Prompter
+|| Et maintenant je vais prendre une tasse de thé et|Prompter
+|| un de ces délicieux sandwichs aux concombres que tu m’as promis.|Prompter
+|| Bien sûr, Tante Augusta.|Prompter
+|| Viens donc t’assoir près de moi, Gwendolen. |Prompter
+|| Merci, maman, je suis très bien où je suis. |Prompter
+|| Dieux du ciel, Lane! Pourquoi n’y a-t-il pas de sandwichs au concombre? |Prompter
+|| Je les avais demandés tout particulièrement. |Prompter
+|| Il n’y avait pas de concombre au marché ce matin, monsieur. Et j’y suis allé deux fois. |Prompter
+|| Pas de concombres! |Prompter
+|| Non, monsieur. Même en payant comptant. |Prompter
+|| Ça ira, Lane, merci. |Prompter
+|| Merci, monsieur.|Prompter
+|| Je suis complètement désespéré, Tante Augusta. Pas de concombres, même en payant comptant.|Prompter
+|| Ça n’a pas vraiment d’importance, Algernon. J’ai pris quelques crumpets chez Lady Harbury,|Prompter
+|| une femme qui ne vit plus que pour le plaisir, me semble-t-il. |Prompter
+|| J’ai entendu dire que ses cheveux ont viré au blond. Le chagrin.|Prompter
+|| Eh oui, ils ont changé de couleur. Pourquoi? Je ne saurais le dire.|Prompter
+|| Merci. J’ai une vraie surprise pour toi, Algernon.|Prompter
+|| Au dîner ce soir, je vais te mettre à côté de Mary Farquhar.|Prompter
+|| C’est une femme si délicieuse et si attentive pour son mari. C’est charmant de les observer tous deux. |Prompter
+|| Je crains fort, Tante Augusta, d’être obligé finalement de renoncer au plaisir de diner avec vous ce soir.|Prompter
+|| J’espère que non, Algernon. Ça démolirait complètement ma table. |Prompter
+|| Et ton oncle serait obligé de diner dans sa chambre. Heureusement, il a l’habitude. |Prompter
+|| Ça m’ennuie beaucoup, je suis très désappointé mais je viens de reçevoir un télégramme|Prompter
+|| qui m’annonce que mon pauvre ami Bunbury est encore très malade.|Prompter
+|| On semble penser que je dois y aller.|Prompter
+|| C’est vraiment curieux. Ce M. Bunbury semble affligé d’une santé particulièrement mauvaise. |Prompter
+|| Eh oui. Le pauvre Bunbury est un grand malade.|Prompter
+|| Eh bien, je dois le dire, Algernon, je pense qu’il est grand temps que M. Bunbury se décide|Prompter
+|| à savoir s’il veut vivre ou mourir. |Prompter
+|| Cette valse-hésitation est absurde.|Prompter
+|| D’ailleurs je n’approuve pas du tout la sympathie moderne pour les malades.|Prompter
+|| Je considère que c’est morbide. La santé est le premier devoir de la vie.|Prompter
+|| C’est ce que je dis toujours à votre pauvre oncle mais il ne m’écoute pas|Prompter
+|| si bien qu’il n’en résulte aucune amélioration pour sa santé... |Prompter
+|| Je te serais très obligée de prier, de ma part, M. Bunbury d’être assez gentil |Prompter
+|| pour ne pas avoir de rechute samedi car je compte sur toi pour organiser ma soirée musicale.|Prompter
+|| C’est ma dernière soirée et il faut quelque chose qui facilite la conversation: |Prompter
+|| c’est la fin de la saison et chacun a dit tout ce qui pouvait être dit. |Prompter
+|| Ce qui bien souvent est probablement peu de choses. |Prompter

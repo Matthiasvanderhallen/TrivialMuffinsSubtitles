@@ -1,28 +1,128 @@
+* {
+    box-sizing: border-box;
+}
+
 html, body {
 	height:100%;
-}
-#Nederlands {
-	width: 50%;
-	height: 100%;
-	float: left;
-  	text-align: center;
-	/*vertical-align: middle;*/
-  	/*transform: translateY(100%);*/
+	width:100%;
+	background-color: black;
+	overflow-y: hidden;
+	overflow-x: hidden;
 }
 
-#Frans {
-	width: 50%;
-	height: 100%;
-	float: right;
-	text-align: center;
-	/*vertical-align: middle;*/
-	/*transform: translateY(100%);*/
+#translations{
+	padding-right: 10px;
+	margin-right: 5px;
+	border-right: 2px solid white;
 }
 
-.subtitle {
-	position: relative;
-  	top: 30%;
-  	/*-webkit-transform: translateY(-40%);
-  	transform: translateY(-40%);*/
-  	vertical-align: middle;
-}
+/** CONTAINERS **/
+
+	.controller {
+		height:100%;
+		display:flex; 
+		flex-direction: row;
+	}
+
+	.container {
+		height:100%;
+	}
+
+	.multiple {
+		display:flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.single {
+		display:flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.multiple-elem {
+		width: 100%;
+		flex: 1;
+	}
+
+	.multiple-maxi-elem {
+		width: 100%;
+		flex: 2;
+	}
+
+	.multiple-mini-element {
+		margin:0px;
+		padding:0px;
+		width:100%;
+	}
+
+/** SEPARATOR **/
+
+	hr.symbol {
+		padding: 0;
+		border: none;
+		border-top: medium double white;
+		color: white;
+		text-align: center;
+		/*min-height: 1.5em;*/
+	}
+
+	hr.symbol:after {
+		content: "§";
+		display: inline-flex;
+		position: relative;
+		top: -0.7em;
+		font-size: 1.5em;
+		padding: 0 0.25em;
+		background: black;
+	}
+
+/** SUBTITLES **/
+
+	.subtitle {
+		font-family: sans-serif;
+		margin-left: 5%;
+		margin-top:0px;
+		margin-right: 5%;
+		margin-bottom:0px;
+		text-align: center;
+	  	vertical-align: middle;
+	}
+
+	.previous{
+		color: red;
+		/*font-size: 45px;*/
+	}
+
+	.prompter.previous{
+		font-size: 45px;
+	}
+
+	.current {
+		color: white;
+		/*font-size: 72px;*/
+	}
+
+	.prompter.current, .slave.current{
+		font-size: 72px;
+	}
+
+	.next{
+		color: yellow;
+		/*font-size: 45px;*/
+	}
+
+	.prompter.next{
+		font-size: 45px;
+	}
+
+/** PANIC **/
+	.panic {
+		display:none;
+		background:red;
+		position:absolute;
+		top: 0px;
+		right: 0px;
+	}
