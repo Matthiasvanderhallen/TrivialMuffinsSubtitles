@@ -1,7 +1,13 @@
+/**
+ * width presents real width instead of 'skinny' width.
+ */
 * {
     box-sizing: border-box;
 }
 
+/**
+ * Make sure the webpage fills the entire width and height, without any scrolling. Furthermore, make the background black.
+ */
 html, body {
 	height:100%;
 	width:100%;
@@ -10,6 +16,9 @@ html, body {
 	overflow-x: hidden;
 }
 
+/**
+ * When there is a separate div containing the translations, give it some margin and padding.
+ */
 #translations{
 	padding-right: 10px;
 	margin-right: 5px;
@@ -17,17 +26,26 @@ html, body {
 }
 
 /** CONTAINERS **/
-
+	
+	/**
+	 * Controller is a horizontal flex container.
+	 */
 	.controller {
 		height:100%;
 		display:flex; 
 		flex-direction: row;
 	}
 
+	/**
+	 * Containers are elements that fill their entire parent, and encapsulate flex displaying.
+	 */
 	.container {
 		height:100%;
 	}
 
+	/**
+	 * When flex displaying multiple elements in column, use space between to justify the content.
+	 */
 	.multiple {
 		display:flex;
 		flex-direction: column;
@@ -35,6 +53,9 @@ html, body {
 		justify-content: space-between;
 	}
 
+	/**
+	 * When flex displaying a single element in column, center it.
+	 */
 	.single {
 		display:flex;
 		flex-direction: column;
@@ -42,16 +63,28 @@ html, body {
 		justify-content: center;
 	}
 
+	/**
+	 * Flex elements should fill the width of the parent.
+	 * This element fills the left over height space with multiplier 1.
+	 */
 	.multiple-elem {
 		width: 100%;
 		flex: 1;
 	}
 
+	/**
+	 * Flex elements should fill the width of the parent.
+	 * This element fills the left over height space with multiplier 2.
+	 */
 	.multiple-maxi-elem {
 		width: 100%;
 		flex: 2;
 	}
 
+	/**
+	 * Flex elements should fill the width of the parent.
+	 * This element fills only the space needed for the element.
+	 */
 	.multiple-mini-element {
 		margin:0px;
 		padding:0px;
@@ -60,6 +93,9 @@ html, body {
 
 /** SEPARATOR **/
 
+	/**
+	 * Provides styling for the separator
+	 */
 	hr.symbol {
 		padding: 0;
 		border: none;
@@ -80,7 +116,12 @@ html, body {
 	}
 
 /** SUBTITLES **/
-
+	/**
+	 * Subtitles are text containing elements that:
+	 *  - has a sans-serif font 
+	 *  - provides some margins left and right, but none on top and bottom.
+	 *  - text is centered horizontally and vertically
+	 */
 	.subtitle {
 		font-family: sans-serif;
 		margin-left: 5%;
@@ -91,30 +132,39 @@ html, body {
 	  	vertical-align: middle;
 	}
 
+	/**
+	 * Subtitles that are past are colored red.
+	 */
 	.previous{
 		color: red;
-		/*font-size: 45px;*/
 	}
 
-	.prompter.previous{
-		font-size: 45px;
-	}
-
+	/**
+	 * Subtitles that are current are colored white.
+	 */
 	.current {
 		color: white;
-		/*font-size: 72px;*/
+	}
+
+	/**
+	 * Subtitles that are previews are colored yellow.
+	 */
+	.next{
+		color: yellow;
+	}
+
+	/**
+	 * Depending on the audience of the view, the subtitles size is relevant.
+	 */
+	.prompter.previous, .slave.previous{
+		font-size: 45px;
 	}
 
 	.prompter.current, .slave.current{
 		font-size: 72px;
 	}
 
-	.next{
-		color: yellow;
-		/*font-size: 45px;*/
-	}
-
-	.prompter.next{
+	.prompter.next, .slave.next{
 		font-size: 45px;
 	}
 
