@@ -53,10 +53,10 @@ function onMessage(message){
     showSubtitle(json.en);
   }
   
-  if(json.type == 'size'){
+  /*if(json.type == 'size'){
     subtitleInfo.size = json.size;
     setSize(json.size);
-  }
+  }*/
 
   if(json.type == 'panic'){
     subtitleInfo.panic = json.panic;
@@ -78,9 +78,9 @@ function identify(){
   }, 500);
 };
 
-function setSize(size){
+/*function setSize(size){
   promptTitle.style("font-size", size + "px");
-}
+}*/
 
 function showSubtitle(en){
   prompt = promptTitle.data(en);
