@@ -32,7 +32,7 @@ var globalConnection;
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
 
-var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false};
+var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false, preview: 1, postview: 1};
 
 d3.select("html").on('click', forward);
 d3.select("body").on('keydown', keyListener);
@@ -48,13 +48,10 @@ function blackout(){
 	nederlands.text(black);
 	frans.text(black);
 
-	globalConnection.send(JSON.stringify({type: "subtitle", nl: "", fr: "", en: getEnglish(subtitle.current)}));
+	globalConnection.send(JSON.stringify({type: "subtitle", nl: "", fr: "", en: getEnglish(subtitle.current, subtitle.preview, subtitle.postview)}));
 };
 
-function getEnglish(a){
-	var preview = 1;
-	var postview = 1;
-
+function getEnglish(a, preview, postview){
 	var enWindow = [];
 	if(a-postview < 0){
 		enWindow = subtitle.en.slice(a-postview);
@@ -89,7 +86,7 @@ function jumpTo(a) {
 	nederlands.text(returnText);
 	frans.text(returnText);
 
-	globalConnection.send(JSON.stringify({type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a], en: getEnglish(a)}));			
+	globalConnection.send(JSON.stringify({type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a], en: getEnglish(a, subtitle.preview, subtitle.postview)}));
 };
 
 function setSize(){
@@ -136,7 +133,13 @@ function keyListener(){
 	} else if(d3.event.keyCode == 80){
 		subtitle.panic = !subtitle.panic;
 		globalConnection.send(JSON.stringify({type: "panic", panic: subtitle.panic}));
-	}
+	} 
+	/*else if(d3.event.keycode == 83){
+		var preview = prompt("Preview?", subtitle.preview);
+		var postview = prompt("Postview?", subtitle.postview);
+
+
+	}*/
 };
 
 function isNumeric(n) {
