@@ -35,6 +35,11 @@ html, body {
 		flex: 1;
 	}
 
+	.multiple-maxi-elem {
+		width: 100%;
+		flex: 2;
+	}
+
 	.multiple-mini-element {
 		margin:0px;
 		padding:0px;
