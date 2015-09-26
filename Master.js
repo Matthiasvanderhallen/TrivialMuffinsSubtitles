@@ -30,6 +30,7 @@ var globalConnection;
 
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
+var engelsTitel = d3.select("#original").selectAll("h2");
 
 var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false, preview: 1, postview: 1};
 
@@ -77,6 +78,8 @@ function backward(){
 function jumpTo(a) {
 	nederlands = nederlandsTitel.data([subtitle.nl[a]]);
 	frans = fransTitel.data([subtitle.fr[a]]);
+	engels = engelsTitel.data(getEnglish(a, 3, 3));
+
 
 	var returnText = function (d){
 		return d;
@@ -84,6 +87,7 @@ function jumpTo(a) {
 
 	nederlands.text(returnText);
 	frans.text(returnText);
+	engels.text(returnText);
 
 	globalConnection.send(JSON.stringify({type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a], en: getEnglish(a, subtitle.preview, subtitle.postview)}));
 };

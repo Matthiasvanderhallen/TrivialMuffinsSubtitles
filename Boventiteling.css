@@ -10,7 +10,19 @@ html, body {
 	overflow-x: hidden;
 }
 
+#translations{
+	padding-right: 10px;
+	margin-right: 5px;
+	border-right: 2px solid white;
+}
+
 /** CONTAINERS **/
+
+	.controller {
+		height:100%;
+		display:flex; 
+		flex-direction: row;
+	}
 
 	.container {
 		height:100%;
@@ -81,15 +93,15 @@ html, body {
 
 	.previous{
 		color: red;
-		font-size: 55px;
+		/*font-size: 45px;*/
 	}
 
 	.current {
 		color: white;
-		font-size: 72px;
+		/*font-size: 72px;*/
 	}
 
 	.next{
 		color: yellow;
-		font-size: 55px;
+		/*font-size: 45px;*/
 	}
