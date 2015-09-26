@@ -24,7 +24,7 @@ wsServer.on('request', function(request) {
     // all messages from users here.
     connection.on('message', function(message) {
         if (message.type === 'utf8') {
-            //console.log("Sending: " + message.utf8Data);
+            console.log("Sending: " + message.utf8Data);
             for(var i=0; i < clients.length; i++){
                 //console.log(i);
                 if(clients[i].id != id){
