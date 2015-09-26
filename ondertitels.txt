@@ -1,14 +1,14 @@
 nr|nederlands|frans|engels
-|Hoorde je wat ik speelde, Lane?||prompter
-|Ik achtte het ongepast om te luisteren, meneer.||prompter
-|Dat is dan jammer, voor jou. Ik speel dan wel niet correct -correct spelen kan iedereen–||prompter
-|maar ik speel met een wonderbaarlijke expressie.||prompter
-|Zeker, meneer.||prompter
-|Lane, staan de komkommersandwiches voor Lady Bracknell klaar?||prompter
-|Zeker, meneer.||prompter
-|Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,||prompter
-|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.||prompter
-|Zeker, meneer; acht flessen en nog een halve.||prompter
+|Hoorde je wat ik speelde, Lane?||prompter1
+|Ik achtte het ongepast om te luisteren, meneer.||prompter2
+|Dat is dan jammer, voor jou. Ik speel dan wel niet correct -correct spelen kan iedereen–||prompter3
+|maar ik speel met een wonderbaarlijke expressie.||prompter4
+|Zeker, meneer.||prompter5
+|Lane, staan de komkommersandwiches voor Lady Bracknell klaar?||prompter6
+|Zeker, meneer.||prompter7
+|Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,||toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
+|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
+|Zeker, meneer; acht flessen en nog een halve.||toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
 |Hoe komt het dat in een vrijgezellen huishouding het personeel altijd de champagne drinkt?||prompter
 |Ik vraag het alleen maar uit belangstelling.||prompter
 |Ik schrijf dat toe aan de superieure kwaliteit van de vloeistof, meneer.||prompter
