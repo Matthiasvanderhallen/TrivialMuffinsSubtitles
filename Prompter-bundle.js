@@ -17,6 +17,7 @@ window.WebSocket.prototype.once = function (event, callback) {
   return this;
 };
 
+
 window.WebSocket.prototype.off = function (event, callback) {
   this['on'+event] = callback;
   return this;
@@ -26,135 +27,85 @@ window.WebSocket.prototype.removeListener = function (event, callback) {
 	this['on'+event] = null;
 }
 
-var globalConnection;
-//var connection = new WebSocket('ws://localhost:1337');
+console.log('startup');
 
-var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
-var fransTitel = d3.select("#Frans").selectAll("h1");
+var subtitleInfo = {en: "", size: 72, panic: false};
 
-var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false};
+var promptTitle = d3.select("#Prompter").selectAll("h1");
 
-d3.select("html").on('click', forward);
-d3.select("body").on('keydown', keyListener);
+function onMessage(message){
+  var json;
 
-function blackout(){
-	nederlands = nederlandsTitel.data([""]);
-	frans = fransTitel.data([""]);
+  console.log('received: '+ message.data);
+  try{
+    json = JSON.parse(message.data);
+  }catch (e) {
+    console.log(message.data);
+      return;
+  }
 
-	var black = function (d){
-		return "";
-	}
+  if(json.type == 'id'){
+    id = json.id;
+  }
 
-	nederlands.text(black);
-	frans.text(black);
+  if(json.type == 'subtitle'){
+    subtitleInfo.en = json.en;
+    showSubtitle(json.en);
+  }
+  
+  if(json.type == 'size'){
+    subtitleInfo.size = json.size;
+    setSize(json.size);
+  }
 
-	globalConnection.send(JSON.stringify({type: "subtitle", nl: "", fr: "", en: subtitle.en[subtitle.current]}));
+  if(json.type == 'panic'){
+    subtitleInfo.panic = json.panic;
+    showSubtitle(subtitleInfo.en);
+  }
+
+  if(json.type == 'identify'){
+    identify();
+  }
 };
 
-function forward(){
-	if(subtitle.current < subtitle.length){
-		jumpTo(++subtitle.current);
-	}
+function identify(){
+  var temp = subtitleInfo.panic;
+  subtitleInfo.panic = true;
+  showSubtitle(id);
+  setTimeout(function(){
+    subtitleInfo.panic = temp;
+    showSubtitle(subtitleInfo.en);
+  }, 500);
 };
 
-function backward(){
-	if(subtitle.current > 0){
-		jumpTo(--subtitle.current);
-	}
-};
-
-function jumpTo(a) {
-	nederlands = nederlandsTitel.data([subtitle.nl[a]]);
-	frans = fransTitel.data([subtitle.fr[a]]);
-
-	var returnText = function (d){
-		return d;
-	}
-
-	nederlands.text(returnText);
-	frans.text(returnText);
-
-	globalConnection.send(JSON.stringify({type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a], en: subtitle.en[a]}));			
-};
-
-function setSize(){
-	nederlandsTitel.style("font-size", subtitle.size + "px");
-	fransTitel.style("font-size", subtitle.size + "px");
-
-	globalConnection.send(JSON.stringify({type: "size", size: subtitle.size}));
+function setSize(size){
+  promptTitle.style("font-size", size + "px");
 }
 
-function keyListener(){
-	if(d3.event.keyCode == 39){
-		forward();
-	} else if(d3.event.keyCode == 32){
-		forward();
-	} else if(d3.event.keyCode == 37){
-		backward();
-	} else if(d3.event.keyCode == 74){
-		var answer = prompt("To what slide do you want to jump?", subtitle.current);
+function showSubtitle(en){
+  console.log('showing subtitle ' + en);
+  prompt = promptTitle.data([en]);
 
-		if(isNumeric(answer) && answer < subtitle.length){
-			subtitle.current = answer;
-			jumpTo(subtitle.current);
-		}
-	} else if(d3.event.keyCode == 83){
-		var answer = prompt("Which size?", subtitle.size);
-		
-		if(isNumeric(answer)){
-			subtitle.size = answer;
-			setSize();
-		}
-	} else if(d3.event.keyCode == 66){
-		blackout();
-	} else if(d3.event.keyCode == 73){
-		globalConnection.send(JSON.stringify({type: "identify"}));
-	} else if(d3.event.keyCode == 77){
-		var mode = prompt("What mode (dual, fr, nl): ", "dual");
-		var peer = prompt("What peer: ", 0);
+  var returnText = function (d){
+    console.log('returnText:' + d);
+    if(subtitleInfo.panic){
+      console.log('returnText: panic=' + subtitleInfo.panic);
+      console.log('returnText: d=' + d);
+      return d
+    }else{
+      console.log('returnText: panic=false');
+      console.log('returnText: d=');
+      return "";
+    }
+  }
 
-		if(isNumeric(peer)){
-			if(mode == "dual" || mode == "fr" || mode == "nl"){
-				globalConnection.send(JSON.stringify({type: "mode", mode: mode, peer: peer}));
-			}
-		}
-	} else if(d3.event.keyCode == 80){
-		subtitle.panic = !subtitle.panic;
-		globalConnection.send(JSON.stringify({type: "panic", panic: subtitle.panic}));
-	}
-};
-
-function isNumeric(n) {
-		return !isNaN(parseFloat(n)) && isFinite(n);
-};
-
-var pipeParser = d3.dsv("|", "text/plain");
-pipeParser("ondertitels.txt", parseData);
-
-function sanatize(subtitle){
-	if(subtitle==undefined){
-		subtitle = "";
-	}
-
-	return subtitle.trim().split('//')[0];
+  prompt.text(returnText);
 }
-
-function parseData(data){
-	for(var i = 0; i < data.length; i++){
-		subtitle.nl.push(sanatize(data[i].nederlands));
-		subtitle.fr.push(sanatize(data[i].frans));
-		subtitle.en.push(sanatize(data[i].engels));
-	}
-
-	subtitle.length = data.length;
-
-	jumpTo(0);
-};
 
 var reconnect = inject(function(){
-	var connection = new WebSocket('ws://localhost:1337');
-	globalConnection = connection;
-	return connection;
+  var connection = new WebSocket('ws://localhost:1337');
+  connection.onmessage = onMessage;
+  return connection;
 });
 
 var re = reconnect({}, function (stream) {

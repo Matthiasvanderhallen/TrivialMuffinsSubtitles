@@ -31,7 +31,7 @@ var globalConnection;
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
 
-var subtitle = {current: 0, nl: [], fr: [], length: 0, size: 72};
+var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false};
 
 d3.select("html").on('click', forward);
 d3.select("body").on('keydown', keyListener);
@@ -47,7 +47,7 @@ function blackout(){
 	nederlands.text(black);
 	frans.text(black);
 
-	globalConnection.send(JSON.stringify({type: "subtitle", nl: "", fr: ""}));
+	globalConnection.send(JSON.stringify({type: "subtitle", nl: "", fr: "", en: subtitle.en[subtitle.current]}));
 };
 
 function forward(){
@@ -73,7 +73,7 @@ function jumpTo(a) {
 	nederlands.text(returnText);
 	frans.text(returnText);
 
-	globalConnection.send(JSON.stringify({type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a]}));			
+	globalConnection.send(JSON.stringify({type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a], en: subtitle.en[a]}));			
 };
 
 function setSize(){
@@ -117,6 +117,9 @@ function keyListener(){
 				globalConnection.send(JSON.stringify({type: "mode", mode: mode, peer: peer}));
 			}
 		}
+	} else if(d3.event.keyCode == 80){
+		subtitle.panic = !subtitle.panic;
+		globalConnection.send(JSON.stringify({type: "panic", panic: subtitle.panic}));
 	}
 };
 
@@ -139,6 +142,7 @@ function parseData(data){
 	for(var i = 0; i < data.length; i++){
 		subtitle.nl.push(sanatize(data[i].nederlands));
 		subtitle.fr.push(sanatize(data[i].frans));
+		subtitle.en.push(sanatize(data[i].engels));
 	}
 
 	subtitle.length = data.length;
