@@ -137,6 +137,11 @@ function keyListener(){
 	} else if(d3.event.keyCode == 80){
 		subtitle.panic = !subtitle.panic;
 		globalConnection.send(JSON.stringify({type: "panic", panic: subtitle.panic}));
+		if(subtitle.panic){
+			d3.selectAll(".panic").style('display', 'block');
+		}else{
+			d3.selectAll(".panic").style('display', 'none');
+		}
 	} 
 	/*else if(d3.event.keycode == 83){
 		var preview = prompt("Preview?", subtitle.preview);
