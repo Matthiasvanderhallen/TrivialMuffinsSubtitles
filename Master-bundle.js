@@ -94,8 +94,8 @@ function jumpTo(a) {
 };
 
 function setSize(){
-	nederlandsTitel.style("font-size", subtitle.size + "px");
-	fransTitel.style("font-size", subtitle.size + "px");
+	//nederlandsTitel.style("font-size", subtitle.size + "px");
+	//fransTitel.style("font-size", subtitle.size + "px");
 
 	globalConnection.send(JSON.stringify({type: "size", size: subtitle.size}));
 }
