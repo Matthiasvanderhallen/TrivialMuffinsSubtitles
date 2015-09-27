@@ -1,8 +1,11 @@
-|Hoorde je wat ik speelde, Lane?
+﻿|Hoorde je wat ik speelde, Lane?
 |Ik achtte het ongepast om te luisteren, meneer.
 |Dat is dan jammer, voor jou. Ik speel dan wel niet correct -correct spelen kan iedereen–
 |maar ik speel met een wonderbaarlijke expressie.
+| T.b.d //
+| T.b.d //
 |Zeker, meneer.
+| T.b.d //
 |Lane, staan de komkommersandwiches voor Lady Bracknell klaar?
 |Zeker, meneer.
 |Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,
@@ -24,7 +27,99 @@
 |Hij schijnt er nogal lakse ideeen over het huwelijk over na te houden, die Lane.
 |Goeie genade, als de lagere standen ons geen voorbeeld meer geven,
 |waar zijn ze dan nog goed voor?
+| T.b.d //
 |
 |Mr. Ernst Worthing.
 |Hoe is het, mijn beste Ernst? Waarom ben je in de stad?
-|O, voor mijn plezier! Waarom ga je anders ergens naartoe? Weer eens aan het eten, zie ik,Algy!
+|O, voor mijn plezier! Waarom ga je anders ergens naartoe? Weer eens aan het eten, zie ik, Algy!
+|Ik houd het in goede kringen voor gepast om tegen het einde van de middag enige lichte versnaperingen tot zich te nemen.
+|Waar ben je sedert donderdag geweest?
+|O! In het platteland!
+|Wat doe je daar in ’s hemelsnaam?
+|In de stad amuseer je jezelf. Buiten amuseer je anderen.
+|Dat is hoogst vervelend.
+|En wat zijn dat voor mensen die je amuseert?
+|O, buren, buren.
+|Zijn het aardige buren daar in Shropshire?
+|Volstrekt verschrikkelijk! Ik praat nooit met iemand.
+|Dan zul je ze kostelijk amuseren!
+|Even terzijde, Shropshire is je woonst, toch?
+|Eh? Shropshire? Ja, natuurlijk.
+|Hallo! Waarom die kopjes? Waarom komkommersandwiches?
+|Wat een roekeloze geldverspilling voor iemand die nog zo jong is! Wie krijg je op de thee?
+|Enkel tante Augusta en
+|Gwendolen.
+|Maar dat is geweldig! Volstrekt geweldig!
+|Ik denk niet dat tante Augusta jouw aanwezigheid hier ook zo op prijs zal stellen.
+|Mag ik vragen waarom niet?
+|Mijn beste kerel, de manier waarop jij met Gwendolen flirt is werkelijk schandalig.
+|Bijna net zo erg als de manier waarop Gwendolen flirt met...
+|... jou.
+|Ik ben verliefd op Gwendolen. Ik ben speciaal naar de stad gekomen om haar ten huwelijk te vragen.
+|Ik dacht dat je voor je plezier was gekomen? ... Dat noem ik zaken doen.
+|Wat ben jij akelig romantisch.
+|Mij lijkt dat er niets romantisch is aan een aanzoek.
+|Het is romantisch om verliefd te zijn.
+|Maar er steekt niets romantisch in een huwelijksaanzoek.
+|Het kan immers geaccepteerd worden. Dat gebeurt meestal, geloof ik.
+|En dan is alle opwinding voorbij.
+|Het ware kenmerk van romantiek is onzekerheid. 
+|Mocht ik ooit nog trouwen, zal ik het feit beslist proberen te vergeten.
+|Daar twijfel ik geen moment aan, Algy.
+|De echtscheiding is speciaal uitgevonden voor lieden 
+|met zo’n eigenaardig geheugen als het jouwe.
+|O, het heeft geen zin om daarover uit te weiden.
+|Echtscheidingen worden gesloten in de hemel
+|Raak die komkommersandwiches niet aan.
+|Die staan er speciaal voor tante Augusta.
+|Jij eet er anders constant al.
+|Dat is iets anders. Ze is m’n tante.
+|Hier, neem wat gewone sandwiches. Die zijn voor Gwendolen.
+|Gwendolen t.b.d//
+|En zeer goede sandwiches zijn het!
+|Kom, beste kerel, je hoeft niet te eten alsof je van plan bent alles op te eten.
+|Je gedraagt je alsof je al getrouwd bent. 
+|Je bent nog niet met haar getrouwd, en ik denk ook niet dat het ooit zal gebeuren.
+|Waarom zeg je dat?
+| Wel, in de eerste plaats trouwen meisjes nooit met de mannen met wie ze flirten. Dat vinden meisjes niet netjes.
+|O, dat is onzin.
+| Dat is een onverbiddelijke waarheid. Het verklaart de reuzachtige aantal vrijgezellen waarover je hier al door struikelt.//wtf?
+|En bovendien, ik geef mijn toestemming niet.
+|Jouw toestemming?
+|Beste kerel, Gwendolen is een volle nicht van me. En voor ik je toesta haar te trouwen,
+|zul je eerste die kwestie met Cecily moeten ophelderen.
+|Cecily? Wat bedoel je in vredesnaam? Wat bedoel me met Cecily, Algy?
+|Ik ken niemand die Cecily heet, voor zover ik me herriner.
+|Breng me de cigarettenkoker die Mr. Worthing
+|in de rookkamer liet liggen toen hij laatst hier dineerde.
+|Zeker, meneer.
+|Wil jij zeggen dat mijn koker al die tijd hier lag?
+|Dat had je me dan wel eens kunnen laten weten. Ik heb Scotland Yard de meest dolzinnige brieven geschreven.
+|Ik had al bijna een grote beloning uitgeloofd.
+|Doe dat dan alsnog, wil je? Ik ben nog slechter bij kas dan gewoonlijk.
+|Het heeft geen zin een beloning uit te loven nu het ding gevonden is.
+|Minnetjes van je, Ernst? Het spijt me dat ik het zeggen moet.
+|Hoewel, het maakt niet echt uit, want
+|als ik de inscriptie goed bekijk, zie ik dat het ding toch niet van jou is.
+|Natuurlijk is het van mij.
+|Je hebt er mij wel honderd keer mee gezien,
+|en je hebt niet het minste recht om te lezen wat er in staat.
+|Een heer leest niet in andermans kokers.
+|Het is belachelijk om er regels op na te houden
+|over wat je wel of niet zou moeten lezen.
+|Meer dan de helft van de moderne beschaving bestaat uit wat je niet zou moeten lezen.
+|Ik heb geen zin om over de moderne beschaving te discusseren.
+|Daar praat je niet over in gezelschap. Ik wil alleen mijn cigarettenkoker terug.
+|Het is je sigarettenkoker niet.
+|Deze koker is een cadeau van iemand die zich Cecily noemt, en je zei niemand te kennen die zo heet.
+|Goed, als je het dan weten moet, Cecily is toevallig mijn tante.
+|Je tante!
+|Ja. En een aardige dame. Woont in Tunbridge Wells. Geef nu hier, Algy.
+|Maar waarom noemt ze zich kleine Cecily als ze je tante is
+|en in Tunbridge Weells woont?
+|“Van je kleine Cecily, met veel liefs.”
+|Mijn beste kerel, TBD // wat maakt dat toch uit?
+|Sommige tantes zijn groot, andere tantes weer niet.
+|Dat mag elke tante toch zeker voor zichzelf uitmaken.
+|Jij denkt zeker dat elke tante er zo moet uitzien als jouw tante! Absurd!
+|En geef me nu mijn koker terug!
