@@ -118,18 +118,21 @@
 | Mais pourquoi s’appelle-t-elle, elle-même, 'petite Cecily' si elle est ta tante
 | et qu’elle vit à Tunbridge Wells?
 | "De la part de la petite Cecily avec son affection la plus vive"
+| Qu’est-ce que tu vas chercher là, mon cher?
+| Il y a des tantes qui sont grandes, d’autres qui ne le sont pas.
+| C’est une question qu’une tante a le droit de décider elle-même.
+| Tu sembles croire que toutes les tantes doivent être exactement comme la tienne! C’est absurde!
+| Allez, pour l’amour du ciel, rendsmoi mon étui à cigarettes.
+ 
 
 
- | Qu’est-ce que tu vas chercher là, mon cher?
- | Il y a des tantes qui sont grandes, d’autres qui ne le sont pas.
- | C’est une question qu’une tante a le droit de décider elle-même.
- | Tu sembles croire que toutes les tantes doivent être exactement comme la tienne! C’est absurde!
- | Allez, pour l’amour du ciel, rendsmoi mon étui à cigarettes.
- | Oui, oui. Mais pourquoi ta tante t’appelle-t15 elle son oncle? //Wat loopt er hier mis?
+
+
+ | Oui, oui. Mais pourquoi ta tante t’appelle-t-elle son oncle? //Wat loopt er hier mis?
  | 'De la petite Cecily à son cher Oncle Jack, avec son affection la plus vive'.
  | Bien sûr, je l’admets, une tante peut être une petite tante
- | mais pourquoi une tante, quelle que soit sa taille, appellerait
- | elle 'mon oncle' son propre neveu, je n’y comprends rien.
+ | mais pourquoi une tante, quelle que soit sa taille,
+ | appellerait elle 'mon oncle' son propre neveu, je n’y comprends rien.
  | En plus ton nom n’est pas du tout Jack, c’est Constant.
  | Ce n’est pas Constant, c’est Jack.
  | Tu m’as toujours dit que c’était Constant. Je t’ai présenté à tout le monde sous le nom de Constant.

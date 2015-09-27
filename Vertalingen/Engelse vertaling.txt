@@ -126,23 +126,29 @@
 
 
 
-(Follows ALGERNON round the room)
-ALGERNON
-Yes. But why does your aunt call you her uncle? 'From little
-Cecily, with her fondest love to her dear Uncle Jack.' There is no objection, I admit, to an aunt being a small aunt, but why an aunt, no matter what her size may be, should call her own nephew her uncle, I can't quite make out. Besides, your name isn't Jack at all; it is Ernest.
-JACK It isn't Ernest; it's Jack.
-ALGERNON
-You have always told me it was Ernest. I have introduced you
-to every one as Ernest. You answer to the name of Ernest. You look as if your name was Ernest. You are the most earnest- looking person I ever saw in my life. It is perfectly absurd your saying that your name isn't Ernest. It's on your cards. Here is one of them.
-(Taking it from case)
-'Mr. Ernest Worthing, B. 4, The Albany.' I'll keep this as a proof that your name is Ernest if ever you attempt to deny it to me, or to Gwendolen, or to any one else.
-(Puts the card in his pocket)
-JACK
-Well, my name is Ernest in town and Jack in the country, and
-the cigarette case was given to me in the country.
-ALGERNON
-Yes, but that does not account for the fact that your small
-Aunt Cecily, who lives at Tunbridge Wells, calls you her dear uncle. Come, old boy, you had much better have the thing out at once.
-JACK
-My dear Algy, you talk exactly as if you were a dentist. It
-is very vulgar to talk like a dentist when one isn't a dentist. It produces a false impression,
+
+
+|Yes. But why does your aunt call you her uncle?
+|'From little Cecily, with her fondest love to her dear Uncle Jack.'
+|There is no objection, I admit, to an aunt being a small aunt,
+|but why an aunt, no matter what her size may be,
+|should call her own nephew her uncle, I can't quite make out.
+|Besides, your name isn't Jack at all; it is Ernest.
+|It isn't Ernest; it's Jack.
+|You have always told me it was Ernest. I have introduced you to every one as Ernest.
+|You answer to the name of Ernest. You look as if your name was Ernest.
+|You are the most earnest-looking person I ever saw in my life.
+|It is perfectly absurd your saying that your name isn't Ernest. It's on your cards.
+|Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.'
+|I'll keep this as a proof that your name is Ernest
+|if ever you attempt to deny it to me, or to Gwendolen, or to any one else.
+|Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.
+|Yes, but that does not account for the fact that your small Aunt Cecily,
+|who lives at Tunbridge Wells, calls you her dear uncle.
+|Come, old boy, you had much better have the thing out at once.
+|My dear Algy, you talk exactly as if you were a dentist.
+|It is very vulgar to talk like a dentist when one isn't a dentist.
+|It produces a false impression.
+|Well, that is exactly what dentists always do. Now, go on! Tell me the whole thing.
+|I may mention that I have always suspected you of being a confirmed and secret Bunburyist; 
+|and I am quite sure of it now.
