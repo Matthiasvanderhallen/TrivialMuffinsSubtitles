@@ -1,257 +1,121 @@
 nr|nederlands|frans|engels
-|Hoorde je wat ik speelde, Lane?||prompter1
-|Ik achtte het ongepast om te luisteren, meneer.||prompter2
-|Dat is dan jammer, voor jou. Ik speel dan wel niet correct -correct spelen kan iedereen–||prompter3
-|maar ik speel met een wonderbaarlijke expressie.||prompter4
-|Zeker, meneer.||prompter5
-|Lane, staan de komkommersandwiches voor Lady Bracknell klaar?||prompter6
-|Zeker, meneer.||prompter7
-|Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,||toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
-|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
-|Zeker, meneer; acht flessen en nog een halve.||toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
-|Hoe komt het dat in een vrijgezellen huishouding het personeel altijd de champagne drinkt?||prompter
-|Ik vraag het alleen maar uit belangstelling.||prompter
-|Ik schrijf dat toe aan de superieure kwaliteit van de vloeistof, meneer.||prompter
-|Ik heb menigmaal geconstateerd dat bij gehuwden de champagne zelden van een beter merk was.||prompter
-|||Prompter
-|| Mr. Constant Worthing!|Prompter
-|| Comment ça va, mon cher Constant? Qu’est-ce qui t’amène en ville? |Prompter
-|| Oh, le plaisir, le plaisir. Quoi d’autre? Encore en train de manger, Algy?|Prompter
-|| Mais c’est l’habitude dans la bonne société de prendre un petit five o’clock.|Prompter
-|| Où étais-tu donc depuis mardi? |Prompter
-|| A la campagne. |Prompter
-|| Et pour y faire quoi? |Prompter
-|| Quand on est en ville c’est pour s’amuser. Quand on est à la campagne|Prompter
-|| c’est pour amuser les autres. C’est complètement barbant. |Prompter
-|| Et tu amuses qui? |Prompter
-|| Oh, des voisins, des voisins. |Prompter
-|| Et tu as de bons voisins? |Prompter
-|| Horribles! Je ne leur parle jamais. |Prompter
-|| Comme tu dois les amuser.|Prompter
-|| Au fait, le Shropshire, c’est ton coin, n’est-ce pas? |Prompter
-|| Quoi? Le Shropshire? Naturellement.|Prompter
-|| Mais pourquoi donc ces tasses, ces sandwiches au concombre.|Prompter
-|| Quel gaspillage! Qui vient donc pour le thé? |Prompter
-|| Oh tout simplement Tante Augusta et |Prompter
-|| Gwendolen.
-|| Charmant. |Prompter
-|| N’est-ce pas? Mais je crains que Tante Augusta n’apprécie pas ta présence. |Prompter
-|| Puis-je demander pourquoi? |Prompter
-|| Mon cher, la manière dont tu flirtes avec Gwendolen est tout à fait choquante.|Prompter
-|| Presqu’autant que la manière dont Gwendolen flirte avec...|Prompter
-|| ...toi.
-|| J’aime Gwendolen. Je suis venu en ville tout exprès pour demander sa main. |Prompter
-|| Tu disais que c’était pour le plaisir? J’appelle ça une affaire. |Prompter
-|| Comme tu es romantique! |Prompter
-|| Je ne vois rien de romantique dans une demande en mariage.|Prompter
-|| C’est tout à fait romantique d’être amoureux |Prompter
-|| mais il n’y a rien de romantique dans une demande en mariage.|Prompter
-|| On peut être accepté, c’est le cas le plus souvent, je crois|Prompter
-|| et alors toute l’émotion retombe.|Prompter
-|| L’essence même de l’histoire d’amour c’est l’incertitude.|Prompter
-|| Si jamais je me mariais j’essaierais d’oublier ça tout de suite. |Prompter
-|| Je n’en doute pas, mon cher. |Prompter
-|| Le divorce a été tout spécialement inventé pour les gens qui|Prompter
-|| bizarrement, oublient qu’ils sont mariés. |Prompter
-|| Oh, ça ne sert à rien de discuter là-dessus.|Prompter
-|| Les divorces sont inscrits dans le Ciel.|Prompter
-|| S’il te plait, ne touche pas aux sandwiches au concombre.|Prompter
-|| Ils ont été préparés spécialement pour Tante Augusta.|Prompter
-|| Et toi, tu n’arrêtes pas d’en manger. |Prompter
-|| Moi, c’est tout à fait différent. C’est ma tante. |Prompter
-|| Prends donc une tartine beurrée. Elles sont pour Gwendolen.|Prompter
-|| Elle adore les tartines beurrées. |Prompter
-|| Très bonnes tartines beurrées.|Prompter
-|| Ne mange pas comme si tu allais tout avaler.|Prompter
-|| Tu n’es pas encore marié avec elle et je crois que tu ne le seras jamais. |Prompter
-|| Comment ça? |Prompter
-|| D’abord, les filles n’épousent pas leurs flirts. Elles pensent que ce n’est pas correct. |Prompter
-|| C’est absurde! |Prompter
-|| Pas du tout, c’est profond. Cela explique l’incroyable nombre de célibataires qu’on trouve partout.|Prompter
-|| Ensuite, je ne donne pas mon consentement. |Prompter
-|| Ton consentement! |Prompter
-|| Mon cher, Gwendolen est ma cousine et avant que je permette le mariage|Prompter
-|| tu devras t’expliquer sur la question de Cecily.|Prompter
-|| Cecily! Mais qu’est-ce que tu veux dire? Qu’est-ce que tu veux dire, Algy, avec Cecily?|Prompter
-|| Je ne connais personne du nom de Cecily.|Prompter
-|| Apportez-moi l’étui à cigarettes que M. Worthing|Prompter
-|| a laissé dans le fumoir la dernière fois qu’il a diné ici.|Prompter
-|| Veux-tu dire que tu as gardé mon étui pendant tout ce temps.|Prompter
-|| Tu aurais pu me le dire. J’ai écrit des lettres frénétiques à Scotland Yard,|Prompter
-|| j’ai même failli offrir une grosse récompense.|Prompter
-|| Eh bien, j’aimerais que tu m’en offres une. Justement, je suis à sec. |Prompter
-|| On n’offre pas une grosse récompense quand le truc a été retrouvé!|Prompter
-|| Je pense que c’est plutôt mesquin de ta part, Constant, je dois le dire.|Prompter
-|| Mais finalement ça n’a pas d’importance car|Prompter
-|| l’inscription que je vois dans l’étui montre bien qu’il n’est pas à toi.|Prompter
-|| Bien sûr qu’il est à moi|Prompter
-|| Tu l’as vu dans mes mains des dizaines de fois.|Prompter
-|| Et d’abord tu n’as pas le droit de lire ce qui est écrit dedans.|Prompter
-|| Ça ne se fait pas de lire un étui à cigarette privé. |Prompter
-|| Oh, c’est absurde d’avoir des attitudes aussi rigides|Prompter
-|| sur ce qu’on a le droit de lire ou non. |Prompter
-|| Plus de la moitié de la culture moderne repose sur des trucs qu’on n’a pas le droit de lire. |Prompter
-|| Je ne veux pas discuter de la culture moderne.|Prompter
-|| Ce n’est pas le genre de chose dont on peut parler en privé. Je veux simplement récupérer mon étui. |Prompter
-|| Mais ce n’est pas ton étui.|Prompter
-|| Cet étui est un cadeau de quelqu’un du nom de Cecily et tu as dit que tu ne connaissais personne de ce nom. |Prompter
-|| Bon, si tu veux tout savoir, Cecily est ma tante. |Prompter
-|| Ta tante! 
-|| Oui. C’est une charmante vieille dame. Elle vit à Tunbridge Wells. Allez Algy, rends-moi l’étui. |Prompter
-|| Mais pourquoi s’appelle-t-elle, elle-même, 'petite Cecily' si elle est ta tante|Prompter
-|| et qu’elle vit à Tunbridge Wells?|Prompter
-|| 'De la part de 4 la petite Cecily avec son affection la plus vive'|Prompter
-|| Qu’est-ce que tu vas chercher là, mon cher?|Prompter
-|| Il y a des tantes qui sont grandes, d’autres qui ne le sont pas.|Prompter
-|| C’est une question qu’une tante a le droit de décider elle-même.|Prompter
-|| Tu sembles croire que toutes les tantes doivent être exactement comme la tienne! C’est absurde!|Prompter
-|| Allez, pour l’amour du ciel, rendsmoi mon étui à cigarettes.|Prompter
-|| Oui, oui. Mais pourquoi ta tante t’appelle-t15 elle son oncle? //Wat loopt er hier mis?|Prompter
-|| 'De la petite Cecily à son cher Oncle Jack, avec son affection la plus vive'.|Prompter
-|| Bien sûr, je l’admets, une tante peut être une petite tante|Prompter
-|| mais pourquoi une tante, quelle que soit sa taille, appellerait|Prompter
-|| elle 'mon oncle' son propre neveu, je n’y comprends rien.|Prompter
-|| En plus ton nom n’est pas du tout Jack, c’est Constant. |Prompter
-|| Ce n’est pas Constant, c’est Jack. |Prompter
-|| Tu m’as toujours dit que c’était Constant. Je t’ai présenté à tout le monde sous le nom de Constant.|Prompter
-|| Tu réponds au nom de Constant. Tu as l’air de t’appeler Constant. |Prompter
-|| Tu es l’homme qui a l’air le plus constant que j’ai jamais vu. |Prompter
-|| C’est totalement absurde de dire que ton nom n’est pas Constant. C’est marqué sur tes cartes. |Prompter
-|| En voilà une. 'Monsieur Constant Worthing, B. 4, The Albany.'|Prompter
-|| Je la garde comme preuve que ton nom est bien Constant |Prompter
-|| au cas tu essaierais de nier la chose devant Gwendolen ou même n’importe qui.|Prompter
-|| Eh bien mon nom est Constant à la ville et Jack à la campagne et, l’étui, on me l’a donné à la campagne. |Prompter
-|| Bien, bien. Mais ça n’explique pas que ta petite tante Cecily|Prompter
-|| qui vit à Tunbridge Wells, t’appelle mon cher oncle. Allez mon vieux, tu ferais mieux de tout déballer. |Prompter
-|| Algy, mon cher, tu parles exactement comme un dentiste.|Prompter
-|| C’est extrêmement vulgaire de parler comme un dentiste quand on n’est pas un dentiste.|Prompter
-|| Cela crée un malaise.|Prompter
-|| Bon, bon! Allez, maintenant dis-moi tout. |Prompter
-|| Je dois dire que je t’ai toujours soupçonné d’être un Bunburiste clandestin|Prompter
-|| et j’en suis tout à fait sûr maintenant. |Prompter
-|| Bunburiste? C’est quoi sur terre un Bunburiste? |Prompter
-|| Je te révélerai le sens caché de ce mot dès que tu m’auras dit |Prompter
-|| pourquoi tu es Constant à la ville et Jack à la campagne. |Prompter
-|| Bon. Donne-moi d’abord mon étui. |Prompter
-|| Le voilà. Maintenant, j’écoute tes explications et s’il te plait fais-les bien improbables.|Prompter
-|| Mon cher, il n’y a rien d’improbable dans mes explications. En fait la situation est tout à fait banale.|Prompter
-|| Le vieux M. Thomas Cardew qui m’a adopté quand j’étais petit m’a désigné dans son testament|Prompter
-|| comme tuteur de sa petite-fille, Mlle Cecily Cardew. |Prompter
-|| Cecily, qui me considère comme son oncle par respect ce que tu es bien incapable de comprendre|Prompter
-|| vit chez moi à la campagne, sous la responsabilité de son admirable gouvernante, Miss Prism.|Prompter
-|| Et où ça, à la campagne?|Prompter
-|| Tu n’as rien à y faire, mon vieux et tu n’es pas près d’être invité…|Prompter
-|| Tout ce que je peux te dire c’est que ce n’est pas dans le Shropshire. |Prompter
-|| Je m’en doutais, mon cher, J’ai Bunburisé dans le Shropshire en deux occasions différentes.|Prompter
-|| Mais tu n’as pas tout dit. Pourquoi es-tu Constant à la ville et Jack à la campagne? |Prompter
-|| Ecoute, je ne suis pas sûr que tu sois capable de comprendre mes vraies raisons. |Prompter
-|| Tu n’es pas assez sérieux. Quand on se trouve dans la situation de tuteur|Prompter
-|| on doit montrer une attitude hautement morale sur tous les sujets.|Prompter
-|| C’est un devoir. Et comme une attitude hautement morale n’est pas compatible avec la santé et le plaisir|Prompter
-|| quand je veux aller en ville je prétends toujours que j’ai un jeune frère du nom de Constant|Prompter
-|| qui vit à Albany, et qui mène la vie la plus dissipée. Voilà, mon cher, la vérité pure et simple. |Prompter
-|| La vérité est rarement pure et jamais simple.|Prompter
-|| Sinon la vie moderne serait profondément ennuyeuse et |Prompter
-|| la littérature moderne tout à fait impossible. |Prompter
-|| Ce ne serait pas une mauvaise chose. |Prompter
-|| La critique littéraire n’est pas ton point fort, mon vieux.|Prompter
-|| Inutile d’essayer, laisse donc ça aux types qui ne sont pas allés à l’Université.|Prompter
-|| Ils font ça très bien dans les journaux. En fait ce que tu es vraiment, c’est un Bunburiste.|Prompter
-|| J’avais tout à fait raison en disant que tu es un Bunburiste.|Prompter
-|| Tu es même un des Bunburistes les plus parfaits que je connaisse. |Prompter
-|| Mais bon sang qu’est-ce que ça veut dire? |Prompter
-|| Tu t’es inventé un jeune frère bien utile appelé Constant|Prompter
-|| pour pouvoir aller en ville aussi souvent que tu veux.|Prompter
-|| Moi j’ai inventé Bunbury, un grand malade qui me permet |Prompter
-|| de filer à la campagne aussi souvent que je veux. Bunbury est très commode.|Prompter
-|| Par exemple, sans sa terrible mauvaise santé, je ne pourrais pas dîner ce soir|Prompter
-|| au Willis’s avec toi car je suis retenu par Tante Augusta depuis déjà huit jours. |Prompter
-|| Je ne t’ai pas prié de dîner avec moi ce soir, où que ce soit |Prompter
-|| Je sais. Tu es absurdement négligent pour tes invitations.|Prompter
-|| C’est bête, rien n’est aussi ennuyeux que de ne pas recevoir d’invitations. |Prompter
-|| Tu ferais mieux de dîner avec ta Tante Augusta. |Prompter
-|| Je n’en ai pas la moindre intention.|Prompter
-|| D’abord, j’ai dîné avec elle lundi, et dîner une fois la semaine avec la famille, c’est bien suffisant.|Prompter
-|| Ensuite quand je dîne chez elle je suis toujours placé près de deux femmes, ou aucune. |Prompter
-|| Enfin je sais parfaitement bien avec qui elle me mettrait ce soir. |Prompter
-|| Elle me placerait près de Marie Farquhar|Prompter
-|| qui flirte toujours par-dessus la table avec son propre mari.|Prompter
-|| La quantité de femmes à Londres qui flirtent avec leur mari est parfaitement scandaleuse.|Prompter
-|| C’est vraiment moche, c’est tout simplement laver son linge sale en public.|Prompter
-|| Bon, maintenant que je sais que tu es un Bunburiste il faut que je te parle de la technique. |Prompter
-|| Je ne suis pas du tout un Bunburiste. Si Gwendolen m’accepte, je vais tuer mon frère. |Prompter
-|| D’ailleurs de toute façon je crois que je vais le tuer. Cecily s’intéresse un peu trop à lui. |Prompter
-|| C’est plutôt ennuyeux. Allons, c’est dit, je 6 vais me débarrasser de Constant. |Prompter
-|| Et je te recommande vivement d’en faire autant avec monsieur… |Prompter
-|| avec ton grand malade au nom absurde. |Prompter
-|| Rien ne me convaincra de me séparer de Bunbury, et si tu te maries, |Prompter
-|| ce qui me parait extrêmement problématique, tu seras bien content de connaître Bunbury.|Prompter
-|| Un homme marié qui ne connait pas Bunbury se prépare bien des ennuis. |Prompter
-|| C’est encore une de tes absurdités. Si j’épouse une fille charmante comme Gwendolen, |Prompter
-|| et c’est la seule fille que je voudrais épouser, |Prompter
-|| je n’aurai certainement pas besoin de connaître Bunbury. |Prompter
-|| Alors ta femme le fera. Tu ne sembles pas comprendre que dans le mariage,|Prompter
-|| trois c’est bien, deux c’est nul. |Prompter
-|| Ça, mon jeune ami, c’est la théorie que le Drame Français corrompu a répandu|Prompter
-|| pendant les cinquante dernières années. |Prompter
-|| Oui. Et c’est ce que la respectable famille anglaise a mis en pratique. |Prompter
-|| Pour l’amour du ciel, ne joue pas les cyniques. C’est trop facile. |Prompter
-|| Mon petit vieux, ce n’est pas facile d’être quoi que ce soit de nos jours. |Prompter
-|| Il y a tellement de compétition. Ah, ça doit être la tante Augusta. |Prompter
-|| Il n’y a que la famille, ou les créanciers, pour sonner dans ce style wagnérien. |Prompter
-|| Ecoute, si je l’occupe pendant dix minutes, tu auras la possibilité de faire ta demande à Gwendolen.|Prompter
-|| Et alors je pourrai diner avec toi ce soir chez Willis’s? |Prompter
-|| Bon, si tu veux. |Prompter
-|| Parfait. Mais un repas sérieux, n’est-ce pas? |Prompter
-|| Je déteste les gens qui ne prennent pas les repas au sérieux.|Prompter
-|| C’est la preuve d’un caractère très superficiel. |Prompter
-|| Bonjour, mon cher Algernon, j’espère que tu te comportes bien. |Prompter
-|| Je me sens très bien, tante Augusta. Lady Bracknell Ce n’est pas du tout la même chose. |Prompter
-|| En fait les deux choses vont rarement ensemble.|Prompter
-|| Comme tu es élégante, ma chère! Gwendolen Je suis toujours élégante. N’est-ce pas, M. Worthing? |Prompter
-|| Vous êtes absolument parfaite, Miss Fairfax. |Prompter
-|| Oh! Mais j’espère bien que je ne le suis pas. Ça ne laisserait aucune place au progrès |Prompter
-|| et j’ai l’intention de progresser.|Prompter
-|| Désolée d’arriver un peu en retard, Algernon, mais il fallait que je passe chez Lady Harbury,|Prompter
-|| je ne l’avais pas vue depuis la mort de son pauvre mari. |Prompter
-|| Jamais je n’ai vu une femme aussi changée, elle parait avoir ans de moins.|Prompter
-|| Et maintenant je vais prendre une tasse de thé et|Prompter
-|| un de ces délicieux sandwichs aux concombres que tu m’as promis.|Prompter
-|| Bien sûr, Tante Augusta.|Prompter
-|| Viens donc t’assoir près de moi, Gwendolen. |Prompter
-|| Merci, maman, je suis très bien où je suis. |Prompter
-|| Dieux du ciel, Lane! Pourquoi n’y a-t-il pas de sandwichs au concombre? |Prompter
-|| Je les avais demandés tout particulièrement. |Prompter
-|| Il n’y avait pas de concombre au marché ce matin, monsieur. Et j’y suis allé deux fois. |Prompter
-|| Pas de concombres! |Prompter
-|| Non, monsieur. Même en payant comptant. |Prompter
-|| Ça ira, Lane, merci. |Prompter
-|| Merci, monsieur.|Prompter
-|| Je suis complètement désespéré, Tante Augusta. Pas de concombres, même en payant comptant.|Prompter
-|| Ça n’a pas vraiment d’importance, Algernon. J’ai pris quelques crumpets chez Lady Harbury,|Prompter
-|| une femme qui ne vit plus que pour le plaisir, me semble-t-il. |Prompter
-|| J’ai entendu dire que ses cheveux ont viré au blond. Le chagrin.|Prompter
-|| Eh oui, ils ont changé de couleur. Pourquoi? Je ne saurais le dire.|Prompter
-|| Merci. J’ai une vraie surprise pour toi, Algernon.|Prompter
-|| Au dîner ce soir, je vais te mettre à côté de Mary Farquhar.|Prompter
-|| C’est une femme si délicieuse et si attentive pour son mari. C’est charmant de les observer tous deux. |Prompter
-|| Je crains fort, Tante Augusta, d’être obligé finalement de renoncer au plaisir de diner avec vous ce soir.|Prompter
-|| J’espère que non, Algernon. Ça démolirait complètement ma table. |Prompter
-|| Et ton oncle serait obligé de diner dans sa chambre. Heureusement, il a l’habitude. |Prompter
-|| Ça m’ennuie beaucoup, je suis très désappointé mais je viens de reçevoir un télégramme|Prompter
-|| qui m’annonce que mon pauvre ami Bunbury est encore très malade.|Prompter
-|| On semble penser que je dois y aller.|Prompter
-|| C’est vraiment curieux. Ce M. Bunbury semble affligé d’une santé particulièrement mauvaise. |Prompter
-|| Eh oui. Le pauvre Bunbury est un grand malade.|Prompter
-|| Eh bien, je dois le dire, Algernon, je pense qu’il est grand temps que M. Bunbury se décide|Prompter
-|| à savoir s’il veut vivre ou mourir. |Prompter
-|| Cette valse-hésitation est absurde.|Prompter
-|| D’ailleurs je n’approuve pas du tout la sympathie moderne pour les malades.|Prompter
-|| Je considère que c’est morbide. La santé est le premier devoir de la vie.|Prompter
-|| C’est ce que je dis toujours à votre pauvre oncle mais il ne m’écoute pas|Prompter
-|| si bien qu’il n’en résulte aucune amélioration pour sa santé... |Prompter
-|| Je te serais très obligée de prier, de ma part, M. Bunbury d’être assez gentil |Prompter
-|| pour ne pas avoir de rechute samedi car je compte sur toi pour organiser ma soirée musicale.|Prompter
-|| C’est ma dernière soirée et il faut quelque chose qui facilite la conversation: |Prompter
-|| c’est la fin de la saison et chacun a dit tout ce qui pouvait être dit. |Prompter
-|| Ce qui bien souvent est probablement peu de choses. |Prompter
+|Hoorde je wat ik speelde, Lane?| Avez-vous entendu ce que je jouais, Lane?|Did you hear what I was playing, Lane?
+|Ik achtte het ongepast om te luisteren, meneer.| Je ne pensais pas qu'il était respectueux d'écouter, monsieur.|I didn't think it polite to listen, sir.
+|Dat is dan jammer, voor jou. Ik speel dan wel niet correct -correct spelen kan iedereen–| Quel dommage pour vous. Je ne joue pas très bien, tout le monde peut jouer bien,|I'm sorry for that, for your sake. I don't play accurately --any one can play accurately --
+|maar ik speel met een wonderbaarlijke expressie.| mais je joue d'une façon merveilleusement expressive.|but I play with wonderful expression.
+| T.b.d //| T.b.d // <As far as piano is concerned...>|As far as the piano is concerned, sentiment is my forte.
+| T.b.d //| T.b.d //|I keep science for Life.
+|Zeker, meneer.| Oui, monsieur.|Yes, sir.
+| T.b.d //| T.b.d //|And, speaking of the science of Life,
+|Lane, staan de komkommersandwiches voor Lady Bracknell klaar?| Lane, avez-vous préparé les sandwiches au concombre pour Lady Bracknell?|have you got the cucumber sandwiches cut for Lady Bracknell?
+|Zeker, meneer.| Oui, monsieur.|Yes, sir.
+|Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,| Dites-moi, Lane, j’ai vu sur le livre de compte que jeudi soir|Oh!... by the way, Lane, I see from your book that on Thursday night,
+|toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.| quand Lord Shoreman et Mr Worthing sont venus dîner, huit bouteilles de champagne ont été consommées.|when Lord Shoreman and Mr. Worthing were dining with me, eight bottles of champagne are entered as having been consumed.
+|Zeker, meneer; acht flessen en nog een halve.| Oui, monsieur; huit bouteilles et une pinte.|Yes, sir; eight bottles and a pint.
+|Hoe komt het dat in een vrijgezellen huishouding het personeel altijd de champagne drinkt?| Mais pourquoi dans la maison d’un célibataire, les domestiques boivent-ils toujours le champagne?|Why is it that at a bachelor's establishment the servants invariably drink the champagne?
+|Ik vraag het alleen maar uit belangstelling.| Je demande ça simplement à titre d’information.|I ask merely for information.
+|Ik schrijf dat toe aan de superieure kwaliteit van de wijn, meneer. //vloeistof = wine?| Je pense que c’est dû à la qualité supérieure du vin, monsieur.|I attribute it to the superior quality of the wine, sir.
+|Ik heb menigmaal gemerkt dat in getrouwde huishoudens de champagne zelden van een beter merk was.| J’ai souvent observé que chez les gens mariés le champagne est rarement de premier ordre.|I have often observed that in married households the champagne is rarely of a first-rate brand.
+|Lieve hemel! Haalt het huwelijk een mens zo omlaag?| Bon dieu! Le mariage est-il si austère?|Good heavens! Is marriage so demoralising as that?
+|Ik neem aan dat het best een aangename toestand is, meneer.| Je crois que c’est une situation tout à fait plaisante, monsieur.|I believe it IS a very pleasant state, sir.
+|Ik heb er tot op heden zelf weinig ervaring mee. Ik ben maar één keer getrouwd geweest.| Je n’ai moi-même qu’une très petite expérience de la question. Je n’ai été marié qu’une fois.|I have had very little experience of it myself up to the present. I have only been married once.
+|En dat was het gevolg van een misverstand tussen mij en een zeker jong persoon.| C'était la conséquence d'un malentendu entre une jeune fille et moi-même.|That was in consequence of a misunderstanding between myself and a young person.
+|Ik geloof niet dat ik erg geïnteresseerd ben in je gezinsleven, Lane.| Je ne pense pas que votre vie de famille m’intéresse beaucoup, Lane.|I don't know that I am much interested in your family life, Lane.
+|Nee, meneer; het is nauwelijks een interessant onderwerp. Ik sta er zelf nooit bij stil.| Bien sûr, monsieur. Ce n’est pas un sujet bien intéressant. Moi-même, je n’y pense jamais.|No, sir; it is not a very interesting subject. I never think of it myself.
+|Begrijpelijk. Zo is het goed, Lane, dank je.| C’est tout naturel. Eh bien, ça ira comme ça, Lane, merci.|Very natural, I am sure. That will do, Lane, thank you.
+|Dank u meneer.| Merci, monsieur.|Thank you, sir.
+|||
+|Hij schijnt er nogal lakse ideeen over het huwelijk over na te houden, die Lane.| Les opinions de Lane sur le mariage semblent quelque peu laxistes.|Lanes views on marriage seem somewhat lax.
+|Goeie genade, als de lagere standen ons geen voorbeeld meer geven,| Vraiment, si les classes inférieures ne nous donnent pas le bon exemple|Really, if the lower orders don't set us a good example,
+|waar zijn ze dan nog goed voor?| à quoi peuvent-elles bien servir?|what on earth is the use of them?
+| T.b.d //| Elles semblent n’avoir aucun sens de leur responsabilité morale.|They seem, as a class, to have absolutely no sense of moral responsibility.
+|||
+|Mr. Ernst Worthing.| Mr. Constant Worthing!|Mr. Ernest Worthing.
+|Hoe is het, mijn beste Ernst? Waarom ben je in de stad?| Comment ça va, mon cher Constant? Qu’est-ce qui t’amène en ville?|How are you, my dear Ernest? What brings you up to town?
+|O, voor mijn plezier! Waarom ga je anders ergens naartoe? Weer eens aan het eten, zie ik, Algy!| Oh, le plaisir, le plaisir. Quoi d’autre? Encore en train de manger, Algy?|Oh, pleasure, pleasure! What else should bring one anywhere? Eating as usual, I see, Algy!
+|Ik houd het in goede kringen voor gepast om tegen het einde van de middag enige lichte versnaperingen tot zich te nemen.| Mais c’est l’habitude dans la bonne société de prendre un petit five o’clock.|I believe it is customary in good society to take some slight refreshment at five o'clock.
+|Waar ben je sedert donderdag geweest?| Où étais-tu donc depuis mardi?|Where have you been since last Thursday?
+|O! In het platteland!| A la campagne.|In the country.
+|Wat doe je daar in ’s hemelsnaam?| Et pour y faire quoi?|What on earth do you do there?
+|In de stad amuseer je jezelf. Buiten amuseer je anderen.| Quand on est en ville c’est pour s’amuser. Quand on est à la campagne|When one is in town one amuses oneself. When one is in the country
+|Dat is hoogst vervelend.| c’est pour amuser les autres. C’est complètement barbant.|one amuses other people. It is excessively boring.
+|En wat zijn dat voor mensen die je amuseert?| Et tu amuses qui?|And who are the people you amuse?
+|O, buren, buren.| Oh, des voisins, des voisins.|Oh, neighbours, neighbours.
+|Zijn het aardige buren daar in Shropshire?| Et tu as de bons voisins?|Got nice neighbours in your part of Shropshire?
+|Volstrekt verschrikkelijk! Ik praat nooit met iemand.| Horribles! Je ne leur parle jamais.|Perfectly horrid! Never speak to one of them.
+|Dan zul je ze kostelijk amuseren!| Comme tu dois les amuser.|How immensely you must amuse them!
+|Even terzijde, Shropshire is je woonst, toch?| Au fait, le Shropshire, c’est ton coin, n’est-ce pas?|By the way, Shropshire is your county, is it not?
+|Eh? Shropshire? Ja, natuurlijk.| Quoi? Le Shropshire? Naturellement.|Eh? Shropshire? Yes, of course.
+|Hallo! Waarom die kopjes? Waarom komkommersandwiches?| Mais pourquoi donc ces tasses, ces sandwiches au concombre.|Hallo! Why all these cups? Why cucumber sandwiches?
+|Wat een roekeloze geldverspilling voor iemand die nog zo jong is! Wie krijg je op de thee?| Quel gaspillage! Qui vient donc pour le thé?|Why such reckless extravagance in one so young? Who is coming to tea?
+|Enkel tante Augusta en| Oh tout simplement Tante Augusta et|Oh! merely Aunt Augusta and
+|Gwendolen.| Gwendolen.|Gwendolen.
+|Maar dat is geweldig! Volstrekt geweldig!| Charmant.|How perfectly delightful!
+|Ik denk niet dat tante Augusta jouw aanwezigheid hier ook zo op prijs zal stellen.| N’est-ce pas? Mais je crains que Tante Augusta n’apprécie pas ta présence.|Yes, that is all very well; but I am afraid Aunt Augusta won't quite approve of your being here.
+|Mag ik vragen waarom niet?| Puis-je demander pourquoi?|May I ask why?
+|Mijn beste kerel, de manier waarop jij met Gwendolen flirt is werkelijk schandalig.| Mon cher, la manière dont tu flirtes avec Gwendolen est tout à fait choquante.|My dear fellow, the way you flirt with Gwendolen is perfectly disgraceful.
+|Bijna net zo erg als de manier waarop Gwendolen flirt met...| Presqu’autant que la manière dont Gwendolen flirte avec...|It is almost as bad as the way Gwendolen flirts with...
+|... jou.| ...toi.|...you.
+|Ik ben verliefd op Gwendolen. Ik ben speciaal naar de stad gekomen om haar ten huwelijk te vragen.| J’aime Gwendolen. Je suis venu en ville tout exprès pour demander sa main.|I am in love with Gwendolen. I have come up to town expressly to propose to her.
+|Ik dacht dat je voor je plezier was gekomen? ... Dat noem ik zaken doen.| Tu disais que c’était pour le plaisir? J’appelle ça une affaire.|I thought you had come up for pleasure?... I call that business.
+|Wat ben jij akelig romantisch.| Comme tu es romantique!|How utterly unromantic you are!
+|Mij lijkt dat er niets romantisch is aan een aanzoek.| Je ne vois rien de romantique dans une demande en mariage.|I really don't see anything romantic in proposing.
+|Het is romantisch om verliefd te zijn.| C’est tout à fait romantique d’être amoureux|It is very romantic to be in love.
+|Maar er steekt niets romantisch in een huwelijksaanzoek.| mais il n’y a rien de romantique dans une demande en mariage.|But there is nothing romantic about a definite proposal. 
+|Het kan immers geaccepteerd worden. Dat gebeurt meestal, geloof ik.| On peut être accepté, c’est le cas le plus souvent, je crois|Why, one may be accepted. One usually is, I believe.
+|En dan is alle opwinding voorbij.| et alors toute l’émotion retombe.|Then the excitement is all over.
+|Het ware kenmerk van romantiek is onzekerheid. | L’essence même de l’histoire d’amour c’est l’incertitude.|The very essence of romance is uncertainty.
+|Mocht ik ooit nog trouwen, zal ik het feit beslist proberen te vergeten.| Si jamais je me mariais j’essaierais d’oublier ça tout de suite.|If ever I get married, I'll certainly try to forget the fact.
+|Daar twijfel ik geen moment aan, Algy.| Je n’en doute pas, mon cher.|I have no doubt about that, dear Algy.
+|De echtscheiding is speciaal uitgevonden voor lieden | Le divorce a été tout spécialement inventé pour les gens qui|The Divorce Court was specially invented for people
+|met zo’n eigenaardig geheugen als het jouwe.| bizarrement, oublient qu’ils sont mariés.|whose memories are so curiously constituted.
+|O, het heeft geen zin om daarover uit te weiden.| Oh, ça ne sert à rien de discuter là-dessus.|Oh! there is no use speculating on that subject.
+|Echtscheidingen worden gesloten in de hemel| Les divorces sont inscrits dans le Ciel.|Divorces are made in Heaven --
+|Raak die komkommersandwiches niet aan.| S’il te plait, ne touche pas aux sandwiches au concombre.|Please don't touch the cucumber sandwiches.
+|Die staan er speciaal voor tante Augusta.| Ils ont été préparés spécialement pour Tante Augusta.|They are ordered specially for Aunt Augusta.
+|Jij eet er anders constant al.| Et toi, tu n’arrêtes pas d’en manger.|Well, you have been eating them all the time.
+|Dat is iets anders. Ze is m’n tante.| Moi, c’est tout à fait différent. C’est ma tante.|That is quite a different matter. She is my aunt.
+|Hier, neem wat gewone sandwiches. Die zijn voor Gwendolen.| Prends donc une tartine beurrée. Elles sont pour Gwendolen.|Have some bread and butter. The bread and butter is for Gwendolen.
+|Gwendolen t.b.d//| Elle adore les tartines beurrées.|Gwendolen is devoted to bread and butter.
+|En zeer goede sandwiches zijn het!| Très bonnes tartines beurrées.|And very good bread and butter it is too.
+|Kom, beste kerel, je hoeft niet te eten alsof je van plan bent alles op te eten.| Ne mange pas comme si tu allais tout avaler.|Well, my dear fellow, you need not eat as if you were going to eat it all.
+|Je gedraagt je alsof je al getrouwd bent. | T.b.d //|You behave as if you were married to her already. 
+|Je bent nog niet met haar getrouwd, en ik denk ook niet dat het ooit zal gebeuren.| Tu n’es pas encore marié avec elle et je crois que tu ne le seras jamais.|You are not married to her already, and I don't think you ever will be.
+|Waarom zeg je dat?| Comment ça?|Why on earth do you say that?
+| Wel, in de eerste plaats trouwen meisjes nooit met de mannen met wie ze flirten. Dat vinden meisjes niet netjes.| D’abord, les filles n’épousent pas leurs flirts. Elles pensent que ce n’est pas correct.|Well, in the first place girls never marry the men they flirt with. Girls don't think it right.
+|O, dat is onzin.| C’est absurde!|Oh, that is nonsense!
+| Dat is een onverbiddelijke waarheid. Het verklaart de reuzachtige aantal vrijgezellen waarover je hier al door struikelt.//wtf?| Pas du tout, c’est profond. Cela explique l’incroyable nombre de célibataires qu’on trouve partout.|It isn't. It is a great truth. It accounts for the extraordinary number of bachelors that one sees all over the place.
+|En bovendien, ik geef mijn toestemming niet.| Ensuite, je ne donne pas mon consentement.|In the second place, I don't give my consent.
+|Jouw toestemming?| Ton consentement!|Your consent!
+|Beste kerel, Gwendolen is een volle nicht van me. En voor ik je toesta haar te trouwen,| Mon cher, Gwendolen est ma cousine et avant que je permette le mariage|My dear fellow, Gwendolen is my first cousin. And before I allow you to marry her,
+|zul je eerste die kwestie met Cecily moeten ophelderen.| tu devras t’expliquer sur la question de Cecily.|you will have to clear up the whole question of Cecily.
+|Cecily? Wat bedoel je in vredesnaam? Wat bedoel me met Cecily, Algy?| Cecily! Mais qu’est-ce que tu veux dire? Qu’est-ce que tu veux dire, Algy, avec Cecily?|Cecily! What on earth do you mean? What do you mean, Algy, by Cecily!
+|Ik ken niemand die Cecily heet, voor zover ik me herriner.| Je ne connais personne du nom de Cecily.|I don't know any one of the name of Cecily.
+|Breng me de cigarettenkoker die Mr. Worthing| Apportez-moi l’étui à cigarettes que M. Worthing|Bring me that cigarette case Mr. Worthing
+|in de rookkamer liet liggen toen hij laatst hier dineerde.| a laissé dans le fumoir la dernière fois qu’il a diné ici.|left in the smoking room the last time he dined here.
+|Zeker, meneer.| T.b.d //|Yes, sir.
+|Wil jij zeggen dat mijn koker al die tijd hier lag?| Veux-tu dire que tu as gardé mon étui pendant tout ce temps.|Do you mean to say you have had my cigarette case all this time?
+|Dat had je me dan wel eens kunnen laten weten. Ik heb Scotland Yard de meest dolzinnige brieven geschreven.| Tu aurais pu me le dire. J’ai écrit des lettres frénétiques à Scotland Yard,|I wish to goodness you had let me know. I have been writing frantic letters to Scotland Yard about it.
+|Ik had al bijna een grote beloning uitgeloofd.| j’ai même failli offrir une grosse récompense.|I was very nearly offering a large reward.
+|Doe dat dan alsnog, wil je? Ik ben nog slechter bij kas dan gewoonlijk.| Eh bien, j’aimerais que tu m’en offres une. Justement, je suis à sec.|Well, I wish you would offer one. I happen to be more than usually hard up.
+|Het heeft geen zin een beloning uit te loven nu het ding gevonden is.| On n’offre pas une grosse récompense quand le truc a été retrouvé!|There is no good offering a large reward now that the thing is found.
+|Minnetjes van je, Ernst? Het spijt me dat ik het zeggen moet.| Je pense que c’est plutôt mesquin de ta part, Constant, je dois le dire.|I think that is rather mean of you, Ernest, I must say.
+|Hoewel, het maakt niet echt uit, want| Mais finalement ça n’a pas d’importance car|However, it makes no matter, for,
+|als ik de inscriptie goed bekijk, zie ik dat het ding toch niet van jou is.| l’inscription que je vois dans l’étui montre bien qu’il n’est pas à toi.|now that I look at the inscription inside, I find that the thing isn't yours after all.
+|Natuurlijk is het van mij.| Bien sûr qu’il est à moi|Of course it's mine.
+|Je hebt er mij wel honderd keer mee gezien,| Tu l’as vu dans mes mains des dizaines de fois.|You have seen me with it a hundred times,
+|en je hebt niet het minste recht om te lezen wat er in staat.| Et d’abord tu n’as pas le droit de lire ce qui est écrit dedans.|and you have no right whatsoever to read what is written inside.
+|Een heer leest niet in andermans kokers.| Ça ne se fait pas de lire un étui à cigarette privé.|It is a very ungentlemanly thing to read a private cigarette case.
+|Het is belachelijk om er regels op na te houden| Oh, c’est absurde d’avoir des attitudes aussi rigides|Oh! it is absurd to have a hard and fast rule
+|over wat je wel of niet zou moeten lezen.| sur ce qu’on a le droit de lire ou non.|about what one should read and what one shouldn't. 
+|Meer dan de helft van de moderne beschaving bestaat uit wat je niet zou moeten lezen.| Plus de la moitié de la culture moderne repose sur des trucs qu’on n’a pas le droit de lire.|More than half of modern culture depends on what one shouldn't read.
+|Ik heb geen zin om over de moderne beschaving te discusseren.| Je ne veux pas discuter de la culture moderne.|I am quite aware of the fact, and I don't propose to discuss modern culture.
+|Daar praat je niet over in gezelschap. Ik wil alleen mijn cigarettenkoker terug.| Ce n’est pas le genre de chose dont on peut parler en privé. Je veux simplement récupérer mon étui.|It isn't the sort of thing one should talk of in private. I simply want my cigarette case back.
+|Het is je sigarettenkoker niet.| Mais ce n’est pas ton étui.| Yes; but this isn't your cigarette case.
+|Deze koker is een cadeau van iemand die zich Cecily noemt, en je zei niemand te kennen die zo heet.| Cet étui est un cadeau de quelqu’un du nom de Cecily et tu as dit que tu ne connaissais personne de ce nom.| This cigarette case is a present from some one of the name of Cecily, and you said you didn't know any one of that name.
+|Goed, als je het dan weten moet, Cecily is toevallig mijn tante.| Bon, si tu veux tout savoir, Cecily est ma tante.|Well, if you want to know, Cecily happens to be my aunt.
+|Je tante!| Ta tante!|Your aunt!
+|Ja. En een aardige dame. Woont in Tunbridge Wells. Geef nu hier, Algy.| Oui. C’est une charmante vieille dame. Elle vit à Tunbridge Wells. Allez Algy, rends-moi l’étui.|Yes. Charming old lady she is, too. Lives at Tunbridge Wells. Just give it back to me, Algy.
+|Maar waarom noemt ze zich kleine Cecily als ze je tante is| Mais pourquoi s’appelle-t-elle, elle-même, 'petite Cecily' si elle est ta tante|But why does she call herself little Cecily if she is your aunt
+|en in Tunbridge Weells woont?| et qu’elle vit à Tunbridge Wells?|and lives at Tunbridge Wells?
+|“Van je kleine Cecily, met veel liefs.”| "De la part de la petite Cecily avec son affection la plus vive"|"From little Cecily with her fondest love."

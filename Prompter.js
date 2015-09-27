@@ -26,7 +26,17 @@ window.WebSocket.prototype.removeListener = function (event, callback) {
 	this['on'+event] = null;
 }
 
-console.log('startup');
+function getQueryVariable(variable) {
+  var query = window.location.search.substring(1);
+  var vars = query.split("&");
+  for (var i=0;i<vars.length;i++) {
+    var pair = vars[i].split("=");
+    if (pair[0] == variable) {
+      return pair[1];
+    }
+  } 
+  return ""
+}
 
 var subtitleInfo = {en: "", size: 72, panic: false};
 
@@ -35,7 +45,6 @@ var promptTitle = d3.select("#Prompter").selectAll("h1");
 function onMessage(message){
   var json;
 
-  console.log('received: '+ message.data);
   try{
     json = JSON.parse(message.data);
   }catch (e) {
@@ -96,7 +105,12 @@ function showSubtitle(en){
 }
 
 var reconnect = inject(function(){
-  var connection = new WebSocket('ws://localhost:1337');
+  var server = getQueryVariable('server');
+  if(server == ""){
+    server = "localhost";
+  }
+
+  var connection = new WebSocket('ws://' + server + ':1337');
   connection.onmessage = onMessage;
   return connection;
 });
