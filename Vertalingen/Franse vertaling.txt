@@ -123,11 +123,6 @@
 | C’est une question qu’une tante a le droit de décider elle-même.
 | Tu sembles croire que toutes les tantes doivent être exactement comme la tienne! C’est absurde!
 | Allez, pour l’amour du ciel, rendsmoi mon étui à cigarettes.
- 
-
-
-
-
  | Oui, oui. Mais pourquoi ta tante t’appelle-t-elle son oncle? //Wat loopt er hier mis?
  | 'De la petite Cecily à son cher Oncle Jack, avec son affection la plus vive'.
  | Bien sûr, je l’admets, une tante peut être une petite tante
@@ -144,7 +139,8 @@
  | au cas tu essaierais de nier la chose devant Gwendolen ou même n’importe qui.
  | Eh bien mon nom est Constant à la ville et Jack à la campagne et, l’étui, on me l’a donné à la campagne.
  | Bien, bien. Mais ça n’explique pas que ta petite tante Cecily
- | qui vit à Tunbridge Wells, t’appelle mon cher oncle. Allez mon vieux, tu ferais mieux de tout déballer.
+ | qui vit à Tunbridge Wells, t’appelle mon cher oncle. 
+ |Allez mon vieux, tu ferais mieux de tout déballer.
  | Algy, mon cher, tu parles exactement comme un dentiste.
  | C’est extrêmement vulgaire de parler comme un dentiste quand on n’est pas un dentiste.
  | Cela crée un malaise.
@@ -169,43 +165,48 @@
  | Ecoute, je ne suis pas sûr que tu sois capable de comprendre mes vraies raisons.
  | Tu n’es pas assez sérieux. Quand on se trouve dans la situation de tuteur
  | on doit montrer une attitude hautement morale sur tous les sujets.
- | C’est un devoir. Et comme une attitude hautement morale n’est pas compatible avec la santé et le plaisir
- | quand je veux aller en ville je prétends toujours que j’ai un jeune frère du nom de Constant
- | qui vit à Albany, et qui mène la vie la plus dissipée. Voilà, mon cher, la vérité pure et simple.
+ | C’est un devoir. 
+ | Et comme une attitude hautement morale n’est pas compatible avec la santé et le plaisir,
+ | quand je veux aller en ville je prétends toujours que j’ai un jeune frère 
+ |du nom de Constant qui vit à Albany, et qui mène la vie la plus dissipée. 
+ | Voilà, mon cher, la vérité pure et simple.
  | La vérité est rarement pure et jamais simple.
- | Sinon la vie moderne serait profondément ennuyeuse et
- | la littérature moderne tout à fait impossible.
+ | Sinon la vie moderne serait profondément ennuyeuse
+ | et la littérature moderne tout à fait impossible.
  | Ce ne serait pas une mauvaise chose.
  | La critique littéraire n’est pas ton point fort, mon vieux.
  | Inutile d’essayer, laisse donc ça aux types qui ne sont pas allés à l’Université.
  | Ils font ça très bien dans les journaux. En fait ce que tu es vraiment, c’est un Bunburiste.
- | J’avais tout à fait raison en disant que tu es un Bunburiste.
- | Tu es même un des Bunburistes les plus parfaits que je connaisse.
+ | J’avais tout à fait raison en disant que tu es un Bunburiste, le plus parfait que je connaisse.
  | Mais bon sang qu’est-ce que ça veut dire?
  | Tu t’es inventé un jeune frère bien utile appelé Constant
  | pour pouvoir aller en ville aussi souvent que tu veux.
  | Moi j’ai inventé Bunbury, un grand malade qui me permet
  | de filer à la campagne aussi souvent que je veux. Bunbury est très commode.
- | Par exemple, sans sa terrible mauvaise santé, je ne pourrais pas dîner ce soir
- | au Willis’s avec toi car je suis retenu par Tante Augusta depuis déjà huit jours.
+ | Par exemple, sans sa terrible mauvaise santé, 
+ |je ne pourrais pas dîner ce soir au Willis’s avec toi 
+ |car je suis retenu par Tante Augusta depuis déjà huit jours.
  | Je ne t’ai pas prié de dîner avec moi ce soir, où que ce soit
  | Je sais. Tu es absurdement négligent pour tes invitations.
  | C’est bête, rien n’est aussi ennuyeux que de ne pas recevoir d’invitations.
  | Tu ferais mieux de dîner avec ta Tante Augusta.
  | Je n’en ai pas la moindre intention.
  | D’abord, j’ai dîné avec elle lundi, et dîner une fois la semaine avec la famille, c’est bien suffisant.
- | Ensuite quand je dîne chez elle je suis toujours placé près de deux femmes, ou aucune.
+ | Ensuite quand je dîne chez elle T.B.D //
+ |je suis toujours placé près de deux femmes, ou aucune.
  | Enfin je sais parfaitement bien avec qui elle me mettrait ce soir.
  | Elle me placerait près de Marie Farquhar
  | qui flirte toujours par-dessus la table avec son propre mari.
+ |T.b.d //
+ |T.b.d //
  | La quantité de femmes à Londres qui flirtent avec leur mari est parfaitement scandaleuse.
  | C’est vraiment moche, c’est tout simplement laver son linge sale en public.
  | Bon, maintenant que je sais que tu es un Bunburiste il faut que je te parle de la technique.
+ | Je veux t'expliquer les règles.
  | Je ne suis pas du tout un Bunburiste. Si Gwendolen m’accepte, je vais tuer mon frère.
  | D’ailleurs de toute façon je crois que je vais le tuer. Cecily s’intéresse un peu trop à lui.
- | C’est plutôt ennuyeux. Allons, c’est dit, je 6 vais me débarrasser de Constant.
- | Et je te recommande vivement d’en faire autant avec monsieur…
- | avec ton grand malade au nom absurde.
+ | C’est plutôt ennuyeux. Allons, c’est dit, je vais me débarrasser de Constant.
+ | Et je te recommande vivement d’en faire autant avec monsieur… avec ton grand malade au nom absurde.
  | Rien ne me convaincra de me séparer de Bunbury, et si tu te maries,
  | ce qui me parait extrêmement problématique, tu seras bien content de connaître Bunbury.
  | Un homme marié qui ne connait pas Bunbury se prépare bien des ennuis.
@@ -215,30 +216,31 @@
  | Alors ta femme le fera. Tu ne sembles pas comprendre que dans le mariage,
  | trois c’est bien, deux c’est nul.
  | Ça, mon jeune ami, c’est la théorie que le Drame Français corrompu a répandu
- | pendant les cinquante dernières années.
+ |pendant les cinquante dernières années.
  | Oui. Et c’est ce que la respectable famille anglaise a mis en pratique.
- | Pour l’amour du ciel, ne joue pas les cyniques. C’est trop facile.
+  | Pour l’amour du ciel, ne joue pas les cyniques. C’est trop facile.
  | Mon petit vieux, ce n’est pas facile d’être quoi que ce soit de nos jours.
- | Il y a tellement de compétition. Ah, ça doit être la tante Augusta.
- | Il n’y a que la famille, ou les créanciers, pour sonner dans ce style wagnérien.
+ | Il y a tellement de compétition.
+ |Ah, ça doit être la tante Augusta. Il n’y a que la famille, ou les créanciers, pour sonner dans ce style wagnérien.
  | Ecoute, si je l’occupe pendant dix minutes, tu auras la possibilité de faire ta demande à Gwendolen.
  | Et alors je pourrai diner avec toi ce soir chez Willis’s?
  | Bon, si tu veux.
  | Parfait. Mais un repas sérieux, n’est-ce pas?
- | Je déteste les gens qui ne prennent pas les repas au sérieux.
- | C’est la preuve d’un caractère très superficiel.
+ | Je déteste les gens qui ne prennent pas les repas au sérieux. C’est la preuve d’un caractère très superficiel.
+ | Lady Bracknell et Miss Fairfax.
  | Bonjour, mon cher Algernon, j’espère que tu te comportes bien.
- | Je me sens très bien, tante Augusta. Lady Bracknell Ce n’est pas du tout la même chose.
- | En fait les deux choses vont rarement ensemble.
- | Comme tu es élégante, ma chère! Gwendolen Je suis toujours élégante. N’est-ce pas, M. Worthing?
+ | Je me sens très bien, tante Augusta. 
+ | Ce n’est pas du tout la même chose. En fait les deux choses vont rarement ensemble.
+ | Comme tu es élégante, ma chère!
+ | Je suis toujours élégante. N’est-ce pas, M. Worthing?
  | Vous êtes absolument parfaite, Miss Fairfax.
  | Oh! Mais j’espère bien que je ne le suis pas. Ça ne laisserait aucune place au progrès
  | et j’ai l’intention de progresser.
  | Désolée d’arriver un peu en retard, Algernon, mais il fallait que je passe chez Lady Harbury,
  | je ne l’avais pas vue depuis la mort de son pauvre mari.
  | Jamais je n’ai vu une femme aussi changée, elle parait avoir ans de moins.
- | Et maintenant je vais prendre une tasse de thé et
- | un de ces délicieux sandwichs aux concombres que tu m’as promis.
+ | Et maintenant je vais prendre une tasse de thé 
+ |et un de ces délicieux sandwichs aux concombres que tu m’as promis.
  | Bien sûr, Tante Augusta.
  | Viens donc t’assoir près de moi, Gwendolen.
  | Merci, maman, je suis très bien où je suis.
@@ -249,7 +251,8 @@
  | Non, monsieur. Même en payant comptant.
  | Ça ira, Lane, merci.
  | Merci, monsieur.
- | Je suis complètement désespéré, Tante Augusta. Pas de concombres, même en payant comptant.
+ | Je suis complètement désespéré, Tante Augusta, qu'il n'y avait pas de concombres,
+ |même en payant comptant.
  | Ça n’a pas vraiment d’importance, Algernon. J’ai pris quelques crumpets chez Lady Harbury,
  | une femme qui ne vit plus que pour le plaisir, me semble-t-il.
  | J’ai entendu dire que ses cheveux ont viré au blond. Le chagrin.
@@ -269,7 +272,8 @@
  | à savoir s’il veut vivre ou mourir.
  | Cette valse-hésitation est absurde.
  | D’ailleurs je n’approuve pas du tout la sympathie moderne pour les malades.
- | Je considère que c’est morbide. La santé est le premier devoir de la vie.
+ | Je considère que c’est morbide. 
+ | La santé est le premier devoir de la vie.
  | C’est ce que je dis toujours à votre pauvre oncle mais il ne m’écoute pas
  | si bien qu’il n’en résulte aucune amélioration pour sa santé...
  | Je te serais très obligée de prier, de ma part, M. Bunbury d’être assez gentil
@@ -277,251 +281,429 @@
  | C’est ma dernière soirée et il faut quelque chose qui facilite la conversation:
  | c’est la fin de la saison et chacun a dit tout ce qui pouvait être dit.
  | Ce qui bien souvent est probablement peu de choses.
- -  Je parlerai à Bunbury, Tante Augusta, s’il a toute sa conscience et je crois que je peux vous promettre qu’il sera tout à fait bien samedi. Naturellement, organiser une soirée musicale n’est pas facile. Voyez-vous, si on joue de la bonne musique les gens n’écoutent pas et si on joue de la mauvaise les gens ne parlent pas. Mais je vais revoir le programme que j’ai prévu, voulez-vous m’accompagner dans la pièce d’à-côté pour en parler tranquillement. Lady Bracknell Merci Algernon. C’est très gentil. (Elle se lève et suit Algernon) Je suis sûre que le programme sera très agréable. Après quelques suppressions. Par exemple, je ne peux tolérer les chansons françaises. Les gens trouvent toujours qu’elles sont indécentes et, ou bien ils paraissent choqués ce qui est vulgaire, ou ils rient ce qui est pire. Mais la musique allemande est tout à fait respectable. C’est mon avis. Gwendolen! Viens avec moi. Gwendolen Mais oui, maman! (Lady Bracknell et Algernon passent dans la salle de musique. Gwendolen reste en arrière) Scène 4 – Jack, Gwendolen
- -  Quelle belle journée, Miss Fairfax. Gwendolen S’il vous plait, M. Worthing, ne parlez pas du temps qu’il fait. Quand les gens me parlent du temps je sens bien qu’ils veulent dire autre chose et ça m’agace.
- -  Eh bien, je voulais dire autre chose. Gwendolen C’est bien ce que je pensais. En fait, je ne me trompe jamais.
- -  J’aimerais que vous me permettiez de profiter de l’absence temporaire… Gwendolen Oui, oui. Mais maman a une façon bien à elle de revenir brusquement…
- -  (nerveusement) Miss Fairfax, depuis que je vous ai vue, je vous ai admirée plus que toutes les femmes… que j’avais vues avant… de vous avoir vue. Gwendolen Oui, j’ai très bien remarqué ça. Et souvent j’aurais voulu qu’en public, vous soyez un peu plus démonstratif. Et vous, vous m’avez toujours irrésistiblement fascinée. Même avant notre première rencontre, vous étiez loin de me laisser indifférente. (Jack la regarde, stupéfait) Nous vivons, et j’espère que vous le savez, M. Worthing, à l’Âge de l’Idéal. C’est ce qu’on dit dans les magazines les plus coûteux. Et mon idéal a toujours été d’aimer quelqu’un du nom de Constant. Il y a quelque chose dans ce nom qui m’inspire une confiance absolue. Quand Algernon a expliqué pour la première fois qu’il avait un ami appelé Constant, j’ai su que j’étais destinée à vous aimer.
- -  Vraiment, vous m’aimez, Gwendolen? Gwendolen Passionnément!
- -  Chérie! Tu ne peux pas savoir à quel point tu me rends heureux. Gwendolen Mon Constant à moi!
- -  Mais tu ne veux pas dire que tu ne m’aimerais pas si je ne m’appelais pas Constant? Gwendolen Mais ton nom est Constant.
- -  Oui, oui, je sais. Mais supposons que ce soit un autre nom, est-ce que tu veux dire que tu ne pourrais pas m’aimer? 9 Gwendolen (désinvolte) Ça c’est clairement un problème… métaphysique, et les problèmes métaphysiques ont bien peu de rapports avec la vie réelle.
- -  Vois-tu, chérie, pour parler franchement, je ne tiens pas particulièrement au nom de Constant… Je trouve qu’il ne me va pas du tout. Gwendolen Il te convient parfaitement. C’est un nom divin. Il a une musique bien à lui. Il produit des vibrations douces.
- -  Eh bien, Gwendolen, je pense qu’il y a beaucoup d’autres noms bien plus beaux. Jack, par exemple, je trouve que c’est un nom charmant. Gwendolen Jack? Il y a bien peu de musique dans ce nom-là. Ça ne fait pas frissonner. Ça ne procure aucune vibration. J’ai connu plusieurs Jack et tous, sans exception, étaient terriblement ordinaires. D’ailleurs, Jack n’est qu’un diminutif pour John. Et je plains une femme qui épouserait un homme appelé John. Non, Constant est le seul nom possible.
- -  Gwendolen, il faut que je me fasse baptiser tout de suite… Je veux dire, nous devons nous marier tout de suite, il n’y a pas de temps à perdre. Gwendolen Nous marier, M. Worthing?
- -  (abasourdi) Eh bien… certainement. Vous savez que je vous aime et vous m’avez laissé croire, Miss Fairfax que je ne vous étais pas entièrement indifférent.
- -  Je vous adore. Mais vous n’avez pas encore demandé ma main. Rien n’a été dit concernant un mariage, le sujet n’a pas même été effleuré.
- -  Eh bien, puis-je vous demander votre main, tout de suite? Gwendolen Il me semble que c’est une merveilleuse occasion. Et pour vous épargner tout désappointement, M. Worthing, je pense qu’il serait plus franc de vous dire avant tout que je suis tout à fait déterminée à… accepter.
- -  Gwendolen!
- -  Oui, M. Worthing. … Qu’avez-vous à me dire?
- -  Vous savez très bien ce que j’ai à vous dire.
- -  Oui, mais vous ne le dites pas.
- -  Gwendolen, voulez-vous m’épouser? (Il se met à genoux)
- -  Naturellement je le veux, mon chéri. Comme tu as été long à te décider. Je crains que tu n’aies pas une grande expérience des demandes en mariage.
- -  Ma chérie à moi, c’est que je n’ai jamais aimé personne au monde que toi.
- -  Oui, mais souvent les hommes font des demandes pour s’entrainer. Je sais que Gérald, mon frère, le fait. Et toutes mes amies m’en disent autant. Ah, Constant, comme tu as des yeux miraculeusement bleus. J’espère que tu me regarderas toujours comme ça, juste comme ça. Particulièrement en public. (Entre Lady Bracknell) 10 Scène – Jack, Gwendolen, Lady Bracknell Lady Bracknell M. Worthing! Relevez-vous. Cette posture à demi-allongée est tout à fait incorrecte. Gwendolen Maman! (Il tente de se relever, elle l’en empêche) Je dois vous prier de vous retirer. Vous n’êtes pas à votre place. D’ailleurs M. Worthing n’a pas complètement terminé. Lady Bracknell Terminé quoi? Puis-je savoir? Gwendolen Je suis fiancée à M. Worthing, maman. (Ils se relèvent ensemble) Lady Bracknell Pardonne-moi mais tu n’es fiancée à personne. Quand vous devrez vous fiancer, moi, ou votre père si sa santé le lui permet, te tiendront informée. Des fiançailles qui tomberaient sur une jeune fille par surprise, une surprise bonne ou mauvaise. Ce n’est pas une question qu’il t’est permis de décider toute seule. Et maintenant, j’ai quelques questions à vous poser, M. Worthing. Va donc m’attendre dans la voiture, Gwendolen. Gwendolen (d’un air de reproche) : Maman!
- -  Dans la voiture, Gwendolen! (Gwendolen va vers la porte. Elle et Jack s’envoient un baiser dans le dos de Lady Bracknell. Celle-ci semble ne pas vraiment comprendre ce qu’est ce bruit. Finalement, elle se retourne) Gwendolen, dans la voiture!
- -  Oui, maman. (Elle sort en regardant Jack) Lady Bracknell (s’assoit) Vous pouvez vous assoir M. Worthing. (Elle cherche dans son sac un carnet et un crayon)
- -  Merci, Lady Bracknell, je préfère rester debout. Lady Bracknell (crayon et carnet à la main) Je suis obligée de vous dire que vous ne figurez pas sur ma liste des jeunes hommes possibles, bien que j’ai la même que cette chère duchesse de Bolton. Nous travaillons ensemble, en fait. Cependant je suis toute prête à vous inscrire si vos réponses sont celles qu’une mère affectionnée peut souhaiter. Fumez-vous?
- -  Eh bien, oui, je dois admettre que je fume.
- -  Je suis heureuse de l’apprendre. Un homme doit toujours avoir quelque occupation, il y a déjà beaucoup trop de paresseux à Londres. Quel âge avez-vous?
- -  Vingt-neuf ans.
- -  Un très bon âge pour se marier. Ensuite, j’ai toujours été d’avis qu’un homme qui désire se marier devrait tout savoir, ou rien. Que savez-vous?
- - (après une hésitation) : Rien, Lady Bracknell.
- -  Je suis contente de vous l’entendre dire. J’ai horreur de tout ce qui altère l’ignorance naturelle. L’ignorance est comme un fruit exotique délicat, vous le touchez et le parfum disparait. Toute la théorie moderne de l’éducation est radicalement stupide. Fort heureusement, en Angleterre, l’éducation ne produit aucun effet d’aucune sorte. Sinon il s’ensuivrait de graves dangers pour les classes supérieures. Quel est votre revenu?
- -  Entre sept et huit mille livres par an. 11 Lady Bracknell (prend note) : En terres ou en placements?
- -  En placements, principalement.
- -  Voilà qui est satisfaisant. De nos jours, la terre n’est plus ni un profit, ni un plaisir. Elle donne une position sociale, c’est tout ce qu’on peut en dire.
- -  J’ai une maison de campagne avec un peu de terre, naturellement, à peu près quinze cent acres, je crois. Mais ce n’est pas de là que vient mon revenu réel. En fait si j’ai bien compris, il n’y a que les braconniers qui en tirent quelque chose.
- -  Une maison de campagne! De combien de pièces? Enfin, nous verrons cela plus tard. Vous avez une maison de ville, j’espère? Une fille toute simple comme Gwendolen pourrait difficilement vivre à la campagne.
- -  Eh bien, je possède une maison à Belgrave Square, mais elle est louée à l’année à lady Bloxham. Naturellement je peux la récupérer quand je veux après un préavis de six mois.
- -  Lady Bloxham? Je ne la connais pas.
- -  Oh, elle sort très peu. C’est une dame très âgée.
- -  De nos jours ce n’est pas une garantie de respectabilité. A quel numéro de Belgrave Square?
- -  Au cent quarante neuf. Lady Bracknell (secouant la tête) : Le côté qui n’est pas à la mode. Je sentais bien qu’il y avait un hic. Cependant ça peut facilement se changer.
- -  Voulez-vous dire la mode, ou le côté? 45 Lady Bracknell (Sérieusement) : Les deux, s’il le faut. Quelles sont vos opinions politiques?
- -  J’ai bien peur de n’en avoir aucune. Disons que je suis un Libéral Unioniste.
- -  Oh, on les compte avec les Tories. Ils dînent avec nous ou, du moins, sont invités aux réceptions. Passons aux choses moins importantes. Vos parents sont-ils vivants?
- -  J’ai perdu mes deux parents.
- -  Perdre un parent, M. Worthing, peut être considéré comme un malheur. Mais perdre les deux ressemble à de la négligence. Qui était votre père? C’était visiblement un homme fortuné. Etait-il issu du commerce ou de l’aristocratie?
- -  Je ne sais pas vraiment, je le crains. Le fait est, Lady Bracknell, que j’ai dit avoir perdu mes parents. Il serait plus juste de dire que ce sont eux qui m’ont perdu. Je ne sais vraiment pas de qui je suis né. Je suis, eh bien, je suis un enfant trouvé.
- -  Trouvé!
- -  Feu M. Thomas Cardew, un vieux gentilhomme très charitable, m’a trouvé et donné le nom de Worthing parce qu’il avait un billet de première classe dans sa poche pour Worthing. C’est une plage dans le Sussex.
- -  Et où le charitable gentilhomme qui avait un billet de première classe pour le Sussex vous a-t-il trouvé?
- - (avec gravité) : Dans un cabas.
- -  Un cabas? 90 12
- - (très sérieusement) : Oui, Lady Bracknell. J’étais dans un cabas, un grand cabas de cuir noir, avec des poignées. Un cabas très ordinaire en fait.
- -  Et en quel lieu M. James, ou Thomas, Cardew rencontra-t-il ce cabas très ordinaire?
- -  A la consigne de la gare de Victoria. On le lui a donné par erreur à la place du sien.
- -  La consigne de la gare de Victoria?
- -  Oui. Ligne de Brighton.
- -  La ligne n’est pas la question. M. Worthing, je dois dire que je me sens plutôt perplexe. Être né, ou engendré, dans un cabas, qu’il ait des poignées ou non, me semble relever d’un total mépris des traditions familiales. Cela rappelle les pires excès de la Révolution Française et je pense que vous savez à quoi ce malheureux événement nous a conduits. Quant au lieu précis où le cabas fut trouvé, la consigne d’une gare a pu servir à dissimuler quelque secret de famille, mais cela peut difficilement être regardé comme une base crédible pour obtenir une position dans la bonne société.
- -  Puis-je vous demander ce que vous me conseillez de faire? J’ai à peine besoin de dire que je ferais n’importe quoi pour assurer le bonheur de Gwendolen.
- -  M. Worthing, je vous conseille vivement d’essayer de trouver des parents aussi tôt que possible, de faire un effort pour montrer au moins un parent, quelque soit son sexe, avant la fin de la saison.
- -  Eh bien, je ne vois pas comment je pourrais arranger ça. Mais je peux montrer le cabas quand on voudra, il est chez moi dans ma garde-robe. Il me semble vraiment que ça pourrait vous satisfaire, Lady Bracknell.
- -  Moi, monsieur! Me satisfaire? Vous n’imaginez tout de même pas que moi et Lord Bracknell permettrions à notre fille unique, une jeune personne élevée avec le plus grand soin, de se marier dans une consigne et de s’allier avec un colis. Adieu, M. Worthing! (Lady Bracknell sort avec une majestueuse indignation)
- -  Adieu, Lady Bracknell. Scène 6 – Jack, Algernon (Algernon, dans la pièce voisine, attaque la Marche Nuptiale. Furieux, Jack va jusqu’à la porte)
- -  Algy, espèce d’idiot, arrête de jouer cette satanée musique. (La musique s’arrête et Algernon entre, chaleureux)
- -  Alors mon vieux, ça n’a pas marché? Ne me dis pas que Gwendolen a refusé. Je sais qu’elle est comme ça, toujours à refuser les gens. C’est maladif.
- -  Oh, ce n’est pas Gwendolen le problème. En ce qui la concerne nous sommes fiancés. Mais sa mère est parfaitement insupportable. Jamais rencontré une pareille… Gorgone. Je ne sais pas vraiment à quoi ressemble une Gorgone mais je suis sûr que Lady Bracknell en est une. En tous cas, c’est un monstre sans être un mythe ce qui est déloyal… Pardonne-moi, Algy, je suppose que je ne devrais pas parler comme ça de ta tante devant toi.
- -  Mon petit vieux, j’adore entendre dire du mal de la famille. C’est la seule chose qui me permet de la supporter. La famille c’est tout simplement un ennuyeux amas de gens qui 13 ne savent pas le moins du monde comment vivre… ni quand mourir.
- -  C’est absurde.
- -  Mais non!
- -  Eh bien, je ne veux pas discuter de ça. Tu veux toujours discuter, discuter… sur des trucs…
- -  Les trucs sont justement faits pour ça.
- -  Ma parole, si je pensais à ça, je me tirerais une balle dans la tête… (Pause) Dis Algy, tu ne crois pas que Gwendolen pourrait devenir comme sa mère dans… disons 1ans?
- -  Toutes les femmes deviennent comme leur mère. C’est leur tragédie. Et aucun homme. C’est la leur.
- -  Et tu te crois intelligent?
- -  En tout cas, c’est bien trouvé! Et aussi vrai que n’importe quelle remarque sur notre belle civilisation.
- -  Je suis fatigué à mourir, de l’intelligence. Tout le monde est intelligent aujourd’hui. Tu ne peux aller nulle part sans rencontrer des gens intelligents. C’est devenu une calamité publique. Pourvu qu’il nous reste quelques idiots!
- -  Il en reste.
- -  J’aimerais beaucoup en rencontrer. De quoi parlent-ils?
- -  Les idiots? Des gens intelligents, naturellement. 45
- -  Quels idiots!
- -  Au fait, as-tu dit la vérité à Gwendolen? Que tu étais Constant en ville et Jack à la campagne?
- -  (d’un ton protecteur) : Mon vieux, la vérité n’est pas du tout la chose à dire à une jeune femme jolie et raffinée. Quelles drôles d’idées tu as sur la manière de se conduire avec les femmes!
- -  La seule façon de se conduire avec une femme est de lui faire l’amour, si elle est jolie, et de le faire à une autre si elle est laide.
- -  Encore une absurdité!
- -  Et que devient ton frère? Que devient Constant le débauché?
- -  Oh, d’ici la fin de la semaine j’en aurai fini avec lui. Je vais dire qu’il est mort à Paris, d’une apoplexie. Des tas de gens meurent d’une apoplexie, comme ça, tout à coup, non?
- -  Oui, mais c’est héréditaire, mon vieux. Que va penser Gwendolen? Tu ferais mieux de dire un terrible coup de froid.
- -  Tu es sûr qu’un terrible coup de froid n’est pas héréditaire ou quelque chose comme ça?
- -  Sûr!
- -  Très bien. Alors mon pauvre frère Constant a été emporté soudainement, à Paris, par un terrible coup de froid. Ça me débarrasse de lui.
- -  Mais je croyais que tu avais dit que… Miss Cardew s’intéressait un peu trop à ton 14 pauvre frère Constant? Ne va-t-elle pas ressentir durement sa perte?
- -  Pas de problème. Cecily n’est pas une de ces pimbêches romantiques, je suis heureux de le dire. Elle a un excellent appétit, fait de longues promenades et ne s’intéresse pas du tout à ses études.
- -  J’aimerais bien voir Cecily.
- -  Je veillerai à ce que ça ne se produise pas. Elle est extrêmement jolie et a tout juste dixhuit ans.
- -  As-tu dit à Gwendolen que tu avais une pupille extrêmement jolie qui a tout juste dix-huit ans?
- -  On n’envoie pas ça comme ça à la figure des gens. Je suis parfaitement certain que Cecily et Gwendolen vont devenir de grandes amies. Je parierais n’importe quoi qu’au bout d’une demi-heure elles vont s’appeler « ma chérie ».
- -  Les femmes ne font ça qu’après s’être appelées d’un tas d’autres noms. Maintenant, mon vieux, si nous voulons avoir une bonne table au Willis’s, il faut aller s’habiller. Tu as vu? Il est presque sept heures.
- - (irrité) : Oh! Il est toujours presque sept heures avec toi.
- -  Eh oui, j’ai faim.
- -  Tu as toujours faim.
- -  Que ferons-nous après dîner? Aller au théâtre?
- -  Je déteste écouter. 45
- -  Eh bien, allons au Club?
- -  J’ai horreur de parler.
- -  Bon, nous pourrions faire un saut jusqu’à l’Empire à dix heures.
- -  Oh non! Je ne supporte pas de regarder des femmes se tortiller, c’est stupide.
- -  Alors, qu’est-ce qu’on va faire?
- -  Rien!
- -  C’est un dur travail que de ne rien faire. Mais un dur travail ne me gêne pas du moment que ça n’engage à rien de précis. (Lane entre) Scène 7 – Jack, Algernon, Gwendolen
- -  Miss Fairfax. (Gwendolen entre. Lane sort.)
- -  Ma parole, c’est Gwendolen!
- -  Algy, retourne-toi s’il te plait. J’ai quelque chose de confidentiel à dire à M. Worthing.
- -  Vraiment, Gwendolen, je ne sais pas si je peux permettre ça.
- -  Algy, tu as toujours fait preuve d’une attitude parfaitement immorale. D’ailleurs tu es bien trop jeune pour jouer les chaperons. (Algernon se place près de la cheminée)
- -  Constant, nous ne nous marierons peut-être jamais. Quand je vois la tête de maman… Peu de parents de nos jours écoutent leurs enfants. L’ancien respect pour la jeunesse disparait rapidement. Même si j’ai eu de l’influence sur maman, je l’ai perdue à l’âge de trois ans. Pourtant, même si elle nous 15 empêche de devenir mari et femme, même si je dois épouser quelqu’un d’autre, et peutêtre plusieurs fois, rien de tout ce qu’elle pourra faire ne m’empêchera de t’aimer pour l’éternité.
- -  Gwendolen, ma chérie!
- -  Maman m’a raconté avec des commentaires déplaisants, l’histoire romanesque de tes origines. J’en ai été émue jusqu’au plus profond de moi-même. Ton nom, Constant, me fascine irrésistiblement. La simplicité de ton caractère te rend délicieusement incompréhensible à mes yeux. J’ai ton adresse à Albany, quelle est ton adresse à la campagne?
- -  Le Manoir, Woolton, Hertfordshire. (Algernon qui écoute tout, sourit et note l’adresse sur ses manchettes. Puis il consulte le guide des chemins de fer.)
- -  La Poste fonctionne bien, j’espère? Nous devrons peut-être faire quelque chose de désespéré. Il faut y penser. Je t’écrirai tous les jours.
- -  Ma chérie à moi!
- -  Tu restes en ville?
- -  Jusqu’à lundi.
- -  Bon. Algy, tu peux te retourner.
- -  Merci mais je m’étais déjà retourné.
- -  Tu peux aussi sonner.
- -  Je peux t’accompagner jusqu’à ta voiture, ma chérie?
- -  Bien sûr. 45
- - (à Lane qui vient d’entrer) : J’accompagne Miss Fairfax!
- -  Bien, monsieur. (Jack et Gwendolen sortent) Scène 8 – Algernon, Lane puis Jack (Lane présente à Algernon plusieurs lettres sur un plateau. Il s’agit probablement de factures car Algernon les déchire après un simple coup d’oeil).
- -  Un verre de sherry, Lane.
- -  Oui, monsieur.
- -  Demain, Lane, je vais Bunburiser.
- -  Oui, monsieur.
- -  Je ne reviendrai probablement pas avant lundi. Vous pouvez préparer mon smoking et tout ce qu’il faut pour Bunburiser.
- - (sert le sherry) : Oui, monsieur.
- -  J’espère que nous aurons une belle journée demain, Lane.
- -  Ça n’arrive jamais, monsieur.
- -  Vous être un parfait pessimiste.
- -  Je fais de mon mieux pour donner satisfaction, monsieur. (Jack entre. Lane sort.)
- -  Quelle jeune fille raisonnable, et intelligente! La seule qui m’ait intéressé de toute ma vie. (Algernon rit) Qu’est qui te fait rire comme ça?
- -  Oh, je suis un peu inquiet pour ce pauvre Bunbury. 16
- -  Fais attention, ton ami Bunbury pourrait bien t’attirer de sérieux ennuis un de ces jours.
- -  J’adore les ennuis. Ce sont les seules choses qui ne m’ennuient pas.
- -  Encore une absurdité, Algy. Tu ne sais dire que ça.
- -  C’est absurde! Rideau 17 ACTE 2 Un jardin au Manoir. Un perron de pierres grises conduit à la maison. Le jardin, à l’ancienne, est plein de roses. C’est Juillet. Des chaises en osier et une table couverte de livres sont installées sous un grand if. Scène 1 – Cecily, Miss Prism (Miss Prism est assise à la table. Cecily est au fond arrosant des fleurs.) Miss Prism (appelle) : Cecily, Cecily! Une occupation aussi terre-àterre que l’arrosage des fleurs est plutôt la fonction de Moulton que la votre, non? Surtout au moment où le plaisir intellectuel vous attend. Votre grammaire allemande est sur la table. S’il vous plait, ouvrez-la page quinze. Nous allons reprendre la leçon d’hier. Cecily (approche très lentement) : Mais je n’aime pas l’allemand. C’est une langue qui ne me va pas et je sais bien qu’après la leçon je serai tout à fait laide.
- -  Mon enfant, vous savez à quel point votre tuteur est désireux de vous voir progresser. Il a mis spécialement l’accent sur l’allemand en partant hier pour la ville. A vrai dire, il insiste toujours sur l’allemand quand il va en ville.
- -  Ce cher oncle Jack est tellement sérieux! Parfois il est si sérieux que je me demande s’il n’est pas malade. Miss Prism (va vers Cecily) : Votre tuteur jouit d’une excellente santé et je ne connais personne qui ait un tel sens du devoir et de la responsabilité.
- -  C’est peut-être pour ça qu’il semble s’ennuyer quand nous sommes tous les trois.
- -  Cecily! Vous me surprenez. M. Worthing a bien des problèmes. Une gaité immodérée est hors de question pour lui. Et rappelezvous ses perpétuelles inquiétudes au sujet de son malheureux frère cadet.
- -  J’aimerais bien qu’oncle Jack permette à ce terrible frère de venir ici quelquefois. Nous pourrions avoir une bonne influence sur lui, Miss Prism. Vous surtout qui connaissez l’allemand, et la géologie, et des choses de ce genre qui impressionnent beaucoup un homme. (Cecily commence à écrire dans son carnet) Miss Prism (secouant la tête) : Je ne crois pas que je puisse produire le moindre effet sur un personnage qui, de l’avis de son propre frère, est irrémédiablement faible et irrésolu. A vrai dire, je ne suis même pas sûre d’avoir envie de l’amender. Je n’aime pas du tout cette manie actuelle de vouloir transformer les méchants en bons. Comme on sème, on récolte. Posez donc cet agenda, Cecily. Je ne vois d’ailleurs pas pourquoi il vous faut un agenda.
- -  Je tiens un agenda pour y noter tous mes petits secrets. Si je ne les écris pas, je vais tout oublier.
- -  La mémoire, ma chère Cecily, est l’agenda que nous avons toujours sur nous.
- -  Oui, mais en général elle retrace des choses qui ne sont jamais arrivées et n’aurait pas même pu arriver. Je crois que la mémoire est responsable de presque tous ces incroyables romans en trois tomes.
- -  Ne parlez pas si méchamment des romans en trois tomes, Cecily, j’en ai écrit un moimême dans ma jeunesse.
- -  Vraiment, Miss Prism? Comme vous êtes intelligente. J’espère qu’il ne finissait pas bien? Je n’aime pas les romans qui finissent bien. Ils me dépriment tellement. 18
- -  Eh bien, les bons sont récompensés et les méchants sont punis. C’est de la fiction, voyez-vous.
- -  Sans doute. Mais ça me semble injuste. Et votre roman a-t-il été publié?
- -  Hélas non. Malheureusement le manuscrit a été abandonné. (Cecily sursaute) Je veux dire perdu, égaré. Mais cette conversation ne fait pas avancer votre travail. Cecily (sourit) : Mais je vois ce cher Dr Chasuble qui arrive. Miss Prism (se lève et va à sa rencontre) : Dr Chasuble! C’est un vrai plaisir. (Entre Canon Chasuble) Scène 2 – Cecily, Miss Prism, Dr Chasuble Dr
- -  Et comment allons-nous ce matin? Miss Prism, vous allez bien, j’en suis sûr.
- -  Miss Prism se plaignait à l’instant d’un léger mal de tête. Je crois qu’une petite promenade avec vous dans le parc lui ferait beaucoup de bien, Docteur Chasuble.
- -  Cecily, je n’ai jamais parlé de mal de tête.
- -  Je sais, chère Miss Prism, mais mon instinct m’a dit que vous aviez un mal de tête. A vrai dire, c’est à ça que je pensais et pas à ma leçon d’allemand quand M. le recteur est arrivé. Dr
- -  J’espère que vous n’êtes pas une élève étourdie, Cecily.
- -  Oh, je le crains. Dr
- -  C’est étrange. Si j’avais le bonheur d’être l’élève de Miss Prism, je serais suspendu à ses lèvres (Coup d’oeil de Miss Prism) C’est une métaphore qui vient… des abeilles. Au fait, M. Worthing n’est pas encore revenu de la ville, je suppose.
- -  Nous ne l’attendons pas avant lundi aprèsmidi. Dr
- -  Eh oui, il aime bien passer le dimanche à Londres. Il n’est pas de ceux dont le seul but est le divertissement comme son dissipé jeune frère. Mais je ne veux pas déranger plus longtemps Egérie et son élève.
- -  Egérie? Mon prénom est Laetitia, docteur. Dr Chasuble (saluant) : Une simple allusion classique tirée des auteurs païens. Je vous verrai toutes deux aux vêpres, sans doute?
- -  Je pense, mon cher docteur, que je vais faire une petite promenade avec vous. Finalement il se trouve que j’ai mal à la tête et une promenade pourrait me faire du bien. Dr
- -  Avec plaisir, Miss Prism, avec plaisir. Nous pourrions aller jusqu’à l’école et revenir.
- -  Ce serait délicieux. Cecily, vous lirez votre Economie Politique en mon absence. Vous pouvez passer le chapitre sur la chute de la roupie qui est trop scandaleux. Même ces questions monétaires ont un côté choquant. (S’en va par le jardin avec le Dr Chasuble) Scène 6 – Cecily puis Algernon
- -  (Prend les livres et le rejette sur la table) Horrible Economie Politique! Horrible géographie! Horrible, horrible allemand! 19 (Entre Merriman avec une carte sur un plateau)
- -  M. Constant Worthing vient d’arriver de la gare. Il a apporté ses bagages. Cecily (lit la carte) : « M. Constant Worthing, B.4, The Albany, W ». Le frère de l’oncle Jack! Lui avez-vous dit que M. Worthing était à Londres?
- -  Oui, mademoiselle. Il avait l’air très désappointé. Je lui ai signalé que vous étiez dans le jardin avec Miss Prism et il a dit qu’il était très désireux de vous parler un moment en privé.
- -  Dites à M. Worthing de venir ici. Je suppose que vous feriez bien de demander à la gouvernante de lui préparer une chambre.
- -  Oui, mademoiselle. (Merriman sort)
- -  Je n’ai encore jamais rencontré de personne vraiment dépravée. J’ai un peu peur. J’ai un peu peur qu’il soit juste comme tout le monde. (Entre Algernon, très gai et plein d’assurance) Il l’est! Algernon (levant son chapeau) : Vous êtes ma petite cousine Cecily, j’en suis sûr!
- -  Vous faites une étrange erreur. Je ne suis pas petite. En fait je crois que je suis plutôt grande pour mon âge. (Algernon est assez interloqué) Mais je suis bien votre cousine Cecily. Vous, je vois ça sur votre carte, vous êtes le frère de mon Oncle Jack, mon méchant cousin Constant.
- -  Oh! Je ne suis pas du tout méchant, cousine Cecily. Vous ne devez pas penser que je suis méchant.
- -  Si vous ne l’êtes pas vous nous avez tous trompés d’une façon inexcusable. J’espère que vous ne menez pas une double vie, à faire semblant d’être méchant tout en étant parfaitement normal. Ce serait de l’hypocrisie, vous savez. Algernon (la regarde avec ébahissement) Oh, naturellement je suis plutôt écervelé.
- -  Je suis heureuse de vous l’entendre dire.
- -  Puisque vous en parlez, en fait j’ai été très méchant, à ma façon.
- -  Vous ne semblez pas en être bien fier, pourtant je suis sûre que c’était très amusant.
- -  C’est beaucoup plus amusant d’être ici près de vous.
- -  Je ne comprends pas du tout pourquoi vous êtes venu. Oncle Jack ne sera pas de retour avant lundi après-midi.
- -  C’est un grand désappointement, je suis obligé de partir lundi matin par le premier train. J’ai un rendez-vous d’affaires que je dois absolument… manquer.
- -  Ne pourriez-vous pas le manquer ailleurs qu’à Londres?
- -  Non, le rendez-vous est à Londres.
- -  Eh bien, naturellement, je sais comme c’est important de rater un rendez-vous d’affaires si on veut préserver le vrai sens de la vie. Mais je crois tout de même que vous feriez mieux d’attendre qu’Oncle Jack revienne. Je sais qu’il veut vous parler au sujet de votre expatriation.
- -  De ma quoi? 20
- -  Votre expatriation. Il est allé acheter votre équipement.
- -  Ah non! Je ne laisserais certainement pas Jack acheter mon équipement. Il n’a aucun goût pour choisir une cravate.
- -  Je ne pense pas que vous aurez besoin d’une cravate. Oncle Jack vous envoie en Australie.
- -  En Australie? Plutôt mourir.
- -  Eh bien, il a dit mercredi soir au dîner que vous deviez choisir entre notre monde, l’autre monde et l’Australie.
- -  Les nouvelles que j’ai reçues de l’Australie et de l’autre monde, ne sont pas particulièrement encourageantes. Notre monde est assez bon pour moi, cousine Cecily.
- -  Oui, mais êtes-vous assez bon pour lui?
- -  Je crains bien que non. Il faut que vous m’aidiez à changer. Ça pourrait être votre mission dans la vie, si ça ne vous ennuie pas, cousine Cecily.
- -  J’ai peur de ne pas avoir le temps, cette après-midi.
- -  Alors, ça ne vous ennuierait pas que je me corrige moi-même?
- -  C’est plutôt illusoire, mais je crois que vous pourriez essayer.
- -  Oui, oui. Je me sens déjà mieux.
- -  Ça n’en a pas l’air.
- -  C’est parce que j’ai faim.
- -  Que je suis étourdie. J’aurais dû me souvenir que quand quelqu’un se met à mener une vie tout à fait nouvelle, il a besoin de repas copieux et réguliers. Voulez-vous entrer?
- -  Merci. Pourrais-je d’abord avoir une fleur pour ma boutonnière?
- -  Une Maréchale Niels? (Elle prend le sécateur)
- -  Non, je préfèrerais une rose rose. Cecily (coupe une fleur) : Pourquoi?
- -  Parce que vous êtes une rose rose, cousine Cecily.
- -  Je ne pense pas que ce soit convenable de me dire des choses comme ça. Miss Prism ne me dit jamais des choses pareilles.
- -  Alors Miss Prism n’est qu’une vieille dame myope. (Cecily met la rose à sa boutonnière) Vous êtes la plus jolie jeune fille que j’aie jamais vue.
- -  Miss Prism dit que la beauté est un piège.
- -  Il y a des pièges où tout homme raisonnable aimerait bien se faire attraper.
- -  Oh, je n’ai pas envie d’attraper un homme raisonnable. Je ne saurais pas quoi lui dire. (Ils entrent dans la maison. Miss Prism et Dr Chasuble reviennent) Scène 4 – Miss Prism et Dr Chasuble puis Jack
- -  Vous êtes trop solitaire, mon cher Révérend. Vous devriez vous marier. 21 Dr
- -  Vous le savez, les préceptes comme la pratique de l’Eglise Primitive condamnaient le mariage. Miss Prism (Sentencieusement) : C’est justement pour ça que l’Eglise primitive n’a pas duré. Vous ne vous rendez pas compte qu’en restant durablement célibataire un homme devient une tentation permanente. Dr
- -  Mais un homme ne peut-il être aussi attirant quand il est marié?
- -  Aucun homme marié n’est attirant sauf pour sa femme. Dr
- -  Et souvent, m’a-t-on dit, pas même pour elle.
- -  Ça dépend de la femme. On peut avoir confiance dans la maturité mais les jeunes femmes sont trop vertes. (Dr Chasuble sursaute) C’est une métaphore horticole. Mais où donc est Cecily? Dr
- -  Peut-être nous a-t-elle suivis dans le parc? (Entre lentement Jack depuis le fond du jardin. Il est habillé en grand deuil avec un crêpe au chapeau et des gants noirs)
- -  M. Worthing! Dr
- -  M. Worthing?
- -  Quelle surprise, nous ne pensions pas vous voir avant lundi après-midi. Jack (serre la main de Miss Prism de façon tragique) : Je suis revenu plus tôt que prévu. Dr Chasuble, j’espère que vous allez bien? Dr
- -  Cher M. Worthing, j’espère que ce costume de deuil n’annonce pas quelque terrible catastrophe?
- -  Mon frère.
- -  Encore des dettes et de honteuses extravagances? Dr
- -  Toujours sa vie de plaisir? Jack (secouant la tête) : Mort. Dr
- -  Votre frère Constant, mort?
- -  Tout à fait mort.
- -  Quelle leçon pour lui, j’espère qu’il en tirera profit! Dr
- -  M. Worthing, je vous présente mes sincères condoléances. Vous avez au moins la consolation de savoir que vous avez toujours été le plus indulgent et le plus généreux des frères.
- -  Pauvre Constant, il avait bien des défauts, mais c’est tout de même un coup dur. Dr
- -  Certes. Etiez-vous avec lui jusqu’à la fin?
- -  Non, il est mort à l’étranger, à Paris en fait. J’ai reçu un télégramme la nuit dernière du directeur du Grand Hôtel. Dr
- -  Et quelle est la cause de la mort?
- -  Un terrible refroidissement, semble-t-il.
- -  Comme on a semé, on récolte. Dr Chasuble (levant la main) : Soyons charitables, chère Miss Prism, soyons charitables. Nul n’est parfait. Personnellement je suis très sensible aux courants d’air. L’enterrement aura-t-il lieu ici?
- -  Non. Il semble qu’il ait manifesté le désir d’être enterré à Paris. 22 Dr
- -  A Paris! (Il secoue la tête) Je crains que ça n’indique quelque sérieux trouble mental. Vous voudrez bien, sans doute, que je fasse une légère allusion, dimanche prochain, à cette tragédie familiale. (Jack presse sa main convulsivement) Mon sermon sur la signification de la Manne dans le désert peut être adapté à toutes les circonstances des plus joyeuses aux plus tristes. (Tous soupirent) Je l’ai prononcé aux fêtes des moissons, aux baptêmes, aux confirmations, aux jours de joie comme aux jours d’amertume. La dernière fois, c’était à la cathédrale, je prêchais pour la prévention du mécontentement dans les classes supérieures…
- -  Excusez-moi, vous avez parlé de baptêmes je crois, Dr Chasuble? Vous savez sûrement baptiser correctement? (Dr Chasuble parait abasourdi) Je veux dire, vous baptisez souvent, n’est-ce pas?
- -  Bien sûr, c’est une des fonctions les plus importantes du recteur. Dr
- -  Y a-t-il un petit enfant à qui vous vous intéressez particulièrement, M. Worthing? Votre frère était célibataire, je crois?
- -  Oui, oui. Miss Prism (amèrement) : Comme tous ceux qui ne vivent que pour le plaisir.
+ |Je parlerai à Bunbury, Tante Augusta, s’il a toute sa conscience
+ |et je crois que je peux vous promettre qu’il sera tout à fait bien samedi.
+ |Naturellement, organiser une soirée musicale n’est pas facile.
+ |Voyez-vous, si on joue de la bonne musique les gens n’écoutent pas 
+ |et si on joue de la mauvaise les gens ne parlent pas.
+ |Mais je vais revoir le programme que j’ai prévu
+ | voulez-vous m’accompagner dans la pièce d’à-côté pour en parler. 
+ |Merci Algernon. C’est très gentil.
+ |Je suis sûre que le programme sera très agréable. Après quelques suppressions.
+ |Par exemple, je ne peux tolérer les chansons françaises.
+ |Les gens trouvent toujours qu’elles sont indécentes et,
+ |ou bien ils paraissent choqués ce qui est vulgaire, ou ils rient ce qui est pire.
+ |Mais la musique allemande est tout à fait respectable. Gwendolen! Viens avec moi.
+ |Mais oui, maman!
+ |Quelle belle journée, Miss Fairfax.
+ |S’il vous plait, M. Worthing, ne parlez pas du temps qu’il fait. 
+ |Quand les gens me parlent du temps je sens bien qu’ils veulent dire autre chose.
+ |Ça m’agace.
+ |Eh bien, je voulais dire autre chose. 
+ |C’est bien ce que je pensais. En fait, je ne me trompe jamais.
+ |J’aimerais que vous me permettiez de profiter de l’absence temporaire de Lady Bracknell… 
+ |Oui, oui. Mais maman a une façon bien à elle de revenir brusquement…
+ |T.B.D //
+ |Miss Fairfax, depuis que je vous ai vue, je vous ai admirée plus que toutes les femmes… 
+ |que j’avais vues avant… de vous avoir vue. 
+ |Oui, j’ai très bien remarqué ça. 
+ |Et souvent j’aurais voulu qu’en public, vous soyez un peu plus démonstratif. 
+ |Et vous, vous m’avez toujours irrésistiblement fascinée. 
+ |Même avant notre première rencontre, vous étiez loin de me laisser indifférente. 
+|Nous vivons, et j’espère que vous le savez, M. Worthing, à l’Âge de l’Idéal.
+|C’est ce qu’on dit dans les magazines les plus coûteux. 
+| T.B.D //
+|Et mon idéal a toujours été d’aimer quelqu’un du nom de Constant.
+|Il y a quelque chose dans ce nom qui m’inspire une confiance absolue.
+|Quand Algernon a expliqué pour la première fois qu’il avait un ami appelé Constant,
+|j’ai su que j’étais destinée à vous aimer.
+|Vraiment, vous m’aimez, Gwendolen? 
+|Passionnément!
+|Chérie! Tu ne peux pas savoir à quel point tu me rends heureux.
+|Mon Constant à moi!
+|Mais tu ne veux pas dire que tu ne m’aimerais pas si je ne m’appelais pas Constant?
+|Mais ton nom est Constant.
+|Mais supposons que ce soit un autre nom, est-ce que tu veux dire que tu ne pourrais pas m’aimer?
+|Ça c’est clairement un problème… métaphysique, et les problèmes métaphysiques ont bien 
+|peu de rapports avec la vie réelle.
+|Vois-tu chérie, pour parler fran&shy;chement, je ne tiens pas particulièr&shy;ement au nom de Constant… 
+|Je trouve qu’il ne me va pas du tout. 
+|Il te convient parfaitement. C’est un nom divin. 
+|Il a une musique bien à lui. Il produit des vibrations douces.
+|Eh bien, Gwendolen, je pense qu’il y a beaucoup d’autres noms bien plus beaux.
+|Jack, par exemple, je trouve que c’est un nom charmant.
+|Jack? Il y a bien peu de musique dans ce nom-là.
+|Ça ne fait pas frissonner. Ça ne procure aucune vibration.
+|J’ai connu plusieurs Jack et tous, sans exception, étaient terriblement ordinaires.
+|D’ailleurs, Jack n’est qu’un diminutif pour John.
+|Et je plains une femme qui épouserait un homme appelé John.
+| T.B.D // 
+|Non, Constant est le seul nom possible.
+|Gwendolen, il faut que je me fasse baptiser -
+|Je veux dire, nous devons nous marier tout de suite! 
+|Nous marier, M. Worthing?
+|Eh bien… certainement. Vous savez que je vous aime et vous m’avez laissé croire, Miss Fairfax
+|que je ne vous étais pas entièrement indifférent.
+|Je vous adore. Mais vous n’avez pas encore demandé ma main. 
+|Rien n’a été dit concernant un mariage, le sujet n’a pas même été effleuré.
+|Eh bien, puis-je vous demander votre main, tout de suite? 
+|Il me semble que c’est une merveilleuse occasion. 
+|Et pour vous épargner tout désappointement, M. Worthing,
+|je pense qu’il serait plus franc de vous dire avant tout que je suis tout à fait déterminée à  accepter.
+|Gwendolen!
+|Oui, M. Worthing. Qu’avez-vous à me dire?
+|Vous savez très bien ce que j’ai à vous dire.
+|Oui, mais vous ne le dites pas.
+|Gwendolen, voulez-vous m’épouser?
+| Naturellement je le veux, mon chéri. Comme tu as été long à te décider.
+|Je crains que tu n’aies pas une grande expérience des demandes en mariage.
+|Ma chérie à moi, c’est que je n’ai jamais aimé personne au monde que toi.
+|Oui, mais souvent les hommes font des demandes pour s’entrainer.
+|Je sais que Gérald, mon frère, le fait.
+|Et toutes mes amies m’en disent autant.
+|Ah, Constant, comme tu as des yeux miraculeusement bleus.
+|J’espère que tu me regarderas toujours comme ça, juste comme ça. Particulièrement en public.
+|M. Worthing! Relevez-vous.
+|Cette posture à demi-allongée est tout à fait incorrecte.
+|Maman! Je dois vous prier de vous retirer. Vous n’êtes pas à votre place.
+|D’ailleurs M. Worthing n’a pas complètement terminé.
+|Terminé quoi, puis-je savoir?
+|Je suis fiancée à M. Worthing, maman.
+|Pardonne-moi mais tu n’es fiancée à personne. 
+|Quand vous devrez vous fiancer, moi, ou votre père
+|si sa santé le lui permet, te tiendront informée. 
+|Des fiançailles qui tomberaient sur une jeune fille par surprise,
+|une surprise bonne ou mauvaise.
+|Ce n’est pas une question qu’il t’est permis de décider toute seule.
+|Et maintenant, j’ai quelques questions à vous poser, M. Worthing.
+|Va donc m’attendre dans la voiture, Gwendolen. 
+|Maman!
+|Dans la voiture, Gwendolen!
+|
+|Gwendolen, dans la voiture!
+|Oui, maman. 
+|Vous pouvez vous assoir M. Worthing.
+|Merci, Lady Bracknell, je préfère rester debout. 
+|Je suis obligée de vous dire que vous ne figurez pas sur ma liste des jeunes hommes possibles,
+|bien que j’ai la même que cette chère duchesse de Bolton. 
+|Nous travaillons ensemble, en fait.
+|Cependant je suis toute prête à vous inscrire 
+|si vos réponses sont celles qu’une mère affectionnée peut souhaiter. 
+|Fumez-vous?
+|Eh bien, oui, je dois admettre que je fume.
+|Je suis heureuse de l’apprendre. Un homme doit toujours avoir quelque occupation,
+|il y a déjà beaucoup trop de paresseux à Londres. 
+|Quel âge avez-vous?
+|Vingt-neuf ans.
+|Un très bon âge pour se marier.
+|Ensuite, j’ai toujours été d’avis qu’un homme qui désire se marier 
+| devrait tout savoir, ou rien. Que savez-vous?
+|
+|Rien, Lady Bracknell.
+|Je suis contente de vous l’entendre dire.
+|J’ai horreur de tout ce qui altère l’ignorance naturelle.
+|L’ignorance est comme un fruit exotique délicat, vous le touchez et le parfum disparait.
+|Toute la théorie moderne de l’éducation est radicalement stupide.
+|Fort heureusement, en Angleterre, l’éducation ne produit aucun effet d’aucune sorte
+|Sinon il s’ensuivrait de graves dangers pour les classes supérieures.
+|T.B.D. //
+|Quel est votre revenu?
+|Entre sept et huit mille livres par an.
+|En terres ou en placements?
+|En placements, principalement.
+|Voilà qui est satisfaisant. 
+|De nos jours, T.B.D//
+| T.B.D. //
+|la terre n’est plus ni un profit, ni un plaisir. 
+|Elle donne une position sociale, T.B.D. //
+|c’est tout ce qu’on peut en dire.
+|J’ai une maison de campagne avec un peu de terre, naturellement, à peu près quinze cent acres, 
+|Mais ce n’est pas de là que vient mon revenu réel.
+|En fait si j’ai bien compris, il n’y a que les braconniers qui en tirent quelque chose.//
+|Une maison de campagne! De combien de pièces?
+|Enfin, nous verrons cela plus tard.
+|Vous avez une maison de ville, j’espère?
+|Une fille toute simple comme Gwendolen
+|pourrait difficilement vivre à la campagne.
+|Eh bien, je possède une maison à Belgrave Square, mais elle est louée à l’année à lady Bloxham. 
+|Naturellement je peux la récupérer quand je veux après un préavis de six mois.
+|Lady Bloxham? Je ne la connais pas.
+|Oh, elle sort très peu.
+|C’est une dame très âgée.
+|De nos jours ce n’est pas une garantie de respectabilité.
+|A quel numéro de Belgrave Square?
+|Au cent quarante neuf.
+|Le côté qui n’est pas à la mode. Je sentais bien qu’il y avait un hic.
+|Cependant ça peut facilement se changer.
+|Voulez-vous dire la mode, ou le côté?
+|Les deux, s’il le faut. 
+|Quelles sont vos opinions politiques?
+|J’ai bien peur de n’en avoir aucune. Je suis un Libéral Unioniste.
+|Oh, on les compte avec les Tories. Ils dînent avec nous. 
+|Ou, du moins, sont invités aux réceptions.
+|Passons aux choses moins importantes. Vos parents sont-ils vivants?
+|J’ai perdu mes deux parents.
+|Perdre un parent, M. Worthing, peut être considéré comme un malheur.
+|Mais perdre les deux ressemble à de la négligence.
+|Qui était votre père?
+|C’était visiblement un homme fortuné. 
+|Etait-il issu du commerce
+| ou de l’aristocratie?
+|Je ne sais pas vraiment, je le crains.
+| Le fait est, Lady Bracknell, que j’ai dit avoir perdu mes parents.
+|Il serait plus juste de dire que ce sont eux
+|qui m’ont perdu.
+|Je ne sais vraiment pas de qui je suis né. Je suis, eh bien, 
+|je suis un enfant trouvé.
+|Trouvé!
+|Feu M. Thomas Cardew, un vieux gentilhomme très charitable,
+|m’a trouvé et donné le nom de Worthing
+|parce qu’il avait un billet de première classe dans sa poche pour Worthing.
+|C’est une plage dans le Sussex.
+|Et où le charitable gentilhomme vous a-t-il trouvé?
+|Dans un cabas.
+|Un cabas?
+|Oui, Lady Bracknell. J’étais dans un cabas
+|un grand cabas de cuir brun, avec des poignées. 
+|Un cabas très ordinaire en fait.
+|Et en quel lieu M. James, ou Thomas, Cardew 
+|rencontra-t-il ce cabas très ordinaire?
+|A la consigne de la gare de Victoria. 
+|On le lui a donné par erreur à la place du sien.
+|La consigne de la gare de Victoria?
+|Oui. Ligne de Brighton.
+|La ligne n’est pas la question.
+|M. Worthing, je dois dire que je me sens plutôt perplexe.
+|Être né, ou engendré, dans un cabas,
+|qu’il ait des poignées ou non, me semble relever
+|d’un total mépris des traditions familiales.
+|Cela rappelle les pires excès de la Révolution Française 
+|et je pense que vous savez à quoi ce malheureux événement nous a conduits.
+|Quant au lieu précis où le cabas fut trouvé,
+|la consigne d’une gare a pu servir
+|à dissimuler quelque secret de famille,
+|T.B.D //
+|mais cela peut difficilement être regardé comme une base crédible
+|pour obtenir une position dans la bonne société.
+|Puis-je vous demander ce que vous me conseillez de faire?
+|J’ai à peine besoin de dire que je ferais n’importe quoi 
+|pour assurer le bonheur de Gwendolen.
+|M. Worthing, je vous conseille vivement d’essayer
+|de trouver des parents aussi tôt que possible,
+|de faire un effort pour montrer au moins un parent,
+|quelque soit son sexe, avant la fin de la saison.
+|Eh bien, je ne vois pas comment je pourrais arranger ça.
+|Mais je peux montrer le cabas quand on voudra.
+|Il est chez moi dans ma garde-robe.
+|Il me semble vraiment que ça pourrait vous satisfaire, Lady Bracknell.
+|Moi, monsieur! Me satisfaire?
+|Vous n’imaginez tout de même pas que moi et Lord Bracknell permettrions
+|à notre fille unique, une jeune personne élevée avec le plus grand soin,
+|de se marier dans une consigne
+|et de s’allier avec un colis.
+|Adieu, M. Worthing!
+|Adieu, Lady Bracknell.
+|Algy, espèce d’idiot, arrête de jouer cette satanée musique. 
+|Alors mon vieux, ça n’a pas marché?
+|Ne me dis pas que Gwendolen a refusé.
+|Je sais qu’elle est comme ça, toujours à refuser les gens.
+|C’est maladif.
+|Oh, ce n’est pas Gwendolen le problème.
+|En ce qui la concerne nous sommes fiancés.
+|Mais sa mère est parfaitement insupportable.
+|Jamais rencontré une pareille… Gorgone.
+|Je ne sais pas vraiment à quoi ressemble une Gorgone
+|mais je suis sûr que Lady Bracknell en est une. 
+|En tous cas, c’est un monstre sans être un mythe ce qui est déloyal…
+|Pardonne-moi, Algy, je suppose que je ne devrais pas parler
+|comme ça de ta tante devant toi.
+|Mon petit vieux, j’adore entendre dire du mal de la famille.
+|C’est la seule chose qui me permet de la supporter.
+|La famille c’est tout simplement un ennuyeux amas de gens
+|qui ne savent pas le moins du monde comment vivre… ni quand mourir.
+|C’est absurde.
+|Mais non!
+|Eh bien, je ne veux pas discuter de ça.
+|Tu veux toujours discuter, discuter sur des trucs.
+|Les trucs sont justement faits pour ça.
+|Ma parole, si je pensais à ça, je me tirerais une balle dans la tête… 
+|
+|Dis Algy, tu ne crois pas que Gwendolen pourrait 
+|devenir comme sa mère dans un centaine d'années?
+
+
+|Toutes les femmes deviennent comme leur mère. C’est leur tragédie. Et aucun homme. C’est la leur.
+|Et tu te crois intelligent?
+|En tout cas, c’est bien trouvé! Et aussi vrai que n’importe quelle remarque sur notre belle civilisation.
+|Je suis fatigué à mourir, de l’intelligence. Tout le monde est intelligent aujourd’hui. Tu ne peux aller nulle part sans rencontrer des gens intelligents. C’est devenu une calamité publique. Pourvu qu’il nous reste quelques idiots!
+|Il en reste.
+|J’aimerais beaucoup en rencontrer. De quoi parlent-ils?
+|Les idiots? Des gens intelligents, naturellement. 45
+|Quels idiots!
+|Au fait, as-tu dit la vérité à Gwendolen? Que tu étais Constant en ville et Jack à la campagne?
+|(d’un ton protecteur) : Mon vieux, la vérité n’est pas du tout la chose à dire à une jeune femme jolie et raffinée. Quelles drôles d’idées tu as sur la manière de se conduire avec les femmes!
+|La seule façon de se conduire avec une femme est de lui faire l’amour, si elle est jolie, et de le faire à une autre si elle est laide.
+|Encore une absurdité!
+|Et que devient ton frère? Que devient Constant le débauché?
+|Oh, d’ici la fin de la semaine j’en aurai fini avec lui. Je vais dire qu’il est mort à Paris, d’une apoplexie. Des tas de gens meurent d’une apoplexie, comme ça, tout à coup, non?
+|Oui, mais c’est héréditaire, mon vieux. Que va penser Gwendolen? Tu ferais mieux de dire un terrible coup de froid.
+|Tu es sûr qu’un terrible coup de froid n’est pas héréditaire ou quelque chose comme ça?
+|Sûr!
+|Très bien. Alors mon pauvre frère Constant a été emporté soudainement, à Paris, par un terrible coup de froid. Ça me débarrasse de lui.
+|Mais je croyais que tu avais dit que… Miss Cardew s’intéressait un peu trop à ton 14 pauvre frère Constant? Ne va-t-elle pas ressentir durement sa perte?
+|Pas de problème. Cecily n’est pas une de ces pimbêches romantiques, je suis heureux de le dire. Elle a un excellent appétit, fait de longues promenades et ne s’intéresse pas du tout à ses études.
+|J’aimerais bien voir Cecily.
+|Je veillerai à ce que ça ne se produise pas. Elle est extrêmement jolie et a tout juste dixhuit ans.
+|As-tu dit à Gwendolen que tu avais une pupille extrêmement jolie qui a tout juste dix-huit ans?
+|On n’envoie pas ça comme ça à la figure des gens. Je suis parfaitement certain que Cecily et Gwendolen vont devenir de grandes amies. Je parierais n’importe quoi qu’au bout d’une demi-heure elles vont s’appeler « ma chérie ».
+|Les femmes ne font ça qu’après s’être appelées d’un tas d’autres noms. Maintenant, mon vieux, si nous voulons avoir une bonne table au Willis’s, il faut aller s’habiller. Tu as vu? Il est presque sept heures.
+| (irrité) : Oh! Il est toujours presque sept heures avec toi.
+|Eh oui, j’ai faim.
+|Tu as toujours faim.
+|Que ferons-nous après dîner? Aller au théâtre?
+|Je déteste écouter. 45
+|Eh bien, allons au Club?
+|J’ai horreur de parler.
+|Bon, nous pourrions faire un saut jusqu’à l’Empire à dix heures.
+|Oh non! Je ne supporte pas de regarder des femmes se tortiller, c’est stupide.
+|Alors, qu’est-ce qu’on va faire?
+|Rien!
+|C’est un dur travail que de ne rien faire. Mais un dur travail ne me gêne pas du moment que ça n’engage à rien de précis. (Lane entre) Scène 7 – Jack, Algernon, Gwendolen
+|Miss Fairfax. (Gwendolen entre. Lane sort.)
+|Ma parole, c’est Gwendolen!
+|Algy, retourne-toi s’il te plait. J’ai quelque chose de confidentiel à dire à M. Worthing.
+|Vraiment, Gwendolen, je ne sais pas si je peux permettre ça.
+|Algy, tu as toujours fait preuve d’une attitude parfaitement immorale. D’ailleurs tu es bien trop jeune pour jouer les chaperons. (Algernon se place près de la cheminée)
+|Constant, nous ne nous marierons peut-être jamais. Quand je vois la tête de maman… Peu de parents de nos jours écoutent leurs enfants. L’ancien respect pour la jeunesse disparait rapidement. Même si j’ai eu de l’influence sur maman, je l’ai perdue à l’âge de trois ans. Pourtant, même si elle nous 15 empêche de devenir mari et femme, même si je dois épouser quelqu’un d’autre, et peutêtre plusieurs fois, rien de tout ce qu’elle pourra faire ne m’empêchera de t’aimer pour l’éternité.
+|Gwendolen, ma chérie!
+|Maman m’a raconté avec des commentaires déplaisants, l’histoire romanesque de tes origines. J’en ai été émue jusqu’au plus profond de moi-même. Ton nom, Constant, me fascine irrésistiblement. La simplicité de ton caractère te rend délicieusement incompréhensible à mes yeux. J’ai ton adresse à Albany, quelle est ton adresse à la campagne?
+|Le Manoir, Woolton, Hertfordshire. (Algernon qui écoute tout, sourit et note l’adresse sur ses manchettes. Puis il consulte le guide des chemins de fer.)
+|La Poste fonctionne bien, j’espère? Nous devrons peut-être faire quelque chose de désespéré. Il faut y penser. Je t’écrirai tous les jours.
+|Ma chérie à moi!
+|Tu restes en ville?
+|Jusqu’à lundi.
+|Bon. Algy, tu peux te retourner.
+|Merci mais je m’étais déjà retourné.
+|Tu peux aussi sonner.
+|Je peux t’accompagner jusqu’à ta voiture, ma chérie?
+|Bien sûr. 45
+| (à Lane qui vient d’entrer) : J’accompagne Miss Fairfax!
+|Bien, monsieur. (Jack et Gwendolen sortent) Scène 8 – Algernon, Lane puis Jack (Lane présente à Algernon plusieurs lettres sur un plateau. Il s’agit probablement de factures car Algernon les déchire après un simple coup d’oeil).
+|Un verre de sherry, Lane.
+|Oui, monsieur.
+|Demain, Lane, je vais Bunburiser.
+|Oui, monsieur.
+|Je ne reviendrai probablement pas avant lundi. Vous pouvez préparer mon smoking et tout ce qu’il faut pour Bunburiser.
+| (sert le sherry) : Oui, monsieur.
+|J’espère que nous aurons une belle journée demain, Lane.
+|Ça n’arrive jamais, monsieur.
+|Vous être un parfait pessimiste.
+|Je fais de mon mieux pour donner satisfaction, monsieur. (Jack entre. Lane sort.)
+|Quelle jeune fille raisonnable, et intelligente! La seule qui m’ait intéressé de toute ma vie. (Algernon rit) Qu’est qui te fait rire comme ça?
+|Oh, je suis un peu inquiet pour ce pauvre Bunbury. 16
+|Fais attention, ton ami Bunbury pourrait bien t’attirer de sérieux ennuis un de ces jours.
+|J’adore les ennuis. Ce sont les seules choses qui ne m’ennuient pas.
+|Encore une absurdité, Algy. Tu ne sais dire que ça.
+|C’est absurde! Rideau 17 ACTE 2 Un jardin au Manoir. Un perron de pierres grises conduit à la maison. Le jardin, à l’ancienne, est plein de roses. C’est Juillet. Des chaises en osier et une table couverte de livres sont installées sous un grand if. Scène 1 – Cecily, Miss Prism (Miss Prism est assise à la table. Cecily est au fond arrosant des fleurs.) Miss Prism (appelle) : Cecily, Cecily! Une occupation aussi terre-àterre que l’arrosage des fleurs est plutôt la fonction de Moulton que la votre, non? Surtout au moment où le plaisir intellectuel vous attend. Votre grammaire allemande est sur la table. S’il vous plait, ouvrez-la page quinze. Nous allons reprendre la leçon d’hier. Cecily (approche très lentement) : Mais je n’aime pas l’allemand. C’est une langue qui ne me va pas et je sais bien qu’après la leçon je serai tout à fait laide.
+|Mon enfant, vous savez à quel point votre tuteur est désireux de vous voir progresser. Il a mis spécialement l’accent sur l’allemand en partant hier pour la ville. A vrai dire, il insiste toujours sur l’allemand quand il va en ville.
+|Ce cher oncle Jack est tellement sérieux! Parfois il est si sérieux que je me demande s’il n’est pas malade. Miss Prism (va vers Cecily) : Votre tuteur jouit d’une excellente santé et je ne connais personne qui ait un tel sens du devoir et de la responsabilité.
+|C’est peut-être pour ça qu’il semble s’ennuyer quand nous sommes tous les trois.
+|Cecily! Vous me surprenez. M. Worthing a bien des problèmes. Une gaité immodérée est hors de question pour lui. Et rappelezvous ses perpétuelles inquiétudes au sujet de son malheureux frère cadet.
+|J’aimerais bien qu’oncle Jack permette à ce terrible frère de venir ici quelquefois. Nous pourrions avoir une bonne influence sur lui, Miss Prism. Vous surtout qui connaissez l’allemand, et la géologie, et des choses de ce genre qui impressionnent beaucoup un homme. (Cecily commence à écrire dans son carnet) Miss Prism (secouant la tête) : Je ne crois pas que je puisse produire le moindre effet sur un personnage qui, de l’avis de son propre frère, est irrémédiablement faible et irrésolu. A vrai dire, je ne suis même pas sûre d’avoir envie de l’amender. Je n’aime pas du tout cette manie actuelle de vouloir transformer les méchants en bons. Comme on sème, on récolte. Posez donc cet agenda, Cecily. Je ne vois d’ailleurs pas pourquoi il vous faut un agenda.
+|Je tiens un agenda pour y noter tous mes petits secrets. Si je ne les écris pas, je vais tout oublier.
+|La mémoire, ma chère Cecily, est l’agenda que nous avons toujours sur nous.
+|Oui, mais en général elle retrace des choses qui ne sont jamais arrivées et n’aurait pas même pu arriver. Je crois que la mémoire est responsable de presque tous ces incroyables romans en trois tomes.
+|Ne parlez pas si méchamment des romans en trois tomes, Cecily, j’en ai écrit un moimême dans ma jeunesse.
+|Vraiment, Miss Prism? Comme vous êtes intelligente. J’espère qu’il ne finissait pas bien? Je n’aime pas les romans qui finissent bien. Ils me dépriment tellement. 18
+|Eh bien, les bons sont récompensés et les méchants sont punis. C’est de la fiction, voyez-vous.
+|Sans doute. Mais ça me semble injuste. Et votre roman a-t-il été publié?
+|Hélas non. Malheureusement le manuscrit a été abandonné. (Cecily sursaute) Je veux dire perdu, égaré. Mais cette conversation ne fait pas avancer votre travail. Cecily (sourit) : Mais je vois ce cher Dr Chasuble qui arrive. Miss Prism (se lève et va à sa rencontre) : Dr Chasuble! C’est un vrai plaisir. (Entre Canon Chasuble) Scène 2 – Cecily, Miss Prism, Dr Chasuble Dr
+|Et comment allons-nous ce matin? Miss Prism, vous allez bien, j’en suis sûr.
+|Miss Prism se plaignait à l’instant d’un léger mal de tête. Je crois qu’une petite promenade avec vous dans le parc lui ferait beaucoup de bien, Docteur Chasuble.
+|Cecily, je n’ai jamais parlé de mal de tête.
+|Je sais, chère Miss Prism, mais mon instinct m’a dit que vous aviez un mal de tête. A vrai dire, c’est à ça que je pensais et pas à ma leçon d’allemand quand M. le recteur est arrivé. Dr
+|J’espère que vous n’êtes pas une élève étourdie, Cecily.
+|Oh, je le crains. Dr
+|C’est étrange. Si j’avais le bonheur d’être l’élève de Miss Prism, je serais suspendu à ses lèvres (Coup d’oeil de Miss Prism) C’est une métaphore qui vient… des abeilles. Au fait, M. Worthing n’est pas encore revenu de la ville, je suppose.
+|Nous ne l’attendons pas avant lundi aprèsmidi. Dr
+|Eh oui, il aime bien passer le dimanche à Londres. Il n’est pas de ceux dont le seul but est le divertissement comme son dissipé jeune frère. Mais je ne veux pas déranger plus longtemps Egérie et son élève.
+|Egérie? Mon prénom est Laetitia, docteur. Dr Chasuble (saluant) : Une simple allusion classique tirée des auteurs païens. Je vous verrai toutes deux aux vêpres, sans doute?
+|Je pense, mon cher docteur, que je vais faire une petite promenade avec vous. Finalement il se trouve que j’ai mal à la tête et une promenade pourrait me faire du bien. Dr
+|Avec plaisir, Miss Prism, avec plaisir. Nous pourrions aller jusqu’à l’école et revenir.
+|Ce serait délicieux. Cecily, vous lirez votre Economie Politique en mon absence. Vous pouvez passer le chapitre sur la chute de la roupie qui est trop scandaleux. Même ces questions monétaires ont un côté choquant. (S’en va par le jardin avec le Dr Chasuble) Scène 6 – Cecily puis Algernon
+|(Prend les livres et le rejette sur la table) Horrible Economie Politique! Horrible géographie! Horrible, horrible allemand! 19 (Entre Merriman avec une carte sur un plateau)
+|M. Constant Worthing vient d’arriver de la gare. Il a apporté ses bagages. Cecily (lit la carte) : « M. Constant Worthing, B.4, The Albany, W ». Le frère de l’oncle Jack! Lui avez-vous dit que M. Worthing était à Londres?
+|Oui, mademoiselle. Il avait l’air très désappointé. Je lui ai signalé que vous étiez dans le jardin avec Miss Prism et il a dit qu’il était très désireux de vous parler un moment en privé.
+|Dites à M. Worthing de venir ici. Je suppose que vous feriez bien de demander à la gouvernante de lui préparer une chambre.
+|Oui, mademoiselle. (Merriman sort)
+|Je n’ai encore jamais rencontré de personne vraiment dépravée. J’ai un peu peur. J’ai un peu peur qu’il soit juste comme tout le monde. (Entre Algernon, très gai et plein d’assurance) Il l’est! Algernon (levant son chapeau) : Vous êtes ma petite cousine Cecily, j’en suis sûr!
+|Vous faites une étrange erreur. Je ne suis pas petite. En fait je crois que je suis plutôt grande pour mon âge. (Algernon est assez interloqué) Mais je suis bien votre cousine Cecily. Vous, je vois ça sur votre carte, vous êtes le frère de mon Oncle Jack, mon méchant cousin Constant.
+|Oh! Je ne suis pas du tout méchant, cousine Cecily. Vous ne devez pas penser que je suis méchant.
+|Si vous ne l’êtes pas vous nous avez tous trompés d’une façon inexcusable. J’espère que vous ne menez pas une double vie, à faire semblant d’être méchant tout en étant parfaitement normal. Ce serait de l’hypocrisie, vous savez. Algernon (la regarde avec ébahissement) Oh, naturellement je suis plutôt écervelé.
+|Je suis heureuse de vous l’entendre dire.
+|Puisque vous en parlez, en fait j’ai été très méchant, à ma façon.
+|Vous ne semblez pas en être bien fier, pourtant je suis sûre que c’était très amusant.
+|C’est beaucoup plus amusant d’être ici près de vous.
+|Je ne comprends pas du tout pourquoi vous êtes venu. Oncle Jack ne sera pas de retour avant lundi après-midi.
+|C’est un grand désappointement, je suis obligé de partir lundi matin par le premier train. J’ai un rendez-vous d’affaires que je dois absolument… manquer.
+|Ne pourriez-vous pas le manquer ailleurs qu’à Londres?
+|Non, le rendez-vous est à Londres.
+|Eh bien, naturellement, je sais comme c’est important de rater un rendez-vous d’affaires si on veut préserver le vrai sens de la vie. Mais je crois tout de même que vous feriez mieux d’attendre qu’Oncle Jack revienne. Je sais qu’il veut vous parler au sujet de votre expatriation.
+|De ma quoi? 20
+|Votre expatriation. Il est allé acheter votre équipement.
+|Ah non! Je ne laisserais certainement pas Jack acheter mon équipement. Il n’a aucun goût pour choisir une cravate.
+|Je ne pense pas que vous aurez besoin d’une cravate. Oncle Jack vous envoie en Australie.
+|En Australie? Plutôt mourir.
+|Eh bien, il a dit mercredi soir au dîner que vous deviez choisir entre notre monde, l’autre monde et l’Australie.
+|Les nouvelles que j’ai reçues de l’Australie et de l’autre monde, ne sont pas particulièrement encourageantes. Notre monde est assez bon pour moi, cousine Cecily.
+|Oui, mais êtes-vous assez bon pour lui?
+|Je crains bien que non. Il faut que vous m’aidiez à changer. Ça pourrait être votre mission dans la vie, si ça ne vous ennuie pas, cousine Cecily.
+|J’ai peur de ne pas avoir le temps, cette après-midi.
+|Alors, ça ne vous ennuierait pas que je me corrige moi-même?
+|C’est plutôt illusoire, mais je crois que vous pourriez essayer.
+|Oui, oui. Je me sens déjà mieux.
+|Ça n’en a pas l’air.
+|C’est parce que j’ai faim.
+|Que je suis étourdie. J’aurais dû me souvenir que quand quelqu’un se met à mener une vie tout à fait nouvelle, il a besoin de repas copieux et réguliers. Voulez-vous entrer?
+|Merci. Pourrais-je d’abord avoir une fleur pour ma boutonnière?
+|Une Maréchale Niels? (Elle prend le sécateur)
+|Non, je préfèrerais une rose rose. Cecily (coupe une fleur) : Pourquoi?
+|Parce que vous êtes une rose rose, cousine Cecily.
+|Je ne pense pas que ce soit convenable de me dire des choses comme ça. Miss Prism ne me dit jamais des choses pareilles.
+|Alors Miss Prism n’est qu’une vieille dame myope. (Cecily met la rose à sa boutonnière) Vous êtes la plus jolie jeune fille que j’aie jamais vue.
+|Miss Prism dit que la beauté est un piège.
+|Il y a des pièges où tout homme raisonnable aimerait bien se faire attraper.
+|Oh, je n’ai pas envie d’attraper un homme raisonnable. Je ne saurais pas quoi lui dire. (Ils entrent dans la maison. Miss Prism et Dr Chasuble reviennent) Scène 4 – Miss Prism et Dr Chasuble puis Jack
+|Vous êtes trop solitaire, mon cher Révérend. Vous devriez vous marier. 21 Dr
+|Vous le savez, les préceptes comme la pratique de l’Eglise Primitive condamnaient le mariage. Miss Prism (Sentencieusement) : C’est justement pour ça que l’Eglise primitive n’a pas duré. Vous ne vous rendez pas compte qu’en restant durablement célibataire un homme devient une tentation permanente. Dr
+|Mais un homme ne peut-il être aussi attirant quand il est marié?
+|Aucun homme marié n’est attirant sauf pour sa femme. Dr
+|Et souvent, m’a-t-on dit, pas même pour elle.
+|Ça dépend de la femme. On peut avoir confiance dans la maturité mais les jeunes femmes sont trop vertes. (Dr Chasuble sursaute) C’est une métaphore horticole. Mais où donc est Cecily? Dr
+|Peut-être nous a-t-elle suivis dans le parc? (Entre lentement Jack depuis le fond du jardin. Il est habillé en grand deuil avec un crêpe au chapeau et des gants noirs)
+|M. Worthing! Dr
+|M. Worthing?
+|Quelle surprise, nous ne pensions pas vous voir avant lundi après-midi. Jack (serre la main de Miss Prism de façon tragique) : Je suis revenu plus tôt que prévu. Dr Chasuble, j’espère que vous allez bien? Dr
+|Cher M. Worthing, j’espère que ce costume de deuil n’annonce pas quelque terrible catastrophe?
+|Mon frère.
+|Encore des dettes et de honteuses extravagances? Dr
+|Toujours sa vie de plaisir? Jack (secouant la tête) : Mort. Dr
+|Votre frère Constant, mort?
+|Tout à fait mort.
+|Quelle leçon pour lui, j’espère qu’il en tirera profit! Dr
+|M. Worthing, je vous présente mes sincères condoléances. Vous avez au moins la consolation de savoir que vous avez toujours été le plus indulgent et le plus généreux des frères.
+|Pauvre Constant, il avait bien des défauts, mais c’est tout de même un coup dur. Dr
+|Certes. Etiez-vous avec lui jusqu’à la fin?
+|Non, il est mort à l’étranger, à Paris en fait. J’ai reçu un télégramme la nuit dernière du directeur du Grand Hôtel. Dr
+|Et quelle est la cause de la mort?
+|Un terrible refroidissement, semble-t-il.
+|Comme on a semé, on récolte. Dr Chasuble (levant la main) : Soyons charitables, chère Miss Prism, soyons charitables. Nul n’est parfait. Personnellement je suis très sensible aux courants d’air. L’enterrement aura-t-il lieu ici?
+|Non. Il semble qu’il ait manifesté le désir d’être enterré à Paris. 22 Dr
+|A Paris! (Il secoue la tête) Je crains que ça n’indique quelque sérieux trouble mental. Vous voudrez bien, sans doute, que je fasse une légère allusion, dimanche prochain, à cette tragédie familiale. (Jack presse sa main convulsivement) Mon sermon sur la signification de la Manne dans le désert peut être adapté à toutes les circonstances des plus joyeuses aux plus tristes. (Tous soupirent) Je l’ai prononcé aux fêtes des moissons, aux baptêmes, aux confirmations, aux jours de joie comme aux jours d’amertume. La dernière fois, c’était à la cathédrale, je prêchais pour la prévention du mécontentement dans les classes supérieures…
+|Excusez-moi, vous avez parlé de baptêmes je crois, Dr Chasuble? Vous savez sûrement baptiser correctement? (Dr Chasuble parait abasourdi) Je veux dire, vous baptisez souvent, n’est-ce pas?
+|Bien sûr, c’est une des fonctions les plus importantes du recteur. Dr
+|Y a-t-il un petit enfant à qui vous vous intéressez particulièrement, M. Worthing? Votre frère était célibataire, je crois?
+|Oui, oui. Miss Prism (amèrement) : Comme tous ceux qui ne vivent que pour le plaisir.
  -  Il ne s’agit pas d’un enfant, cher révérend. J’aime beaucoup les enfants mais le fait est que je voudrais être moi-même baptisé, cette après-midi. Si vous n’avez rien de mieux à faire. Dr
  -  Mais vous avez certainement été déjà baptisé, M. Worthing.
  -  Je ne m’en souviens pas du tout. Dr
