@@ -130,6 +130,12 @@ html, body {
 		margin-bottom:0px;
 		text-align: center;
 	  	vertical-align: middle;
+	  	-webkit-hyphens: auto;
+    	-moz-hyphens: auto;
+    	-ms-hyphens: auto;
+    	-o-hyphens: auto;
+    	word-break:normal;
+    	hyphens: auto;
 	}
 
 	/**

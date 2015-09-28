@@ -105,8 +105,8 @@ function showSubtitle(nl, fr) {
 		return d;
 	}
 
-	nederlands.text(returnText);
-	frans.text(returnText);
+	nederlands.html(returnText);
+	frans.html(returnText);
 };
 
 function setVisibility(mode){
