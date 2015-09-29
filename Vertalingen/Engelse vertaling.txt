@@ -361,7 +361,8 @@
 |Yes, but men often propose for practice.
 |I know my brother Gerald does.
 |All my girl-friends tell me so. 
-|What wonderfully blue eyes you have, Ernest! They are quite, quite, blue.
+|What wonderfully blue eyes you have, Ernest! They are quite, quite, ...
+|blue.
 |I hope you will always look at me just like that, especially when there are other people present.
 |Mr. Worthing! Rise, sir, from this semi-recumbent posture.
 |It is most indecorous.

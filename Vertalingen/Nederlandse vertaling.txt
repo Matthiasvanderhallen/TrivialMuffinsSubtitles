@@ -11,7 +11,7 @@
 |Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,
 |toen Lord Shoreman en Mr Worthing hier hebben gedineerd, acht flessen champagne geconsumeerd zijn.
 |Zeker, meneer; acht flessen en nog een halve.
-|Hoe komt het dat in een vrijgezellen huishouding het personeel altijd de champagne drinkt?
+|Hoe komt het dat in het huis van een vrijgezel het personeel altijd de champagne drinkt?
 |Ik vraag het alleen maar uit belangstelling.
 |Ik schrijf dat toe aan de superieure kwaliteit van de wijn, meneer. //vloeistof = wine?
 |Ik heb menigmaal gemerkt dat in getrouwde huishoudens de champagne zelden van een beter merk was.
@@ -361,7 +361,8 @@
 |Ja, maar mannen doen vaak aanzoeken om ervaring op te doen.
 |Mijn broer Gerald is zo iemand.
 |Dat hoor ik van al mijn vriendinnen.
-|Wat een prachtige blauwe ogen heb je, Ernst! Helemaal, helemaal blauw zijn ze.
+|Wat een prachtige blauwe ogen heb je, Ernst! Echt, echt...
+|blauw.
 |Ik hoop dat je me altijd zo zult aankijken, vooral als er andere mensen bij zijn. 
 |Mr. Worthing! Sta op, meneer, uit die half neerwaards gebogen houding.
 |Dat is hoogst onwelvoeglijk. 
@@ -529,12 +530,13 @@
 |Als ik dat geloofde, zou ik me voor mijn kop schieten.
 |
 |Denk je, Algy, dat Gwendolen op haar moeder zal beginnen lijken, 
-|binnen pakweg honderdvijftig jaar?
+|binnen pakweg honderdvijftig jaar
 
 
-Algernon: Alle vrouwen gaan op hun moeder lijken. Dat is hun tragedie. Mannen nooit. Dat is de hunne.
-Jack: Is dat geestig?
-Algernon: Het is voortreffelijk verwoord! En even waar als elke observatie in de beschaafde wereld kan zijn.
+|Alle vrouwen gaan op hun moeder lijken. Dat is hun tragedie. 
+|Mannen nooit. Dat is de hunne.
+|Is dat geestig?
+|Het is voortreffelijk verwoord! En even waar als elke observatie in de beschaafde wereld kan zijn.
 Jack: Ik word doodziek van al die geestigheid. Iedereen is tegenwoordig geestig. Het is absoluut epidemisch geworden. Een publieke plaag. Ik wou echt dat we nog een paar dwazen over hadden.
 Algernon: Die hebben we ook.
 Jack: Ik zou die heel graag ontmoeten. Waar spreken die over?
