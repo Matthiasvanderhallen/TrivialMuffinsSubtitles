@@ -49,7 +49,7 @@ html, body {
 	 * When flex displaying multiple elements in column, use space between to justify the content.
 	 */
 	.multiple {
-		display: -webkit-flex
+		display: -webkit-flex;
 		display:flex;
 		-webkit-flex-direction: column;
 		flex-direction: column;
