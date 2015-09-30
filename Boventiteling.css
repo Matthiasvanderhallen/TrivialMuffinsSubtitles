@@ -32,7 +32,9 @@ html, body {
 	 */
 	.controller {
 		height:100%;
+		display: -webkit-flex;
 		display:flex; 
+		-webkit-flex-direction: row;
 		flex-direction: row;
 	}
 
@@ -47,9 +49,13 @@ html, body {
 	 * When flex displaying multiple elements in column, use space between to justify the content.
 	 */
 	.multiple {
+		display: -webkit-flex
 		display:flex;
+		-webkit-flex-direction: column;
 		flex-direction: column;
+		-webkit-align-items: center;
 		align-items: center;
+		-webkit-justify-content: space-between;
 		justify-content: space-between;
 	}
 
@@ -57,9 +63,13 @@ html, body {
 	 * When flex displaying a single element in column, center it.
 	 */
 	.single {
+		display: -webkit-flex;
 		display:flex;
+		-webkit-flex-direction: column;
 		flex-direction: column;
+		-webkit-align-items: center;
 		align-items: center;
+		-webkit-justify-content: center;
 		justify-content: center;
 	}
 
@@ -69,6 +79,7 @@ html, body {
 	 */
 	.multiple-elem {
 		width: 100%;
+		-webkit-flex: 1;
 		flex: 1;
 	}
 
@@ -78,6 +89,7 @@ html, body {
 	 */
 	.multiple-maxi-elem {
 		width: 100%;
+		-webkit-flex: 2;
 		flex: 2;
 	}
 
