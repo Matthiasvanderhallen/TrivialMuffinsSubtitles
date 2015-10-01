@@ -651,6 +651,7 @@
 |J’adore les ennuis.
 |Ce sont les seules choses qui ne m’ennuient pas.
 |Encore une absurdité, Algy. Tu ne sais dire que ça.
+|
 |C’est absurde!
 |
 |AKT
@@ -999,7 +1000,7 @@
 |Oui, il m’a tout raconté au sujet de ce pauvre M. Bunbury 
 |et de son terrible état de santé. 
 |Bunbury! Je vous défends de l’écouter.
-|
+| //TODO
 |Il y a de quoi devenir fou! 
 |Naturellement, j’admets que les torts sont de mon côté.
 |Tout de même, je dois dire que la froideur de John, mon frère,
@@ -1022,7 +1023,7 @@
 |tout de suite.
 |Je ne te laisserai pas Bunburiser ici!
 |J’ai mis les affaires de M. Constant dans la chambre à côté de la votre, monsieur.
-| 
+| //TODO
 |Quoi ? 
 |Les bagages de M. Constant, monsieur. 
 |Je les ai mis dans la chambre à côté de la votre. 
@@ -1057,7 +1058,7 @@
 | Je ne vais pas te quitter alors que tu es en deuil. 
 |Ce serait vraiment inamical. 
 |Si j’étais en deuil tu resterais près de moi, n’est-ce pas. 
-|
+|//TODO
 | Bon, tu pars si je me change ? 
 | Oui, oui, si ce n’est pas trop long. 
 |Je ne connais personne d’aussi lent, 
@@ -1071,6 +1072,503 @@
 |Tu vas prendre le quatre heures cinq, 
 |et je te souhaite bon voyage. 
 |Bunburiser ne t’aura pas réussi cette fois.
+|
+|Et moi je suis sûr que c’est une réussite. Je suis amoureux de Cecily. Voilà tout!
+|Mais je dois la voir et arranger un autre bunburisme. 
+|Ah, la voilà. 
+|Je venais juste arroser les fleurs. Je croyais que vous étiez avec Oncle Jack. 
+|Il est allé faire atteler pour moi. 
+|Il vous emmène en promenade ? 
+|Il me renvoie. 
+|Alors, nous devons nous séparer ? 
+|J’en ai peur. C’est une séparation si douloureuse. 
+|C’est toujours douloureux de se séparer de gens qu’on connait à peine. 
+|Les vieux amis, on peut s’y faire. 
+|Mais quand il faut quitter quelqu’un à qui on vient tout juste d’être présenté,
+|c’est presque insupportable. 
+|Je vous remercie.
+|La voiture attend, monsieur. 
+|Ça peut attendre, Merriman, ça peut attendre cinq minutes. 
+|Oui, mademoiselle. 
+|Cecily, j’espère que vous ne serez pas choquée 
+|si j’affirme tout à fait franchement et ouvertement 
+|que vous me semblez de toutes les façons 
+|la personnification visible de la perfection absolue. 
+|Cette franchise vous fait honneur, Constant.
+|Si vous le permettez je vais copier cette phrase dans mon journal.
+|Vous tenez un journal intime ? 
+|Je donnerais n’importe quoi pour y jeter un coup d’oeil. 
+|Vous permettez ? 
+|Oh non !
+|Voyez-vous c’est simplement les pensées et impressions d’une très jeune fille.
+|Je le destine à la publication.
+|Quand il paraitra j’espère que vous en commanderez un exemplaire. 
+|Mais continuez, Constant,
+|j’adore copier sous la dictée. 
+|J’en suis à « perfection absolue ». 
+|Allez-y, je suis prête. 
+|Hum! hum!
+|Ne toussez pas, Constant. 
+|Quand on dicte il faut bien articuler, ne pas tousser. 
+|En plus je ne sais pas comment écrire une toux.
+|Cecily, à peine avais-je aperçu votre merveilleuse et incomparable beauté
+|que je suis tombé amoureux sauvagement, passionnément, absolument, désespérément. 
+|Je ne crois pas que vous devriez dire 
+|sauvagement, passionnément, absolument, désespérément. 
+|Désespérément, ça n’a pas de sens, non ? 
+|Cecily ! 
+|La voiture est prête, monsieur.
+|Qu’elle revienne la semaine prochaine, à la même heure. 
+|Oui, monsieur.
+|Oncle Jack serait très contrarié 
+|s’il savait que vous restez jusqu’à la semaine prochaine à la même heure. 
+|Oh, peu m’importe Jack. 
+|Je ne me soucie de personne que de vous. 
+|Je vous aime, Cecily. 
+|Epousez-moi, voulez-vous ? 
+|Quel nigaud! Bien sûr, ça fait déjà trois mois que nous sommes fiancés. 
+|Déjà trois mois ? 
+|Oui, ça fera exactement trois mois jeudi. 
+|Mais comment nous sommes-nous fiancés ? 
+|Eh bien depuis le jour où Oncle Jack nous a raconté
+|qu’il avait un vilain jeune frère. 
+|Naturellement, depuis, vous êtes devenu le principal sujet de conversation 
+|entre Miss Prism et moi. 
+|Et naturellement un homme dont on parle toujours devient toujours très attirant.
+|On se dit qu’il doit y avoir quelque chose de fort en lui. 
+|C’était fou de ma part,
+|mais je suis tombée amoureuse de vous, Constant. 
+|Ma chérie ! Et quand eurent lieu, les fiançailles ? 
+|Le 14 février dernier. 
+|Lasse de vous laisser ignorer mon existence, 
+|j’ai décidé de résoudre la question d’une manière ou d’une autre. 
+|Après un long combat avec moi-même 
+|j’ai accepté votre demande, ici-même, sous ce cher vieux grand arbre. 
+|
+|Le lendemain j’ai acheté cette petite bague, en votre nom,
+|et voici le petit bracelet avec le ruban des vrais amoureux
+|que je vous ai promis de porter toujours sur moi. 
+|Je vous ai donné ça ? C’est très joli, n’est-ce pas ? 
+|Mais oui. Vous avez merveilleusement bon goût, Constant. 
+|Ça vous excuse d’avoir mené une vie si dissolue. 
+|Et voici la boite dans laquelle je garde toutes vos chères lettres.
+|Mes lettres ? 
+|Mais, ma douce petite Cecily à moi, je ne vous ai jamais écrit de lettres. 
+|Inutile de me le faire remarquer, Constant. 
+|Je me souviens trop bien qu’il m’a fallu écrire ces lettres à votre place. 
+|Je vous écrivais trois fois par semaine, et plus souvent parfois.
+|Oh, puis-je les lire, Cecily ? 
+|Impossible, ça vous rendrait trop vaniteux. 
+|Les trois que vous m’avez écrites après que j’ai rompu nos fiançailles 
+|sont si belles, et tellement pleines de fautes d’orthographe,
+|que même aujourd’hui je ne peux les lire sans pleurer un peu. 
+|Parce que nos fiançailles ont été rompues ? 
+|Bien sûr. 
+|C’était le 22 mars. 
+|Vous pouvez lire mes notes si vous voulez:
+|'Aujourd’hui, j’ai rompu mes fiançailles avec Constant.' 
+|'Je pense que c'est mieux ainsi.'
+|'Le temps est toujours aussi beau.'
+|Mais pourquoi avez-vous rompu ? 
+|Qu’avais-je fait ? 
+|Je n’avais rien fait du tout.
+|Cecily, je suis profondément blessé que vous ayez rompu.
+|
+|Surtout si le temps était si beau. 
+|Il ne peut pas y avoir de fiançailles sérieuses 
+|si elles n’ont pas été rompues au moins une fois.
+|Mais je vous avais pardonné avant la fin de la semaine. 
+|Quel ange de perfection vous êtes, Cecily. 
+|Quel garçon sentimental vous êtes, Constant. 
+|
+|J’espère que tes cheveux frisent naturellement. 
+|Oui ma chérie, 
+|avec un peu d’aide, tout de même. 
+|Je suis si heureuse. 
+|Tu ne rompras plus jamais nos fiançailles ? 
+|Je ne peux pas faire ça maintenant qu’on s’est vraiment rencontrés. 
+|
+|Et puis, il y a la question de ton nom. 
+|Bien sûr. 
+|Ne te moque pas de moi, chéri,
+|mais c’était déjà mon rêve de petite fille 
+|d’aimer un garçon qui s’appelle Constant. 
+|Il y a quelque chose dans ce nom qui inspire une confiance absolue. 
+|Je plains les pauvres femmes dont le mari ne s’appelle pas Constant. 
+|Mais, chère enfant, veux-tu dire que tu ne pourrais pas m’aimer 
+|si je portais un autre nom ? 
+|Par exemple ? 
+|Oh, n’importe… 
+|Algernon par exemple… 
+|Je n’aime pas du tout le nom d’Algernon. 
+|Mais, ma douce petite chérie adorée,
+|je ne peux pas comprendre ce que tu reproches au nom d’Algernon. 
+|Ce n’est pas du tout un vilain nom. 
+|Et même il est plutôt aristocratique. 
+|La moitié des types paraissant devant le tribunal des faillites s’appellent Algernon. 
+|Mais sérieusement, Cecily… 
+|Si mon nom était Algy, 
+|tu ne pourrais pas m’aimer ? 
+|Je pourrais de te respecter,
+|Constant,
+|admirer ton caractère,
+|mais je crois que je ne serais pas capable de me donner à toi. 
+|Ahem ! Cecily !
+|Le recteur a certainement une grande expérience 
+|de tous les rites et cérémonials écclésiastiques? 
+|Oui, oui. 
+|Dr Chasuble est un homme très instruit. 
+|Il n’a jamais écrit un seul livre, 
+|tu vois comme il est savant.
+|Je dois le voir tout de suite pour un baptême très important…
+|je veux dire une affaire très importante. 
+|Oh ! 
+|Je ne m’absenterai pas plus d’une demi-heure. 
+|Comme nous sommes fiancés depuis le 14 février,
+|et que je t’ai rencontré aujourd’hui pour la première fois,
+|c’est plutôt dur de me laisser pour un temps aussi long qu'une demi-heure.
+|
+|Ne peux-tu faire ça en vingt minutes ? 
+|Je reviens tout de suite.
+|Quel garçon impétueux. 
+|Et j’aime beaucoup ses cheveux.
+|Il faut que je note sa demande dans mon journal. 
+|Une certaine Miss Fairfax demande à voir M. Worthing. 
+|Pour une affaire très importante.
+|M. Worthing n’est pas dans la bibliothèque ? 
+|M. Worthing est parti pour le presbytère il y a quelques minutes. 
+|Priez cette dame de venir ici. M. Worthing ne va certainement pas tarder. 
+|Et vous pouvez apporter le thé. 
+|Oui, mademoiselle.
+|Miss Fairfax ! C’est sans doute l’une de ces nombreuses dames âgées charitables 
+|qui aident Oncle Jack à Londres dans son travail philanthropique. 
+|Je déteste les dames ayant un intérêt pour la philanthropie.
+|Je déteste les dames ayant un intérêt pour la philanthropie.
+|Miss Fairfax ! 
+|Permettez-moi de me présenter. Je suis Cecily Cardew. 
+|Cecily Cardew ? 
+|Quel joli nom. 
+|Quelque chose me dit que nous allons devenir de grandes amies.
+|Je vous aime déjà plus que je ne peux dire. Et ma première impression ne me trompe jamais.
+|Que c’est gentil de m’aimer tellement 
+|alors que nous nous connaissons depuis si peu de temps. Mais asseyez-vous, je vous prie. 
+|Puis-je vous appeler Cecily ? 
+|Avec plaisir ! 
+|Et vous m’appellerez Gwendolen, n’est-ce pas ? 
+|Si vous voulez. 
+|Alors tout est bien au point entre nous ? 
+|J’espère, oui. 
+|C’est peut-être le bon moment pour me présenter. 
+|Mon père est Lord Bracknell. 
+|Vous n’avez jamais entendu parler de papa, je suis sûre ? 
+|Je ne pense pas. 
+|En dehors du cercle de famille, 
+|papa est complètement inconnu, je suis fière de le dire.
+|Le foyer est le seul lieu convenable pour un mari. 
+|Et si les hommes commencent à négliger leurs devoirs domestiques, 
+|ça les rend trop attirants. Et je n’aime pas ça.
+|Savez-vous, Cecily, que maman dont les vues sur l’éducation sont extrêmement strictes
+|m’a élevée dans la myopie la plus complète, ça fait partie de son système. 
+|Alors, ça ne vous ennuie pas que je vous observe avec mes lunettes ? 
+|Pas du tout, Gwendolen, j’adore qu’on m’observe. 
+|Vous êtes ici pour une petite visite, je crois.
+|Non, non. Je vis ici. 
+|Vraiment ? 
+|Votre mère sans doute ou quelque parente âgée, vit ici avec vous ? 
+|Non, non. Je n’ai pas de mère, et en fait pas de parents. 
+|Vraiment ? 
+|Mon cher tuteur, avec l’aide de Miss Prism, a la tâche délicate de veiller sur moi. 
+|Votre tuteur ? 
+|Oui, je suis la pupille de Monsieur Worthing. 
+|C’est curieux qu’il ne m’ait jamais dit qu’il avait une pupille. Comme il est mystérieux. 
+|Il devient de plus en plus intéressant. 
+|Pourtant je ne suis pas sûre que tout cela m’inspire des sentiments sans mélange.
+|Je vous aime beaucoup, Cecily, je vous ai aimée au premier regard. 
+|Mais il faut dire que maintenant que je sais que vous êtes la pupille de monsieur Worthing, 
+|je ne peux pas m’empêcher de regretter que vous ne soyez pas… 
+|juste un peu plus... 
+|En fait, si je peux parler franchement… 
+|Faites, je vous en prie. Je crois que quand on a quelque chose de déplaisant à dire, 
+|il faut le dire franchement. 
+|Eh bien, je vais parler à coeur ouvert, Cecily, 
+|j’aurais préféré que vous ayez la bonne quarantaine 
+|et que vous soyez bien laide même pour votre âge. 
+|Constant a un naturel très droit, il est plein de franchise et d’honneur, 
+|la déloyauté lui serait aussi impossible que le mensonge. 
+|Mais les hommes les plus nobles, du caractère le plus élevé, 
+|sont extrêmement sensibles aux charmes physiques des femmes. 
+|L’Histoire moderne, l’Histoire ancienne,
+|nous en fournissent beaucoup d’exemples douloureux. 
+|Sinon, d’ailleurs, l’Histoire ne présenterait aucun intérêt. 
+|Pardon, Gwendolen, vous avez dit : Constant ? 
+|Oui. 
+|Oh, mais ce n’est pas monsieur Constant Worthing qui est mon tuteur, 
+|c’est son frère, son frère aîné. 
+|Constant ne m’a jamais dit qu’il avait un frère. 
+|Je suis désolée de dire qu’ils ne sont pas en bons termes, et depuis longtemps. 
+|Ah, ça explique tout. 
+|Et maintenant que j’y pense je n’ai jamais entendu personne parler de son frère. 
+|Ce sujet semble être de mauvais goût. 
+|Cecily vous me soulagez, je sombrais dans l’anxiété. 
+|Cela aurait été affreux qu’un nuage vienne ternir une amitié comme la nôtre, 
+|n’est-ce pas ?
+|Et vous êtes tout à fait sûre que monsieur Constant Worthing n’est pas votre tuteur ? 
+|Tout à fait sûre. 
+|En fait, c’est plutôt moi qui vais devenir le sien. 
+|Pardon ?
+|Ma très chère Gwendolen, il n’a pas de raison de vous cacher ça. 
+|Notre petit journal régional va certainement en parler la semaine prochaine. 
+|Monsieur Constant Worthing et moi sommes fiancés. 
+|Cecily, ma chérie, il doit y avoir légère erreur. 
+|C’est avec moi que monsieur Constant Worthing est fiancé. 
+|L’annonce paraitra dans le Morning Post samedi au plus tard. 
+|Je crains qu’il y ait une confusion. 
+|Constant a demandé ma main il y a dix minutes, exactement. 
+|
+|C’est vraiment très curieux, 
+|car il m’a demandé d’être sa femme hier après-midi à cinq heures trente. 
+|Vous pouvez vérifier, je vous en prie. 
+|
+|Je ne voyage jamais sans ce carnet. 
+|On doit toujours avoir quelque chose de sensationnel à lire dans le train...
+|Je suis navrée, ma chère Cecily, 
+|mais il est clair que j’ai la priorité. 
+|Je serais très chagrinée 
+|de vous contrarier 
+|mais il est clair que 
+|Constant a changé d’avis.
+|Si ce pauvre garçon a été piégé, s’il s’est engagé dans de folles promesses,
+|il est de mon devoir de le secourir tout de suite, et avec fermeté. 
+|Quel que soit le traquenard où mon cher Constant a pu tomber, 
+|je ne le lui reprocherai rien quand nous serons mariés. 
+|Est-ce à moi que vous faites allusion en parlant de traquenard, Miss Cardew ? Quelle audace ! 
+|En pareille occasion, cela devient plus qu'un plaisir d'exprimer sa pensée.
+|Cela devient un plaisir.
+|Et vous, Miss Fairfax , suggérez-vous que j’ai piégé Constant ? 
+|Laissez donc tomber le masque de vos prétendues bonnes manières.
+|J'ai coutume d'appeler un chat un chat.
+|Je suis heureuse d'avoir moins d'affinités avec les bêtes que vous.
+|Il est clair aue nos sphères sociales sont grandement différentes.
+|
+|Puis-je installer le thé ici, comme d’habitude, Miss ? 
+|Oui, comme d’habitude.
+|
+|Y a-t-il d’intéressantes promenades à faire dans les environs, miss Cardew ?
+|Oh oui, beaucoup. 
+|Du sommet de la colline on peut voir cinq comtés. 
+|Cinq comtés ! Je ne crois pas que j’aimerais ça. 
+Je déteste la foule. 
+|C’est sans doute pour ça que vous vivez à Londres.
+|Quel jardin bien tenu, Miss Cardew ! 
+|Heureuse qu’il vous plaise, miss Fairfax. 
+|Je ne croyais pas qu’il y avait des fleurs à la campagne. 
+|Les fleurs sont banales ici, miss Fairfax, comme les gens à Londres.
+|Je ne comprends pas comment on peut vivre à la campagne. 
+|Est-ce qu’on peut supporter ça quand on est vraiment quelqu’un ? 
+|Moi, la campagne m’ennuie à mourir. 
+|C’est ce que les journaux appellent la dépression aristocratique.
+|Je pense qu'ils en souffrent beaucoup ces temps-ci
+|On m'a raconté que c'était presque une épidémie
+|Puis-je vous offrir le thé, miss Fairfax? 
+|Merci. 
+|Quelle fille haïssable ! 
+|Mais il me faut absolument du thé. 
+|Sucre ? 
+|Non merci. 
+|Le sucre n’est plus à la mode. 
+|Gâteau ou tartine beurrée? 
+|Tartine, s’il vous plait. 
+|On ne voit plus de gâteaux aujourd’hui dans les bonnes maisons.
+|Donnez ça à miss Fairfax. 
+|Vous avez sucré mon thé ! 
+|Et bien que j’aie clairement demandé une tartine beurrée 
+|vous m’avez donné du cake. 
+|Je suis connue pour ma gentillesse 
+|et la remarquable douceur de ma nature, 
+|mais je vous préviens miss Cardew vous pourriez aller trop loin. 
+|Pour sauver mon pauvre garçon, si innocent, si confiant, 
+|des machinations d’une femme, 
+|rien ne m’arrêtera. 
+|Dès que je vous ai vue je me suis méfiée. 
+|J’ai senti que vous étiez fausse et trompeuse. 
+|Je ne me méprends jamais sur ces choses
+|Et ma première impression est toujours la bonne. 
+|Je ne voudrais pas abuser 
+|de votre temps, Miss Fairfax. 
+|Je suis sûre que vous avez bien d’autres propositions de ce genre 
+|à faire dans le voisinage. 
+|Constant! Mon Constant ! 
+|Gwendolen! Ma chérie ! 
+|Un instant ! Puis-je demander si vous êtes fiancé à cette jeune dame? 
+|Fiancé à la chère petite Cecily ! Bien sûr que non. 
+|Qu’est-ce qui a pu mettre cette idée dans votre jolie petite tête? 
+|Merci. Vous pouvez. 
+|Je savais bien qu’il y avait une confusion, miss Fairfax. 
+|Ce gentleman est mon tuteur, 
+|monsieur John Worthing. 
+|Pardon ? 
+|C’est Oncle Jack ! 
+|Jack ! Oh ! 
+|Et voici Constant. 
+|Mon amour ! 
+|Un instant, Constant. 
+|Puis-je vous demander si vous êtes fiancé à cette jeune dame ? 
+|Quelle jeune dame ? Ciel, Gwendolen! 
+|Oui, ciel Gwendolen, je veux bien dire Gwendolen ! 
+|Bien sûr que non ! 
+|Qu’est ce qui a bien pu mettre cette idée dans votre jolie petite tête ? 
+|Merci. Vous pouvez. 
+|Je sentais bien qu’il y avait une petite erreur. 
+|Le gentleman qui vous embrasse est mon cousin, monsieur Algernon Moncrieff. 
+|Algernon Moncrieff! Oh! 
+|Vous vous appelez Algernon? 
+|Je ne peux pas nier. 
+|Oh! 
+|Votre nom est vraiment John? 
+|Je pourrais nier si je voulais. 
+|Je peux nier n’importe quoi si je veux. 
+|Mais mon nom est certainement John. 
+|Et depuis des années. 
+|Quelle déception pour nous deux! 
+|Ma pauvre Cecily blessée! 
+|Ma douce Gwendolen trompée! 
+|Appelle-moi « grande soeur », tu veux bien ? 
+|Il y a une question que je voudrais poser à mon tuteur. 
+|Mais oui! 
+|Monsieur Worthing, il y a une question que j’aimerais vous poser. 
+|Où est votre frère Constant? 
+|Nous sommes toutes deux fiancées à votre frère Constant, 
+|C'est donc pour nous d'une certaine importance
+|de savoir où est votre frère Constant. 
+|Gwendolen - Cecily - ça m’est très pénible d’être obligé de dire la vérité. 
+|C’est la première fois de ma vie 
+|que j'en suis réduit à une si douloureuse position 
+|et je manque d’expérience. 
+|Pourtant, je dois dire franchement que je n’ai pas de frère Constant. 
+|Et même que je n’ai pas de frère du tout. 
+|Je n’ai jamais eu de frère 
+|et je n’ai pas l’intention d’en avoir un à l’avenir. 
+|Pas de frère du tout? 
+|Aucun! 
+|Vous n’avez jamais eu de frère d’aucune sorte ? 
+|Jamais. 
+|Je crois que c’est parfaitement clair, Cecily. 
+|Aucune de nous deux n’est fiancée à personne. 
+|Ce n’est pas une situation agréable pour une jeune fille. 
+|N'est-ce pas?
+|Rentrons 
+|Ils n’oseront pas nous suivre. 
+|Non ! Les hommes sont si poltrons, n’est-ce pas ? 
+|C’est ça que tu appelles bunburiser, je suppose. 
+|Oui, et c’est un bunburisme tout à fait merveilleux, 
+|le plus merveilleux que j’ai jamais fait de toute ma vie. 
+|Tu n’as pas le droit, pas le moindre droit de bunburiser ici. 
+|C’est absurde. 
+|On a le droit de bunburiser où on veut. 
+|Tous les bunburistes sérieux savent ça. 
+|Des bunburistes sérieux! Bonté divine! 
+|On doit croire à quelque chose dans sa vie. Avoir des valeurs. 
+|Moi je crois que ce qui est important c’est de bunburiser. 
+|Et toi, qu’est-ce qui est important pour toi? 
+|Tout et n’importe quoi, j’imagine. 
+|Tu est tellement frivole. 
+|J’ai tout de même une petite satisfaction dans cette maudite affaire 
+|c’est que ton ami Bunbury s’est évaporé. 
+|Tu ne pourras plus courir à la campagne 
+|aussi souvent, mon cher, 
+|et c’est une bonne chose. 
+|Ton frère Constant est un peu pâlichon, mon cher Jack, non? 
+|Tu ne pourras plus filer à Londres aussi souvent. 
+|Ce n’est pas mal non plus. 
+|Se conduire ainsi avec miss Cardew! 
+|S’en prendre à une pure, douce et innocente jeune fille! 
+|C’est inexcusable. 
+|Et en plus c’est ma pupille. 
+|Je ne vois vraiment aucune excuse
+|pour mystifier une jeune lady brillante, intelligente et sans détours, 
+|comme miss Fairfax! 
+|Et en plus, c’est ma cousine! 
+|Je voulais me fiancer à Gwendolen, c’est tout. 
+|Je l’aime. 
+|Je voulais tout simplement me fiancer avec Cecily. 
+|Je l’adore. 
+|Tu n’as aucune chance d’épouser Miss Cardew. 
+|Je ne crois pas que ce soit très probable, Jack, 
+|que tu épouses Miss Fairfax. 
+|Ce n’est pas ton affaire. 
+|Si c’était mon affaire je n’en parlerais pas. 
+|C’est très vulgaire de parler des affaires de quelqu’un. 
+|Il n’y a que des représentants de commerce pour agir ainsi. 
+|
+|Comment peux-tu rester assis, à manger tranquillement des muffins 
+|alors que nous sommes dans les pires ennuis. 
+|Je ne peux pas comprendre ça. 
+|Tu est vraiment sans coeur. 
+|
+|Je ne peux pas manger des muffins en m’agitant. 
+|Le beurre tomberait sur mes vêtements. 
+|On doit toujours manger les muffins calmement. 
+|C’est la seule façon de les manger. 
+|C’est parfaitement sans coeur ta façon de manger des muffins, dans ces circonstances. 
+|Quand j’ai des ennuis manger est la seule chose qui me console. 
+|En effet, quand j'ai de vraiment gros ennuis
+|comme tous mes amis intimes te raconteront
+|je refuse tout sauf nourriture et boisson. 
+|En ce moment je mange des muffins...
+|parce que je suis malheureux. 
+|En plus, j'adore les muffins. 
+|Il n’y a pas de raison de te laisser t’empiffrer comme ça. 
+|Prends plutôt un cake. 
+|Je n’aime pas le cake. 
+|Bonté divine ! 
+|Je peux tout de même manger mes propres muffins dans mon propre jardin. 
+|Mais tu viens de dire que c’était cruel de manger des muffins. 
+|J’ai dit que c’était cruel de ta part étant donné les circonstances. 
+|C’est tout à fait différent. 
+|Peut-être mais les muffins sont les mêmes.
+|Algy, bon sang, je veux que tu déguerpisse. 
+|Tu ne peux pas me demander de partir sans diner.
+|C’est absurde. Je ne partirai pas sans diner. 
+|Personne ne fait ça, sauf les végétariens et le gens de la sorte... 
+|En plus je me suis arrangé avec Dr Chasuble 
+|pour être baptisé à six heures moins le quart sous le nom de Constant. 
+|Quelle bêtise, mon petit vieux, oublie ça ! 
+|J’ai pris rendez-vous ce matin avec le Dr Chasuble
+|pour être baptisé à cinq heures et demie, et naturellement je prendrai le nom de Constant.
+|Gwendolen y tient. 
+|Nous ne pouvons pas tous les deux être baptisés sous le nom de Constant.
+|C’est absurde. 
+|En plus j’ai parfaitement le droit d’être baptisé si je veux. 
+|Il n’y a aucune preuve que j’aie jamais été baptisé par qui que ce soit. 
+|Je pense que c'est très probable que je ne l'ai jamais été, Dr Chasuble le pense aussi.
+|Ton cas est tout différent : tu as déjà été baptisé. 
+|Oui, mais il y a bien des années que je n’ai pas été baptisé. 
+|Peut-être, mais tu as été baptisé.
+|C’est ce qui compte. 
+|En effet! 
+|Du coup je sais que ma santé peut supporter ça. 
+|Si tu n’es pas tout à fait sûr d’avoir été baptisé,
+|je crois que c’est plutôt dangereux de t’y aventurer maintenant.
+|Cela pourrait te rendre fort malade. 
+|N’oublie pas qu’un de tes proches a été emporté cette semaine 
+|à Paris par un terrible refroidissement. 
+|Mais tu m’as dit toi-même qu’un refroidissement n’est pas héréditaire. 
+|Non, ce n'était pas le cas avant, je sais, mais aujourd’hui ça l'est, je pense… 
+|La science fait de tels progrès. 
+|Encore tes bêtises ! Tu n’arrêtes pas de dire des bêtises. 
+|Jack, tu as repris des muffins. 
+|Ne fais pas cela! Il n’en reste que deux. 
+|Je t’ai dit que j’aimais beaucoup les muffins. 
+|Mais je déteste le cake!
+|
+|Alors pourquoi fais-tu servir des cakes à tes invités?
+|Quel affreux sens de l’hospitalité!
+|Algernon ! Je t’ai dit de partir. 
+|Je ne veux pas de toi, ici!
+|Pourquoi ne pars-tu pas?
+|
+|Je n’ai pas encore fini mon thé. 
+|Et il reste un muffin. 
 |
 |AKT
 |
@@ -1099,7 +1597,7 @@
 |Ça parait une explication satisfaisante, n'estce pas?
 |Oui, ma chérie. Et tu le crois?
 |Non. Mais ça ne ternit pas la merveilleuse beauté de sa réponse.
-|C'est vrai.
+|C'est vrai. //TODO
 |Dans les questions de grande importance le style est la chose essentielle. Pas la sincérité.
 |Monsieur Worthing, quelle explication pouvez-vous donner au fait de prétendre avoir un frère?
 |Etait-ce pour avoir l'occasion de monter à Londres pour me voir aussi souvent que possible?
@@ -1236,8 +1734,8 @@
 |
 |Non, c'est le profil que je veux voir.
 |Oui, comme j'ai pensée.
-|
-|
+|//TODO
+|//TODO
 |Le menton un peu plus haut, ma chère.
 |Le style dépend beaucoup de la façon dont on porte le menton.
 |On le porte très haut aujourd'hui.
@@ -1280,7 +1778,7 @@
 |Cet après-midi pendant mon absence,
 |il s'est fait recevoir dans ma maison en prétendant faussement qu'il était mon frère.
 |Sous ce faux nom il a bu, c'est ce que vient de m'apprendre le maître d'hôtel,
-|une bouteille entière de mon champagne 89, que je réservais pour ma consommation personnelle.|
+|une bouteille entière de mon champagne 89, que je réservais pour ma consommation personnelle.
 |Et ce n'est pas tout,
 |il est parvenu à capter l'affection de ma pupille.
 |Puis il s'est invité pour le thé et a dévoré tous les muffins.
@@ -1308,14 +1806,14 @@
 |restées à l'âge de trente-cinq ans. Par exemple, Lady Dumbleton.
 |A ma connaissance elle a toujours eu trente-cinq ans depuis qu'elle a atteint l'âge de quarante ans,
 |il y a déjà bien des années.
-|
-|
+|//TODO
+|//TODO
 |Algy, pourrais-tu m'attendre jusqu'à mes trente-cinq ans?
 |Bien sûr, Cecily,
 |tu sais que je le peux.
 |Oui, je le sentais bien. Mais moi je ne pourrais pas attendre tout ce temps.
 |J'ai horreur d'attendre, même cinq minutes, pour quoi que ce soit. Ça me met en colère.
-|
+|//TODO
 |Et attendre, surtout pour me marier, est tout à fait hors de question.
 |Que faire alors, Cecily ?
 |Je ne sais pas, monsieur Moncrieff.
@@ -1420,14 +1918,14 @@
 |Oui, voici l'éraflure qui s'est produite
 |dans l'omnibus lors de jours plus heureuses.
 |Et là, je vois la tache sur la doublure.
-|
+|//TODO
 |Et là sur la fermeture, voici mes initiales.
-|
+|//TODO
 |Ce sac est le mien sans nul doute.
 |Je suis ravie qu'il me soit rendu de façon aussi inattendue.
 |Si vous saviez comme il m'a manqué pendant toutes ces années.
-|Miss Prism, ce n'est pas seulement le cabas qui vous est rendu. |
-Je suis le bébé que vous aviez mis dedans.
+|Miss Prism, ce n'est pas seulement le cabas qui vous est rendu. 
+|Je suis le bébé que vous aviez mis dedans.
 | Vous ?
 | Moi... maman !
 |Mais je suis célibataire, monsieur Worthing!

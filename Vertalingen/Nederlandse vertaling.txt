@@ -651,6 +651,7 @@
 |Ik hou van netelige parketten.
 |Die zijn tenminste nooit serieus.
 |Dat is onzin, Algy. Je praat echt alleen maar onzin.
+|
 |Wie niet?
 |
 |AKT
@@ -953,8 +954,8 @@ Het besprenkelen, ja zelfs het onderdompelen van volwassenen
 |Laat u niet tezeer door het verdriet teneerslaan, Mr. Worthing. 
 |Bedenk dat bittere beproevingen vaak verkapte zegeningen zijn. 
 |Dit lijkt me anders duidelijk genoeg een zegening. 
-|Oom Jack! |
-Wat heerlijk dat u terug bent. 
+|Oom Jack! 
+|Wat heerlijk dat u terug bent. 
 |Maar wat hebt u afschuwelijke kleren aan!
 |Ga u alstublieft verkleden. 
 |Cecily! 
@@ -1071,6 +1072,503 @@ Wat heerlijk dat u terug bent.
 |Maar je zult de trein van vier uur vijf halen, 
 |en ik hoop dat je een aangename reis terug naar Londen hebt. 
 |Je bunburie is nu eens geen succes geworden. 
+|
+|Ik geloof juist dat het een groot succes is geworden. Ik ben verliefd op Cecily, en beter kan het al niet. 
+|Maar ik moet haar zien voor ik wegga en regelingen treffen voor nog een Bunbury. 
+|Ah, daar is ze. 
+|Oh, ik kom eigenlijk alleen maar buiten om de bloemen te begieten. Ik dacht dat je bij Oom Jack was. 
+|Hij is het rijtuig gaan halen voor me. 
+|Oh, gaat hij je meenemen voor een leuk ritje? 
+|Hij stuurt me weg. 
+|Moeten we dan afscheid nemen? 
+|Ik vrees van wel. Het is een zeer pijnlijk afscheid. 
+|Het is altijd pijnlijk om afscheid te nemen van mensen die men nog maar pas kent. 
+|De afwezigheid van oude vrienden valt nog met gelijkmoedigheid te dragen. 
+|Maar zelfs een kortstondige scheiding van iemand aan wie je net bent voorgesteld 
+|is bijna ondraaglijk. 
+|Dank je. 
+|Het rijtuig staat klaar, meneer. 
+|Het kan wachten, Merriman. Nog vijf minuten. 
+|Zeker, mejuffrouw. 
+|Ik hoop dat ik je niet beledig, Cecily,
+|als ik je ronduit beken 
+|dat je me voorkomt als de belichaming 
+|van de absolute volmaaktheid. 
+|Je oprechtheid is een punt in je voordeel, Ernst. 
+|Met jouw goedkeuring, zal ik je uitspraak in mijn dagboek noteren.
+|Hou je echt een dagboek bij? 
+|Ik zou er heel graag een kijkje in nemen.
+|Mag ik? 
+|Oh nee. 
+|Het is alleen maar een persoonlijk verslag van de gedachten en impressies van  een heel jong meisje,
+|en dus bedoeld voor publicatie. 
+|Als het in boekvorm verschijnt hoop ik dat je je een exemplaar zult aanschaffen. 
+|Maar ga verder, Ernst,
+|ik geniet enorm van gedicteerd te worden. 
+|Ik ben nu bij “absolute volmaaktheid”. 
+|Ga verder, alsjeblieft. 
+|Hm! Hm! 
+|Oh, Ernst, niet kuchen. 
+|Wie dicteert moet vloeiend spreken. 
+|Ik weet trouwens niet hoe je een kuch moet spellen. 
+|Cecily, toen ik voor het eerst uw onvergelijkbare schoonheid aanschouwde,
+|waagde ik het zelfs om van je te houden, wild, hartstochtelijk, toegewijd en hopeloos. 
+|Ik denk niet dat je moet zeggen dat je van me houdt,
+|wild, hartstochtelijk, toegewijd en hopeloos. 
+|Hopeloos lijkt weinig zin te hebben. 
+|Cecily! 
+|Het rijtuig wacht, meneer. 
+|Zeg maar dat hij de volgende week om dezelfde tijd terugkomt. 
+|Zeker, meneer. 
+|Dat zal oom Jack niet prettig vinden, 
+|dat je tot de volgende week, zelfde tijd, blijft. 
+|Wat kan Jack me schelen?
+|Mij kan niets in de wereld meer schelen behalve jou. 
+|Ik houd van je. Cecily. 
+|Je zult toch met me trouwen? 
+|Mallerd! Natuurlijk. We zijn toch al drie maanden verloofd? 
+|Drie maanden? 
+|Ja, aanstaande donderdag precies drie maanden. 
+|Hoezo zijn we verloofd? 
+|Wel vanaf het moment dat oom Jack ons opbiechtte 
+|dat hij een jongere broer had die erg slecht was,
+|vormde jij natuurlijk het voornaamste gespreksonderwerp 
+|tussen mij en Miss Prism. 
+|En een man waar veel over wordt gepraat is altijd erg aantrekkelijk.
+|Er moet toch iets goeds in hem zijn.
+|Het zal wel erg dwaas van me zijn,
+|maar ik werd verliefd op je, Ernst. 
+|Lieveling! En wanneer vond de verloving officieel plaats? 
+|Op 14 februari. 
+|Radeloos door jouw totale onwetendheid van mijn bestaan
+|besloot ik iets te ondernemen, 
+|en na een lange tweestrijd 
+|zei ik in de tuin ja tegen je onder deze oude boom hier.
+|
+|De dag daarop kocht ik uit jouw naam dit ringetje
+|en dit is het armbandje met het symbolische liefdesknoopje,
+|dat ik jou beloofde om altijd te dragen. 
+|Heb ik je dit gegeven? Het is zeer mooi, is het niet? 
+|Ja, je hebt een geweldige goede smaak, Ernst. 
+|Het is het excuus dat ik altijd geef voor het slechte leven dat je leidt. 
+|En in deze doos bewaar ik al je brieven. 
+|Mijn brieven! 
+|Maar, mijn allerliefste Cecily, ik heb je nooit een brief geschreven. 
+|Daar hoef je me heus niet aan te herinneren. 
+|Ik weet maar al te goed, dat Ik zelf al je brieven heb moeten schrijven. 
+|Ik schreef drie keer per week, en soms vaker. 
+|Je moet ze me eens laten lezen, Cecily. 
+|Geen sprake van. Je zou er alleen maar verwaand van worden.
+|De drie die je me geschreven hebt toen ik onze verloving had verbroken 
+|zijn zo mooi en zo afschuwelijk slecht gespeld 
+|dat ik er zelfs nu nog een beetje bij moet huilen. 
+|Is onze verloving dan verbroken geweest? 
+|Natuurlijk. 
+|22 maart jonstleden. 
+|Je mag het lezen als je wilt: 
+|'Vandaag verbrak ik mijn verloving met Ernst.'
+|'Ik voel dat het beter zo is.'
+|'Het weer blijft aangenaam.' 
+|Waarom heb je het in godsnaam afgebroken?
+|Wat had ik gedaan? 
+|Ik had helemaal niets gedaan. 
+|Cecily, het kwetst me diep dat je onze verloving hebt verbroken.
+|
+|Vooral omdat het weer daarbij zo aangenaam was. 
+|Elke serieuze verloving wordt minstens een keer verbroken.
+|Elke serieuze verloving wordt minstens een keer verbroken.
+|Maar ik had je voor het eind van de week alweer vergeven. 
+|Je bent een engel, Cecily. 
+|Lieve, romantische jongen ... 
+|
+|Je haar krult van nature, hoop ik? 
+|Ja schat, 
+|met wat hulp van anderen. 
+|Gelukkig maar. 
+|Beloof je onze verloving nooit meer te verbreken, Cecily? 
+|Ik denk niet dat ik ze nog zou kunnen verbreken, nu ik je in het echt heb ontmoet.
+|
+|En dan natuurlijk is er nog de kwestie van je naam. 
+|Ja natuurlijk. 
+|Lach me niet uit, lieveling, 
+|maar het is altijd een meisjesdroom van me geweest.
+|Verliefd raken op iemand die Ernst heet. 
+|Er is iets in die naam dat absoluut vertrouwen inboezemt. 
+|Ik heb medelijden met elke getrouwde vrouw wiens echtgenoot niet Ernst heet. 
+|Wil je echt beweren, lieveling, dat je niet van me zou kunnen houden 
+|als ik een andere naam had? 
+|Wat voor naam dan? 
+|Elke willekeurige naam... 
+|Algernon. Bijvoorbeeld... 
+|Ik hou niet van de naam Algernon. 
+|Maar mijn liefste, mijn snoezige, mijn schattigste engeltje, 
+|ik zie niet in waarom je zo tegen die naam bent. 
+|Algernon is een prachtige naam! 
+|Een beetje aristocratisch ook. 
+|Bijna alle lui die failliet gaan heten Algernon. 
+|Maar serieus, Cecily...
+|als ik Algy heette, 
+|zou je dan niet van me houden? 
+|Ik zou je respecteren, 
+|Ernst, 
+|ik zou je karakter bewonderen,
+|maar ik vrees dat ik je niet mijn onverdeelde aandacht zou kunnen geven. 
+|Ahum! Cecily! 
+|Jullie dominee hier beschikt, veronderstel ik, over een grondige ervaring 
+|in het voltrekken van al de riten en ceremoniën van de kerk? 
+|O ja. 
+|Dr. Chasuble is een zeer geleerde man. 
+|Hij heeft nog nooit een boek geschreven, 
+|dus je kunt nagaan hoeveel hij weet. 
+|Ik moet onmiddellijk naar hem toe voor een zeer belangrijke doop –
+|ik bedoel voor een zeer belangrijke zaak. 
+|O! 
+|Ik blijf niet langer dan een half uur weg. 
+|We zijn al sinds 14 februari verloofd 
+|en ik ontmoet je vandaag voor het eerst, 
+|is het dan niet wreed om me zolang te verlaten als een half uur. 
+|
+|Kun je er geen twintig minuten van maken? 
+|Ik ben echt zo terug. 
+|Wat een onstuimige jongen toch!
+|Ik vind zijn haar zo leuk. 
+|Ik moet zijn aanzoek nog in mijn dagboek zetten.
+|Een zekere Miss Fairfax wenst Mr. Worthing te spreken.
+|Voor zeer belangrijke zaken, zegt Miss Fairfax. 
+|Is Mr. Worthing niet in zijn bibliotheek? 
+|Mr. Worthing is enige tijd geleden vertrokken, in de richting van de pastorie. 
+|Vraag de dame hier te komen, Mr. Worthing zal ongetwijfeld binnenkort terug zijn. 
+|En je kunt thee brengen. 
+|Zeker, mejuffrouw.
+|Miss Fairfax! Zeker een van die talloze oude vrijsters 
+|die bij oom Jacks filantropische activiteiten in Londen betrokken zijn.
+|Ik hou niet echt van vrouwen die zich bezighouden met filantropisch werk. 
+|Het is zo opdringerig van hen. 
+|Miss Fairfax. 
+|Mag ik mezelf aan u voorstellen? Mijn naam is Cecily Cardew. 
+|Cecily Cardew?
+|Wat een allerliefste naam! 
+|Ik weet niet waarom, maar we worden vast vriendinnen.
+|Ik mag je nu al meer dan ik zeggen kan. Mijn eerste indruk bedriegt me nooit.
+|Aardig van u me zo te mogen 
+|na een betrekkelijke korte kennismaking. Gaat u toch zitten. 
+|Ik mag je toch Cecily noemen? 
+|Natuurlijk. 
+|En jij noemt me altijd Gwendolen? 
+|Als u dat wilt. 
+|Dan is het allemaal geregeld, nietwaar? 
+|Ik hoop van wel. 
+|Misschien is dit een niet ongeschikte gelegenheid  om te zeggen wie ik ben. 
+|Mijn vader is Lord Bracknell. U hebt, neem ik aan, nooit van papa gehoord? 
+|Niet dat ik weet. 
+|Buiten de familiekring is papa, gelukkig maar, volkomen onbekend. 
+|En zo hoort het ook. 
+|De huiselijke haard is de aangewezen plek voor een man. 
+|Begint een man eenmaal zijn huiselijke plichten te verwaarlozen, 
+|dan wordt hij... akelig verwijfd. 
+|Daar houd ik niet van. Dat maakt mannen zo verschrikkelijk aantrekkelijk. 
+|Cecily, mijn mama, wiens idee van onderwijs merkwaardig strikt is, 
+|heeft me geleerd zo kortzichtig mogelijk te zijn, 
+|dus je vindt het toch niet erg als ik je door mijn bril bekijk? 
+|O nee, Gwendolen, ik word graag bekeken. 
+|Je bent hier even op bezoek, neem ik aan. 
+|O nee! Ik woon hier. 
+|Werkelijk? 
+|Dan woont hier zeker ook uw moeder of een ander vrouwelijk familielid van gevorderde leeftijd hier? 
+|Ik heb geen moeder en eigenlijk ook geen familie.
+|Werkelijk? 
+|Mijn dierbare voogd bezit, met behulp van Miss Prism, de niet eenvoudige taak voor mij te zorgen.
+|Een voogd? 
+|Ik ben de pupil van Mr. Worthing. 
+|Vreemd. Hij heeft me nooit verteld dat hij een pupil had. Wat ... echt stiekem van hem! 
+|Hij wordt met het uur interessanter. 
+|Ik ben wel niet zeker of ik dit nieuws al bij al zo leuk vind.
+|Ik ben erg dol op je, Cecily. Zolang wij elkaar kennen mag ik je al. 
+|Maar het moet me van het hart, dat ik, nu ik weet dat je de pupil van Mr. Worthing bent,
+|liever had gezien dat je wat ouder was dan je bent 
+|en ook niet zo ... zo aanlokkelijk. 
+|Ja ... mag ik eerlijk zijn? 
+|Ga gerust je gang. Als iemand iets onaangenaams te vertellen heeft, 
+|moet hij dat vooral heel eerlijk doen. 
+|Wel, om heel eerlijk te zijn, ik zou willen, Cecily, 
+|dat je dik tweeënveertig was, 
+|en veel te lelijk voor je leeftijd.
+|Ernst is het toonbeeld van waarheid van eer. 
+|Ontrouw zou zo onmogelijk voor hem zijn als misleiding.
+|Maar zelfs mannen van het allernobelste karakter
+|zijn uiterst ontvankelijk voor fysieke charmes.
+|De hedendaagse, en zeker de antieke, geschiedenis 
+|geeft ons verschillende pijnlijke voorbeelden van wat ik bedoel. 
+|Als het niet zo was geweest, dan was onze geschiedenis compleet onleesbaar geweest. 
+|Neem me niet kwalijk, Gwendolen, maar zei je daar Ernst? 
+|Ja. 
+|Maar Mr. Ernst Worthing is mijn voogd niet. 
+|Het is zijn broer – zijn oudere broer. 
+|Ernst heeft me nooit verteld dat hij een broer had. 
+|Het spijt me ook te moeten bekennen dat ze lange tijd niet op goede voet stonden. 
+|Dan komt het daardoor. 
+|Nu ik erover nadenk, ik heb nog nooit een man over zijn broer horen praten. 
+|Het onderwerp schijnt onaangenaam te zijn voor de meeste mannen. 
+|Cecily, je hebt werkelijk voor een grote opluchting gezorgd. Ik werd bijna bang. 
+|Het zou vreselijk geweest zijn als er zo een donkere wolk boven onze vriendschap was komen hangen. 
+|Is het niet?
+|Je bent echt, echt zeker dat niet Mr. Ernst Worthing je voogd is? 
+|Echt zeker. 
+|In feite, ik word binnenkort zelfs de zijne. 
+|Hoe zei je? 
+|Liefste Gwendolen, waarom zou ik er voor jou een geheim van maken? 
+|Het staat volgende week toch in de plaatselijke krant. 
+|Mr. Worthing en ik zijn verloofd. 
+|Mijn lieve Cecily, er is hier, geloof ik, een klein misverstand in het spel. 
+|Mr. Ernst Worthing is verloofd met mij. 
+|De aankondiging zal nog voor zaterdag in de “Morning Post” te lezen zijn. 
+|Ik vrees toch dat je je vergist. 
+|Ernst heeft exact tien minuten geleden om mijn hand gevraagd. 
+|
+|Dit is inderdaad erg vreemd. 
+|Hij vroeg mij gistermiddag om half zes zijn vrouw te worden.
+|Als je een en ander wenst te verifiëren, graag.
+|
+|Ik reis nooit zonder mijn dagboek. 
+|Een mens moet in de trein altijd iets sensationeels te lezen hebben. 
+|Het spijt me erg, lieve Cecily, het zal een teleurstelling voor u zijn, 
+|maar ik vrees dat ik de oudste rechten heb. 
+|Lieve Gwendolen, het is niet mijn bedoeling je ook maar enigszins, 
+|hetzij geestelijk of lichamelijk, pijn te doen, 
+|maar ik moet je er op wijzen dat Ernst sinds zijn aanzoek aan jou 
+|klaarblijkelijk van gedachten veranderd is. 
+|Als die arme jongen zich voor zo’n dwaze belofte heeft laten strikken, 
+|zal ik het als mijn plicht beschouwen hem daar met vaste hand uit te bevrijden. 
+|In welke valkuil mijn lieve jongen ook verzeild mag zijn geraakt, 
+|ik zal het hem na ons huwelijk nooit verwijten. 
+|Zinspeelt u op mij, Miss Cardew, als valkuil. U matigt zich wel heel wat aan.
+|Bij een gelegenheid als dit is het voor een mens meer dan een morele plicht 
+|om te zeggen wat hij op het hart heeft. Het wordt een genoegen. 
+|En wenst u te suggereren, Miss Fairfax, dat ik Ernst voor een verloving gestrikt heb? Hoe durft u? 
+|Dit is niet het moment om het oppervlakkige masker van de goede manieren te dragen. 
+|Ik hou ervan spijkers met koppen te slaan. 
+|Het doet me mateloos genoegen te zeggen dat ik nog nooit een spijker heb gezien. 
+|De sociale kringen waarin wij verkeren lopen nogal uiteen, merk ik. 
+|
+|Zal ik de thee hier neerzetten, zoals gebruikelijk, mejuffrouw? 
+|Ja, zoals gebruikelijk.
+|
+|Zijn er hier in de buurt nog interessante wandelingen te maken, Miss Cardew?
+|O! Ja! Vele. 
+|Van de top van een van de heuvels kun je vijf graafschappen zien. 
+|Vijf graafschappen! Dat lijkt me niet prettig. 
+|Ik hou niet van massa’s. 
+|Daarom woont u zeker in de stad? 
+|Aardige tuin hebt u hier, Miss Cardew. 
+|Ik ben blij dat het u bevalt, Miss Fairfax. 
+|Ik had geen idee dat er bloemen waren op het platteland. 
+|Oh, bloemen zijn hier zo gewoon, Miss Fairfax, als mensen in de stad. 
+|Persoonlijk begrijp ik niet hoe iemand op het platteland in leven kan blijven
+|iemand die iemand is tenminste. 
+|Op het platteland verveel ik me altijd dood. 
+|Ah! Dat is zeker wat de kranten landelijke depressie noemen. 
+|Op het ogenblik schijnt de aristocratie daar zeer aan te lijden, 
+|het is bijna een epidemie onder hen, heb ik gehoord.
+|Wilt u een kop thee, Miss Fairfax? 
+|Dank u. 
+|Afschuwelijk kind! 
+|Maar ik heb thee nodig. 
+|Suiker? 
+|Nee, dank u. 
+|Suiker is tegenwoordig uit de mode. 
+|Cake of brood? 
+|Brood, graag. 
+|Cake treft men in goeie families niet meer aan.
+|Geef dit aan Miss Fairfax. 
+|U hebt mijn thee met suiker volgestopt, 
+|en hoewel ik onmiskenbaar om brood vroeg, 
+|gaf u mij cake. 
+|Ik sta bekend om de zachtaardigheid van mijn karakter 
+|en mijn buitengewone goedgemutstheid, 
+|maar ik waarschuw u, Miss Fairfax, er komt een moment dat men te ver gaat. 
+|Om mijn onschuldige, goedgelovige jongen 
+|uit de klauwen van een ander meisje te redden 
+|zal ik zover gaan als nodig is. 
+|Ik vertrouwde u meteen al niet. 
+|Ik voelde dat u vals en kwaadaardig was. 
+|Ik heb steeds gelijk over zulke dingen.
+|Mijn eerste indruk heeft me nog nooit bedrogen. 
+|Het komt me voor, Miss Fairfax, 
+|dat ik inbreuk maak op uw kostbare tijd. 
+|Ongetwijfeld hebt u hier in de buurt 
+|nog meer soortgelijke bezoeken af te leggen. 
+|Ernst! Mijn eigen Ernst! 
+|Gwendolen! Lieveling! 
+|Een moment! Mag ik vragen of je je wellicht verloofd hebt met deze jongedame? 
+|Met mijn lieve, kleine Cecily? Natuurlijk niet!
+|Hoe komt zo’n idee in dat schattige hoofdje van je? 
+|Dank je. Ga je gang! 
+|Ik wist wel dat er een misverstand in het spel was, Miss Fairfax. 
+|De heer die nu zijn arm om uw middel houdt 
+|is mijn voogd, Mr. John Worthing. 
+|Hoe zeg je? 
+|Dit is oom Jack. 
+|Jack! O! 
+|En dat is Ernst. 
+|Mijn eigen liefste! 
+|Een moment, Ernst? 
+|Mag ik je vragen: heb je je wellicht verloofd met deze jongedame? 
+|Met welke jongedame? Goeie genade! Gwendolen! 
+|Ja! Met goeie genade Gwendolen, ik bedoel met Gwendolen. 
+|Natuurlijk niet. 
+|Hoe komt zo’n idee in dat schattige hoofdje van je? 
+|Dank je. Ga je gang. 
+|Ik dacht al dat er een kleine vergissing in het spel was, Miss Cardew. 
+|De heer die u nu omhelst is mijn neef, Mr. Algernon Moncrief. 
+|Algernon Moncrief! O!
+|Heet je Algernon? 
+|Ik kan het niet ontkennen. 
+|O! 
+|Is jouw naam echt John? 
+|Ik kan het ontkennen als ik wil. 
+|Ik zou alles kunnen ontkennen als ik wil. 
+|Maar mijn naam is ongetwijfeld John. 
+|Ik heet al jaren zo. 
+|Ze hebben ons lelijk in de val laten lopen. 
+|Mijn arme, gekrenkte Cecily! 
+|Mijn liefste, bedrogen Gwendolen! 
+|Wil jij me voortaan zus noemen? 
+|Er is nog een vraag die ik mijn voogd zou willen stellen. 
+|Voortreffelijk idee! 
+|Mr. Worthing, er is een vraag die ik jou nog zou willen stellen. 
+|Waar is uw broer Ernst? 
+|We zijn allebei met jouw broer Ernst verloofd, 
+|dus het is voor ons geen zaak van weinig belang 
+|om te weten waar uw broer op dit ogenblik uithangt.  
+|Gwendolen – Cecily – het is erg pijnlijk voor me jullie de waarheid te moeten vertellen. 
+|De eerste keer in mijn leven 
+|dat ik me voor die situatie geplaatst zie, 
+|dus ik heb er werkelijk geen ervaring in. 
+|Ik heb geen broer Ernst. 
+|Ik heb geen broer,
+|ik heb nooit een broer gehad, 
+|en ik koester niet het minste voornemen er ooit een op na te houden. 
+|Helemaal geen broer? 
+|Helemaal geen! 
+|U had al die tijd niets wat op een broer leek? 
+|Zelfs niet wat er op leek. 
+|Het is nu wel duidelijk, Cecily, 
+|dat geen van ons beiden verloofd is met wie dan ook. 
+|Het is geen aangename positie voor een vrouw om zich plotseling in te bevinden. 
+|Neen?
+|Laten we maar naar binnen gaan. 
+|Ze zullen ons toch wel niet achterna durven komen. 
+|Nee, mannen zijn zo laf. 
+|Dus deze afgrijselijke toestand is wat jij bunburiën noemt, neem ik aan? 
+|Ja, en het is verrukkelijke Bunbury, 
+|de verrukkelijkste die ik ooit heb meegemaakt. 
+|Maar je hebt het recht niet, hier te bunburiën.
+|Dat is gewoon absurd. 
+|Een mens heeft het recht te bunburiën waar hij wil. 
+|Dat weet iedere serieuze Bunburyist. 
+|Serieuze Bunburyist! Goeie genade! 
+|Een mens moet ergens serieus in zijn als hij wat plezier in zijn leven wil hebben. 
+|Ik ben nu eenmaal serieus in het bunburiën. 
+|Ik heb niet het flauwste vermoeden waar jij serieus in bent. 
+|In alles, neem ik aan. 
+|Je hebt zo’n absoluut triviaal karakter. 
+|Well, het enige kleine genot dat ik beleef aan deze situatie 
+|is dat je vriend Bunbury helemaal opgeblazen is. 
+|Je mogelijkheden om de stad uit te rennen 
+|zijn iets beperkter geworden, beste Algy. 
+|Dat is de goeie kant aan deze ellendige geschiedenis. 
+|Jouw broer is ook wat van kleur verschoten, hè ouwe jongen? 
+|Jouw mogelijkheden om in Londen onder te duiken zijn iets beperkter geworden. 
+|Dat is ook niet slecht. 
+|En wat je gedrag tegenover Miss Cardew betreft:
+|ik moet je zeggen dat ik het onvergeeflijk vind
+|om zo’n lief, onschuldig meisje om de tuin te leiden.
+|Om nog maar niet te spreken over het feit dat ze mijn pupil is. 
+|Ik kan er geen excuus voor vinden 
+|dat jij zo’n briljante, intelligente, door en door ervaren jongedame 
+|als Miss Fairfax hebt bedrogen. 
+|Om nog maar niet te spreken van het feit dat ze mijn nicht is. 
+|Ik wilde me verloven met Gwendolen, dat is alles.
+|Ik hou van haar. 
+|En ik wilde me enkel verloven met Cecily. 
+|Ik aanbid haar. 
+|Het is beslist uitgesloten dat jij ooit met Miss Cardew trouwt. 
+|En het lijkt me ook niet erg waarschijnlijk, Jack, 
+|dat jij en Miss Fairfax nog eens een paar worden.
+|Dat zijn jouw zaken niet. 
+|Als het mijn zaken waren zou ik er niet over praten. 
+|Het is zeer vulgair om over je eigen zaken te praten. 
+|Alleen makelaars en zo praten over hun eigen zaken en dan alleen tijdens etentjes. 
+|
+|Hoe jij daar, nu de hele wereld op zijn kop staat, 
+|doodkalm muffins kunt zitten eten,
+|is mij een raadsel. 
+|Het lijkt me harteloos.
+|
+|Ik kan geen muffins eten in opgewonden staat. 
+|Dan komt er misschien boter op mijn manchetten. 
+|Je moet muffins steeds kalm opeten.
+|Dat is de enige manier om ze op te eten.
+|Je hebt geen hart wanneer je onder deze omstandigheden zelfs maar aan muffins denkt. 
+|Als ik het moeilijk heb vormt eten mijn enige troost. 
+|Als ik het echt erg moeilijk heb,
+|zo zal iedereen die me kent je kunnen vertellen,
+|weiger ik alles – behalve voedsel en drank. 
+|Op dit moment eet ik muffins...
+|omdat ik ongelukkig ben. 
+|Bovendien zijn het lekkere muffins. 
+|Dat is nog geen reden om ze allemaal op te eten, en zo gulzig. 
+|Neem liever de cake. 
+|Ik hou niet van cake. 
+|Goede genade!
+|Een man mag in zijn eigen huis toch wel zijn eigen muffins eten! 
+|Maar je zei net dat iemand die muffins eet geen hart heeft. 
+|Ik zei dat het jij geen hart hebt als je in deze omstandigheden muffins eet. 
+|Dat is iets helemaal anders. 
+|Dat kan wel zijn. Maar het zijn wel dezelfde muffins. 
+|Algy, ik wou in ’s hemelsnaam dat je wegging. 
+|Ik ga niet weg zonder gedineerd te hebben. 
+|Dat is absurd. 
+|Dat doet niemand, behalve vegetariërs en dergelijke... 
+|Bovendien heb ik met Dr. Chasuble afgesproken 
+|dat ik om kwart voor zes tot Ernst zal worden gedoopt. 
+|Nonsens! 
+|Ik heb zelf met Dr. Chasuble afgesproken 
+|dat ik om half zes zal worden gedoopt, als Ernst natuurlijk. 
+|Gwendolen zou het zo willen. 
+|We kunnen ons niet allebei tot Ernst laten dopen.
+|Dat is absurd
+|En ik heb het volste recht me te laten dopen,
+|omdat er geen enkel bewijs bestaat dat ik ooit al gedoopt ben. 
+|Het is zelf zeer waarschijnlijk dat ik niet gedoopt ben en Dr. Chasuble gelooft dit ook. 
+|Jij daarentegen bent al eens gedoopt. 
+|Maar ook al een hele tijd niet meer. 
+|Maar gedoopt ben je. 
+|Daar gaat het om. 
+|Precies. 
+|Ik weet dus dat mijn gestel ertegen kan. 
+|Als je nooit eerder gedoopt bent, 
+|vind ik het een knap gevaarlijke onderneming moet ik zeggen. 
+|Het zou je zwaar ziek kunnen maken.
+|Je bent toch niet vergeten dat iemand die je erg nauw aan het hart ligt 
+|deze week in Parijs door een zware verkoudheid bijna werd geveld? 
+|Je hebt zelf gezegd dat het niet erfelijk is. 
+|Tot nu toe niet, nee – maar ik vermoed dat het dat ondertussen wel is. 
+|De wetenschap gaat met rasse schreden vooruit.
+|Oh, dat is nonsens. Je praat alleen maar nonsens.
+|Jack, je eet alweer van de muffins!
+|Ik wou dat je dat niet deed. Er zijn nog maar twee over. 
+|Ik zei toch dat ik hield van muffins. 
+|Maar ik verafschuw cake! 
+|
+|Waarom laat je je gasten dan cake voorzetten? 
+|Vreemde ideeën over gastvrijheid hou jij erop na! 
+|Algernon! Ik heb je al gezegd om weg te gaan. 
+|Ik wil je hier niet. 
+|Waarom ga niet weg? 
+|
+|Ik ben nog niet klaar met mijn thee. 
+|En er is nog een muffin over.
 |
 |AKT
 |
