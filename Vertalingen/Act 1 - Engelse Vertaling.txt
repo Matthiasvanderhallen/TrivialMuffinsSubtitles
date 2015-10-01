@@ -367,7 +367,8 @@
 |Mr. Worthing! Rise, sir, from this semi-recumbent posture.
 |It is most indecorous.
 |Mamma!
-|I must beg you to retire. This is no place for you. |Besides, Mr. Worthing has not quite finished yet.
+|I must beg you to retire. This is no place for you. 
+|Besides, Mr. Worthing has not quite finished yet.
 |Finished what, may I ask?
 |I am engaged to Mr. Worthing, mamma.
 |Pardon me, you are not engaged to any one.
@@ -531,115 +532,99 @@
 |
 |You don't think there is any chance of Gwendolen becoming like her mother
 |in about a hundred and fifty years, do you, Algy?
-
-
-All women become like their mothers. That is their tragedy.
-No man does. That's his. Is that clever?
-JACK
-ALGERNON
-It is perfectly phrased! and quite as true as any observation
-in civilised life should be.
-JACK
-I am sick to death of cleverness. Everybody is clever
-nowadays. You can't go anywhere without meeting clever people. The thing has become an absolute public nuisance. I wish to goodness we had a few fools left.
-We have.
-ALGERNON
-JACK
-I should extremely like to meet them. What do they talk
-What fools!
-By the way, did you tell Gwendolen the truth about your being Ernest in town, and Jack in the country?
-JACK
-(in a very patronising manner)
-My dear fellow, the truth isn't quite the sort of thing one tells to a nice, sweet, refined girl. What extraordinary ideas you have about the way to behave to a woman!
-ALGERNON
-The only way to behave to a woman is to make love to her, if
-she is pretty, and to some one else, if she is plain.
-about?
-The fools? Oh! about the clever people, of course.
-Oh, that is nonsense.
-JACK
-THE IMPORTANCE OF BEING EARNEST I-23
-￼ALGERNON JACK ALGERNON
-ALGERNON
-What about your brother? What about the profligate Ernest?
-JACK
-Oh, before the end of the week I shall have got rid of him.
-I'll say he died in Paris of apoplexy. Lots of people die of apoplexy, quite suddenly, don't they?
-Yes, but it's hereditary, my dear fellow. It's a sort of
-thing that runs in families. You had much better say a severe chill.
-You are sure a severe chill isn't hereditary, or anything of that kind?
-Of course it isn't!
-Very well, then. My poor brother Ernest to carried off
-suddenly, in Paris, by a severe chill. That gets rid of him.
-But I thought you said that... Miss Cardew was a little too
-much interested in your poor brother Ernest? Won't she feel his loss a good deal?
-JACK
-Oh, that is all right. Cecily is not a silly romantic girl, I
-am glad to say. She has got a capital appetite, goes long walks, and pays no attention at all to her lessons.
-ALGERNON I would rather like to see Cecily.
-JACK
-I will take very good care you never do. She is excessively
-pretty, and she is only just eighteen.
-ALGERNON
-Have you told Gwendolen yet that you have an excessively
-pretty ward who is only just eighteen?
-JACK
-Oh! one doesn't blurt these things out to people. Cecily and
-Gwendolen are perfectly certain to be extremely great friends. I'll bet you anything you like that half an hour after they have met, they will be calling each other sister.
-ALGERNON
-Women only do that when they have called each other a lot of
-other things first. Now, my dear boy, if we want to get a good table at Willis's, we really must go and dress. Do you know it is nearly seven?
-JACK Oh! It always is nearly seven.
-Well, I'm hungry.
-I never knew you when you weren't...
-ALGERNON
-What shall we do after dinner? Go to a theatre?
-JACK Oh no! I loathe listening.
-ALGERNON Well, let us go to the Club?
-Oh, no! I hate talking.
-JACK
-ALGERNON
-Well, we might trot round to the Empire at ten?
-JACK
-Oh, no! I can't bear looking at things. It is so silly.
-Well, what shall we do? Nothing!
-ALGERNON JACK ALGERNON
-It is awfully hard work doing nothing. However, I don't mind hard work where there is no definite object of any kind.
-Enter LANE.
-Miss Fairfax.
-LANE
-Enter GWENDOLEN. LANE goes out.
-Gwendolen, upon my word!
-ALGERNON
-GWENDOLEN
-Algy, kindly turn your back. I have something very particular
-to say to Mr. Worthing.
-ALGERNON
-Really, Gwendolen, I don't think I can allow this at all.
-GWENDOLEN
-Algy, you always adopt a strictly immoral attitude towards
-life. You are not quite old enough to do that.
-My own darling!
-JACK
-GWENDOLEN
-Ernest, we may never be married. From the expression on
-mamma's face I fear we never shall. Few parents nowadays pay any regard to what their children say to them. The old- fashioned respect for the young is fast dying out. Whatever influence I ever had over mamma, I lost at the age of three. But although she may prevent us from becoming man and wife, and I may marry some one else, and marry often, nothing that she can possibly do can alter my eternal devotion to you.
-Dear Gwendolen!
-JACK
-GWENDOLEN
-The story of your romantic origin, as related to me by mamma,
-with unpleasing comments, has naturally stirred the deeper fibres of my nature. Your Christian name has an irresistible fascination. The simplicity of your character makes you exquisitely incomprehensible to me. Your town address at the Albany I have. What is your address in the country?
-JACK
-The Manor House, Woolton, Hertfordshire.
-ALGERNON, who has been carefully listening, smiles to himself, and writes the address on his shirt- cuff. Then picks up the Railway Guide.
-GWENDOLEN
-There is a good postal service, I suppose? It may be
-necessary to do something desperate. That of course will require serious consideration. I will communicate with you daily.
-My own one!
-How long do you remain in town?
-Till Monday.
-Good! Algy, you may turn round now.
-ALGERNON Thanks, I've turned round already.
+|All women become like their mothers. That is their tragedy.
+|No man does. That's his.
+|Is that clever?
+|It is perfectly phrased!
+|and quite as true as any observation in civilised life should be.
+|I am sick to death of cleverness. Everybody is clever nowadays.
+|You can't go anywhere without meeting clever people.
+|The thing has become an absolute public nuisance. 
+|I wish to goodness we had a few fools left.
+|We have.
+|I should extremely like to meet them. What do they talk about?
+|The fools? Oh! about the clever people, of course.
+|What fools!
+|By the way, did you tell Gwendolen the truth about your being
+|Ernest in town, and Jack in the country?
+|My dear fellow, the truth isn't quite the sort of thing one tells to a nice, sweet, refined girl. 
+|What extraordinary ideas you have about the way to behave to a woman!
+|The only way to behave to a woman is to make love to her,
+|if she is pretty, and to some one else, if she is plain.
+|Oh, that is nonsense.
+|What about your brother? What about the profligate Ernest?
+|Oh, before the end of the week I shall have got rid of him.
+|I'll say he died in Paris of apoplexy. 
+|Lots of people die of apoplexy, quite suddenly, don't they?
+|Yes, but it's hereditary, my dear fellow. It's a sort of thing that runs in families.
+|You had much better say a severe chill.
+|You are sure a severe chill isn't hereditary, or anything of that kind?
+|Of course it isn't!
+|Very well, then. My poor brother Ernest to carried off suddenly, in Paris,
+|by a severe chill. That gets rid of him.
+|But I thought you said that... Miss Cardew was a little too much interested
+|in your poor brother Ernest? Won't she feel his loss a good deal?
+|Oh, that is all right. Cecily is not a silly romantic girl,
+|I am glad to say. She has got a capital appetite,
+|goes long walks, and pays no attention at all to her lessons.
+|I would rather like to see Cecily.
+|I will take very good care you never do. 
+|She is excessively pretty, and she is only just eighteen.
+|Have you told Gwendolen yet that you have an excessively pretty ward
+|who is only just eighteen?
+|Oh! one doesn't blurt these things out to people. 
+|Cecily and Gwendolen are perfectly certain to be extremely great friends.
+|I'll bet you anything you like that half an hour after they have met,
+|they will be calling each other sister.
+|Women only do that when they have called each other a lot of other things first.
+|Now, my dear boy, if we want to get a good table at Willis's
+|we really must go and dress. Do you know it is nearly seven?
+|It always is nearly seven.
+|Well, I'm hungry.
+|I never knew you when you weren't...
+|What shall we do after dinner? Go to a theatre?
+|Oh no! I loathe listening.
+|Well, let us go to the Club?
+|Oh, no! I hate talking.
+|Well, we might trot round to the Empire at ten?
+|Oh, no! I can't bear looking at things. It is so silly.
+|Well, what shall we do?
+|Nothing!
+|It is awfully hard work doing nothing.
+|However, I don't mind hard work where there is no definite object of any kind.
+|Miss Fairfax.
+|Gwendolen, upon my word!
+|Algy, kindly turn your back. 
+|I have something very particular to say to Mr. Worthing.
+|Really, Gwendolen, I don't think I can allow this at all.
+|Algy, you always adopt a strictly immoral attitude towards life.
+|You are not quite old enough to do that.
+|My own darling!
+|Ernest, we may never be married.
+|From the expression on mamma's face I fear we never shall.
+|Few parents nowadays pay any regard to what their children say to them.
+|The old- fashioned respect for the young is fast dying out.
+|Whatever influence I ever had over mamma, I lost at the age of three.
+|But although she may prevent us from becoming man and wife,
+|and I may marry some one else, and marry often, 
+|nothing that she can possibly do can alter my eternal devotion to you.
+|Dear Gwendolen!
+|The story of your romantic origin, as related to me by mamma,
+|with unpleasing comments, has naturally stirred the deeper fibres of my nature.
+|Your Christian name has an irresistible fascination.
+|The simplicity of your character makes you exquisitely incomprehensible to me.
+|Your town address at the Albany I have.
+|What is your address in the country?
+|The Manor House, Woolton, Hertfordshire.
+|There is a good postal service, I suppose? 
+|It may be necessary to do something desperate. 
+|That of course will require serious consideration. 
+|I will communicate with you daily.
+|My own one!
+|How long do you remain in town?
+|Till Monday.
+|Good! Algy, you may turn round now.
+|Thanks, I've turned round already.
 |You may also ring the bell.
 |You will let me see you to your carriage, my own darling?
 |Certainly.
@@ -666,56 +651,3 @@ ALGERNON Thanks, I've turned round already.
 |They are the only things that are never serious.
 |Oh, that's nonsense, Algy. You never talk anything but nonsense.
 |Nobody ever does.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

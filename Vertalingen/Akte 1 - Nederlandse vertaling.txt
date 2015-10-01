@@ -366,7 +366,8 @@
 |Ik hoop dat je me altijd zo zult aankijken, vooral als er andere mensen bij zijn. 
 |Mr. Worthing! Sta op, meneer, uit die half neerwaards gebogen houding.
 |Dat is hoogst onwelvoeglijk. 
-|Mama! Ik verzoek u heen te gaan. //
+|Mama! 
+|Ik verzoek u heen te gaan. //
 |Mr. Worthing is nog bezig. 
 |Waarmee, als ik vragen mag? 
 |Ik ben verloofd met Mr. Worthing, mama. 
@@ -531,119 +532,122 @@
 |
 |Denk je, Algy, dat Gwendolen op haar moeder zal beginnen lijken, 
 |binnen pakweg honderdvijftig jaar
-
-
 |Alle vrouwen gaan op hun moeder lijken. Dat is hun tragedie. 
 |Mannen nooit. Dat is de hunne.
 |Is dat geestig?
-|Het is voortreffelijk verwoord! En even waar als elke observatie in de beschaafde wereld kan zijn.
-Jack: Ik word doodziek van al die geestigheid. Iedereen is tegenwoordig geestig. Het is absoluut epidemisch geworden. Een publieke plaag. Ik wou echt dat we nog een paar dwazen over hadden.
-Algernon: Die hebben we ook.
-Jack: Ik zou die heel graag ontmoeten. Waar spreken die over?
-Algernon: De dwazen? Oh! Over de geestige mensen, natuurlijk.
-Jack: Wat een dwazen!
-Algernon: Heb jij Gwendolen overigens naar waarheid verteld dat je Ernst bent in London en buiten Jack?
-Jack: Beste kerel, de waarheid is niet bepaald iets wat je een aardig en welopgevoed meisje vertelt. Jij hebt zonderlinge ideeën hoe je je tegenover een vrouw behoort te gedragen.
-Algernon: De enige manier om je tegen een vrouw te gedragen is met haar naar bed te gaan als ze mooi is, en met iemand anders als ze lelijk is.
-Jack: O, dat is onzin.
-Algernon: En wat met je broer? Wat zal er gebeuren met je losbandige broer?
-Jack:  Voor het eind van de week zal ik me van hem hebben ontdaan. Ik zal zeggen dat hij is gestorven van een beroerte. Er sterven toch massa’s mensen plotseling aan een beroerte?
-Algernon: Ja, maar het is erfelijk, mijn beste kerel. Het is een van die dingen die in de familie zit. Zeg een zware verkoudheid. Dat klinkt beter.
-Jack: Je weet zeker dat zware verkoudheden niet erfelijk zijn?
-Algernon: Natuurlijk niet!
-Jack: Goed dan. Dat is geregeld. Mijn arme broer Ernst wordt plots afgevoerd, in Parijs, door een zware verkoudheid. Zo krijg ik hem wel weg.
-Algernon: Maar je zei dat ... Miss Cardew wat al te geïnteresseerd was in je arme broer Ernst. Zal zijn verlies haar niet erg aangrijpen?
-Jack: Oh, dat valt wel mee. Cecily is geen onnozel, romantisch kind, gelukkig. Ze bezit een reusachtige eetlust, wandelt veel en let onder haar lessen nooit op.
-Algernon: Ik zou die Cecily best eens willen zien.
-Jack: Ik zal er nauwgezet acht op slaan dat zoiets nooit gebeurt. Ze is toevallig erg mooi, en ze is pas achttien.
-Algernon: Heb je Gwendolen al wel verteld dat je een erg mooie pupil hebt die pas achttien is?
-Jack: Een mens flapt er toch niet meteen alles uit. Cecily en Gwendolen zullen zeker geweldig goede vriendinnen worden. Ik verwed er alles om dat ze mekaar nog zussen noemen binnen een half uur dat ze mekaar ontmoet hebben.
-Algernon: Vrouwen doen zoiets alleen nadat ze mekaar eerst een heleboel andere zaken hebben genoemd. Welaan, beste jongen, als we bij Willis nog een goeie tafel willen krijgen, moeten we ons hoognodig gaan kleden. Het is al bij zevenen.
-Jack: Het is altijd bijna zeven.
-Algernon: Ik heb honger.
-Jack: Ik heb je nooit meegemaakt zonder honger.
-Algernon: Wat zullen we na het eten doen? Naar de schouwburg?
-Jack: O nee! Ik heb een afkeer aan luisteren.
-Algernon: Naar de club dan maar?
-Jack: O nee! Ik haat praten.
-Algernon: Wat stel je dan voor?
-Jack: Niets.
-Algernon: Niets doen is verschrikkelijk zwaar werk. Nu vind ik zwaar werk niet erg, als het maar geen bepaald doel heeft ...
-Lane: Miss Fairfax.
-Gwendolen: Algy, draai je alsjeblieft even om. Ik heb Mr. Worthing iets zeer persoonlijk mede te delen.
-Algernon: Echt Gwendolen. Ik denk niet dat ik dit kan toestaan.
-Gwendolen: Algy, je neemt altijd een zeer strikte moraal aan in het leven. Je bent daar nog niet echt oud genoeg voor.
-Jack: Mijn lieveling!
-Gwendolen: Ernst, misschien zullen we nooit trouwen. Als ik de uitdrukking  op mama’s gezicht zie vrees ik het ergste. Er zijn maar weinig ouders meer die aandacht schenken aan wat hun kinderen zeggen. Het ouderwetse respect voor de jeugd is bijna uitgestorven. Alle invloed die ik op mama had heb ik verloren toen ik drie was. Maar al zal ik misschien met een ander trouwen, en dikwijls trouwen, niets kan verandering brengen in mijn eeuwige toewijding aan jou.
-Jack: Mijn allerliefste Gwendolen!
-Gwendolen: Het verhaal van je romantische afkomst, door mama met een keur van onplezierige commentaar meegedeeld, heeft uiteraard de diepere snaren van mijn innerlijk geroerd. Je voornaam oefent een onweerstaanbare aantrekkingskracht uit. De eenvoud van je karakter maakt je tot een verrukkelijk raadsel. Jouw adres in de Albany heb ik al. Wat is je adres buiten de stad?
-Jack: Manor House, Woolton, Hertfordshire.
-Gwendolen: Er is een goede postdienst, neem ik aan? Het kan onvermijdelijk zijn dat ik iets wanhopigs doe. Alleen na ernstig en rijp beraad, natuurlijk. Ik zal dagelijks met je communiceren.
-Jack: Mijn liefste!
-Gwendolen: Hoelang blijf je nog in de stad?
-Jack: Tot maandag.
-Gwendolen: Goed! Algy, je kunt je weer omdraaien.
-Algernon: Dank je, dat had ik al gedaan.
-Gwendolen: Je mag ook de bel luiden.
-Jack: Ik mag je toch naar je rijtuig brengen, mijn liefste?
-Gwendolen: Natuurlijk.
-Jack: Ik laat Miss Fairfax uit.
-Lane: Zeker, meneer.
-Algernon: Een glas sherry, Lane.
-Lane: Zeker, meneer.
-Algernon: Morgen, Lane, ga ik bunburiën.
-Lane: Zeker, meneer.
-Algernon: Waarschijnlijk ben ik niet voor maandag terug. Je kunt mijn avondkleding inpakken, mijn smoking, en al de Bunburry-kostuums.
-Lane: Zeker, meneer.
-Algernon: Ik hoop dat het morgen mooi weer is, Lane.
-Lane: Dat is het nooit, meneer.
-Algernon: Lane, je bent een verstokte pessimist.
-Lane: Ik doe mijn best u tevreden te stellen, meneer.
-Jack: Dat is pas een verstandig meisje! Het enige meisje om wie ik ooit heb gegeven. Waar heb jij zo’n plezier om?
-Algernon: O, ik maak me ongerust over de arme Bunbury, meer niet.
-Jack: Als je niet oppast brengt die Bunbury van jou je nog eens in een netelige parket.
-Algernon: Ik hou van netelige parketten. Die zijn tenminste nooit serieus.
-Jack: Dat is onzin, Algy. Je praat echt alleen maar onzin.
-Algernon: Wie niet?
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+|Het is voortreffelijk verwoord!
+|En even waar als elke observatie in de beschaafde wereld kan zijn.
+|Ik word doodziek van al die geestigheid. Iedereen is tegenwoordig geestig.
+|Het is absoluut epidemisch geworden.
+|Een publieke plaag.
+|Ik wou echt dat we nog een paar dwazen over hadden.
+|Die hebben we ook.
+|Ik zou die heel graag ontmoeten. Waar spreken die over?
+|De dwazen? Oh! Over de geestige mensen, natuurlijk.
+|Wat een dwazen!
+|Heb jij Gwendolen overigens naar waarheid verteld 
+|dat je Ernst bent in London en buiten Jack?
+|Beste kerel, de waarheid is niet bepaald iets wat je een aardig en welopgevoed meisje vertelt.
+|Jij hebt zonderlinge ideeën hoe je je tegenover een vrouw behoort te gedragen.
+|De enige manier om je tegen een vrouw te gedragen is met haar naar bed te gaan
+|als ze mooi is, en met iemand anders als ze lelijk is.
+|O, dat is onzin.
+|En wat met je broer? Wat zal er gebeuren met je losbandige broer?
+|Voor het eind van de week zal ik me van hem hebben ontdaan.
+|Ik zal zeggen dat hij is gestorven van een beroerte. 
+|Er sterven toch massa’s mensen plotseling aan een beroerte?
+|Ja, maar het is erfelijk, mijn beste kerel. Het is een van die dingen die in de familie zit.
+|Zeg dat het een zware verkoudheid was. Dat klinkt beter.
+|Je weet zeker dat zware verkoudheden niet erfelijk zijn?
+|Natuurlijk niet!
+|Goed dan. Dat is geregeld. Mijn arme broer Ernst wordt plots geveld, in Parijs,
+|door een zware verkoudheid. Zo krijg ik hem wel weg.
+|Maar je zei dat ... Miss Cardew wat al te geïnteresseerd was
+|in je arme broer Ernst. Zal zijn verlies haar niet erg aangrijpen?
+|Oh, dat valt wel mee. Cecily is geen onnozel, romantisch kind.
+|Gelukkig maar. Ze bezit een reusachtige eetlust,
+|wandelt veel en let onder haar lessen nooit op.
+|Ik zou die Cecily best eens willen zien.
+|Ik zal er nauwgezet acht op slaan dat zoiets nooit gebeurt.
+|Ze is toevallig erg mooi, en ze is pas achttien.
+|Heb je Gwendolen al wel verteld dat je een erg mooie pupil hebt
+|die pas achttien is?
+|Een mens flapt er toch niet meteen alles uit. 
+|Cecily en Gwendolen zullen zeker geweldig goede vriendinnen worden.
+|Ik verwed er alles om dat ze mekaar nog zussen noemen
+|binnen een half uur dat ze mekaar ontmoet hebben.
+|Vrouwen doen zoiets alleen nadat ze mekaar eerst een heleboel andere zaken hebben genoemd.
+|Welaan, beste jongen, als we bij Willis nog een goeie tafel willen krijgen,
+|moeten we ons hoognodig gaan kleden. Het is al bij zevenen.
+|Het is altijd bijna zeven.
+|Ik heb honger.
+|Ik heb je nooit meegemaakt zonder honger.
+|Wat zullen we na het eten doen? Naar de schouwburg?
+|O nee! Ik heb een afkeer aan luisteren.
+|Naar de club dan maar?
+|O nee! Ik haat praten.
+| T.B.D. //
+| T.B.D. //
+|Wat stel je dan voor?
+|Niets.
+|Niets doen is verschrikkelijk zwaar werk.
+|Nu vind ik zwaar werk niet erg, als het maar geen bepaald doel heeft ...
+|Miss Fairfax.
+|Oh god, Gwendolen!
+|Algy, draai je alsjeblieft even om.
+|Ik heb Mr. Worthing iets zeer persoonlijk mede te delen.
+|Echt Gwendolen. Ik denk niet dat ik dit kan toestaan.
+|Algy, je neemt altijd een zeer strikte moraal aan in het leven.
+|Je bent daar nog niet echt oud genoeg voor.
+|Mijn lieveling!
+|Ernst, misschien zullen we nooit trouwen.
+|Als ik de uitdrukking  op mama’s gezicht zie vrees ik het ergste.
+|Er zijn maar weinig ouders meer die aandacht schenken aan wat hun kinderen zeggen.
+|Het ouderwetse respect voor de jeugd is bijna uitgestorven.
+|Alle invloed die ik op mama had heb ik verloren toen ik drie was.
+|Maar al zullen wij nooit trouwen,
+|en zal ik misschien met een ander trouwen, en dikwijls trouwen,
+|niets kan verandering brengen in mijn eeuwige toewijding aan jou.
+|Mijn allerliefste Gwendolen!
+|Het verhaal van je romantische afkomst, dat mama me heeft vergeld
+|met een keur van onplezierige commentaar, heeft mij diep geroerd. 
+|Je voornaam oefent een onweerstaanbare aantrekkingskracht uit.
+|De eenvoud van je karakter maakt je tot een verrukkelijk raadsel.
+|Jouw adres in de Albany heb ik al.
+|Wat is je adres buiten de stad?
+|Manor House, Woolton, Hertfordshire.
+|Er is een goede postdienst, neem ik aan?
+|Het kan onvermijdelijk zijn dat ik iets wanhopigs doe.
+|Alleen na ernstig en rijp beraad, natuurlijk.
+|Ik zal dagelijks met je communiceren.
+|Mijn liefste!
+|Hoelang blijf je nog in de stad?
+|Tot maandag.
+|Goed! Algy, je kunt je weer omdraaien.
+|Dank je, dat had ik al gedaan.
+|Je mag ook de bel luiden.
+|Ik mag je toch naar je rijtuig brengen, mijn liefste?
+|Natuurlijk.
+|Ik laat Miss Fairfax uit.
+|Zeker, meneer.
+|Een glas sherry, Lane.
+|Zeker, meneer.
+|Morgen, Lane, ga ik bunburiën.
+|Zeker, meneer.
+|Waarschijnlijk ben ik niet voor maandag terug.
+|Je kunt mijn avondkleding inpakken, mijn smoking, en al de Bunburry-kostuums.
+|Zeker, meneer.
+|Ik hoop dat het morgen mooi weer is, Lane.
+|Dat is het nooit, meneer.
+|Lane, je bent een verstokte pessimist.
+|Ik doe mijn best u tevreden te stellen, meneer.
+|Dat is pas een verstandig meisje!
+|Het enige meisje om wie ik ooit heb gegeven.
+|Waar heb jij zo’n plezier om?
+|O, ik maak me ongerust over de arme Bunbury, meer niet.
+|Als je niet oppast brengt die Bunbury van jou 
+|je nog eens in een netelige parket.
+|Ik hou van netelige parketten.
+|Die zijn tenminste nooit serieus.
+|Dat is onzin, Algy. Je praat echt alleen maar onzin.
+|Wie niet?
