@@ -2,10 +2,10 @@
 | Je ne pensais pas qu'il était respectueux d'écouter, monsieur.
 | Quel dommage pour vous. Je ne joue pas très bien, tout le monde peut jouer bien,
 | mais je joue d'une façon merveilleusement expressive.
-| T.b.d // <As far as piano is concerned...>
-| T.b.d //
+| En ce qui concerne le piano, la douceur est ma force.// <As far as piano is concerned...>
+| En ce qui concerne le piano, la douceur est ma force.// <As far as piano is concerned...>
 | Oui, monsieur.
-| T.b.d //
+| Oui, monsieur.
 | Lane, avez-vous préparé les sandwiches au concombre pour Lady Bracknell?
 | Oui, monsieur.
 | Dites-moi, Lane, j’ai vu sur le livre de compte que jeudi soir
@@ -78,12 +78,13 @@
 | Elle adore les tartines beurrées.
 | Très bonnes tartines beurrées.
 | Ne mange pas comme si tu allais tout avaler.
-| T.b.d //
+| Vous vous comportez comme si vous étiez déjà mariés.
 | Tu n’es pas encore marié avec elle et je crois que tu ne le seras jamais.
 | Comment ça?
 | D’abord, les filles n’épousent pas leurs flirts. Elles pensent que ce n’est pas correct.
 | C’est absurde!
-| Pas du tout, c’est profond. Cela explique l’incroyable nombre de célibataires qu’on trouve partout.
+| Pas du tout, c’est profond. 
+|Cela explique l’incroyable nombre de célibataires qu’on trouve partout.
 | Ensuite, je ne donne pas mon consentement.
 | Ton consentement!
 | Mon cher, Gwendolen est ma cousine et avant que je permette le mariage
@@ -92,7 +93,7 @@
 | Je ne connais personne du nom de Cecily.
 | Apportez-moi l’étui à cigarettes que M. Worthing
 | a laissé dans le fumoir la dernière fois qu’il a diné ici.
-| T.b.d //
+| Oui, monsieur. //
 | Veux-tu dire que tu as gardé mon étui pendant tout ce temps.
 | Tu aurais pu me le dire. J’ai écrit des lettres frénétiques à Scotland Yard,
 | j’ai même failli offrir une grosse récompense.
@@ -192,13 +193,13 @@
  | Tu ferais mieux de dîner avec ta Tante Augusta.
  | Je n’en ai pas la moindre intention.
  | D’abord, j’ai dîné avec elle lundi, et dîner une fois la semaine avec la famille, c’est bien suffisant.
- | Ensuite quand je dîne chez elle T.B.D //
+ | Ensuite quand je dîne chez elle, elle me regarde toujours comme un membre de la famille.  //
  |je suis toujours placé près de deux femmes, ou aucune.
  | Enfin je sais parfaitement bien avec qui elle me mettrait ce soir.
  | Elle me placerait près de Marie Farquhar
  | qui flirte toujours par-dessus la table avec son propre mari.
- |T.b.d //
- |T.b.d //
+ | ce n'est pas très plaisant. En fait, ce n'est même pas décent.
+ |Ce genre de choses arrive de plus en plus souvent.
  | La quantité de femmes à Londres qui flirtent avec leur mari est parfaitement scandaleuse.
  | C’est vraiment moche, c’est tout simplement laver son linge sale en public.
  | Bon, maintenant que je sais que tu es un Bunburiste il faut que je te parle de la technique.
@@ -303,7 +304,7 @@
  |C’est bien ce que je pensais. En fait, je ne me trompe jamais.
  |J’aimerais que vous me permettiez de profiter de l’absence temporaire de Lady Bracknell… 
  |Oui, oui. Mais maman a une façon bien à elle de revenir brusquement…
- |T.B.D //
+ |je dois à chaque fois lui faire la remarque. //
  |Miss Fairfax, depuis que je vous ai vue, je vous ai admirée plus que toutes les femmes… 
  |que j’avais vues avant… de vous avoir vue. 
  |Oui, j’ai très bien remarqué ça. 
@@ -312,7 +313,7 @@
  |Même avant notre première rencontre, vous étiez loin de me laisser indifférente. 
 |Nous vivons, et j’espère que vous le savez, M. Worthing, à l’Âge de l’Idéal.
 |C’est ce qu’on dit dans les magazines les plus coûteux. 
-| T.B.D //
+| et les moins coûteux, également. //
 |Et mon idéal a toujours été d’aimer quelqu’un du nom de Constant.
 |Il y a quelque chose dans ce nom qui m’inspire une confiance absolue.
 |Quand Algernon a expliqué pour la première fois qu’il avait un ami appelé Constant,
@@ -337,7 +338,7 @@
 |J’ai connu plusieurs Jack et tous, sans exception, étaient terriblement ordinaires.
 |D’ailleurs, Jack n’est qu’un diminutif pour John.
 |Et je plains une femme qui épouserait un homme appelé John.
-| T.B.D // 
+|Elle ne sera jamais seule. // 
 |Non, Constant est le seul nom possible.
 |Gwendolen, il faut que je me fasse baptiser -
 |Je veux dire, nous devons nous marier tout de suite! 
@@ -408,16 +409,16 @@
 |Toute la théorie moderne de l’éducation est radicalement stupide.
 |Fort heureusement, en Angleterre, l’éducation ne produit aucun effet d’aucune sorte
 |Sinon il s’ensuivrait de graves dangers pour les classes supérieures.
-|T.B.D. //
+|et des révoltes à Grosvenor Square.//
 |Quel est votre revenu?
 |Entre sept et huit mille livres par an.
 |En terres ou en placements?
 |En placements, principalement.
 |Voilà qui est satisfaisant. 
-|De nos jours, T.B.D//
-| T.B.D. //
+|De nos jours, suite à nos devoirs terrestres 
+|Et puis les taxes prélevées sur l'autre monde,
 |la terre n’est plus ni un profit, ni un plaisir. 
-|Elle donne une position sociale, T.B.D. //
+|Elle donne une position sociale, mais empêche de la garder //
 |c’est tout ce qu’on peut en dire.
 |J’ai une maison de campagne avec un peu de terre, naturellement, à peu près quinze cent acres, 
 |Mais ce n’est pas de là que vient mon revenu réel.
@@ -484,7 +485,7 @@
 |Quant au lieu précis où le cabas fut trouvé,
 |la consigne d’une gare a pu servir
 |à dissimuler quelque secret de famille,
-|T.B.D //
+|et probablement a déjà été utilisé pour ce genre de choses.
 |mais cela peut difficilement être regardé comme une base crédible
 |pour obtenir une position dans la bonne société.
 |Puis-je vous demander ce que vous me conseillez de faire?

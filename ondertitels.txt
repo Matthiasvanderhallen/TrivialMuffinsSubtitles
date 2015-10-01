@@ -3,10 +3,10 @@ nr|nederlands|frans|engels
 |Ik achtte het ongepast om te luisteren, meneer.| Je ne pensais pas qu'il était respectueux d'écouter, monsieur.|I didn't think it polite to listen, sir.
 |Dat is dan jammer, voor jou. Ik speel dan wel niet correct -correct spelen kan iedereen–| Quel dommage pour vous. Je ne joue pas très bien, tout le monde peut jouer bien,|I'm sorry for that, for your sake. I don't play accurately --any one can play accurately --
 |maar ik speel met een wonderbaarlijke expressie.| mais je joue d'une façon merveilleusement expressive.|but I play with wonderful expression.
-| T.b.d //| T.b.d // <As far as piano is concerned...>|As far as the piano is concerned, sentiment is my forte.
-| T.b.d //| T.b.d //|I keep science for Life.
+| Waar het de piano betreft, is gevoel mijn sterkste punt.//| En ce qui concerne le piano, la douceur est ma force.// <As far as piano is concerned...>|As far as the piano is concerned, sentiment is my forte.
+|Muziek vereist gevoel. Rede is voor dagelijks leven.//| En ce qui concerne le piano, la douceur est ma force.// <As far as piano is concerned...>|I keep science for Life.
 |Zeker, meneer.| Oui, monsieur.|Yes, sir.
-| T.b.d //| T.b.d //|And, speaking of the science of Life,
+| Over dagelijks leven gesproken... //| Oui, monsieur.|And, speaking of the science of Life,
 |Lane, staan de komkommersandwiches voor Lady Bracknell klaar?| Lane, avez-vous préparé les sandwiches au concombre pour Lady Bracknell?|have you got the cucumber sandwiches cut for Lady Bracknell?
 |Zeker, meneer.| Oui, monsieur.|Yes, sir.
 |Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,| Dites-moi, Lane, j’ai vu sur le livre de compte que jeudi soir|Oh!... by the way, Lane, I see from your book that on Thursday night,
@@ -28,7 +28,7 @@ nr|nederlands|frans|engels
 |Hij schijnt er nogal lakse ideeen over het huwelijk over na te houden, die Lane.| Les opinions de Lane sur le mariage semblent quelque peu laxistes.|Lanes views on marriage seem somewhat lax.
 |Goeie genade, als de lagere standen ons geen voorbeeld meer geven,| Vraiment, si les classes inférieures ne nous donnent pas le bon exemple|Really, if the lower orders don't set us a good example,
 |waar zijn ze dan nog goed voor?| à quoi peuvent-elles bien servir?|what on earth is the use of them?
-| T.b.d //| Elles semblent n’avoir aucun sens de leur responsabilité morale.|They seem, as a class, to have absolutely no sense of moral responsibility.
+|Ze hebben blijkbaar geen enkel besef van hun morele verantwoordelijkheid.| Elles semblent n’avoir aucun sens de leur responsabilité morale.|They seem, as a class, to have absolutely no sense of moral responsibility.
 |||
 |Mr. Ernst Worthing.| Mr. Constant Worthing!|Mr. Ernest Worthing.
 |Hoe is het, mijn beste Ernst? Waarom ben je in de stad?| Comment ça va, mon cher Constant? Qu’est-ce qui t’amène en ville?|How are you, my dear Ernest? What brings you up to town?
@@ -61,13 +61,13 @@ nr|nederlands|frans|engels
 |Wat ben jij akelig romantisch.| Comme tu es romantique!|How utterly unromantic you are!
 |Mij lijkt dat er niets romantisch is aan een aanzoek.| Je ne vois rien de romantique dans une demande en mariage.|I really don't see anything romantic in proposing.
 |Het is romantisch om verliefd te zijn.| C’est tout à fait romantique d’être amoureux|It is very romantic to be in love.
-|Maar er steekt niets romantisch in een huwelijksaanzoek.| mais il n’y a rien de romantique dans une demande en mariage.|But there is nothing romantic about a definite proposal.
+|Maar er steekt niets romantisch in een huwelijksaanzoek.| mais il n’y a rien de romantique dans une demande en mariage.|But there is nothing romantic about a definite proposal. 
 |Het kan immers geaccepteerd worden. Dat gebeurt meestal, geloof ik.| On peut être accepté, c’est le cas le plus souvent, je crois|Why, one may be accepted. One usually is, I believe.
 |En dan is alle opwinding voorbij.| et alors toute l’émotion retombe.|Then the excitement is all over.
-|Het ware kenmerk van romantiek is onzekerheid.| L’essence même de l’histoire d’amour c’est l’incertitude.|The very essence of romance is uncertainty.
+|Het ware kenmerk van romantiek is onzekerheid. | L’essence même de l’histoire d’amour c’est l’incertitude.|The very essence of romance is uncertainty.
 |Mocht ik ooit nog trouwen, zal ik het feit beslist proberen te vergeten.| Si jamais je me mariais j’essaierais d’oublier ça tout de suite.|If ever I get married, I'll certainly try to forget the fact.
 |Daar twijfel ik geen moment aan, Algy.| Je n’en doute pas, mon cher.|I have no doubt about that, dear Algy.
-|De echtscheiding is speciaal uitgevonden voor lieden| Le divorce a été tout spécialement inventé pour les gens qui|The Divorce Court was specially invented for people
+|De echtscheiding is speciaal uitgevonden voor lieden | Le divorce a été tout spécialement inventé pour les gens qui|The Divorce Court was specially invented for people
 |met zo’n eigenaardig geheugen als het jouwe.| bizarrement, oublient qu’ils sont mariés.|whose memories are so curiously constituted.
 |O, het heeft geen zin om daarover uit te weiden.| Oh, ça ne sert à rien de discuter là-dessus.|Oh! there is no use speculating on that subject.
 |Echtscheidingen worden gesloten in de hemel| Les divorces sont inscrits dans le Ciel.|Divorces are made in Heaven --
@@ -76,15 +76,16 @@ nr|nederlands|frans|engels
 |Jij eet er anders constant al.| Et toi, tu n’arrêtes pas d’en manger.|Well, you have been eating them all the time.
 |Dat is iets anders. Ze is m’n tante.| Moi, c’est tout à fait différent. C’est ma tante.|That is quite a different matter. She is my aunt.
 |Hier, neem wat gewone sandwiches. Die zijn voor Gwendolen.| Prends donc une tartine beurrée. Elles sont pour Gwendolen.|Have some bread and butter. The bread and butter is for Gwendolen.
-|Gwendolen t.b.d//| Elle adore les tartines beurrées.|Gwendolen is devoted to bread and butter.
+|Gwendolen is een onvoorwaardelijke liefhebber van sandwiches.//| Elle adore les tartines beurrées.|Gwendolen is devoted to bread and butter.
 |En zeer goede sandwiches zijn het!| Très bonnes tartines beurrées.|And very good bread and butter it is too.
 |Kom, beste kerel, je hoeft niet te eten alsof je van plan bent alles op te eten.| Ne mange pas comme si tu allais tout avaler.|Well, my dear fellow, you need not eat as if you were going to eat it all.
-|Je gedraagt je alsof je al getrouwd bent.| T.b.d //|You behave as if you were married to her already.
+|Je gedraagt je alsof je al getrouwd bent. | Vous vous comportez comme si vous étiez déjà mariés.|You behave as if you were married to her already. 
 |Je bent nog niet met haar getrouwd, en ik denk ook niet dat het ooit zal gebeuren.| Tu n’es pas encore marié avec elle et je crois que tu ne le seras jamais.|You are not married to her already, and I don't think you ever will be.
 |Waarom zeg je dat?| Comment ça?|Why on earth do you say that?
 | Wel, in de eerste plaats trouwen meisjes nooit met de mannen met wie ze flirten. Dat vinden meisjes niet netjes.| D’abord, les filles n’épousent pas leurs flirts. Elles pensent que ce n’est pas correct.|Well, in the first place girls never marry the men they flirt with. Girls don't think it right.
 |O, dat is onzin.| C’est absurde!|Oh, that is nonsense!
-| Dat is een onverbiddelijke waarheid. Het verklaart de reuzachtige aantal vrijgezellen waarover je hier al door struikelt.//wtf?| Pas du tout, c’est profond. Cela explique l’incroyable nombre de célibataires qu’on trouve partout.|It isn't. It is a great truth. It accounts for the extraordinary number of bachelors that one sees all over the place.
+| Dat is een onverbiddelijke waarheid.| Pas du tout, c’est profond. |It isn't. It is a great truth.
+|Het verklaart de reuzachtige aantal vrijgezellen waarover je hier al door struikelt.//wtf?|Cela explique l’incroyable nombre de célibataires qu’on trouve partout.|It accounts for the extraordinary number of bachelors that one sees all over the place.
 |En bovendien, ik geef mijn toestemming niet.| Ensuite, je ne donne pas mon consentement.|In the second place, I don't give my consent.
 |Jouw toestemming?| Ton consentement!|Your consent!
 |Beste kerel, Gwendolen is een volle nicht van me. En voor ik je toesta haar te trouwen,| Mon cher, Gwendolen est ma cousine et avant que je permette le mariage|My dear fellow, Gwendolen is my first cousin. And before I allow you to marry her,
@@ -93,7 +94,7 @@ nr|nederlands|frans|engels
 |Ik ken niemand die Cecily heet, voor zover ik me herriner.| Je ne connais personne du nom de Cecily.|I don't know any one of the name of Cecily.
 |Breng me de cigarettenkoker die Mr. Worthing| Apportez-moi l’étui à cigarettes que M. Worthing|Bring me that cigarette case Mr. Worthing
 |in de rookkamer liet liggen toen hij laatst hier dineerde.| a laissé dans le fumoir la dernière fois qu’il a diné ici.|left in the smoking room the last time he dined here.
-|Zeker, meneer.| T.b.d //|Yes, sir.
+|Zeker, meneer.| Oui, monsieur. //|Yes, sir.
 |Wil jij zeggen dat mijn koker al die tijd hier lag?| Veux-tu dire que tu as gardé mon étui pendant tout ce temps.|Do you mean to say you have had my cigarette case all this time?
 |Dat had je me dan wel eens kunnen laten weten. Ik heb Scotland Yard de meest dolzinnige brieven geschreven.| Tu aurais pu me le dire. J’ai écrit des lettres frénétiques à Scotland Yard,|I wish to goodness you had let me know. I have been writing frantic letters to Scotland Yard about it.
 |Ik had al bijna een grote beloning uitgeloofd.| j’ai même failli offrir une grosse récompense.|I was very nearly offering a large reward.
@@ -107,7 +108,7 @@ nr|nederlands|frans|engels
 |en je hebt niet het minste recht om te lezen wat er in staat.| Et d’abord tu n’as pas le droit de lire ce qui est écrit dedans.|and you have no right whatsoever to read what is written inside.
 |Een heer leest niet in andermans kokers.| Ça ne se fait pas de lire un étui à cigarette privé.|It is a very ungentlemanly thing to read a private cigarette case.
 |Het is belachelijk om er regels op na te houden| Oh, c’est absurde d’avoir des attitudes aussi rigides|Oh! it is absurd to have a hard and fast rule
-|over wat je wel of niet zou moeten lezen.| sur ce qu’on a le droit de lire ou non.|about what one should read and what one shouldn't.
+|over wat je wel of niet zou moeten lezen.| sur ce qu’on a le droit de lire ou non.|about what one should read and what one shouldn't. 
 |Meer dan de helft van de moderne beschaving bestaat uit wat je niet zou moeten lezen.| Plus de la moitié de la culture moderne repose sur des trucs qu’on n’a pas le droit de lire.|More than half of modern culture depends on what one shouldn't read.
 |Ik heb geen zin om over de moderne beschaving te discusseren.| Je ne veux pas discuter de la culture moderne.|I am quite aware of the fact, and I don't propose to discuss modern culture.
 |Daar praat je niet over in gezelschap. Ik wil alleen mijn cigarettenkoker terug.| Ce n’est pas le genre de chose dont on peut parler en privé. Je veux simplement récupérer mon étui.|It isn't the sort of thing one should talk of in private. I simply want my cigarette case back.
@@ -119,7 +120,7 @@ nr|nederlands|frans|engels
 |Maar waarom noemt ze zich kleine Cecily als ze je tante is| Mais pourquoi s’appelle-t-elle, elle-même, 'petite Cecily' si elle est ta tante|But why does she call herself little Cecily if she is your aunt
 |en in Tunbridge Weells woont?| et qu’elle vit à Tunbridge Wells?|and lives at Tunbridge Wells?
 |“Van je kleine Cecily, met veel liefs.”| "De la part de la petite Cecily avec son affection la plus vive"|"From little Cecily with her fondest love."
-|Mijn beste kerel, TBD // wat maakt dat toch uit?| Qu’est-ce que tu vas chercher là, mon cher?|My dear fellow, what on earth is there in that?
+|Mijn beste kerel, wat maakt dat toch uit? // wat maakt dat toch uit?| Qu’est-ce que tu vas chercher là, mon cher?|My dear fellow, what on earth is there in that?
 |Sommige tantes zijn groot, andere tantes weer niet.| Il y a des tantes qui sont grandes, d’autres qui ne le sont pas.|Some aunts are tall, some aunts are not tall.
 |Dat mag elke tante toch zeker voor zichzelf uitmaken.| C’est une question qu’une tante a le droit de décider elle-même.|That is a matter that surely an aunt may be allowed to decide for herself.
 |Jij denkt zeker dat elke tante er zo moet uitzien als jouw tante! Absurd!| Tu sembles croire que toutes les tantes doivent être exactement comme la tienne! C’est absurde!|You seem to think that every aunt should be exactly like your aunt! That is absurd!
@@ -129,86 +130,86 @@ nr|nederlands|frans|engels
 |Ik kan mijn tante niet verbieden een kleine tante te verwezen, | Bien sûr, je l’admets, une tante peut être une petite tante|There is no objection, I admit, to an aunt being a small aunt,
 |maar waarom zo’n tante, van welk formaat dan ook, | mais pourquoi une tante, quelle que soit sa taille,|but why an aunt, no matter what her size may be,
 |haar eigen neef haar oom noemt, is me niet goed duidelijk. | appellerait elle 'mon oncle' son propre neveu, je n’y comprends rien.|should call her own nephew her uncle, I can't quite make out.
-|Bovendien: je heet niet Jack; je heet Ernst. | En plus ton nom n’est pas du tout Jack, c’est Constant.|Besides, your name isn't Jack at all; it is Ernest.
-|Ik heet niet Ernst. Ik heet Jack. | Ce n’est pas Constant, c’est Jack.|It isn't Ernest; it's Jack.
+|Bovendien: je heet niet Jack; je heet Ernst.  | En plus ton nom n’est pas du tout Jack, c’est Constant.|Besides, your name isn't Jack at all; it is Ernest.
+|Ik heet niet Ernst. Ik heet Jack.  | Ce n’est pas Constant, c’est Jack.|It isn't Ernest; it's Jack.
 |Je hebt me altijd gezegd dat je Ernst heette. Ik heb je altijd voorgesteld als Ernst. | Tu m’as toujours dit que c’était Constant. Je t’ai présenté à tout le monde sous le nom de Constant.|You have always told me it was Ernest. I have introduced you to every one as Ernest.
 |Je luistert naar de naam Ernst. Je ziet eruit als iemand die Ernst heet. | Tu réponds au nom de Constant. Tu as l’air de t’appeler Constant.|You answer to the name of Ernest. You look as if your name was Ernest.
 |Je ziet er het ernstigst uit van alle mensen die ik ooit gekend heb. | Tu es l’homme qui a l’air le plus constant que j’ai jamais vu.|You are the most earnest-looking person I ever saw in my life.
 |Het is ridicuul om te beweren dat je naam niet Ernst is. Het staat op je kaartje. | C’est totalement absurde de dire que ton nom n’est pas Constant. C’est marqué sur tes cartes.|It is perfectly absurd your saying that your name isn't Ernest. It's on your cards.
 |Hier. “Mr Ernest Worthing, B.4, The Albany, W.” | En voilà une. 'Monsieur Constant Worthing, B. 4, The Albany.'|Here is one of them. 'Mr. Ernest Worthing, B. 4, The Albany.'
-|t.b.d. // | Je la garde comme preuve que ton nom est bien Constant|I'll keep this as a proof that your name is Ernest
-|t.b.d. // | au cas tu essaierais de nier la chose devant Gwendolen ou même n’importe qui.|if ever you attempt to deny it to me, or to Gwendolen, or to any one else.
-|In de stad heet ik Ernst en buiten Jack, en die koker heb ik buiten gekregen.// | Eh bien mon nom est Constant à la ville et Jack à la campagne et, l’étui, on me l’a donné à la campagne.|Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.
+|Dit wordt mijn bewijs dat jouw naam Ernest is // | Je la garde comme preuve que ton nom est bien Constant|I'll keep this as a proof that your name is Ernest
+|moest je het ooit proberen ontkennen tegen mij, Gwendolen of iemand anders. // | au cas tu essaierais de nier la chose devant Gwendolen ou même n’importe qui.|if ever you attempt to deny it to me, or to Gwendolen, or to any one else.
+|Wel, in de stad heet ik Ernst en buiten Jack, en die koker heb ik buiten gekregen.// | Eh bien mon nom est Constant à la ville et Jack à la campagne et, l’étui, on me l’a donné à la campagne.|Well, my name is Ernest in town and Jack in the country, and the cigarette case was given to me in the country.
 |Geweldig, maar dat verklaart nog niet waarom je kleine tante Cecily, | Bien, bien. Mais ça n’explique pas que ta petite tante Cecily|Yes, but that does not account for the fact that your small Aunt Cecily,
-|Die woont in Tunbridge Wells, jou haar dierbare oom noemt. | qui vit à Tunbridge Wells, t’appelle mon cher oncle.|who lives at Tunbridge Wells, calls you her dear uncle.
-|Kom, ouwe jongen, biecht maar op. |Allez mon vieux, tu ferais mieux de tout déballer.|Come, old boy, you had much better have the thing out at once.
-| T.B.D // | Algy, mon cher, tu parles exactement comme un dentiste.|My dear Algy, you talk exactly as if you were a dentist.
-| T.B.D // | C’est extrêmement vulgaire de parler comme un dentiste quand on n’est pas un dentiste.|It is very vulgar to talk like a dentist when one isn't a dentist.
-| T.B.D // | Cela crée un malaise.|It produces a false impression.
-| T.B.D // | Bon, bon! Allez, maintenant dis-moi tout.|Well, that is exactly what dentists always do. Now, go on! Tell me the whole thing.
-|Ik heb je er altijd van verdacht in het geheim een Bunburyist te zijn; | Je dois dire que je t’ai toujours soupçonné d’être un Bunburiste clandestin|I may mention that I have always suspected you of being a confirmed and secret Bunburyist;
-|maar nu weet ik het zeker. | et j’en suis tout à fait sûr maintenant.|and I am quite sure of it now.
-|Wat is in vredesnaam een Bunburyist? | Bunburiste? C’est quoi sur terre un Bunburiste?|Bunburyist? What on earth do you mean by a Bunburyist?
+|Die woont in Tunbridge Wells, jou haar dierbare oom noemt. | qui vit à Tunbridge Wells, t’appelle mon cher oncle. |who lives at Tunbridge Wells, calls you her dear uncle.
+|Kom, ouwe jongen, biecht maar op.  |Allez mon vieux, tu ferais mieux de tout déballer.|Come, old boy, you had much better have the thing out at once.
+| Algy, je spreekt als een tandarts. // | Algy, mon cher, tu parles exactement comme un dentiste.|My dear Algy, you talk exactly as if you were a dentist.
+| Het is uiterst vulgair om te spreken als een tandarts, als je er geen bent. // | C’est extrêmement vulgaire de parler comme un dentiste quand on n’est pas un dentiste.|It is very vulgar to talk like a dentist when one isn't a dentist.
+| Dat geeft een verkeerd beeld.// | Cela crée un malaise.|It produces a false impression.
+| Daarvoor zorgen tandartsen altijd. Maar kom, vertel me nu alles. // | Bon, bon! Allez, maintenant dis-moi tout.|Well, that is exactly what dentists always do. Now, go on! Tell me the whole thing.
+|Ik heb je er altijd van verdacht in het geheim een Bunburyist te zijn; | Je dois dire que je t’ai toujours soupçonné d’être un Bunburiste clandestin|I may mention that I have always suspected you of being a confirmed and secret Bunburyist; 
+|maar nu weet ik het zeker.  | et j’en suis tout à fait sûr maintenant.|and I am quite sure of it now.
+|Wat is in vredesnaam een Bunburyist?  | Bunburiste? C’est quoi sur terre un Bunburiste?|Bunburyist? What on earth do you mean by a Bunburyist?
 |Ik zal je het geheim van die onvergelijkbare uitdrukking ontsluieren zodra jij me hebt verteld | Je te révélerai le sens caché de ce mot dès que tu m’auras dit|I'll reveal to you the meaning of that incomparable expression as soon as you are kind enough to inform me
-| waarom je in Londen Ernst heet en daarbuiten Jack. | pourquoi tu es Constant à la ville et Jack à la campagne.|why you are Ernest in town and Jack in the country.
-|Als ik eerst mijn cigarettenkoker krijg. | Bon. Donne-moi d’abord mon étui.|Well, produce my cigarette case first.
-|Voila. En nu voor de draad met je verklaring. Maak er alsjeblieft iets onwaarschijnlijks van. | Le voilà. Maintenant, j’écoute tes explications et s’il te plait fais-les bien improbables.|Here it is. Now produce your explanation, and pray make it improbable.
+| waarom je in Londen Ernst heet en daarbuiten Jack.  | pourquoi tu es Constant à la ville et Jack à la campagne.|why you are Ernest in town and Jack in the country.
+|Als ik eerst mijn cigarettenkoker krijg.  | Bon. Donne-moi d’abord mon étui.|Well, produce my cigarette case first.
+|Voila. En nu voor de draad met je verklaring. Maak er alsjeblieft iets onwaarschijnlijks van.  | Le voilà. Maintenant, j’écoute tes explications et s’il te plait fais-les bien improbables.|Here it is. Now produce your explanation, and pray make it improbable.
 |Mijn verklaring bezit volstrekt niets onwaarschijnlijks. Ze is eigenlijk zeer simpel. | Mon cher, il n’y a rien d’improbable dans mes explications. En fait la situation est tout à fait banale.|My dear fellow, there is nothing improbable about myexplanation at all. In fact it's perfectly ordinary.
 |De oude Mr. Thomas Cardew die me, toen ik nog een kleine jongen was adopteerde benoemde me in zijn testament | Le vieux M. Thomas Cardew qui m’a adopté quand j’étais petit m’a désigné dans son testament|Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will
-|tot voogd van zijn kleindochter, Ms. Cecily Cardew. | comme tuteur de sa petite-fille, Mlle Cecily Cardew.|guardian to his grand-daughter, Miss Cecily Cardew.
-|Cecily, die mij oom noemt, om redenen van respect die jij ongetwijfeld niet zult weten te waarderen, | Cecily, qui me considère comme son oncle par respect ce que tu es bien incapable de comprendre|Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate,
-|woont op mijn buitengoed onder de hoede van haar bewonderenswaardige gouvernante, Miss Prism. | vit chez moi à la campagne, sous la responsabilité de son admirable gouvernante, Miss Prism.|lives at my place in the country under the charge of her admirable governess, Miss Prism.
-|Waar ligt dat buitengoed? | Et où ça, à la campagne?|Where in that place in the country, by the way?
-|Dat gaat je niets aan, beste jongen. Een uitnodiging komt er toch niet van. | Tu n’as rien à y faire, mon vieux et tu n’es pas près d’être invité…|That is nothing to you, dear boy. You are not going to be invited
-|In elk geval niet in Shropshire, zoveel kan ik wel zeggen. | Tout ce que je peux te dire c’est que ce n’est pas dans le Shropshire.|I may tell you candidly that the place is not in Shropshire.
-|Dat dacht ik al! Ik heb bij twee verschillende gelegenheden heel Shropshire afgebunburied. | Je m’en doutais, mon cher, J’ai Bunburisé dans le Shropshire en deux occasions différentes.|I suspected that, my dear fellow! I have Bunburyed all over Shropshire on two separate occasions.
-|Maar waarom ben je in Londen Ernst en daarbuiten Jack? | Mais tu n’as pas tout dit. Pourquoi es-tu Constant à la ville et Jack à la campagne?|Now, go on. Why are you Ernest in town and Jack in the country?
+|tot voogd van zijn kleindochter, Ms. Cecily Cardew. | comme tuteur de sa petite-fille, Mlle Cecily Cardew.|guardian to his grand-daughter, Miss Cecily Cardew. 
+|Cecily, die mij oom noemt, om redenen van respect die jij ongetwijfeld niet zult weten te waarderen,  | Cecily, qui me considère comme son oncle par respect ce que tu es bien incapable de comprendre|Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, 
+|woont op mijn buitengoed onder de hoede van haar bewonderenswaardige gouvernante, Miss Prism.  | vit chez moi à la campagne, sous la responsabilité de son admirable gouvernante, Miss Prism.|lives at my place in the country under the charge of her admirable governess, Miss Prism.
+|Waar ligt dat buitengoed?  | Et où ça, à la campagne?|Where in that place in the country, by the way?
+|Dat gaat je niets aan, beste jongen. Een uitnodiging komt er toch niet van.  | Tu n’as rien à y faire, mon vieux et tu n’es pas près d’être invité…|That is nothing to you, dear boy. You are not going to be invited
+|In elk geval niet in Shropshire, zoveel kan ik wel zeggen.  | Tout ce que je peux te dire c’est que ce n’est pas dans le Shropshire.|I may tell you candidly that the place is not in Shropshire.
+|Dat dacht ik al! Ik heb bij twee verschillende gelegenheden heel Shropshire afgebunburied. | Je m’en doutais, mon cher, J’ai Bunburisé dans le Shropshire en deux occasions différentes.|I suspected that, my dear fellow! I have Bunburyed all over Shropshire on two separate occasions. 
+|Maar waarom ben je in Londen Ernst en daarbuiten Jack?  | Mais tu n’as pas tout dit. Pourquoi es-tu Constant à la ville et Jack à la campagne?|Now, go on. Why are you Ernest in town and Jack in the country?
 |Beste Algy, ik denk niet dat jij mijn motieven zal kunnen begrijpen. | Ecoute, je ne suis pas sûr que tu sois capable de comprendre mes vraies raisons.|My dear Algy, I don't know whether you will be able to understand my real motives.
 |Je bent geenzins serieus genoeg. Wanneer men als voogd aangesteld wordt,// | Tu n’es pas assez sérieux. Quand on se trouve dans la situation de tuteur|You are hardly serious enough. When one is placed in the position of guardian,
-|dient men een zeer hoge morele toon aan te slaan. | on doit montrer une attitude hautement morale sur tous les sujets.|one has to adopt a very high moral tone on all subjects.
-|Dat is zijn plicht. | C’est un devoir.|It's one's duty to do so.
+|dient men een zeer hoge morele toon aan te slaan.  | on doit montrer une attitude hautement morale sur tous les sujets.|one has to adopt a very high moral tone on all subjects. 
+|Dat is zijn plicht.  | C’est un devoir. |It's one's duty to do so.
 |En aangezien een hoge morele toon nauwlijks bijdraagt tot iemands gezondheid of geluk | Et comme une attitude hautement morale n’est pas compatible avec la santé et le plaisir,|And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness,
-|heb ik, om naar de stad te kunnen gaan, altijd gedaan of ik een jongere broer had | quand je veux aller en ville je prétends toujours que j’ai un jeune frère|in order to get up to town I have always pretended to have a younger brother
-|die Ernst heet, in de Albany woont en steeds in de neteligste verwikkelingen verzeild raakt. |du nom de Constant qui vit à Albany, et qui mène la vie la plus dissipée.| of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes.
-|Dat, mijn beste Algy, is de waarheid, zuiver en eenvoudig. | Voilà, mon cher, la vérité pure et simple.|That, my dear Algy, is the whole truth pure and simple.
-|De waarheid is zelden zuiver en nooit eenvoudig. | La vérité est rarement pure et jamais simple.|The truth is rarely pure and never simple.
-|Was hij dat wel, dan zou ons huidig bestaan wel uiterst langdradig worden, | Sinon la vie moderne serait profondément ennuyeuse|Modern life would be very tedious if it were either,
+|heb ik, om naar de stad te kunnen gaan, altijd gedaan of ik een jongere broer had | quand je veux aller en ville je prétends toujours que j’ai un jeune frère |in order to get up to town I have always pretended to have a younger brother
+|die Ernst heet, in de Albany woont en steeds in de neteligste verwikkelingen verzeild raakt. |du nom de Constant qui vit à Albany, et qui mène la vie la plus dissipée. | of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. 
+|Dat, mijn beste Algy, is de waarheid, zuiver en eenvoudig.  | Voilà, mon cher, la vérité pure et simple.|That, my dear Algy, is the whole truth pure and simple.
+|De waarheid is zelden zuiver en nooit eenvoudig.  | La vérité est rarement pure et jamais simple.|The truth is rarely pure and never simple. 
+|Was hij dat wel, dan zou ons huidig bestaan wel uiterst langdradig worden, | Sinon la vie moderne serait profondément ennuyeuse|Modern life would be very tedious if it were either, 
 |en de moderne litteratuur volstrekt onmogelijk! | et la littérature moderne tout à fait impossible.|and modern literature a complete impossibility!
-|Dat zou zo erg nog niet zijn. | Ce ne serait pas une mauvaise chose.|That wouldn't be at all a bad thing.
+|Dat zou zo erg nog niet zijn.  | Ce ne serait pas une mauvaise chose.|That wouldn't be at all a bad thing.
 |Litteraire kritiek is niet je sterkste zijde. | La critique littéraire n’est pas ton point fort, mon vieux.|Literary criticism is not your forte, my dear fellow. Don't try it.
 |Laat dat maar over aan de mensen die nooit hebben gestudeerd. | Inutile d’essayer, laisse donc ça aux types qui ne sont pas allés à l’Université.|You should leave that to people who haven't been at a University.
 |Die doen het uitstekend in de kranten. Wat jij bent is een bunburyist. | Ils font ça très bien dans les journaux. En fait ce que tu es vraiment, c’est un Bunburiste.|They do it so well in the daily papers. What you really are is a Bunburyist.
-|Een van de meest vergevorderde Bunburyisten die ik ken. | J’avais tout à fait raison en disant que tu es un Bunburiste, le plus parfait que je connaisse.|I was quite right in saying you were a Bunburyist. You are one of the most advanced Bunburyists I know.
+|Een van de meest vergevorderde Bunburyisten die ik ken.  | J’avais tout à fait raison en disant que tu es un Bunburiste, le plus parfait que je connaisse.|I was quite right in saying you were a Bunburyist. You are one of the most advanced Bunburyists I know.
 |Wat bedoel je in vredesnaam? | Mais bon sang qu’est-ce que ça veut dire?|What on earth do you mean?
 |Je hebt een erg nuttige jongere broer bedacht die Ernst heet, | Tu t’es inventé un jeune frère bien utile appelé Constant|You have invented a very useful younger brother called Ernest,
 |om zo vaak je maar wilt naar de stad te kunnen komen. | pour pouvoir aller en ville aussi souvent que tu veux.|in order that you may be able to come up to town as often as you like.
-| Ik heb een onbetaalbare chronische patiënt verzonnen die Bunbury heet, | Moi j’ai inventé Bunbury, un grand malade qui me permet|I have invented an invaluable permanent invalid called Bunbury,
+| Ik heb een onbetaalbare chronische patiënt verzonnen die Bunbury heet,  | Moi j’ai inventé Bunbury, un grand malade qui me permet|I have invented an invaluable permanent invalid called Bunbury,
 |om wanneer ik maar wil de stad te kunnen verlaten. Bunbury is van onschatbare waarde. | de filer à la campagne aussi souvent que je veux. Bunbury est très commode.| in order that I may be able to go down into the country whenever I choose. Bunbury is perfectly invaluable.
-|Als Bunbury bijvoorbeeld niet zo’n belabberde gezondheid genoot | Par exemple, sans sa terrible mauvaise santé,|If it wasn't for Bunbury's extraordinary bad health, for instance,
-|was ik vanavond niet in staat geweest om met jou in de Willis’s te gaan dineren |je ne pourrais pas dîner ce soir au Willis’s avec toi|I wouldn't be able to dine with you at Willis's to-night
-|want ik heb al een week geleden met tante Augusta afgesproken. |car je suis retenu par Tante Augusta depuis déjà huit jours.|for I have been really engaged to Aunt Augusta for more than a week.
+|Als Bunbury bijvoorbeeld niet zo’n belabberde gezondheid genoot | Par exemple, sans sa terrible mauvaise santé, |If it wasn't for Bunbury's extraordinary bad health, for instance,
+|was ik vanavond niet in staat geweest om met jou in de Willis’s te gaan dineren |je ne pourrais pas dîner ce soir au Willis’s avec toi |I wouldn't be able to dine with you at Willis's to-night
+|want ik heb al een week geleden met tante Augusta afgesproken.  |car je suis retenu par Tante Augusta depuis déjà huit jours.|for I have been really engaged to Aunt Augusta for more than a week.
 |Ik heb je niet uitgnodigd om met mij vanavond te gaan dineren. | Je ne t’ai pas prié de dîner avec moi ce soir, où que ce soit|I haven't asked you to dine with me anywhere to-night.
-|Ik weet het. Je bent waanzinnig slordig met het versturen van invitaties. | Je sais. Tu es absurdement négligent pour tes invitations.|I know. You are absurdly careless about sending out invitations.
-|Erg lichtzinnig. Niet ergert mensen meer dan geen uitnodiging te ontvangen. | C’est bête, rien n’est aussi ennuyeux que de ne pas recevoir d’invitations.|It is very foolish of you. Nothing annoys people so much as not receiving invitations.
-|Je zou er dus beter aan doen bij je tante te dineren. | Tu ferais mieux de dîner avec ta Tante Augusta.|You had much better dine with your Aunt Augusta.
+|Ik weet het. Je bent waanzinnig slordig met het versturen van invitaties. | Je sais. Tu es absurdement négligent pour tes invitations.|I know. You are absurdly careless about sending out invitations. 
+|Erg lichtzinnig. Niet ergert mensen meer dan geen uitnodiging te ontvangen.   | C’est bête, rien n’est aussi ennuyeux que de ne pas recevoir d’invitations.|It is very foolish of you. Nothing annoys people so much as not receiving invitations.
+|Je zou er dus beter aan doen bij je tante te dineren.  | Tu ferais mieux de dîner avec ta Tante Augusta.|You had much better dine with your Aunt Augusta.
 |Ik koester niet het geringste voornemen van dien aard. | Je n’en ai pas la moindre intention.|I haven't the smallest intention of doing anything of the kind.
 |Ten eerste heb ik maandag al bij haar gedineerd, en eens in de week bij je eigen familie dineren is al meer dan genoeg. | D’abord, j’ai dîné avec elle lundi, et dîner une fois la semaine avec la famille, c’est bien suffisant.|To begin with, I dined there on Monday, and once a week is quite enough to dine with one's own relations.
-|In de tweede plaats word ik daar als famililid altijd | Ensuite quand je dîne chez elle T.B.D //|In the second place, whenever I do dine there I am always treated as a member of the family
-|opgescheept met helemaal geen tafeldame of met twee tegelijk. |je suis toujours placé près de deux femmes, ou aucune.|and sent down with either no woman at all, or two.
+|In de tweede plaats word ik daar als famililid altijd | Ensuite quand je dîne chez elle, elle me regarde toujours comme un membre de la famille.  //|In the second place, whenever I do dine there I am always treated as a member of the family
+|opgescheept met helemaal geen tafeldame of met twee tegelijk. |je suis toujours placé près de deux femmes, ou aucune.|and sent down with either no woman at all, or two. 
 |In de derde plaats weet ik al naast wie ze me vanavond zal zetten. | Enfin je sais parfaitement bien avec qui elle me mettrait ce soir.|In the third place, I know perfectly well whom she will place me next to, to-night.
-|Ze zal me zetten naast Mary Farquhar, | Elle me placerait près de Marie Farquhar|She will place me next Mary Farquhar,
-|die altijd over de tafel heen flirt met haar eigen echtgenoot. | qui flirte toujours par-dessus la table avec son propre mari.|who always flirts with her own husband across the dinner-table.
-|Dat is niet zo prettig. Het is zelfs onfatsoenlijk. |T.b.d //|That is not very pleasant. Indeed, it is not even decent...
-|En het raakt de laatste tijd steeds meer in de mode. |T.b.d //|and that sort of thing is enormously on the increase.
+|Ze zal me zetten naast Mary Farquhar, | Elle me placerait près de Marie Farquhar|She will place me next Mary Farquhar, 
+|die altijd over de tafel heen flirt met haar eigen echtgenoot.  | qui flirte toujours par-dessus la table avec son propre mari.|who always flirts with her own husband across the dinner-table.
+|Dat is niet zo prettig. Het is zelfs onfatsoenlijk. | ce n'est pas très plaisant. En fait, ce n'est même pas décent.|That is not very pleasant. Indeed, it is not even decent...
+|En het raakt de laatste tijd steeds meer in de mode. |Ce genre de choses arrive de plus en plus souvent.|and that sort of thing is enormously on the increase.
 |Het aantal vrouwen in Londen dat met haar eigen man flirt is tegenwoordig ronduit schandalig. | La quantité de femmes à Londres qui flirtent avec leur mari est parfaitement scandaleuse.|The amount of women in London who flirt with their own husbands is perfectly scandalous.
-|Het is net of ze hun schone was buitenhangen. | C’est vraiment moche, c’est tout simplement laver son linge sale en public.|It looks so bad. It is simply washing one's clean linen in public.
+|Het is net of ze hun schone was buitenhangen.  | C’est vraiment moche, c’est tout simplement laver son linge sale en public.|It looks so bad. It is simply washing one's clean linen in public.
 |Trouwens, nu ik weet dat je zo’n overtuigd Bunburyist ben wil ik er natuurlijk met je over praten. | Bon, maintenant que je sais que tu es un Bunburiste il faut que je te parle de la technique.|Besides, now that I know you to be a confirmed Bunburyist I naturally want to talk to you about Bunburying.
 |Ik wil je de regels uitleggen. | Je veux t'expliquer les règles.|I want to tell you the rules.
 |Ik ben geen Bunburyist. Als Gwendolen ja zegt, ga ik mijn broer vermoorden. | Je ne suis pas du tout un Bunburiste. Si Gwendolen m’accepte, je vais tuer mon frère.|I'm not a Bunburyist at all. If Gwendolen accepts me, I am going to kill my brother,
 |Dat was ik trouwens al van plan. Cecily stelt net iets teveel belang in hem. | D’ailleurs de toute façon je crois que je vais le tuer. Cecily s’intéresse un peu trop à lui.|indeed I think I'll kill him in any case. Cecily is a little too much interested in him.
 |Het wordt nogal vervelend. Ik ga me dus van Ernst ontdoen. | C’est plutôt ennuyeux. Allons, c’est dit, je vais me débarrasser de Constant.|It is rather a bore. So I am going to get rid of Ernest.
 |En ik raad jou aan hetzelfde in overweging te nemen, voor je zieke vriend met die idiote naam. | Et je te recommande vivement d’en faire autant avec monsieur… avec ton grand malade au nom absurde.|And I strongly advise you to do the same with Mr... with your invalid friend who has the absurd name.
-|Niets zal me ertoe brengen afstand te doen van van Bunbury, en als jij ooit in het huwelijk treedt, | Rien ne me convaincra de me séparer de Bunbury, et si tu te maries,|Nothing will induce me to part with Bunbury, and if you ever get married,
+|Niets zal me ertoe brengen afstand te doen van van Bunbury, en als jij ooit in het huwelijk treedt,  | Rien ne me convaincra de me séparer de Bunbury, et si tu te maries,|Nothing will induce me to part with Bunbury, and if you ever get married,
 |wat me twijfelachtig lijkt, zul je een gat in de lucht springen dat je Bunbury onder je kennissen hebt. | ce qui me parait extrêmement problématique, tu seras bien content de connaître Bunbury.|which seems to me extremely problematic, you will be very glad to know Bunbury.
 |Een man die trouwt zonder Bunbury gaat een slaapverwekkend leven tegemoet. | Un homme marié qui ne connait pas Bunbury se prépare bien des ennuis.|A man who marries without knowing Bunbury has a very tedious time of it.
 |Onzin. Als ik met zo’n lieftallig schepsel als Gwendolen trouw, | C’est encore une de tes absurdités. Si j’épouse une fille charmante comme Gwendolen,|That is nonsense. If I marry a charming girl like Gwendolen,
@@ -226,21 +227,21 @@ nr|nederlands|frans|engels
 |Als ik haar voor tien minuten de kamer uitwerk zodat jij Gwendolen ten huwelijk kunt vragen, | Ecoute, si je l’occupe pendant dix minutes, tu auras la possibilité de faire ta demande à Gwendolen.|Now, if I get her out of the way for ten minutes, so that you can have an opportunity for proposing to Gwendolen,
 |nodig je me dan vanavond uit om bij Willis te dineren? | Et alors je pourrai diner avec toi ce soir chez Willis’s?|may I dine with you to-night at Willis's?
 |Als je erop staat, waarom ook niet. | Bon, si tu veux.|I suppose so, if you want to.
-|Perfect. Maar wel een serieuze maaltijd! | Parfait. Mais un repas sérieux, n’est-ce pas?|Yes, but you must be serious about it.
+|Perfect. Maar wel een serieuze maaltijd! | Parfait. Mais un repas sérieux, n’est-ce pas?|Yes, but you must be serious about it. 
 |Ik heb een hekel aan mensen die eten niet serieus nemen. Dat is zo oppervlakkig van ze. | Je déteste les gens qui ne prennent pas les repas au sérieux. C’est la preuve d’un caractère très superficiel.|I hate people who are not serious about meals. It is so shallow of them.
 |Lady Bracknell en Miss Fairfax | Lady Bracknell et Miss Fairfax.|Lady Bracknell and Miss Fairfax.
 |Goeiemiddag, m’n beste Algernon, ik hoop dat je je goed gedraagt? | Bonjour, mon cher Algernon, j’espère que tu te comportes bien.|Good afternoon, dear Algernon, I hope you are behaving very well.
-|Ik voel me goed, tante Augusta. | Je me sens très bien, tante Augusta.|I'm feeling very well, Aunt Augusta.
+|Ik voel me goed, tante Augusta. | Je me sens très bien, tante Augusta. |I'm feeling very well, Aunt Augusta.
 |Dat is niet helemaal hetzelfde. Eigenlijk gaan die twee zelden samen. | Ce n’est pas du tout la même chose. En fait les deux choses vont rarement ensemble.|That's not quite the same thing. In fact the two things rarely go together.
 |Kind, wat zie je enig uit! | Comme tu es élégante, ma chère!|Dear me, you are smart!
 |Ik zie er altijd enig uit! Nietwaar, Mr. Worthing? | Je suis toujours élégante. N’est-ce pas, M. Worthing?|I am always smart! Am I not, Mr. Worthing?
 |U bent de volmaaktheid zelve, miss Fairfax. | Vous êtes absolument parfaite, Miss Fairfax.|You're quite perfect, Miss Fairfax.
 |Oh, dat hoop ik niet. Dat laat geen ruimte open voor verder ontwikkeling, | Oh! Mais j’espère bien que je ne le suis pas. Ça ne laisserait aucune place au progrès|Oh! I hope I am not that. It would leave no room for developments,
 |en ik ben van plan me nog in veel richtingen te ontwikkelen. | et j’ai l’intention de progresser.|and I intend to develop in many directions.
-|Het spijt me dat we wat verlaat zijn, Algernon, maar ik moest even op bezoek bij onze brave Lady Harbury. | Désolée d’arriver un peu en retard, Algernon, mais il fallait que je passe chez Lady Harbury,|I'm sorry if we are a little late, Algernon, but I was obliged to call on dear Lady Harbury.
-|Ik was sedert de dood van haar man niet meer bij haar geweest. | je ne l’avais pas vue depuis la mort de son pauvre mari.|I hadn't been there since her poor husband's death.
+|Het spijt me dat we wat verlaat zijn, Algernon, maar ik moest even op bezoek bij onze brave Lady Harbury. | Désolée d’arriver un peu en retard, Algernon, mais il fallait que je passe chez Lady Harbury,|I'm sorry if we are a little late, Algernon, but I was obliged to call on dear Lady Harbury. 
+|Ik was sedert de dood van haar man niet meer bij haar geweest. | je ne l’avais pas vue depuis la mort de son pauvre mari.|I hadn't been there since her poor husband's death. 
 |Ik heb nooit een vrouw zo zien veranderen; ze ziet er twintig jaar jonger uit. | Jamais je n’ai vu une femme aussi changée, elle parait avoir ans de moins.|I never saw a woman so altered; she looks quite twenty years younger.
-|Nu wil ik graag een kop thee van je | Et maintenant je vais prendre une tasse de thé|And now I'll have a cup of tea,
+|Nu wil ik graag een kop thee van je  | Et maintenant je vais prendre une tasse de thé |And now I'll have a cup of tea,
 |en een van die heerlijke komkommersandwiches die je me hebt beloofd. |et un de ces délicieux sandwichs aux concombres que tu m’as promis.|and one of those nice cucumber sandwiches you promised me.
 |Onmiddellijk, tante. | Bien sûr, Tante Augusta.|Certainly, Aunt Augusta.
 |Wil je niet hier komen zitten, Gwendolen? | Viens donc t’assoir près de moi, Gwendolen.|Won't you come and sit here, Gwendolen?
@@ -254,308 +255,308 @@ nr|nederlands|frans|engels
 |Dank u, meneer. | Merci, monsieur.|Thank you, sir.
 |Het spijt me bijzonder, tante Augusta, dat er geen komkommers waren | Je suis complètement désespéré, Tante Augusta, qu'il n'y avait pas de concombres,|I am greatly distressed, Aunt Augusta, about there being no cucumbers,
 |zelfs niet tegen contante betaling. |même en payant comptant.|not even for ready money.
-|Zit er niet over in, Algernon. Ik heb al een paar gebakjes gehad bij Lady Harbury, | Ça n’a pas vraiment d’importance, Algernon. J’ai pris quelques crumpets chez Lady Harbury,|It really makes no matter, Algernon. I had some crumpets with Lady Harbury,
+|Zit er niet over in, Algernon. Ik heb al een paar gebakjes gehad bij Lady Harbury, | Ça n’a pas vraiment d’importance, Algernon. J’ai pris quelques crumpets chez Lady Harbury,|It really makes no matter, Algernon. I had some crumpets with Lady Harbury, 
 |die nu helemaal voor haar genoegen lijkt te leven. | une femme qui ne vit plus que pour le plaisir, me semble-t-il.|who seems to me to be living entirely for pleasure now.
 |Ik hoorde, dat haar haren van verdriet blond zijn geworden. | J’ai entendu dire que ses cheveux ont viré au blond. Le chagrin.|I hear her hair has turned quite gold from grief.
-|Ze zijn van kleur veranderd. Om welke reden weet ik niet, natuurlijk. | Eh oui, ils ont changé de couleur. Pourquoi? Je ne saurais le dire.|It certainly has changed its colour. From what cause I, of course, cannot say.
-|Dank je. Ik heb een verrassing voor je vanavond, Algernon. | Merci. J’ai une vraie surprise pour toi, Algernon.| Thank you. I've quite a treat for you to-night, Algernon.
-|Je krijgt als tafeldame Mary Farquhar. | Au dîner ce soir, je vais te mettre à côté de Mary Farquhar.|I am going to send you down with Mary Farquhar.
+|Ze zijn van kleur veranderd. Om welke reden weet ik niet, natuurlijk.  | Eh oui, ils ont changé de couleur. Pourquoi? Je ne saurais le dire.|It certainly has changed its colour. From what cause I, of course, cannot say.
+|Dank je. Ik heb een verrassing voor je vanavond, Algernon.  | Merci. J’ai une vraie surprise pour toi, Algernon.| Thank you. I've quite a treat for you to-night, Algernon.
+|Je krijgt als tafeldame Mary Farquhar. | Au dîner ce soir, je vais te mettre à côté de Mary Farquhar.|I am going to send you down with Mary Farquhar. 
 |Zo’n aardige vrouw, zo attent tegen haar man. Een lust voor het oog, die twee. | C’est une femme si délicieuse et si attentive pour son mari. C’est charmant de les observer tous deux.|She is such a nice woman, and so attentive to her husband. It's delightful to watch them.
 |Ik ben bang, tante Augusta, dat ik van het genoegen vanavond bij u te dineren zal moeten afzien. | Je crains fort, Tante Augusta, d’être obligé finalement de renoncer au plaisir de diner avec vous ce soir.|I am afraid, Aunt Augusta, I shall have to give up the pleasure of dining with you to-night after all.
 | Dat wil ik niet hopen, Algernon. Het brengt mijn tafel in de war. | J’espère que non, Algernon. Ça démolirait complètement ma table.|I hope not, Algernon. It would put my table completely out.
 |Je oom zou op zijn kamer moeten dineren. Gelukkig is hij daaraan gewend. | Et ton oncle serait obligé de diner dans sa chambre. Heureusement, il a l’habitude.|Your uncle would have to dine upstairs. Fortunately he is accustomed to that.
-| Het is werkelijk heel vervelend en, zoals u weet, teleurstellend, maar ik heb zonet een telegram ontvangen | Ça m’ennuie beaucoup, je suis très désappointé mais je viens de reçevoir un télégramme|It is a great bore, and, I need hardly say, a terrible disappointment to me,
+| Het is werkelijk heel vervelend en, zoals u weet, teleurstellend, maar ik heb zonet een telegram ontvangen | Ça m’ennuie beaucoup, je suis très désappointé mais je viens de reçevoir un télégramme|It is a great bore, and, I need hardly say, a terrible disappointment to me, 
 |waarin staat dat mijn arme vriend Bunbury weer zo ernstig ziek is. | qui m’annonce que mon pauvre ami Bunbury est encore très malade.|but the fact is I have just had a telegram to say that my poor friend Bunbury is very ill again.
 |Mijn komst schijnt dringend gewenst. | On semble penser que je dois y aller.|They seem to think I should be with him.
 |Die Mr. Bunbury schijnt een zeldzaam slechte gezondheid te hebben. | C’est vraiment curieux. Ce M. Bunbury semble affligé d’une santé particulièrement mauvaise.|It is very strange. This Mr. Bunbury seems to suffer from curiously bad health.
-|T.B.D // | Eh oui. Le pauvre Bunbury est un grand malade.|Yes; poor Bunbury is a dreadful invalid.
-|Ik vind het hoog tijd dat die Mr. Bunbury eens beslist | Eh bien, je dois le dire, Algernon, je pense qu’il est grand temps que M. Bunbury se décide|Well, I must say, Algernon, that I think it is high time that Mr. Bunbury
+|Ja, Bunbury is permanent invalide. // | Eh oui. Le pauvre Bunbury est un grand malade.|Yes; poor Bunbury is a dreadful invalid.
+|Ik vind het hoog tijd dat die Mr. Bunbury eens beslist | Eh bien, je dois le dire, Algernon, je pense qu’il est grand temps que M. Bunbury se décide|Well, I must say, Algernon, that I think it is high time that Mr. Bunbury 
 |of hij nu doodgaat of niet. | à savoir s’il veut vivre ou mourir.|made up his mind whether he was going to live or to die.
-|Belachelijk om daar altijd omheen te draaien. | Cette valse-hésitation est absurde.|This shilly-shallying with the question is absurd.
+|Belachelijk om daar altijd omheen te draaien. | Cette valse-hésitation est absurde.|This shilly-shallying with the question is absurd. 
 |Ik begrijp die moderne sympathie ook niet voor iedereen die wat mankeert. | D’ailleurs je n’approuve pas du tout la sympathie moderne pour les malades.|Nor do I in any way approve of the modern sympathy with invalids.
-|Ziekte is toch nauwelijks iets om in anderen aan te moedigen? | Je considère que c’est morbide.|I consider it morbid. Illness of any kind is hardly a thing to be encouraged in others.
+|Ziekte is toch nauwelijks iets om in anderen aan te moedigen? | Je considère que c’est morbide. |I consider it morbid. Illness of any kind is hardly a thing to be encouraged in others.
 |Gezondheid is onze voornaamste plicht in het leven. | La santé est le premier devoir de la vie.|Health is the primary duty of life.
 |Dat zeg ik je arme oom ook altijd, maar hij schijnt er zich weinig van aan te trekken, | C’est ce que je dis toujours à votre pauvre oncle mais il ne m’écoute pas|I am always telling that to your poor uncle, but he never seems to take much notice...
 |of er zit tenminste weinig schot in zijn kwaal. | si bien qu’il n’en résulte aucune amélioration pour sa santé...|as far as any improvement in his ailment goes.
-|Je zou me zeer aan je verplichten als je Mr. Bunbury uit mijn naam zou vragen | Je te serais très obligée de prier, de ma part, M. Bunbury d’être assez gentil|I should be much obliged if you would ask Mr. Bunbury, from me, to be kind enough
-|aanstaande zaterdag niet opnieuw in te storten, want ik reken erop dat je de muziek zult regelen. | pour ne pas avoir de rechute samedi car je compte sur toi pour organiser ma soirée musicale.|not to have a relapse on Saturday, for I rely on you to arrange my music for me.
+|Je zou me zeer aan je verplichten als je Mr. Bunbury uit mijn naam zou vragen | Je te serais très obligée de prier, de ma part, M. Bunbury d’être assez gentil|I should be much obliged if you would ask Mr. Bunbury, from me, to be kind enough 
+|aanstaande zaterdag niet opnieuw in te storten, want ik reken erop dat je de muziek zult regelen.  | pour ne pas avoir de rechute samedi car je compte sur toi pour organiser ma soirée musicale.|not to have a relapse on Saturday, for I rely on you to arrange my music for me.
 |Het is mijn laatste receptie, en dan hebben we iets nodig om de conversatie gaande te houden. | C’est ma dernière soirée et il faut quelque chose qui facilite la conversation:|It is my last reception, and one wants something that will encourage conversation
-|Het einde van het seizoen nadert en iedereen heeft al zo’n beetje alles gezegd wat hij te zeggen had, | c’est la fin de la saison et chacun a dit tout ce qui pouvait être dit.|particularly at the end of the season when every one has practically said whatever they had to say,
+|Het einde van het seizoen nadert en iedereen heeft al zo’n beetje alles gezegd wat hij te zeggen had,  | c’est la fin de la saison et chacun a dit tout ce qui pouvait être dit.|particularly at the end of the season when every one has practically said whatever they had to say,
 |wat in de meeste gevallen toch al niet veel was. | Ce qui bien souvent est probablement peu de choses.|which, in most cases, was probably not much.
 |Ik zal het met Bunbury bespreken, als hij nog bij bewustzijn is, Tante Augusta, |Je parlerai à Bunbury, Tante Augusta, s’il a toute sa conscience|I'll speak to Bunbury, Aunt Augusta, if he is stillconscious,
 |en ik denk dat ik kan beloven dat hij tegen woensdag terug gezond is. |et je crois que je peux vous promettre qu’il sera tout à fait bien samedi.|and I think I can promise you he'll be all right by Saturday.
-|Het is met die muziek nogal een ingewikkelde kwestie. |Naturellement, organiser une soirée musicale n’est pas facile.|Of course the music is a great difficulty.
-|Als er goede muziek wordt gespeeld luisteren de mensen niet, |Voyez-vous, si on joue de la bonne musique les gens n’écoutent pas|You see, if one plays good music, people don't listen
+|Het is met die muziek nogal een ingewikkelde kwestie. |Naturellement, organiser une soirée musicale n’est pas facile.|Of course the music is a great difficulty. 
+|Als er goede muziek wordt gespeeld luisteren de mensen niet, |Voyez-vous, si on joue de la bonne musique les gens n’écoutent pas |You see, if one plays good music, people don't listen
 |en als er slechte muziek wordt gespeeld praten ze niet. |et si on joue de la mauvaise les gens ne parlent pas.|and if one plays bad music people don't talk.
 |Maar we kunnen het programma vast doornemen |Mais je vais revoir le programme que j’ai prévu|But I'll run over the programme I've drawn out
-|als u even met mij meekomt naar de kamer hiernaast. | voulez-vous m’accompagner dans la pièce d’à-côté pour en parler.|if you will kindly come into the next room for a moment.
+|als u even met mij meekomt naar de kamer hiernaast. | voulez-vous m’accompagner dans la pièce d’à-côté pour en parler. |if you will kindly come into the next room for a moment.
 |Dankje Algernon, heel vriendelijk van je. |Merci Algernon. C’est très gentil.|Thank you, Algernon. It is very thoughtful of you.
 |Ik ben overtuigd dat het een verrukkelijk programma zal worden na wat weglatingen. |Je suis sûre que le programme sera très agréable. Après quelques suppressions.|I'm sure the programme will be delightful, after a few expurgations.
 |Franse liederen kan ik absoluut niet toestaan. |Par exemple, je ne peux tolérer les chansons françaises.|French songs I cannot possibly allow.
-|Men schijnt altijd te denken dat die ondeugend zijn, |Les gens trouvent toujours qu’elles sont indécentes et,|People always seem to think that they are improper,
-|en kijken ofwel geshockt, wat vulgair is, of lachen, wat nog erger is. |ou bien ils paraissent choqués ce qui est vulgaire, ou ils rient ce qui est pire.|and either look shocked, which is vulgar, or laugh, which is worse.
+|Men schijnt altijd te denken dat die ondeugend zijn, |Les gens trouvent toujours qu’elles sont indécentes et,|People always seem to think that they are improper, 
+|en kijken ofwel geshockt, wat vulgair is, of lachen, wat nog erger is. |ou bien ils paraissent choqués ce qui est vulgaire, ou ils rient ce qui est pire.|and either look shocked, which is vulgar, or laugh, which is worse. 
 |Maar Duits klinkt als taal door en door fatsoenlijk. Gwendolen, je komt met me mee. |Mais la musique allemande est tout à fait respectable. Gwendolen! Viens avec moi.|But German sounds a thoroughly respectable language, and indeed, I believe is so. Gwendolen, you will accompany me.
 |Zeker, mama. |Mais oui, maman!|Certainly, mamma.
 |Een prachtige dag vandaag, Miss Fairfax. |Quelle belle journée, Miss Fairfax.|Charming day it has been, Miss Fairfax.
-|Praat niet over het weer, Mr. Worthing. |S’il vous plait, M. Worthing, ne parlez pas du temps qu’il fait.|Pray don't talk to me about the weather, Mr. Worthing.
+|Praat niet over het weer, Mr. Worthing. |S’il vous plait, M. Worthing, ne parlez pas du temps qu’il fait. |Pray don't talk to me about the weather, Mr. Worthing.
 |Altijd als mensen over het weer praten, heb ik sterk de indruk dat ze iets anders bedoelen. |Quand les gens me parlent du temps je sens bien qu’ils veulent dire autre chose.|Whenever people talk to me about the weather, I always feel quite certain that they mean something else.
 |Dat maakt me nerveus. |Ça m’agace.|And that makes me so nervous.
-|Ik bedoel ook iets anders. |Eh bien, je voulais dire autre chose.|I do mean something else.
+|Ik bedoel ook iets anders. |Eh bien, je voulais dire autre chose. |I do mean something else.
 |Dat dacht ik al. Ik heb zelden ongelijk. |C’est bien ce que je pensais. En fait, je ne me trompe jamais.|I thought so. In fact, I am never wrong.
-|En ik zou graag van de tijdelijke afwezigheid van Lady Bracknell gebruik willen maken om ... |J’aimerais que vous me permettiez de profiter de l’absence temporaire de Lady Bracknell…|And I would like to be allowed to take advantage of Lady Bracknell's temporary absence...
+|En ik zou graag van de tijdelijke afwezigheid van Lady Bracknell gebruik willen maken om ... |J’aimerais que vous me permettiez de profiter de l’absence temporaire de Lady Bracknell… |And I would like to be allowed to take advantage of Lady Bracknell's temporary absence...
 |Dat zou ik zeker aanraden. Mama heeft zo de gewoonte om onverwacht weer in de kamer te staan. |Oui, oui. Mais maman a une façon bien à elle de revenir brusquement…|I would certainly advise you to do so. Mamma has a way of coming back suddenly into a room
-|Daar heb ik haar al dikwijls over moeten aanspreken. |T.B.D //|that I have often had to speak to her about.
-|Miss Fairfax, sinds ik u heb ontmoet heb ik u meer aanbeden dan welk meisje ook ... |Miss Fairfax, depuis que je vous ai vue, je vous ai admirée plus que toutes les femmes…|Miss Fairfax, ever since I met you I have admired you more than any girl...
-|dat ik heb ontmoet sinds ... ik u heb ontmoet. |que j’avais vues avant… de vous avoir vue.|I have ever met since... I met you.
-|Daar ben ik me terdege van bewust. |Oui, j’ai très bien remarqué ça.|Yes, I am quite well aware of the fact.
-|En vaak hoopte ik dat u dat eens wat duideljker had getoond, in het openbaar tenminste. |Et souvent j’aurais voulu qu’en public, vous soyez un peu plus démonstratif.|And I often wish that in public, at any rate, you had been more demonstrative.
-|Op mij hebt u altijd een onweerstaanbare aantrekkingskracht uigeoefend. |Et vous, vous m’avez toujours irrésistiblement fascinée.|For me you have always had an irresistible fascination.
-|Zelfs voor ik u ontmoette was u mij verre van onverschillig. |Même avant notre première rencontre, vous étiez loin de me laisser indifférente.|Even before I met you I was far from indifferent to you.
-|We leven, Mr. Worthing, in het tijdperk der idealen.|Nous vivons, et j’espère que vous le savez, M. Worthing, à l’Âge de l’Idéal.|We live, as I hope you know, Mr Worthing, in an age of ideals.
-|De duurdere maandbladen staan er vol van|C’est ce qu’on dit dans les magazines les plus coûteux.|The fact is constantly mentioned in the more expensive monthly magazines,
-|en het is zelfs doorgedrongen tot de provinciale preekstoelen heb ik gehoord;| T.B.D //|and has reached the provincial pulpits, I am told;
+|Daar heb ik haar al dikwijls over moeten aanspreken. |je dois à chaque fois lui faire la remarque. //|that I have often had to speak to her about.
+|Miss Fairfax, sinds ik u heb ontmoet heb ik u meer aanbeden dan welk meisje ook ...  |Miss Fairfax, depuis que je vous ai vue, je vous ai admirée plus que toutes les femmes… |Miss Fairfax, ever since I met you I have admired you more than any girl... 
+|dat ik heb ontmoet sinds ... ik u heb ontmoet. |que j’avais vues avant… de vous avoir vue. |I have ever met since... I met you.
+|Daar ben ik me terdege van bewust.  |Oui, j’ai très bien remarqué ça. |Yes, I am quite well aware of the fact. 
+|En vaak hoopte ik dat u dat eens wat duideljker had getoond, in het openbaar tenminste. |Et souvent j’aurais voulu qu’en public, vous soyez un peu plus démonstratif. |And I often wish that in public, at any rate, you had been more demonstrative.
+|Op mij hebt u altijd een onweerstaanbare aantrekkingskracht uigeoefend. |Et vous, vous m’avez toujours irrésistiblement fascinée. |For me you have always had an irresistible fascination.
+|Zelfs voor ik u ontmoette was u mij verre van onverschillig.  |Même avant notre première rencontre, vous étiez loin de me laisser indifférente. |Even before I met you I was far from indifferent to you.
+|We leven, Mr. Worthing, in het tijdperk der idealen.|Nous vivons, et j’espère que vous le savez, M. Worthing, à l’Âge de l’Idéal.|We live, as I hope you know, Mr Worthing, in an age of ideals. 
+|De duurdere maandbladen staan er vol van|C’est ce qu’on dit dans les magazines les plus coûteux. |The fact is constantly mentioned in the more expensive monthly magazines,
+|en het is zelfs doorgedrongen tot de provinciale preekstoelen heb ik gehoord;| et les moins coûteux, également. //|and has reached the provincial pulpits, I am told;
 |Mijn ideaal is het altijd geweest van iemand te houden die Ernst heette.|Et mon idéal a toujours été d’aimer quelqu’un du nom de Constant.|And my ideal has always been to love some one of the name of Ernest.
 |Er is iets in die naam dat tot absolute weergave noopt.|Il y a quelque chose dans ce nom qui m’inspire une confiance absolue.|There is something in that name that inspires absolute confidence.
 |Vanaf het moment dat Algernon tegen me zei dat hij een vriend had met de naam Ernst,|Quand Algernon a expliqué pour la première fois qu’il avait un ami appelé Constant,|The moment Algernon first mentioned to me that he had a friend called Ernest,
 |wist ik dat ik was voorbestemd van u te houden.|j’ai su que j’étais destinée à vous aimer.|I knew I was destined to love you.
-|Hou je echt van me, Gwendolen?|Vraiment, vous m’aimez, Gwendolen?|You really love me, Gwendolen?
+|Hou je echt van me, Gwendolen?|Vraiment, vous m’aimez, Gwendolen? |You really love me, Gwendolen?
 |Hartstochtelijk!|Passionnément!|Passionately!
 |Lieveling! Je weet niet hoe gelukkig je me hebt gemaakt.|Chérie! Tu ne peux pas savoir à quel point tu me rends heureux.|Darling! You don't know how happy you've made me.
 |Mijn eigen Ernst!|Mon Constant à moi!|My own Ernest!
 |Maar je wilt toch niet beweren dat je niet van me zou kunnen houden als ik niet Ernst heette?|Mais tu ne veux pas dire que tu ne m’aimerais pas si je ne m’appelais pas Constant?|But you don't really mean to say that you couldn't love me if my name wasn't Ernest?
 |Maar je heet Ernst.|Mais ton nom est Constant.|But your name is Ernest.
 |Maar stel dat ik andere heette? Wou je beweren dat je dan niet van me kon houden?|Mais supposons que ce soit un autre nom, est-ce que tu veux dire que tu ne pourrais pas m’aimer?|Yes, I know it is. But supposing it was something else? Do you mean to say you couldn't love me then?
-|Dat is weer zo’n metafysische speculatie die, net als de meeste metafysische speculaties,|Ça c’est clairement un problème… métaphysique, et les problèmes métaphysiques ont bien|Ah! that is clearly a metaphysical speculation, and like most metaphysical speculations has
+|Dat is weer zo’n metafysische speculatie die, net als de meeste metafysische speculaties, |Ça c’est clairement un problème… métaphysique, et les problèmes métaphysiques ont bien |Ah! that is clearly a metaphysical speculation, and like most metaphysical speculations has
 |in geen enkel verband staat tot de realiteit van het dagelijks bestaan.|peu de rapports avec la vie réelle.|very little reference at all to the actual facts of real life, as we know them.
-|Als ik heel eerlijk ben, lieveling, geef ik persoonlijk niet veel om die naam Ernst ...|Vois-tu chérie, pour parler fran&shy;chement, je ne tiens pas particulièr&shy;ement au nom de Constant…|Personally, darling, to speak quite candidly, I don't much care about the name of Ernest...
-|Ik vind dat hij helemaal niet bij me past.|Je trouve qu’il ne me va pas du tout.|I don't think the name suits me at all.
-|Hij past perfect bij je. Het is een goddelijke naam.|Il te convient parfaitement. C’est un nom divin.|It suits you perfectly. It is a divine name.
+|Als ik heel eerlijk ben, lieveling, geef ik persoonlijk niet veel om die naam Ernst ... |Vois-tu chérie, pour parler fran&shy;chement, je ne tiens pas particulièr&shy;ement au nom de Constant… |Personally, darling, to speak quite candidly, I don't much care about the name of Ernest...
+|Ik vind dat hij helemaal niet bij me past.|Je trouve qu’il ne me va pas du tout. |I don't think the name suits me at all.
+|Hij past perfect bij je. Het is een goddelijke naam.|Il te convient parfaitement. C’est un nom divin. |It suits you perfectly. It is a divine name.
 |Hij heeft iets heel muzikaals. Hij roept vibraties op.|Il a une musique bien à lui. Il produit des vibrations douces.|It has a music of its own. It produces vibrations.
-|Ik vind heel wat namen veel en veel mooier.|Eh bien, Gwendolen, je pense qu’il y a beaucoup d’autres noms bien plus beaux.|Well, really, Gwendolen, I must say that I think there are lots of other much nicer names.
+|Ik vind heel wat namen veel en veel mooier. |Eh bien, Gwendolen, je pense qu’il y a beaucoup d’autres noms bien plus beaux.|Well, really, Gwendolen, I must say that I think there are lots of other much nicer names. 
 |Jack bijvoorbeeld vind ik een prachtige naam.|Jack, par exemple, je trouve que c’est un nom charmant.|I think Jack, for instance, a charming name.
 |Jack? ... Nee, er zit geen muziek in de naam Jack.|Jack? Il y a bien peu de musique dans ce nom-là.|Jack?... No, there is very little music in the name Jack, if any at all, indeed.
 |Hij grijpt je niet aan. Hij roept absoluut geen vibraties op...|Ça ne fait pas frissonner. Ça ne procure aucune vibration.|It does not thrill. It produces absolutely no vibrations...
 |Ik heb verschillende Jacks gekend, en ze waren allemaal ongelooflijk lelijk.|J’ai connu plusieurs Jack et tous, sans exception, étaient terriblement ordinaires.|I have known several Jacks, and they all, without exception, were more than usually plain.
-|Bovendien is Jack een bekende bijnaam voor John.|D’ailleurs, Jack n’est qu’un diminutif pour John.|Besides, Jack is a notorious domesticity for John!
+|Bovendien is Jack een bekende bijnaam voor John.|D’ailleurs, Jack n’est qu’un diminutif pour John.|Besides, Jack is a notorious domesticity for John! 
 |En ik heb medelijden met elke vrouw die getrouwd is met John.|Et je plains une femme qui épouserait un homme appelé John.|And I pity any woman who is married to a man called John.
-|Ze zal voor eeuwig verstoken blijven ßßvan het verrukkelijke genot één moment alleen te zijn.| T.B.D //|She would probably never be allowed to know the entrancing pleasure of a single moment's solitude.
+|Ze zal voor eeuwig verstoken blijven ßßvan het verrukkelijke genot één moment alleen te zijn. |Elle ne sera jamais seule. // |She would probably never be allowed to know the entrancing pleasure of a single moment's solitude.
 |Zoiets lukt niet met een John. De enige veilige naam is Ernst.|Non, Constant est le seul nom possible.|The only really safe name is Ernest
 |Ik moet me dadelijk laten dopen|Gwendolen, il faut que je me fasse baptiser -|Gwendolen, I must get christened at once
-|– ik bedoel we moeten dadelijk trouwen, Gwendolen.|Je veux dire, nous devons nous marier tout de suite!|-- I mean we must get married at once. There is no time to be lost.
+|– ik bedoel we moeten dadelijk trouwen, Gwendolen.|Je veux dire, nous devons nous marier tout de suite! |-- I mean we must get married at once. There is no time to be lost.
 |Trouwen, Mr. Worthing?|Nous marier, M. Worthing?|Married, Mr. Worthing?
 |Ja... Natuurlijk. U weet dat ik van u hou en u gaf me de indruk, Miss Fairfax|Eh bien… certainement. Vous savez que je vous aime et vous m’avez laissé croire, Miss Fairfax|Well... surely. You know that I love you, and you led me to believe, Miss Fairfax,
-|dat u niet geheel onverschillig tegenover mij stond.|que je ne vous étais pas entièrement indifférent.|that you were not absolutely indifferent to me.
-|Ik aanbid u. Maar u hebt me nog niet eens een aanzoek gedaan.|Je vous adore. Mais vous n’avez pas encore demandé ma main.|I adore you. But you haven't proposed to me yet.
-|Er is over trouwen nog met geen woord gerept.|Rien n’a été dit concernant un mariage, le sujet n’a pas même été effleuré.|Nothing has been said at all about marriage. The subject has not even been touched on.
-|Wel... Mag ik dan nu om uw hand vragen?|Eh bien, puis-je vous demander votre main, tout de suite?|Well... may I propose to you now?
-|Het is er ongetwijfeld een prachtige gelegenheid voor.|Il me semble que c’est une merveilleuse occasion.|I think it would be an admirable opportunity.
-|En om u bij voorbaat elke teleurstelling te besparen, lijkt het me alleen maar billijk|Et pour vous épargner tout désappointement, M. Worthing,|And to spare you any possible disappointment, Mr. Worthing, I think it only fair to tell you
-|dat ik u nu reeds in alle oprechtheid meedeel dat ik ten volle bereid ben uw aanzoek te accepteren.|je pense qu’il serait plus franc de vous dire avant tout que je suis tout à fait déterminée à  accepter.|quite frankly before-hand that I am fully determined to accept you.
-|Gwendolen!|Gwendolen!|Gwendolen!
-|Ja, Mr. Worthing, wat had u mij willen zeggen?|Oui, M. Worthing. Qu’avez-vous à me dire?|Yes, Mr. Worthing, what have you got to say to me?
-|U weet wat ik u wil zeggen.|Vous savez très bien ce que j’ai à vous dire.|You know what I have got to say to you.
-|Ja, maar u zegt het niet.|Oui, mais vous ne le dites pas.|Yes, but you don't say it.
-|Gwendolen, wil je met me trouwen?|Gwendolen, voulez-vous m’épouser?|Gwendolen, will you marry me?
+|dat u niet geheel onverschillig tegenover mij stond. |que je ne vous étais pas entièrement indifférent.|that you were not absolutely indifferent to me.
+|Ik aanbid u. Maar u hebt me nog niet eens een aanzoek gedaan.|Je vous adore. Mais vous n’avez pas encore demandé ma main. |I adore you. But you haven't proposed to me yet.
+|Er is over trouwen nog met geen woord gerept. |Rien n’a été dit concernant un mariage, le sujet n’a pas même été effleuré.|Nothing has been said at all about marriage. The subject has not even been touched on.
+|Wel... Mag ik dan nu om uw hand vragen? |Eh bien, puis-je vous demander votre main, tout de suite? |Well... may I propose to you now?
+|Het is er ongetwijfeld een prachtige gelegenheid voor. |Il me semble que c’est une merveilleuse occasion. |I think it would be an admirable opportunity.
+|En om u bij voorbaat elke teleurstelling te besparen, lijkt het me alleen maar billijk |Et pour vous épargner tout désappointement, M. Worthing,|And to spare you any possible disappointment, Mr. Worthing, I think it only fair to tell you 
+|dat ik u nu reeds in alle oprechtheid meedeel dat ik ten volle bereid ben uw aanzoek te accepteren. |je pense qu’il serait plus franc de vous dire avant tout que je suis tout à fait déterminée à  accepter.|quite frankly before-hand that I am fully determined to accept you.
+|Gwendolen! |Gwendolen!|Gwendolen!
+|Ja, Mr. Worthing, wat had u mij willen zeggen? |Oui, M. Worthing. Qu’avez-vous à me dire?|Yes, Mr. Worthing, what have you got to say to me?
+|U weet wat ik u wil zeggen. |Vous savez très bien ce que j’ai à vous dire.|You know what I have got to say to you.
+|Ja, maar u zegt het niet. |Oui, mais vous ne le dites pas.|Yes, but you don't say it.
+|Gwendolen, wil je met me trouwen? |Gwendolen, voulez-vous m’épouser?|Gwendolen, will you marry me?
 |Natuurlijk wil ik dat, lieveling. Wat heb je daar lang over gedaan.| Naturellement je le veux, mon chéri. Comme tu as été long à te décider.|Of course I will, darling. How long you have been about it!
-|Ik vrees dat je weinig ervaring hebt in huwelijksaanzoeken.|Je crains que tu n’aies pas une grande expérience des demandes en mariage.|I am afraid you have had very little experience in how to propose.
+|Ik vrees dat je weinig ervaring hebt in huwelijksaanzoeken. |Je crains que tu n’aies pas une grande expérience des demandes en mariage.|I am afraid you have had very little experience in how to propose.
 |Mijn lieveling, jij bent de enige van wie ik ooit heb gehouden.|Ma chérie à moi, c’est que je n’ai jamais aimé personne au monde que toi.|My own one, I have never loved any one in the world but you.
 |Ja, maar mannen doen vaak aanzoeken om ervaring op te doen.|Oui, mais souvent les hommes font des demandes pour s’entrainer.|Yes, but men often propose for practice.
 |Mijn broer Gerald is zo iemand.|Je sais que Gérald, mon frère, le fait.|I know my brother Gerald does.
-|Dat hoor ik van al mijn vriendinnen.|Et toutes mes amies m’en disent autant.|All my girl-friends tell me so.
+|Dat hoor ik van al mijn vriendinnen.|Et toutes mes amies m’en disent autant.|All my girl-friends tell me so. 
 |Wat een prachtige blauwe ogen heb je, Ernst! Echt, echt...|Ah, Constant, comme tu as des yeux bleus, miraculeusement...|What wonderfully blue eyes you have, Ernest! They are quite, quite, ...
 |blauw.|bleus.|blue.
-|Ik hoop dat je me altijd zo zult aankijken, vooral als er andere mensen bij zijn.|J’espère que tu me regarderas toujours comme ça, juste comme ça. Particulièrement en public.|I hope you will always look at me just like that, especially when there are other people present.
+|Ik hoop dat je me altijd zo zult aankijken, vooral als er andere mensen bij zijn. |J’espère que tu me regarderas toujours comme ça, juste comme ça. Particulièrement en public.|I hope you will always look at me just like that, especially when there are other people present.
 |Mr. Worthing! Sta op, meneer, uit die half neerwaards gebogen houding.|M. Worthing! Relevez-vous.|Mr. Worthing! Rise, sir, from this semi-recumbent posture.
-|Dat is hoogst onwelvoeglijk.|Cette posture à demi-allongée est tout à fait incorrecte.|It is most indecorous.
-|Mama!|Maman!|Mamma!
-|Ik verzoek u heen te gaan. //|Je dois vous prier de vous retirer. Vous n’êtes pas à votre place.|I must beg you to retire. This is no place for you.
-|Mr. Worthing is nog bezig.|D’ailleurs M. Worthing n’a pas complètement terminé.|Besides, Mr. Worthing has not quite finished yet.
-|Waarmee, als ik vragen mag?|Terminé quoi, puis-je savoir?|Finished what, may I ask?
-|Ik ben verloofd met Mr. Worthing, mama.|Je suis fiancée à M. Worthing, maman.|I am engaged to Mr. Worthing, mamma.
-|Je bent niet verloofd met wie dan ook.|Pardonne-moi mais tu n’es fiancée à personne.|Pardon me, you are not engaged to any one.
+|Dat is hoogst onwelvoeglijk. |Cette posture à demi-allongée est tout à fait incorrecte.|It is most indecorous.
+|Mama! |Maman! |Mamma!
+|Ik verzoek u heen te gaan. Hier is geen plaats voor u. //|Je dois vous prier de vous retirer. Vous n’êtes pas à votre place.|I must beg you to retire. This is no place for you. 
+|Mr. Worthing is nog bezig. |D’ailleurs M. Worthing n’a pas complètement terminé.|Besides, Mr. Worthing has not quite finished yet.
+|Waarmee, als ik vragen mag? |Terminé quoi, puis-je savoir?|Finished what, may I ask?
+|Ik ben verloofd met Mr. Worthing, mama. |Je suis fiancée à M. Worthing, maman.|I am engaged to Mr. Worthing, mamma.
+|Je bent niet verloofd met wie dan ook. |Pardonne-moi mais tu n’es fiancée à personne. |Pardon me, you are not engaged to any one.
 |Als jij verloofd bent zal ik of je vader,|Quand vous devrez vous fiancer, moi, ou votre père|When you do become engaged to some one, I, or your father,
-|als zijn gezondheid dat toelaat, je van dat feit op de hoogte stellen.|si sa santé le lui permet, te tiendront informée.|should his health permit him, will inform you of the fact.
+|als zijn gezondheid dat toelaat, je van dat feit op de hoogte stellen.|si sa santé le lui permet, te tiendront informée. |should his health permit him, will inform you of the fact.
 |Een verloving moet voor een meisje als een verassing komen,|Des fiançailles qui tomberaient sur une jeune fille par surprise,|An engagement should come on a young girl as a surprise,
-|aangenaam of onaangenaam, hoe het ook moge zijn.|une surprise bonne ou mauvaise.|pleasant or unpleasant, as the case may be.
+|aangenaam of onaangenaam, hoe het ook moge zijn. |une surprise bonne ou mauvaise.|pleasant or unpleasant, as the case may be. 
 |Het is niet bepaald iets dat ze voor zichzelf zou moeten regelen.|Ce n’est pas une question qu’il t’est permis de décider toute seule.|It is hardly a matter that she could be allowed to arrange for herself...
 |En nu heb ik een paar vragen aan u, Mr. Worthing.|Et maintenant, j’ai quelques questions à vous poser, M. Worthing.|And now I have a few questions to put to you, Mr. Worthing.
-|Terwijl ik mijn informatie inwin wacht jij, Gwendolen, op me in het ruituig.|Va donc m’attendre dans la voiture, Gwendolen.|While I am making these inquiries, you, Gwendolen, will wait for me below in the carriage.
-|Mama!|Maman!|Mamma!
-|In het rijtuig, Gwendolen!|Dans la voiture, Gwendolen!|In the carriage, Gwendolen!
+|Terwijl ik mijn informatie inwin wacht jij, Gwendolen, op me in het ruituig. |Va donc m’attendre dans la voiture, Gwendolen. |While I am making these inquiries, you, Gwendolen, will wait for me below in the carriage.
+|Mama! |Maman!|Mamma!
+|In het rijtuig, Gwendolen! |Dans la voiture, Gwendolen!|In the carriage, Gwendolen!
 |||
-|Gwendolen, het rijtuig!|Gwendolen, dans la voiture!|Gwendolen, the carriage!
-|Ja, mama.|Oui, maman.|Yes, mamma.
-|U kunt plaats nemen, Mr. Worthing.|Vous pouvez vous assoir M. Worthing.|You can take a seat, Mr. Worthing.
-|Dank u, Lady Bracknell, ik blijf liever staan.|Merci, Lady Bracknell, je préfère rester debout.|Thank you, Lady Bracknell, I prefer standing.
-|ik zal u waarschuwen: U komt niet voor op mijn lijst van verkiezbare jonge mannen,|Je suis obligée de vous dire que vous ne figurez pas sur ma liste des jeunes hommes possibles,|I feel bound to tell you that you are not down on my list of eligible young men,
-|hoewel ik dezelfde lijst heb als de dierbare Hertogin van Bolton.|bien que j’ai la même que cette chère duchesse de Bolton.|although I have the same list as the dear Duchess of Bolton has.
+|Gwendolen, het rijtuig! |Gwendolen, dans la voiture!|Gwendolen, the carriage!
+|Ja, mama. |Oui, maman. |Yes, mamma.
+|U kunt plaats nemen, Mr. Worthing. |Vous pouvez vous assoir M. Worthing.|You can take a seat, Mr. Worthing.
+|Dank u, Lady Bracknell, ik blijf liever staan. |Merci, Lady Bracknell, je préfère rester debout. |Thank you, Lady Bracknell, I prefer standing.
+|ik zal u waarschuwen: U komt niet voor op mijn lijst van verkiezbare jonge mannen, |Je suis obligée de vous dire que vous ne figurez pas sur ma liste des jeunes hommes possibles,|I feel bound to tell you that you are not down on my list of eligible young men,
+|hoewel ik dezelfde lijst heb als de dierbare Hertogin van Bolton. |bien que j’ai la même que cette chère duchesse de Bolton. |although I have the same list as the dear Duchess of Bolton has. 
 |We werken samen, zo te zeggen.|Nous travaillons ensemble, en fait.|We work together, in fact.
-|Ik ben echter gaarne bereid uw naam aan de lijst toe te voegen|Cependant je suis toute prête à vous inscrire|However, I am quite ready to enter your name,
-|indien uw antwoorden stroken met wat een toegewijde moeder zich wenst.|si vos réponses sont celles qu’une mère affectionnée peut souhaiter.|should your answers be what a really affectionate mother requires.
-|Rookt u?|Fumez-vous?|Do you smoke?
-|Ja, ik moet toegeven dat ik rook.|Eh bien, oui, je dois admettre que je fume.|Well, yes, I must admit I smoke.
+|Ik ben echter gaarne bereid uw naam aan de lijst toe te voegen|Cependant je suis toute prête à vous inscrire |However, I am quite ready to enter your name, 
+|indien uw antwoorden stroken met wat een toegewijde moeder zich wenst.|si vos réponses sont celles qu’une mère affectionnée peut souhaiter. |should your answers be what a really affectionate mother requires. 
+|Rookt u? |Fumez-vous?|Do you smoke?
+|Ja, ik moet toegeven dat ik rook. |Eh bien, oui, je dois admettre que je fume.|Well, yes, I must admit I smoke.
 |Ik ben blij dat te horen. Een man dient altijd iets om handen te hebben.|Je suis heureuse de l’apprendre. Un homme doit toujours avoir quelque occupation,|I am glad to hear it. A man should always have an occupation of some kind.
-|We hebben in Londen al teveel leeglopers.|il y a déjà beaucoup trop de paresseux à Londres.|There are far too many idle men in London as it is.
-|Hoe oud bent u?|Quel âge avez-vous?|How old are you?
-|Negenentwintig.|Vingt-neuf ans.|Twenty-nine.
-|Een uitstekende leeftijd om te trouwen.|Un très bon âge pour se marier.|A very good age to be married at.
-|Ik ben altijd van mening geweest dat een man die zich voorneemt te trouwen|Ensuite, j’ai toujours été d’avis qu’un homme qui désire se marier|I have always been of opinion that a man who desires to get married
-|ofwel alles ofwel niets moet weten. Wat weet u?| devrait tout savoir, ou rien. Que savez-vous?|should know either everything or nothing. Which do you know?
+|We hebben in Londen al teveel leeglopers. |il y a déjà beaucoup trop de paresseux à Londres. |There are far too many idle men in London as it is.
+|Hoe oud bent u? |Quel âge avez-vous?|How old are you?
+|Negenentwintig. |Vingt-neuf ans.|Twenty-nine.
+|Een uitstekende leeftijd om te trouwen. |Un très bon âge pour se marier.|A very good age to be married at. 
+|Ik ben altijd van mening geweest dat een man die zich voorneemt te trouwen|Ensuite, j’ai toujours été d’avis qu’un homme qui désire se marier |I have always been of opinion that a man who desires to get married
+|ofwel alles ofwel niets moet weten. Wat weet u? | devrait tout savoir, ou rien. Que savez-vous?|should know either everything or nothing. Which do you know?
 |||
-|Ik weet niets, Lady Bracknell.|Rien, Lady Bracknell.|I know nothing, Lady Bracknell.
-|Zo mag ik het horen.|Je suis contente de vous l’entendre dire.|I am pleased to hear it.
+|Ik weet niets, Lady Bracknell. |Rien, Lady Bracknell.|I know nothing, Lady Bracknell.
+|Zo mag ik het horen.|Je suis contente de vous l’entendre dire.|I am pleased to hear it. 
 |Ik heb een hekel aan elke verstoring van de natuurlijke onwetendheid.|J’ai horreur de tout ce qui altère l’ignorance naturelle.|I do not approve of anything that tampers with natural ignorance.
-|T.B.D. //|L’ignorance est comme un fruit exotique délicat, vous le touchez et le parfum disparait.|Ignorance is like a delicate exotic fruit; touch it and the bloom is gone.
+|Onwetendheid is als een bloem. Als je ze aanraakt verdwijnt haar pracht. //|L’ignorance est comme un fruit exotique délicat, vous le touchez et le parfum disparait.|Ignorance is like a delicate exotic fruit; touch it and the bloom is gone.
 |De hele modere onderwijstheorie is in weze ongezond.|Toute la théorie moderne de l’éducation est radicalement stupide.|The whole theory of modern education is radically unsound.
 |Gelukkig heeft, in Engeland tenminste, het onderwijs geen enkel effect.|Fort heureusement, en Angleterre, l’éducation ne produit aucun effet d’aucune sorte|Fortunately in England, at any rate, education produces no effect whatsoever.
 |Als dat wel het geval was zou het een ernstig gevaar voor de hogere klasse betekenen.|Sinon il s’ensuivrait de graves dangers pour les classes supérieures.|If it did, it would prove a serious danger to the upper classes,
-|T.B.D. //|T.B.D. //|and probably lead to acts of violence in Grosvenor Square.
-|Wat is uw inkomen?|Quel est votre revenu?|What is your income?
-|Tussen de zeven en achtduizend per jaar.|Entre sept et huit mille livres par an.|Between seven and eight thousand a year.
-|Uit grondbezit of effecten?|En terres ou en placements?|In land, or in investments?
-|Uit effecten voornamelijk.|En placements, principalement.|In investments, chiefly.
-|Dat klinkt positief.|Voilà qui est satisfaisant.|That is satisfactory.
-|Gezien de plichten die verwacht worden van een man tijdens zijn leven,|De nos jours, T.B.D//|What between the duties expected of one during one's lifetime,
-|en de lasten onttrokken na zijn dood, //lasten=belasting| T.B.D. //|and the duties exacted from one after one's death,
-|is grondbezit niet langer een onverdeeld voordeel of genoegen meer.|la terre n’est plus ni un profit, ni un plaisir.|land has ceased to be either a profit or a pleasure.
-|Het verschaft je een positie maar belet je om die op te houden.|Elle donne une position sociale, T.B.D. //|It gives one position, and prevents one from keeping it up.
-|Dat is alles wat er over grondbezit gezegd kan worden.|c’est tout ce qu’on peut en dire.|That's all that can be said about land.
-|Ik heb een buitengoed, met uiteraard wat land erbij uiteraard, ongeveer 1500 hectare,|J’ai une maison de campagne avec un peu de terre, naturellement, à peu près quinze cent acres,|I have a country house with some land, of course, attached to it, about fifteen hundred acres
+|En waarschijnlijk zorgt het voor opstanden in Grosvenor square.//|et des révoltes à Grosvenor Square.//|and probably lead to acts of violence in Grosvenor Square.
+|Wat is uw inkomen? |Quel est votre revenu?|What is your income?
+|Tussen de zeven en achtduizend per jaar. |Entre sept et huit mille livres par an.|Between seven and eight thousand a year.
+|Uit grondbezit of effecten? |En terres ou en placements?|In land, or in investments?
+|Uit effecten voornamelijk. |En placements, principalement.|In investments, chiefly.
+|Dat klinkt positief. |Voilà qui est satisfaisant. |That is satisfactory.
+|Gezien de plichten die verwacht worden van een man tijdens zijn leven,|De nos jours, suite à nos devoirs terrestres |What between the duties expected of one during one's lifetime,
+|en de lasten onttrokken na zijn dood, //lasten=belasting|Et puis les taxes prélevées sur l'autre monde,|and the duties exacted from one after one's death, 
+|is grondbezit niet langer een onverdeeld voordeel of genoegen meer.|la terre n’est plus ni un profit, ni un plaisir. |land has ceased to be either a profit or a pleasure. 
+|Het verschaft je een positie maar belet je om die op te houden.|Elle donne une position sociale, mais empêche de la garder //|It gives one position, and prevents one from keeping it up.
+|Dat is alles wat er over grondbezit gezegd kan worden. |c’est tout ce qu’on peut en dire.|That's all that can be said about land.
+|Ik heb een buitengoed, met uiteraard wat land erbij uiteraard, ongeveer 1500 hectare,|J’ai une maison de campagne avec un peu de terre, naturellement, à peu près quinze cent acres, |I have a country house with some land, of course, attached to it, about fifteen hundred acres
 |maar voor mijn inkomen ben ik daar niet van afhankelijk.|Mais ce n’est pas de là que vient mon revenu réel.|but I don't depend on that for my real income.
-|Voor zover ik het kan bekijken worden alleen de stropers er beter van.|En fait si j’ai bien compris, il n’y a que les braconniers qui en tirent quelque chose.//|In fact, as far as I can make out, the poachers are the only people who make anything out of it.
-|Een buitengoed! Hoeveel slaapkamers?|Une maison de campagne! De combien de pièces?|A country house! How many bedrooms?
+|Voor zover ik het kan bekijken worden alleen de stropers er beter van. |En fait si j’ai bien compris, il n’y a que les braconniers qui en tirent quelque chose.//|In fact, as far as I can make out, the poachers are the only people who make anything out of it.
+|Een buitengoed! Hoeveel slaapkamers?|Une maison de campagne! De combien de pièces?|A country house! How many bedrooms? 
 |Wel, over dat punt kunnen we het later nog hebben.|Enfin, nous verrons cela plus tard.|Well, that point can be cleared up afterwards.
 |U bezit ook een huis in de stad, hoop ik?|Vous avez une maison de ville, j’espère?|You have a town house, I hope?
-|Van een meisje met zo’n onbedorven natuur als Gwendolen|Une fille toute simple comme Gwendolen|A girl with a simple, unspoiled nature, like Gwendolen,
-|kunnen we toch niet verlangen dat ze buiten gaat wonen.|pourrait difficilement vivre à la campagne.|could hardly be expected to reside in the country.
-|Ik bezit een huis op Belgrave Square, maar het is op jaar&shy;contract verhuurd aan lady Bloxham.|Eh bien, je possède une maison à Belgrave Square, mais elle est louée à l’année à lady Bloxham.|Well, I own a house in Belgrave Square, but it is let by the year to Lady Bloxham.
+|Van een meisje met zo’n onbedorven natuur als Gwendolen|Une fille toute simple comme Gwendolen|A girl with a simple, unspoiled nature, like Gwendolen, 
+|kunnen we toch niet verlangen dat ze buiten gaat wonen. |pourrait difficilement vivre à la campagne.|could hardly be expected to reside in the country.
+|Ik bezit een huis op Belgrave Square, maar het is op jaar&shy;contract verhuurd aan lady Bloxham. |Eh bien, je possède une maison à Belgrave Square, mais elle est louée à l’année à lady Bloxham. |Well, I own a house in Belgrave Square, but it is let by the year to Lady Bloxham.
 |Natuurlijk kan ik erover beschikken wanneer ik wil,met 6 maand opzeg.|Naturellement je peux la récupérer quand je veux après un préavis de six mois.|Of course, I can get it back whenever I like, at six months' notice.
-|Lady Bloxham? Die ken ik niet.|Lady Bloxham? Je ne la connais pas.|Lady Bloxham? I don't know her.
+|Lady Bloxham? Die ken ik niet. |Lady Bloxham? Je ne la connais pas.|Lady Bloxham? I don't know her.
 |O, ze komt bijna nergens meer.|Oh, elle sort très peu.|Oh, she goes about very little.
-|Het is een dame op zeer ver gevorderde leeftijd.|C’est une dame très âgée.|She is a lady considerably advanced in years.
+|Het is een dame op zeer ver gevorderde leeftijd. |C’est une dame très âgée.|She is a lady considerably advanced in years.
 |Dat is tegenwoordig geen garantie meer voor een fatsoenlijk karakter.|De nos jours ce n’est pas une garantie de respectabilité.|Ah, nowadays that is no guarantee of respectability of character.
-|Welk nummer op Belgrave Square?|A quel numéro de Belgrave Square?|What number in Belgrave Square?
-|149.|Au cent quarante neuf.|149.
-|Niet aan de deftige kant. Ik dacht al dat er iets mis was.|Le côté qui n’est pas à la mode. Je sentais bien qu’il y avait un hic.|The unfashionable side. I thought there was something.
-|Maar daar kunnen we wel wat aan doen.|Cependant ça peut facilement se changer.|However, that could easily be altered.
-|Aan de deftigheid, bedoelt u, of aan de kant?|Voulez-vous dire la mode, ou le côté?|Do you mean the fashion, or the side?
-|Aan beide, als dat nodig is.|Les deux, s’il le faut.|Both, if necessary, I presume.
-|Wat zijn uw politieke opvattingen?|Quelles sont vos opinions politiques?|What are your polities?
-|Eigenlijk geen enkele, vrees ik. Ik ben een Liberal Unionist.|J’ai bien peur de n’en avoir aucune. Je suis un Libéral Unioniste.|Well, I am afraid I really have none. I am a Liberal Unionist.
-|Oh, die tellen als Tories. Zij dineren met ons.|Oh, on les compte avec les Tories. Ils dînent avec nous.|Oh, they count as Tories. They dine with us.
-|Of ze komen s’avonds, in ieder geval.|Ou, du moins, sont invités aux réceptions.|Or come in the evening, at any rate.
-|Nu naar mindere dingen. Leven uw ouders nog?|Passons aux choses moins importantes. Vos parents sont-ils vivants?|Now to minor matters. Are your parents living?
-|Ik heb allebei mijn ouders verloren.|J’ai perdu mes deux parents.|I have lost both my parents.
+|Welk nummer op Belgrave Square? |A quel numéro de Belgrave Square?|What number in Belgrave Square?
+|149. |Au cent quarante neuf.|149.
+|Niet aan de deftige kant. Ik dacht al dat er iets mis was.|Le côté qui n’est pas à la mode. Je sentais bien qu’il y avait un hic.|The unfashionable side. I thought there was something. 
+|Maar daar kunnen we wel wat aan doen. |Cependant ça peut facilement se changer.|However, that could easily be altered.
+|Aan de deftigheid, bedoelt u, of aan de kant? |Voulez-vous dire la mode, ou le côté?|Do you mean the fashion, or the side?
+|Aan beide, als dat nodig is.|Les deux, s’il le faut. |Both, if necessary, I presume. 
+|Wat zijn uw politieke opvattingen? |Quelles sont vos opinions politiques?|What are your polities?
+|Eigenlijk geen enkele, vrees ik. Ik ben een Liberal Unionist. |J’ai bien peur de n’en avoir aucune. Je suis un Libéral Unioniste.|Well, I am afraid I really have none. I am a Liberal Unionist.
+|Oh, die tellen als Tories. Zij dineren met ons. |Oh, on les compte avec les Tories. Ils dînent avec nous. |Oh, they count as Tories. They dine with us. 
+|Of ze komen s’avonds, in ieder geval. |Ou, du moins, sont invités aux réceptions.|Or come in the evening, at any rate.
+|Nu naar mindere dingen. Leven uw ouders nog? |Passons aux choses moins importantes. Vos parents sont-ils vivants?|Now to minor matters. Are your parents living?
+|Ik heb allebei mijn ouders verloren. |J’ai perdu mes deux parents.|I have lost both my parents.
 |Allebei? Het verlies van een ouder kan nog als tegenslag worden beschouwd.|Perdre un parent, M. Worthing, peut être considéré comme un malheur.|To lose one parent, Mr. Worthing, may be regarded as a misfortune;
 |Maar om ze allebei te verliezen, dat heeft meer weg van slordigheid.|Mais perdre les deux ressemble à de la négligence.|to lose both looks like carelessness.
-|Wat was uw vader voor iemand?|Qui était votre père?|Who was your father?
-|Hij was duidelijk een man met enige rijkdom.|C’était visiblement un homme fortuné.|He was evidently a man of some wealth.
+|Wat was uw vader voor iemand?|Qui était votre père?|Who was your father? 
+|Hij was duidelijk een man met enige rijkdom.|C’était visiblement un homme fortuné. |He was evidently a man of some wealth.
 |Werd hij geboren in wat de radicale kranten noemen het Paarse van de handel,|Etait-il issu du commerce|Was he born in what the Radical papers call the purple of commerce,
 |of stamde hij af van de rangen van de aristocratie?| ou de l’aristocratie?|or did he rise from the ranks of the aristocracy?
-|Ik vrees dat ik daar geen antwoord op kan geven.|Je ne sais pas vraiment, je le crains.|I am afraid I really don't know.
-|Ik zei, Lady Bracknell, dat ik mijn ouders had verloren.| Le fait est, Lady Bracknell, que j’ai dit avoir perdu mes parents.|The fact is, Lady Bracknell, I said I had lost my parents.
+|Ik vrees dat ik daar geen antwoord op kan geven. |Je ne sais pas vraiment, je le crains.|I am afraid I really don't know.
+|Ik zei, Lady Bracknell, dat ik mijn ouders had verloren.| Le fait est, Lady Bracknell, que j’ai dit avoir perdu mes parents.|The fact is, Lady Bracknell, I said I had lost my parents. 
 |Het zou dichter bij de waarheid zijn wanneer ik zei dat mijn ouders|Il serait plus juste de dire que ce sont eux|It would be nearer the truth to say that my parents
 |eerder mij verloren hebben.|qui m’ont perdu.|seem to have lost me...
-|Ik weet niet wat ik van geboorte ben. Ik werd...|Je ne sais vraiment pas de qui je suis né. Je suis, eh bien,|I don't actually know who I am by birth. I was...
-|wel, ik werd gevonden.|je suis un enfant trouvé.|well, I was found.
+|Ik weet niet wat ik van geboorte ben. Ik werd... |Je ne sais vraiment pas de qui je suis né. Je suis, eh bien, |I don't actually know who I am by birth. I was... 
+|wel, ik werd gevonden. |je suis un enfant trouvé.|well, I was found.
 |Gevonden!|Trouvé!|Found!
 |Wijlen Mr. Thomas Cardew, een oude heer, zeer edelmoedig van aard,|Feu M. Thomas Cardew, un vieux gentilhomme très charitable,|The late Mr. Thomas Cardew, an old gentleman of a very charitable and kindly disposition,
-|heeft me gevonden en me de naam Worthing gegeven,|m’a trouvé et donné le nom de Worthing|found me, and gave me the name of Worthing,
+|heeft me gevonden en me de naam Worthing gegeven, |m’a trouvé et donné le nom de Worthing|found me, and gave me the name of Worthing,
 |omdat hij toevallig een eersteklaskaartje naar dat oord in zijn zak had.|parce qu’il avait un billet de première classe dans sa poche pour Worthing.|because he happened to have a first-class ticket for Worthing in his pocket at the time.
-|Worthing ligt in Sussex. Een soort badplaats.|C’est une plage dans le Sussex.|Worthing is a place in Sussex. It is a seaside resort.
-|En waar vond deze edelmoedige heer die een eerste&shy;klas&shy;kaartje voor een badplaats bezat u?|Et où le charitable gentilhomme vous a-t-il trouvé?|Where did the charitable gentleman who had a first-class ticket for this seaside resort find you?
-|In een handtas.|Dans un cabas.|In a hand-bag.
-|Een handtas?|Un cabas?|A hand-bag?
+|Worthing ligt in Sussex. Een soort badplaats. |C’est une plage dans le Sussex.|Worthing is a place in Sussex. It is a seaside resort.
+|En waar vond deze edelmoedige heer die een eerste&shy;klas&shy;kaartje voor een badplaats bezat u? |Et où le charitable gentilhomme vous a-t-il trouvé?|Where did the charitable gentleman who had a first-class ticket for this seaside resort find you?
+|In een handtas. |Dans un cabas.|In a hand-bag.
+|Een handtas? |Un cabas?|A hand-bag?
 |Ja, Lady Bracknell. Een handtas.|Oui, Lady Bracknell. J’étais dans un cabas|Yes, Lady Bracknell. I was in a hand-bag
-|Een tamelijk grote, bruin leren handtas, met hengsels eraan-|un grand cabas de cuir brun, avec des poignées.|A somewhat large, black leather hand-bag, with handles to it --
-|kortom, een doodgewone handtas.|Un cabas très ordinaire en fait.|an ordinary hand-bag in fact.
-|Wat was de geografische ligging van de plaats waar deze Mr. Cardew|Et en quel lieu M. James, ou Thomas, Cardew|In what locality did this Mr. James, or Thomas Cardew
-|plotseling oog in oog stond met zo’n doodgewone handtas?|rencontra-t-il ce cabas très ordinaire?|come across this ordinary hand-bag?
-|In het bagagedepot van Victoria Station.|A la consigne de la gare de Victoria.|In the cloak-room at Victoria Station.
+|Een tamelijk grote, bruin leren handtas, met hengsels eraan-|un grand cabas de cuir brun, avec des poignées. |A somewhat large, black leather hand-bag, with handles to it --
+|kortom, een doodgewone handtas. |Un cabas très ordinaire en fait.|an ordinary hand-bag in fact.
+|Wat was de geografische ligging van de plaats waar deze Mr. Cardew|Et en quel lieu M. James, ou Thomas, Cardew |In what locality did this Mr. James, or Thomas Cardew
+|plotseling oog in oog stond met zo’n doodgewone handtas? |rencontra-t-il ce cabas très ordinaire?|come across this ordinary hand-bag?
+|In het bagagedepot van Victoria Station. |A la consigne de la gare de Victoria. |In the cloak-room at Victoria Station.
 |Het is hem gegeven in de plaats van zijn eigen tas.|On le lui a donné par erreur à la place du sien.|It was given to him in mistake for his own.
 |Het bagagedepot van het Victoria Station?|La consigne de la gare de Victoria?|The cloak-room at Victoria Station?
 |Jawel. Op het perron voor Brighton.|Oui. Ligne de Brighton.|Yes. The Brighton line.
-|Het perron doet er niet toe, Mr Worthing.|La ligne n’est pas la question.|The line is immaterial.
-|Ik moet u bekennen dat het me nogal heeft aan&shy;gegrepen wat u zojuist vertelde.|M. Worthing, je dois dire que je me sens plutôt perplexe.|Mr. Worthing, I confess I feel somewhat bewildered by what you have just told me.
-|Om geboren, of in elk geval groot&shy;gebracht te worden in een handtas,|Être né, ou engendré, dans un cabas,|To be born, or at any rate bred, in a hand-bag,
+|Het perron doet er niet toe, Mr Worthing. |La ligne n’est pas la question.|The line is immaterial. 
+|Ik moet u bekennen dat het me nogal heeft aan&shy;gegrepen wat u zojuist vertelde. |M. Worthing, je dois dire que je me sens plutôt perplexe.|Mr. Worthing, I confess I feel somewhat bewildered by what you have just told me.
+|Om geboren, of in elk geval groot&shy;gebracht te worden in een handtas,|Être né, ou engendré, dans un cabas,|To be born, or at any rate bred, in a hand-bag, 
 |of die nu hengsels heeft of niet, komt me voor als een zodanige blijk van minachting|qu’il ait des poignées ou non, me semble relever|whether it had handles or not, seems to me to display a contempt
 |voor de normale welvoeglijkheid van het gezinsleven|d’un total mépris des traditions familiales.|for the ordinary decencies of family life that
-|dat het herinneringen oproept aan de ergste excessen van de Franse Revolutie.|Cela rappelle les pires excès de la Révolution Française|reminds one of the worst excesses of the French Revolution.
+|dat het herinneringen oproept aan de ergste excessen van de Franse Revolutie.|Cela rappelle les pires excès de la Révolution Française |reminds one of the worst excesses of the French Revolution.
 |U weet, neem ik aan, waartoe die ongelukkige beweging heeft geleid.|et je pense que vous savez à quoi ce malheureux événement nous a conduits.|And I presume you know what that unfortunate movement led to?
-|Wat de exacte geografische ligging van de handtas betreft|Quant au lieu précis où le cabas fut trouvé,|As for the particular locality in which the hand-bag was found,
+|Wat de exacte geografische ligging van de handtas betreft |Quant au lieu précis où le cabas fut trouvé,|As for the particular locality in which the hand-bag was found, 
 | – een bagagedepot op een spoorweg&shy;station mag dan nuttig zijn|la consigne d’une gare a pu servir|a cloak room at a railway station might serve
 | om er een maatschappelijke onvoorzichtigheid te deponeren –|à dissimuler quelque secret de famille,|to conceal a social indiscretion --
-| en zal ook vaak voor dat doel zijn gebruikt –|T.B.D //|has probably, indeed, been used for that purpose before now --
-|maar kan nauwelijks gelden als een gezonde basis|mais cela peut difficilement être regardé comme une base crédible|but it could hardly be regarded as an assured basis
+| en zal ook vaak voor dat doel zijn gebruikt – |et probablement a déjà été utilisé pour ce genre de choses.|has probably, indeed, been used for that purpose before now --
+|maar kan nauwelijks gelden als een gezonde basis|mais cela peut difficilement être regardé comme une base crédible|but it could hardly be regarded as an assured basis 
 | voor een positie in de hogere kringen.|pour obtenir une position dans la bonne société.|for a recognised position in good society.
 |Wat zou u me aanraden te doen?|Puis-je vous demander ce que vous me conseillez de faire?|May I ask you then what you would advise me to do?
-|Ik hoef nauwelijks te benadrukken dat ik alles in het werk wil stellen|J’ai à peine besoin de dire que je ferais n’importe quoi|I need hardly say I would do anything in the world
+|Ik hoef nauwelijks te benadrukken dat ik alles in het werk wil stellen |J’ai à peine besoin de dire que je ferais n’importe quoi |I need hardly say I would do anything in the world
 |om Gwendolen geluk te verzekeren.|pour assurer le bonheur de Gwendolen.|to ensure Gwendolen's happiness.
 |Ik zou u tensterkste aanraden, Mr Worthing, om zo snel mogelijk|M. Worthing, je vous conseille vivement d’essayer|I would strongly advise you, Mr. Worthing, to try and acquire
-|voor familie te zorgen|de trouver des parents aussi tôt que possible,|some relations as soon as possible,
+|voor familie te zorgen|de trouver des parents aussi tôt que possible,|some relations as soon as possible, 
 |en met minstens een van uw ouders op de proppen te komen,|de faire un effort pour montrer au moins un parent,|and to make a definite effort to produce at any rate one parent,
 |van welk geslacht dan ook, voor het seizoen voorbij is.|quelque soit son sexe, avant la fin de la saison.|of either sex, before the season is quite over.
-|Ik zie niet in hoe ik dat voor elkaar krijg.|Eh bien, je ne vois pas comment je pourrais arranger ça.|Well, I don't see how I could possibly manage to do that.
-|Ik kan elk moment de handtas voorleggen.|Mais je peux montrer le cabas quand on voudra.|I can produce the hand-bag at any moment.
-|Ik heb hem thuis, in mijn kleedkamer.|Il est chez moi dans ma garde-robe.|It is in my dressing room at home.
+|Ik zie niet in hoe ik dat voor elkaar krijg. |Eh bien, je ne vois pas comment je pourrais arranger ça.|Well, I don't see how I could possibly manage to do that.
+|Ik kan elk moment de handtas voorleggen. |Mais je peux montrer le cabas quand on voudra.|I can produce the hand-bag at any moment.
+|Ik heb hem thuis, in mijn kleedkamer. |Il est chez moi dans ma garde-robe.|It is in my dressing room at home.
 |Ik vind dat u daarmee tevreden moet zijn, Lady Bracknell.|Il me semble vraiment que ça pourrait vous satisfaire, Lady Bracknell.|I really think that should satisfy you, Lady Bracknell.
-|Ik, meneer? Wat moet ik daarmee?|Moi, monsieur! Me satisfaire?|Me, sir! What has it to do with me?
+|Ik, meneer? Wat moet ik daarmee?|Moi, monsieur! Me satisfaire?|Me, sir! What has it to do with me? 
 |U denkt toch niet dat ik en Lord Bracknell er ooit over zouden dromen|Vous n’imaginez tout de même pas que moi et Lord Bracknell permettrions|You can hardly imagine that I and Lord Bracknell would dream
 |onze enige dochter – een meisje dat met de grootste zorgvuldigheid is opgevoed -|à notre fille unique, une jeune personne élevée avec le plus grand soin,|of allowing our only daughter -- a girl brought up with the utmost care --
-|bij een bagagedepot te laten introuwen|de se marier dans une consigne|to marry into a cloak-room,
-|en een verbintenis te laten aangaan met een postpakket!|et de s’allier avec un colis.|and form an alliance with a parcel?
+|bij een bagagedepot te laten introuwen |de se marier dans une consigne|to marry into a cloak-room, 
+|en een verbintenis te laten aangaan met een postpakket!|et de s’allier avec un colis.|and form an alliance with a parcel? 
 |Goedendag, Mr. Worthing!|Adieu, M. Worthing!|Good morning, Mr. Worthing!
 |Goedendag!|Adieu, Lady Bracknell.|Good morning!
-|Hou in godsnaam op met dat akelige deuntje, Algy!|Algy, espèce d’idiot, arrête de jouer cette satanée musique.|For goodness' sake don't play that ghastly tune, Algy.
+|Hou in godsnaam op met dat akelige deuntje, Algy!|Algy, espèce d’idiot, arrête de jouer cette satanée musique. |For goodness' sake don't play that ghastly tune, Algy.
 |Ging er iets mis, ouwe jongen?|Alors mon vieux, ça n’a pas marché?|Didn't it go off all right, old boy?
 |Heeft Gwendolen nee gezegd?|Ne me dis pas que Gwendolen a refusé.|You don't mean to say Gwendolen refused you?
 |Ze zegt altijd nee tegen mensen. Ik weet dat ze dat soms doet.|Je sais qu’elle est comme ça, toujours à refuser les gens.| I know it is a way she has. She is always refusing people.
 |Het is zeer gemeen van haar.|C’est maladif.|I think it is most ill-natured of her.
 |Met Gwendolen is er geen wolkje aan de lucht.|Oh, ce n’est pas Gwendolen le problème.|Oh, Gwendolen is as right as a trivet.
 |Wat haar betreft zijn we reeds verloofd.|En ce qui la concerne nous sommes fiancés.|As far as she is concerned, we are engaged.
-|Maar haar moeder is onuitstaanbaar.|Mais sa mère est parfaitement insupportable.|Her mother is perfectly unbearable.
+|Maar haar moeder is onuitstaanbaar.|Mais sa mère est parfaitement insupportable.|Her mother is perfectly unbearable. 
 |Nooit zo’n Gorgoon ontmoet ...|Jamais rencontré une pareille… Gorgone.|Never met such a Gorgon...
 |Ik weet niet hoe een Gorgoon er uitziet,|Je ne sais pas vraiment à quoi ressemble une Gorgone|I don't really know what a Gorgon is like,
-|maar Lady Bracknell is er een.|mais je suis sûr que Lady Bracknell en est une.|but I am quite sure that Lady Bracknell is one.
+|maar Lady Bracknell is er een.|mais je suis sûr que Lady Bracknell en est une. |but I am quite sure that Lady Bracknell is one.
 |Een monster dat buiten de mythologie is getreden, wat ik nogal oneerlijk vind.|En tous cas, c’est un monstre sans être un mythe ce qui est déloyal…|In any case, she is a monster, without being a myth, which is rather unfair.
-|Sorry, Algy, ik zou niet zo over je tante mogen spreken|Pardonne-moi, Algy, je suppose que je ne devrais pas parler|I beg your pardon, Algy, I suppose I shouldn't talk about your own aunt
+|Sorry, Algy, ik zou niet zo over je tante mogen spreken|Pardonne-moi, Algy, je suppose que je ne devrais pas parler|I beg your pardon, Algy, I suppose I shouldn't talk about your own aunt 
 |in jouw aanwezigheid.|comme ça de ta tante devant toi.|in that way before you.
 |Ik vind het verrukkelijk als ik mijn familie hoor beledigen.|Mon petit vieux, j’adore entendre dire du mal de la famille.|My dear boy, I love hearing my relations abused.
 |Het is het enige dat er voor zorgt dat ik ze nog kan uitstaan.|C’est la seule chose qui me permet de la supporter.|It is the only thing that makes me put up with them at all.
-|Familie, dat is enkel een vervelend allegaartje|La famille c’est tout simplement un ennuyeux amas de gens|Relations are simply a tedious pack of people,
+|Familie, dat is enkel een vervelend allegaartje |La famille c’est tout simplement un ennuyeux amas de gens|Relations are simply a tedious pack of people,
 |dat niet het minste idee heeft over hoe te leven en wanneer te sterven.|qui ne savent pas le moins du monde comment vivre… ni quand mourir.|who haven't got the remotest knowledge of how to live, nor the smallest instinct about when to die.
-|Dat is onzin!|C’est absurde.|Oh, that is nonsense!
+|Dat is onzin!|C’est absurde.|Oh, that is nonsense! 
 |Dat is het niet!|Mais non!|It isn't!
-|Ik wil daar nu niet over redetwisten.|Eh bien, je ne veux pas discuter de ça.|Well, I won't argue about the matter.
+|Ik wil daar nu niet over redetwisten. |Eh bien, je ne veux pas discuter de ça.|Well, I won't argue about the matter. 
 |Jij wilt altijd over alles redetwisten.|Tu veux toujours discuter, discuter sur des trucs.|You always want to argue about things.
 |Dat is ook precies waarvoor het allemaal geschapen is.|Les trucs sont justement faits pour ça.|That is exactly what things were originally made for.
-|Als ik dat geloofde, zou ik me voor mijn kop schieten.|Ma parole, si je pensais à ça, je me tirerais une balle dans la tête…|Upon my word, if I thought that, I'd shoot myself...
+|Als ik dat geloofde, zou ik me voor mijn kop schieten.|Ma parole, si je pensais à ça, je me tirerais une balle dans la tête… |Upon my word, if I thought that, I'd shoot myself...
 |||
-|Denk je, Algy, dat Gwendolen op haar moeder zal beginnen lijken,|Dis Algy, tu ne crois pas que Gwendolen pourrait|You don't think there is any chance of Gwendolen becoming like her mother
+|Denk je, Algy, dat Gwendolen op haar moeder zal beginnen lijken, |Dis Algy, tu ne crois pas que Gwendolen pourrait |You don't think there is any chance of Gwendolen becoming like her mother
 |binnen pakweg honderdvijftig jaar|devenir comme sa mère dans un centaine d'années?|in about a hundred and fifty years, do you, Algy?
-|Alle vrouwen gaan op hun moeder lijken. Dat is hun tragedie.|Toutes les femmes deviennent comme leur mère. C’est leur tragédie.|All women become like their mothers. That is their tragedy.
+|Alle vrouwen gaan op hun moeder lijken. Dat is hun tragedie. |Toutes les femmes deviennent comme leur mère. C’est leur tragédie.|All women become like their mothers. That is their tragedy.
 |Mannen nooit. Dat is de hunne.|Et aucun homme. C’est la leur.|No man does. That's his.
 |Is dat geestig?|Et tu te crois intelligent?|Is that clever?
-|Het is voortreffelijk verwoord!|En tout cas, c’est bien trouvé!|It is perfectly phrased!
+|Het is voortreffelijk verwoord!|En tout cas, c’est bien trouvé! |It is perfectly phrased!
 |En even waar als elke observatie in de beschaafde wereld kan zijn.|Et aussi vrai que n’importe quelle remarque sur notre belle civilisation.|and quite as true as any observation in civilised life should be.
 |Ik word doodziek van al die geestigheid. Iedereen is tegenwoordig geestig.|Je suis fatigué à mourir, de l’intelligence. Tout le monde est intelligent aujourd’hui.|I am sick to death of cleverness. Everybody is clever nowadays.
 |Het is absoluut epidemisch geworden.|Tu ne peux aller nulle part sans rencontrer des gens intelligents.|You can't go anywhere without meeting clever people.
-|Een publieke plaag.|C’est devenu une calamité publique.|The thing has become an absolute public nuisance.
+|Een publieke plaag.|C’est devenu une calamité publique.|The thing has become an absolute public nuisance. 
 |Ik wou echt dat we nog een paar dwazen over hadden.|Pourvu qu’il nous reste quelques idiots!|I wish to goodness we had a few fools left.
 |Die hebben we ook.|Il en reste.|We have.
 |Ik zou die heel graag ontmoeten. Waar spreken die over?|J’aimerais beaucoup en rencontrer. De quoi parlent-ils?|I should extremely like to meet them. What do they talk about?
-|De dwazen? Oh! Over de geestige mensen, natuurlijk.|Les idiots? Des gens intelligents, naturellement.|The fools? Oh! about the clever people, of course.
+|De dwazen? Oh! Over de geestige mensen, natuurlijk.|Les idiots? Des gens intelligents, naturellement. |The fools? Oh! about the clever people, of course.
 |Wat een dwazen!|Quels idiots!|What fools!
-|Heb jij Gwendolen overigens naar waarheid verteld|Au fait, as-tu dit la vérité à Gwendolen?|By the way, did you tell Gwendolen the truth about your being
+|Heb jij Gwendolen overigens naar waarheid verteld |Au fait, as-tu dit la vérité à Gwendolen?|By the way, did you tell Gwendolen the truth about your being
 |dat je Ernst bent in London en buiten Jack?|Que tu étais Constant en ville et Jack à la campagne?|Ernest in town, and Jack in the country?
-|Beste kerel, de waarheid is niet bepaald iets wat je een aardig en welopgevoed meisje vertelt.|Mon vieux, la vérité n’est pas du tout la chose à dire à une jeune femme jolie et raffinée.|My dear fellow, the truth isn't quite the sort of thing one tells to a nice, sweet, refined girl.
+|Beste kerel, de waarheid is niet bepaald iets wat je een aardig en welopgevoed meisje vertelt.|Mon vieux, la vérité n’est pas du tout la chose à dire à une jeune femme jolie et raffinée.|My dear fellow, the truth isn't quite the sort of thing one tells to a nice, sweet, refined girl. 
 |Jij hebt zonderlinge ideeën hoe je je tegenover een vrouw behoort te gedragen.|Quelles drôles d’idées tu as sur la manière de se conduire avec les femmes!|What extraordinary ideas you have about the way to behave to a woman!
 |De enige manier om je tegen een vrouw te gedragen is met haar naar bed te gaan|La seule façon de se conduire avec une femme est de lui faire l’amour,|The only way to behave to a woman is to make love to her,
 |als ze mooi is, en met iemand anders als ze lelijk is.|si elle est jolie, et de le faire à une autre si elle est laide.|if she is pretty, and to some one else, if she is plain.
 |O, dat is onzin.|Encore une absurdité!|Oh, that is nonsense.
 |En wat met je broer? Wat zal er gebeuren met je losbandige broer?|Et que devient ton frère? Que devient Constant le débauché?|What about your brother? What about the profligate Ernest?
 |Voor het eind van de week zal ik me van hem hebben ontdaan.|Oh, d’ici la fin de la semaine j’en aurai fini avec lui.|Oh, before the end of the week I shall have got rid of him.
-|Ik zal zeggen dat hij is gestorven van een beroerte.|Je vais dire qu’il est mort à Paris, d’une apoplexie.|I'll say he died in Paris of apoplexy.
+|Ik zal zeggen dat hij is gestorven van een beroerte. |Je vais dire qu’il est mort à Paris, d’une apoplexie.|I'll say he died in Paris of apoplexy. 
 |Er sterven toch massa’s mensen plotseling aan een beroerte?|Des tas de gens meurent d’une apoplexie, comme ça, tout à coup, non?|Lots of people die of apoplexy, quite suddenly, don't they?
 |Ja, maar het is erfelijk, mijn beste kerel. Het is een van die dingen die in de familie zit.|Oui, mais c’est héréditaire, mon vieux. Que va penser Gwendolen?|Yes, but it's hereditary, my dear fellow. It's a sort of thing that runs in families.
 |Zeg dat het een zware verkoudheid was. Dat klinkt beter.|Tu ferais mieux de dire un terrible coup de froid.|You had much better say a severe chill.
@@ -569,11 +570,11 @@ nr|nederlands|frans|engels
 |Gelukkig maar. Ze bezit een reusachtige eetlust,|je suis heureux de le dire. Elle a un excellent appétit,|I am glad to say. She has got a capital appetite,
 |wandelt veel en let onder haar lessen nooit op.|fait de longues promenades et ne s’intéresse pas du tout à ses études.|goes long walks, and pays no attention at all to her lessons.
 |Ik zou die Cecily best eens willen zien.|J’aimerais bien voir Cecily.|I would rather like to see Cecily.
-|Ik zal er nauwgezet acht op slaan dat zoiets nooit gebeurt.|Je veillerai à ce que ça ne se produise pas.|I will take very good care you never do.
+|Ik zal er nauwgezet acht op slaan dat zoiets nooit gebeurt.|Je veillerai à ce que ça ne se produise pas. |I will take very good care you never do. 
 |Ze is toevallig erg mooi, en ze is pas achttien.|Elle est extrêmement jolie et a tout juste dixhuit ans.|She is excessively pretty, and she is only just eighteen.
 |Heb je Gwendolen al wel verteld dat je een erg mooie pupil hebt|As-tu dit à Gwendolen que tu avais une pupille extrêmement jolie|Have you told Gwendolen yet that you have an excessively pretty ward
 |die pas achttien is?|qui a tout juste dix-huit ans?|who is only just eighteen?
-|Een mens flapt er toch niet meteen alles uit.|On n’envoie pas ça comme ça à la figure des gens.|Oh! one doesn't blurt these things out to people.
+|Een mens flapt er toch niet meteen alles uit. |On n’envoie pas ça comme ça à la figure des gens. |Oh! one doesn't blurt these things out to people. 
 |Cecily en Gwendolen zullen zeker geweldig goede vriendinnen worden.|Je suis parfaitement certain que Cecily et Gwendolen vont devenir de grandes amies.|Cecily and Gwendolen are perfectly certain to be extremely great friends.
 |Ik verwed er alles om dat ze mekaar nog zussen noemen|Je parierais n’importe quoi qu’au bout d’une demi-heure|I'll bet you anything you like that half an hour after they have met,
 |binnen een half uur dat ze mekaar ontmoet hebben.|elles vont s’appeler « ma chérie ».|they will be calling each other sister.
@@ -587,39 +588,39 @@ nr|nederlands|frans|engels
 |O nee! Ik heb een afkeer aan luisteren.|Je déteste écouter.|Oh no! I loathe listening.
 |Naar de club dan maar?|Eh bien, allons au Club?|Well, let us go to the Club?
 |O nee! Ik haat praten.|J’ai horreur de parler.|Oh, no! I hate talking.
-| T.B.D. //|Bon, nous pourrions faire un saut jusqu’à l’Empire à dix heures.|Well, we might trot round to the Empire at ten?
-| T.B.D. //|Oh non! Je ne supporte pas de regarder des femmes se tortiller, c’est stupide.|Oh, no! I can't bear looking at things. It is so silly.
+|Laat ons dan naar The Empire gaan rond 10. //|Bon, nous pourrions faire un saut jusqu’à l’Empire à dix heures.|Well, we might trot round to the Empire at ten?
+|Naar de dansende meisjes kijken, neen dankje. //|Oh non! Je ne supporte pas de regarder des femmes se tortiller, c’est stupide.|Oh, no! I can't bear looking at things. It is so silly.
 |Wat stel je dan voor?|Alors, qu’est-ce qu’on va faire?|Well, what shall we do?
 |Niets.|Rien!|Nothing!
-|Niets doen is verschrikkelijk zwaar werk.|C’est un dur travail que de ne rien faire.|It is awfully hard work doing nothing.
+|Niets doen is verschrikkelijk zwaar werk.|C’est un dur travail que de ne rien faire. |It is awfully hard work doing nothing.
 |Nu vind ik zwaar werk niet erg, als het maar geen bepaald doel heeft ...|Mais un dur travail ne me gêne pas du moment que ça n’engage à rien de précis.|However, I don't mind hard work where there is no definite object of any kind.
 |Miss Fairfax.|Miss Fairfax.|Miss Fairfax.
 |Oh god, Gwendolen!|Ma parole, c’est Gwendolen!|Gwendolen, upon my word!
-|Algy, draai je alsjeblieft even om.|Algy, retourne-toi s’il te plait.|Algy, kindly turn your back.
+|Algy, draai je alsjeblieft even om.|Algy, retourne-toi s’il te plait. |Algy, kindly turn your back. 
 |Ik heb Mr. Worthing iets zeer persoonlijk mede te delen.|J’ai quelque chose de confidentiel à dire à M. Worthing.|I have something very particular to say to Mr. Worthing.
 |Echt Gwendolen. Ik denk niet dat ik dit kan toestaan.|Vraiment, Gwendolen, je ne sais pas si je peux permettre ça.|Really, Gwendolen, I don't think I can allow this at all.
 |Algy, je neemt altijd een zeer strikte moraal aan in het leven.|Algy, tu as toujours fait preuve d’une attitude parfaitement immorale.|Algy, you always adopt a strictly immoral attitude towards life.
 |Je bent daar nog niet echt oud genoeg voor.|D’ailleurs tu es bien trop jeune pour jouer les chaperons.|You are not quite old enough to do that.
 |Mijn lieveling!|Ma chérie.|My own darling!
-|Ernst, misschien zullen we nooit trouwen.|Constant, nous ne nous marierons peut-être jamais.|Ernest, we may never be married.
-|Als ik de uitdrukking  op mama’s gezicht zie vrees ik het ergste.|Quand je vois la tête de maman…|From the expression on mamma's face I fear we never shall.
+|Ernst, misschien zullen we nooit trouwen.|Constant, nous ne nous marierons peut-être jamais. |Ernest, we may never be married.
+|Als ik de uitdrukking  op mama’s gezicht zie vrees ik het ergste.|Quand je vois la tête de maman… |From the expression on mamma's face I fear we never shall.
 |Er zijn maar weinig ouders meer die aandacht schenken aan wat hun kinderen zeggen.|Peu de parents de nos jours écoutent leurs enfants.|Few parents nowadays pay any regard to what their children say to them.
 |Het ouderwetse respect voor de jeugd is bijna uitgestorven.|L’ancien respect pour la jeunesse disparait rapidement.|The old- fashioned respect for the young is fast dying out.
 |Alle invloed die ik op mama had heb ik verloren toen ik drie was.|Même si j’ai eu de l’influence sur maman, je l’ai perdue à l’âge de trois ans.|Whatever influence I ever had over mamma, I lost at the age of three.
 |Maar al zullen wij nooit trouwen,|Pourtant, même si elle nous empêche de devenir mari et femme,|But although she may prevent us from becoming man and wife,
-|en zal ik misschien met een ander trouwen, en dikwijls trouwen,|même si je dois épouser quelqu’un d’autre, et peutêtre plusieurs fois,|and I may marry some one else, and marry often,
+|en zal ik misschien met een ander trouwen, en dikwijls trouwen,|même si je dois épouser quelqu’un d’autre, et peutêtre plusieurs fois,|and I may marry some one else, and marry often, 
 |niets kan verandering brengen in mijn eeuwige toewijding aan jou.|rien de tout ce qu’elle pourra faire ne m’empêchera de t’aimer pour l’éternité.|nothing that she can possibly do can alter my eternal devotion to you.
 |Mijn allerliefste Gwendolen!|Gwendolen, ma chérie!|Dear Gwendolen!
-|Het verhaal van je romantische afkomst, dat mama me heeft vergeld|Maman m’a raconté avec des commentaires déplaisants, l’histoire romanesque|The story of your romantic origin, as related to me by mamma,
-|met een keur van onplezierige commentaar, heeft mij diep geroerd.|de tes origines. J’en ai été émue jusqu’au plus profond de moi-même.|with unpleasing comments, has naturally stirred the deeper fibres of my nature.
-|Je voornaam oefent een onweerstaanbare aantrekkingskracht uit.|Ton nom, Constant, me fascine irrésistiblement.|Your Christian name has an irresistible fascination.
+|Het verhaal van je romantische afkomst, dat mama me heeft vergeld|Maman m’a raconté avec des commentaires déplaisants, l’histoire romanesque |The story of your romantic origin, as related to me by mamma,
+|met een keur van onplezierige commentaar, heeft mij diep geroerd. |de tes origines. J’en ai été émue jusqu’au plus profond de moi-même.|with unpleasing comments, has naturally stirred the deeper fibres of my nature.
+|Je voornaam oefent een onweerstaanbare aantrekkingskracht uit.|Ton nom, Constant, me fascine irrésistiblement. |Your Christian name has an irresistible fascination.
 |De eenvoud van je karakter maakt je tot een verrukkelijk raadsel.|La simplicité de ton caractère te rend délicieu&shy;sement incom&shy;préhensible à mes yeux.|The simplicity of your character makes you exquisitely incomprehensible to me.
 |Jouw adres in de Albany heb ik al.|J’ai ton adresse à Albany|Your town address at the Albany I have.
 |Wat is je adres buiten de stad?|quelle est ton adresse à la campagne?|What is your address in the country?
 |Manor House, Woolton, Hertfordshire.|Le Manoir, Woolton, Hertfordshire.|The Manor House, Woolton, Hertfordshire.
-|Er is een goede postdienst, neem ik aan?|La Poste fonctionne bien, j’espère|There is a good postal service, I suppose?
-|Het kan onvermijdelijk zijn dat ik iets wanhopigs doe.|Nous devrons peut-être faire quelque chose de désespéré.|It may be necessary to do something desperate.
-|Alleen na ernstig en rijp beraad, natuurlijk.|Il faut y penser.|That of course will require serious consideration.
+|Er is een goede postdienst, neem ik aan?|La Poste fonctionne bien, j’espère|There is a good postal service, I suppose? 
+|Het kan onvermijdelijk zijn dat ik iets wanhopigs doe.|Nous devrons peut-être faire quelque chose de désespéré.|It may be necessary to do something desperate. 
+|Alleen na ernstig en rijp beraad, natuurlijk.|Il faut y penser.|That of course will require serious consideration. 
 |Ik zal dagelijks met je communiceren.|Je t’écrirai tous les jours.|I will communicate with you daily.
 |Mijn liefste!|Ma chérie à moi!|My own one!
 |Hoelang blijf je nog in de stad?|Tu restes en ville?|How long do you remain in town?
@@ -635,23 +636,445 @@ nr|nederlands|frans|engels
 |Zeker, meneer.|Oui, monsieur.|Yes, sir.
 |Morgen, Lane, ga ik bunburiën.|Demain, Lane, je vais Bunburiser.|Tomorrow, Lane, I'm going Bunburying.
 |Zeker, meneer.|Oui, monsieur.|Yes, sir.
-|Waarschijnlijk ben ik niet voor maandag terug.|Je ne reviendrai probablement pas avant lundi.|I shall probably not be back till Monday.
+|Waarschijnlijk ben ik niet voor maandag terug.|Je ne reviendrai probablement pas avant lundi. |I shall probably not be back till Monday.
 |Je kunt mijn avondkleding inpakken, mijn smoking, en al de Bunburry-kostuums.|Vous pouvez préparer mon smoking et tout ce qu’il faut pour Bunburiser.|You can put up my dress clothes, my smoking jacket, and all the Bunbury suits...
 |Zeker, meneer.|Oui, monsieur.|Yes, sir.
 |Ik hoop dat het morgen mooi weer is, Lane.|J’espère que nous aurons une belle journée demain, Lane.|I hope tomorrow will be a fine day, Lane.
 |Dat is het nooit, meneer.|Ça n’arrive jamais, monsieur.|It never is, sir.
 |Lane, je bent een verstokte pessimist.|Vous être un parfait pessimiste.|Lane, you're a perfect pessimist.
 |Ik doe mijn best u tevreden te stellen, meneer.|Je fais de mon mieux pour donner satisfaction, monsieur.|I do my best to give satisfaction, sir.
-|Dat is pas een verstandig meisje!|Quelle jeune fille raisonnable, et intelligente!|There's a sensible, intellectual girl!
+|Dat is pas een verstandig meisje!|Quelle jeune fille raisonnable, et intelligente! |There's a sensible, intellectual girl!
 |Het enige meisje om wie ik ooit heb gegeven.|La seule qui m’ait intéressé de toute ma vie.|the only girl I ever cared for in my life.
 |Waar heb jij zo’n plezier om?|Qu’est qui te fait rire comme ça?|What on earth are you so amused at?
 |O, ik maak me ongerust over de arme Bunbury, meer niet.|Oh, je suis un peu inquiet pour ce pauvre Bunbury.|Oh, I'm a little anxious about poor Bunbury, that in all.
-|Als je niet oppast brengt die Bunbury van jou|Fais attention, ton ami Bunbury pourrait bien t’attirer|If you don't take care, your friend Bunbury will get you
+|Als je niet oppast brengt die Bunbury van jou |Fais attention, ton ami Bunbury pourrait bien t’attirer |If you don't take care, your friend Bunbury will get you 
 |je nog eens in een netelige parket.|de sérieux ennuis un de ces jours.|into a serious scrape some day.
-|Ik hou van netelige parketten.|J’adore les ennuis.|I love scrapes.
+|Ik hou van netelige parketten.|J’adore les ennuis.|I love scrapes. 
 |Die zijn tenminste nooit serieus.|Ce sont les seules choses qui ne m’ennuient pas.|They are the only things that are never serious.
 |Dat is onzin, Algy. Je praat echt alleen maar onzin.|Encore une absurdité, Algy. Tu ne sais dire que ça.|Oh, that's nonsense, Algy. You never talk anything but nonsense.
 |Wie niet?|C’est absurde!|Nobody ever does.
+|||
+|AKT|AKT|AKT
+|||
+|Cecily, Cecily! Zo’n utilitaire bezigheid | Cecily, Cecily ! Une occupation aussi terre-à-terre que l’arrosage des fleurs |Cecily, Cecily!  Surely such a utilitarian occupation 
+|als het begieten van bloemen is eerder het werk van de tuinman dan het jouwe.|est plutôt la fonction de Moulton que la vôtre, non?|as the watering of flowers is rather Moulton’s duty than yours?
+|Vooral nu zoveel intellectuele genoegens op je wachten.| Surtout au moment où le plaisir intellectuel vous attend. |Especially at a moment when intellectual pleasures await you.  
+|Je Duitse grammatica ligt op tafel.|Votre grammaire allemande est sur la table.|Your German grammar is on the table.
+|Wees zo goed en sla bladzijde vijftien op. | S’il vous plait, ouvrez-la page quinze. |Pray open it at page fifteen.  
+|We zullen de les van gisteren herhalen. |Nous allons reprendre la leçon d’hier.|We will repeat yesterday’s lesson.  
+|Maar ik hou niet van Duits.| Mais je n’aime pas l’allemand. |But I don’t like German.  
+|Die taal staat me niet. |C’est une langue qui ne me va pas|It isn’t at all a becoming language. 
+|Ik heb altijd het gevoel dat ik er na mijn Duitse les heel lelijk uitzie. | et je sais bien qu’après la leçon je serai tout à fait laide. |I know perfectly well that I look quite plain after my German lesson.  
+|Kind, je weet hoeveel je voogd eraan gelegen is dat je je op allerlei terreinen ontwikkelt.| Mon enfant, vous savez à quel point votre tuteur est désireux de vous voir progresser.|Child, you know how anxious your guardian is that you should improve yourself in every way.
+|Hij heeft, toen hij gisteren naar de stad ging speciaal de nadruk gelegd op je Duits. |Il a mis spécialement l’accent sur l’allemand en partant hier pour la ville.|He laid particular stress on your German, as he was leaving for town yesterday.
+|Als hij naar de stad gaat, legt hij altijd de nadruk op je Duits. | A vrai dire, il insiste toujours sur l’allemand quand il va en ville. |Indeed, he always lays stress on your German when he is leaving for town.  
+|Die beste oom Jack is zo ernstig!| Ce cher oncle Jack est tellement sérieux !|Dear Uncle Jack is so very serious!
+|Soms is hij zo ernstig dat ik bang ben dat hij zich niet goed voelt. | Parfois il est si sérieux que je me demande s’il n’est pas malade.|Sometimes he is so serious that I think he cannot be quite well.  
+|Je voogd geniet een uitstekende gezondheid,|Votre tuteur jouit d’une excellente santé|Your guardian enjoys the best of health,
+|en zo’n waardig gedrag valt juist te prijzen in iemand die nog zo jong is.| et la gravité de son maintien est très louable pour quelqu'un d'aussi jeune,|and his gravity of demeanour is especially to be commended in one so comparatively young as he is.
+|Ik ken niemand met een groter besef van plicht en verantwoordelijkheid. | je ne connais personne qui ait un tel sens du devoir et de la responsabilité. |I know no one who has a higher sense of duty and responsibility.  
+|Daarom ziet hij er zeker vaak zo verveeld uit, als wij met ons drieën zijn.| C’est peut-être pour ça qu’il semble s’ennuyer quand nous sommes tous les trois. |I suppose that is why he often looks a little bored when we three are together.  
+|Cecily! Je verbaast me.| Cecily ! Vous me surprenez.|Cecily!  I am surprised at you.
+| Mr. Worthing heeft een leven vol zorgen.| M. Worthing a bien des problèmes.|Mr. Worthing has many troubles in his life.  
+|Ijdele scherts en oppervlakkigheid zouden in zijn conversatie niet passen.|Une gaité immodérée est hors de question pour lui.|Idle merriment and triviality would be out of place in his conversation.
+|Denk maar eens aan zijn voortdurende ongerustheid| Et rappelez-vous ses perpétuelles inquiétudes |You must remember his constant anxiety 
+|over die betreurenswaardige jongeman, die broer van hem. |au sujet de son malheureux frère cadet. |about that unfortunate young man his brother.  
+|Liet oom Jack die betreurenswaardige jongeman, die broer van hem| J’aimerais bien qu’oncle Jack permette à ce terrible frère|I wish Uncle Jack would allow that unfortunate young man, his brother,
+|maar eens hier komen.| de venir ici quelquefois. |to come down here sometimes.  
+|Misschien konden we dan een goeie invloed op hem uitoefenen, Miss Prism.| Nous pourrions avoir une bonne influence sur lui, Miss Prism.|We might have a good influence over him, Miss Prism, 
+|U zou dat zeker kunnen.| Je suis sûre que vous en aurez une!|I am sure you certainly would.  
+|U kent Duits, en geologie,| Vous qui connaissez l’allemand, et la géologie, |You know German, and geology, 
+|en die dingen hebben heel veel invloed op een man. |et des choses de ce genre qui impressionnent beaucoup un homme.|and things of that kind influence a man very much.  
+|Ik denk niet dat zelfs ik iets zou kunnen verbeteren aan een karakter| Je ne crois pas que je puisse produire le moindre effet |I do not think that even I could produce any effect on a character 
+|dat volgens zijn eigen broer|sur un personnage qui, de l’avis de son propre frère,|that according to his own brother’s admission
+|zo onherstelbaar zwak en wankelmoedig is.|est irrémédiablement faible et irrésolu. |is irretrievably weak and vacillating.  
+|Ik weet niet eens of ik het wel zou willen.|A vrai dire, je ne suis même pas sûre d’avoir envie de l’amender.|Indeed I am not sure that I would desire to reclaim him.
+|Ik ben geen voorstander van die moderne rage om van slechte mensen|Je n’aime pas du tout cette manie actuelle|I am not in favour of this modern mania for turning bad people 
+|in een handomdraai goeie te maken.| de vouloir transformer les méchants en bons.|into good people at a moment’s notice. 
+|Laat een man oogsten zoals hij gezaaid heeft.|Comme on sème, on récolte. |As a man sows so let him reap.  
+|Doe alsjeblieft het dagboek weg Cecily. |Posez donc cet agenda, Cecily. |You must put away your diary, 
+|Ik begrijp niet waarom je een dagboek moet bijhouden. |Je ne vois d’ailleurs pas pourquoi il vous faut un agenda. |I really don’t see why you should keep a diary at all.
+|Ik houd een dagboek bij om er de wonderbaarlijke geheimen van mijn leven in op te tekenen.| Je tiens un agenda pour y noter tous mes petits secrets.|I keep a diary in order to enter the wonderful secrets of my life.
+|Als ik ze niet opschreef zou ik ze waarschijnlijk compleet vergeten. | Si je ne les écris pas, je vais tout oublier. |If I didn’t write them down, I should probably forget all about them.  
+|Ons geheugen, lieve Cecily,| La mémoire, ma chère Cecily, |Memory, my dear Cecily, 
+|is het dagboek dat wij allen bij ons dragen. |est l’agenda que nous avons toujours sur nous. |is the diary that we all carry about with us.  
+|Ja, maar dat noteert doorgaans alleen de dingen die nooit gebeurd zijn,| Oui, mais en général elle retrace des choses qui ne sont jamais arrivées |Yes, but it usually chronicles the things that have never happened, 
+|en nooit hadden kunnen gebeuren.|et n’aurait pas même pu arriver.|and couldn’t possibly have happened.
+|Ik geloof dat het Geheugen verantwoordelijk is voor al die dikke romans, die Mudie ons stuurt.| Je crois que la mémoire est responsable de presque tous ces incroyables romans en trois tomes. |I believe that Memory is responsible for nearly all the three-volume novels that Mudie sends us.  
+|Spreek niet lichtvaardig over die dikke romans, Cecily.| Ne parlez pas si méchamment des romans en trois tomes, Cecily,|Do not speak slightingly of the three-volume novel, 
+|In vroeger dagen heb ik er zelf een geschreven. | j’en ai écrit un moi-même dans ma jeunesse. |I wrote one myself in earlier days.  
+|Heus, Miss Prism? Wat bent u toch knap!| Vraiment, Miss Prism ? Comme vous êtes intelligente.|Did you really, Miss Prism?  How wonderfully clever you are!
+|Toch niet iets met een gelukkig einde, hoop ik?| J’espère qu’il ne finissait pas bien ? |I hope it did not end happily?  
+|Ik houd niet van romans die gelukkig aflopen. |Je n’aime pas les romans qui finissent bien.|I don’t like novels that end happily. 
+|Daar word ik zo neerslachtig van. | Ils me dépriment tellement. |They depress me so much.  
+|Met de goeden liep het gelukkig af, en met de kwaden slecht.| Eh bien, les bons sont récompensés et les méchants sont punis. |The good ended happily, and the bad unhappily.  
+|Dat is wat fictie betekent. |C’est de la fiction, voyez-vous. |That is what Fiction means.  
+|Dat zal wel. Het klinkt zo oneerlijk.| Sans doute. Mais ça me semble injuste. |I suppose so.  But it seems very unfair.  
+|Is uw roman ooit uitgegeven? |Et votre roman a-t-il été publié ? |And was your novel ever published?  
+|Helaas! Nee.| Hélas non. |Alas! no.  
+|Het manuscript is ongelukkigerwijze achtergelaten.|Malheureusement le manuscrit a été abandonné. |The manuscript unfortunately was abandoned. 
+| ||
+|Ik gebruik het woord in de zin van verloren of fout gelegd. |Je veux dire perdu, égaré.|I use the word in the sense of lost or mislaid.  
+|Maar dit zijn voor je werk nutteloze overpeinzingen, kind. | Mais cette conversation ne fait pas avancer votre travail. |To your work, child, these speculations are profitless.  
+|Maar ik zie dominee Chasuble in de tuin aankomen. | Mais je vois ce cher Dr Chasuble qui arrive. |But I see dear Dr. Chasuble coming up through the garden.  
+|Dr. Chasuble! Dat is inderdaad een waar genoegen. |Dr Chasuble ! C’est un vrai plaisir.  |Dr. Chasuble!  This is indeed a pleasure. 
+|Hoe gaat het met ons vanmorgen?| Et comment allons-nous ce matin ? |And how are we this morning?  
+|Miss Prism, met u gaat het, hoop ik, goed? |Miss Prism, vous allez bien, j’en suis sûr. |Miss Prism, you are, I trust, well?  
+|Miss Prism klaagde zojuist over lichte hoofdpijn. | Miss Prism se plaignait à l’instant d’un léger mal de tête.|Miss Prism has just been complaining of a slight headache.
+|Ik geloof dat het haar goed zou doen als u een wandelingetje met haar in het park zou maken, Dr. Chasuble. | Je crois qu’une petite promenade avec vous dans le parc lui ferait beaucoup de bien, Docteur Chasuble. |I think it would do her so much good to have a short stroll with you in the Park, Dr. Chasuble.  
+|Cecily, ik heb met geen woord over hoofdpijn gerept. | Cecily, je n’ai jamais parlé de mal de tête. |Cecily, I have not mentioned anything about a headache.  
+|Nee, Miss Prism, maar ik voelde instinctief aan dat u hoofdpijn had.| Je sais, chère Miss Prism, mais mon instinct m’a dit que vous aviez un mal de tête. |No, dear Miss Prism, I know that, but I felt instinctively that you had a headache.
+|Daaraan dacht ik,|A vrai dire, c’est à ça que je pensais |Indeed I was thinking about that, 
+|en niet aan mijn Duitse les, toen de dominee er aan kwam. |et pas à ma leçon d’allemand quand M. le recteur est arrivé.|and not about my German lesson, when the Rector came in.  
+|Je let toch wel op, hoop ik, Cecily? | J’espère que vous n’êtes pas une élève étourdie, Cecily. |I hope, Cecily, you are not inattentive.  
+|O, ik vrees van niet.| Oh, je le crains. |Oh, I am afraid I am.  
+|Dat is vreemd.| C’est étrange. |That is strange.  
+|Als ik het geluk had de leerling van Miss Prism te zijn,|Si j’avais le bonheur d’être l’élève de Miss Prism, |Were I fortunate enough to be Miss Prism’s pupil, 
+|dan zou ik aan haar lippen hangen.|je serais suspendu à ses lèvres.|I would hang upon her lips. 
+|Ik bedoelde het slechts metaforisch.|C’est une métaphore...|I spoke metaphorically.
+|Een metafoor ontleent aan de bijenwereld. Ahum! |inspirée des abeilles. Hum!|My metaphor was drawn from bees.  Ahem!
+|Mr. Worthing is zeker nog niet uit de stad teruggekeerd? |Au fait, M. Worthing n’est pas encore revenu de la ville, je suppose. |Mr. Worthing, I suppose, has not returned from town yet?  
+|Wij verwachten hem niet voor maandagmiddag. | Nous ne l’attendons pas avant lundi après-midi.|We do not expect him till Monday afternoon.  
+|Ja, hij brengt zijn zondagen altijd graag in Londen door.| Eh oui, il aime bien passer le dimanche à Londres.|Ah yes, he usually likes to spend his Sunday in London. 
+|Hij behoort nu eenmaal niet tot de mensen wiens enige doel in het leven vermaak is, zoals volgens de geruchten| Il n’est pas de ceux dont le seul but est le divertissement|He is not one of those whose sole aim is enjoyment, as, by all accounts, 
+|die betreurenswaardige jongeman, die broer van hem.| comme son dissipé jeune frère.|that unfortunate young man his brother seems to be.  
+|Maar ik mag Egeria en haar pupil niet langer storen.  | Mais je ne veux pas déranger plus longtemps Egérie et son élève. |But I must not disturb Egeria and her pupil any longer.  
+|Egeria? Mijn naam is Laetitia, doctor. | Egérie ? Mon prénom est Laetitia, docteur. |Egeria?  My name is Lætitia, Doctor.  
+|Slechts een Klassieke verwijzing, komende van de Heidense auteurs.|Une simple allusion classique tirée des auteurs païens.|A classical allusion merely, drawn from the Pagan authors.  
+|Ik zie u beiden ongetwijfeld bij de avonddienst? |Je vous verrai toutes deux aux vêpres, sans doute ?|I shall see you both no doubt at Evensong?
+|Ik denk dat ik toch mee wil wandelen.| Je pense, mon cher docteur, que je vais faire une petite promenade avec vous. |I think, dear Doctor, I will have a stroll with you. 
+|Ik merk ineens, dominee, dat ik toch hoofdpijn heb,|Finalement il se trouve que j’ai mal à la tête |I find I have a headache after all,
+|en dan kan een wandelingetje geen kwaad. |et une promenade pourrait me faire du bien.|and a walk might do it good.  
+|Met genoegen, Miss Prism, met genoegen.| Avec plaisir, Miss Prism, avec plaisir.|With pleasure, Miss Prism, with pleasure.
+|We zouden tot de school kunnen lopen, en terug.| Nous pourrions aller jusqu’à l’école et revenir. |We might go as far as the schools and back.  
+|Dat klinkt heerlijk.| Ce serait délicieux.|That would be delightful. 
+|Cecily, in mijn afwezigheid doe jij je politieke economie.|Cecily, vous lirez votre Economie Politique en mon absence. |Cecily, you will read your Political Economy in my absence.
+|Het hoofdstuk over de Val van de Roepie kun je overslaan. Dat is iets te sensationeel.|Vous pouvez passer le chapitre sur la chute de la roupie qui est trop scandaleux. | The chapter on the Fall of the Rupee you may omit. It is somewhat too sensational.  
+|Zelf deze metalische problemen hebben hun melodramatische kant.|Même ces questions monétaires ont un côté choquant. |Even these metallic problems have their melodramatic side.
+|Verschrikkelijke politieke economie!|Horrible Economie Politique ! |Horrid Political Economy!  
+|Verschrikkelijke aarderijkskunde! |Horrible géographie ! |Horrid Geography!  
+|Verschrikkelijk, verschrikkelijk Duits! |Horrible, horrible allemand ! |Horrid, horrid German!  
+|Mr. Ernst Worthing is zojuist van het station aangekomen.|M. Constant Worthing vient d’arriver de la gare.|Mr. Ernest Worthing has just driven over from the station.  
+|Hij heeft zijn bagage meegebracht. |Il a apporté ses bagages.|He has brought his luggage with him.  
+|“Mr. Ernst Worthing, Albany-club, London W.”|'M. Constant Worthing, B.4, The Albany, W'. |‘Mr. Ernest Worthing, B. 4, The Albany, W.’ 
+|De broer van oom Jack!|Le frère de l’oncle Jack ! |Uncle Jack’s brother!  
+|Heb je hem verteld dat Mr. Worthing in Londen is? |Lui avez-vous dit que M. Worthing était à Londres ? |Did you tell him Mr. Worthing was in town?  
+|Ja, mejuffrouw. Hij leek buitengewoon teleurgesteld.| Oui, mademoiselle. Il avait l’air très désappointé.|Yes, Miss.  He seemed very much disappointed. 
+|Ik heb hem verteld dat jij en Miss Prism in de tuin waren.|Je lui ai signalé que vous étiez dans le jardin avec Miss Prism|I mentioned that you and Miss Prism were in the garden.
+|Hij zei dat hij u dolgraag onder vier ogen zou willen spreken. |et il a dit qu’il était très désireux de vous parler un moment en privé. |He said he was anxious to speak to you privately for a moment.  
+|Vraag Mr. Ernst Worthing hier te komen.| Dites à M. Worthing de venir ici.|Ask Mr. Ernest Worthing to come here. 
+|Laat de huismeester een kamer voor hem in orde maken.|Je suppose que vous feriez bien de demander à la gouvernante de lui préparer une chambre. |I suppose you had better talk to the housekeeper about a room for him.  
+|Zeker, mejuffrouw.| Oui, mademoiselle.|Yes, Miss.
+|Ik heb nog nooit een echt slecht mens ontmoet. Ik ben een beetje bang.| Je n’ai encore jamais rencontré de personne vraiment dépravée. J’ai un peu peur.|I have never met any really wicked person before.  I feel rather frightened.
+|Ik ben bang dat hij er net uit zal zien als iedereen.|J’ai un peu peur qu’il soit juste comme tout le monde.|I am so afraid he will look just like every one else.
+|En ja hoor! |Il l'est.|He does!  
+|U bent vast mijn kleine nichtje Cecily. |Vous êtes ma petite cousine Cecily, j’en suis sûr ! |You are my little cousin Cecily, I’m sure.  
+|Er heeft een vreemd misverstand bij u postgevat. Ik ben niet klein.| Vous faites une étrange erreur. Je ne suis pas petite.|You are under some strange mistake.  I am not little. 
+|Ik ben zelfs nogal groot voor mijn leeftijd.|En fait je crois que je suis plutôt grande pour mon âge.|In fact, I believe I am more than usually tall for my age. 
+|Maar ik ben uw nichtje Cecily.|Mais je suis bien votre cousine Cecily.|But I am your cousin. 
+|En u, zie ik van uw kaartje, bent de broer van oom Jack, mijn neef Ernst,|Vous, je vois ça sur votre carte, vous êtes le frère de mon Oncle Jack,|You, I see from your card, are Uncle Jack’s brother, my cousin Ernest,
+|mijn slechte neef Ernst. |mon méchant cousin Constant. |my wicked cousin Ernest.  
+|O! Ik ben helemaal niet zo slecht, nicht Cecily.| Oh ! Je ne suis pas du tout méchant, cousine Cecily. |Oh! I am not really wicked at all, cousin Cecily!
+|Je moet niet denken dat ik slecht ben. |Vous ne devez pas penser que je suis méchant. |You mustn’t think that I am wicked.  
+|Als u niet slecht bent, dan hebt u ons allemaal op een onvergeeflijke manier misleid.| Si vous ne l’êtes pas vous nous avez tous trompés d’une façon inexcusable.|If you are not, then you have certainly been deceiving us all in a very inexcusable manner.
+|Ik hoop dat u niet stiekem een dubbelleven hebt geleid,|J’espère que vous ne menez pas une double vie,|I hope you have not been leading a double life,
+|door net te doen of u slecht bent en intussen gewoon goed te zijn. |à faire semblant d’être méchant tout en étant parfaitement normal. |pretending to be wicked and being really good all the time.
+|Dat is hypocriet.|Ce serait de l’hypocrisie, vous savez.|That would be hypocrisy.  
+|Och natuurlijk was ik nogal roekeloos. |Oh, naturellement je suis plutôt dépravé. |Oh!  Of course I have been rather reckless.  
+|Ik ben blij het te horen. | Je suis heureuse de vous l’entendre dire. |I am glad to hear it.  
+|Ja, nu je erover begint. Ik was op mijn eigen bescheiden manier zelfs bijzonder slecht. | Puisque vous en parlez, en fait j’ai été très méchant, à ma façon. |In fact, now you mention the subject, I have been very bad in my own small way.  
+|Trots hoeft u daar nu ook weer niet op te zijn,| Vous ne devriez pas en être si fier, |I don’t think you should be so proud of that,
+|hoe aangenaam het ook geweest mag zijn. |pourtant je suis sûre que c’était très amusant. |though I am sure it must have been very pleasant.  
+|Het is veel aangenamer hier bij u te zijn. | C’est beaucoup plus amusant d’être ici près de vous. |It is much pleasanter being here with you.  
+|Ik begrijp niet waarom je hier bent.| Je ne comprends pas du tout pourquoi vous êtes venu. |I can’t understand how you are here at all.  
+|Oom Jack is niet voor maandagmiddag terug. |Oncle Jack ne sera pas de retour avant lundi après-midi. |Uncle Jack won’t be back till Monday afternoon.  
+|Dat is een grote teleurstelling.| C’est un grand désappointement, |That is a great disappointment.  
+|Ik moet maandagmorgen per se met de eerste trein weer weg.|je suis obligé de partir lundi matin par le premier train. |I am obliged to go up by the first train on Monday morning.  
+|Ik heb een zakenafspraak die ik ten zeerste wil ... |J’ai un rendez-vous d’affaires que je dois absolument… |I have a business appointment that I am anxious...
+|missen. |manquer. |to miss?  
+|Kan je die nergens anders missen dan in Londen? |Ne pourriez-vous pas le manquer ailleurs qu’à Londres ? |Couldn’t you miss it anywhere but in London?  
+|Nee de afspraak is in Londen.  | Non, le rendez-vous est à Londres. |No: the appointment is in London.  
+|Natuurlijk weet ik hoe belangrijk het is om een zakenafspraak niet te halen,| Eh bien, naturellement, je sais comme c’est important de rater un rendez-vous d’affaires |Well, I know, of course, how important it is not to keep a business engagement, 
+|als iemand iets van de schoonheid van het leven wil behouden.|si on veut préserver le vrai sens de la vie. |if one wants to retain any sense of the beauty of life, 
+|Maar ik denk dat u toch beter de komst van oom Jack kunt afwachten.|Mais je crois tout de même que vous feriez mieux d’attendre qu’Oncle Jack revienne. |but still I think you had better wait till Uncle Jack arrives.
+|Hij wil het met u hebben over uw emigratie. |Je sais qu’il veut vous parler au sujet de votre exil. |I know he wants to speak to you about your emigrating.  
+|Over mijn wat? | De mon quoi ? |About my what?  
+|Uw emigratie. Hij is naar de stad om uw uitrusting aan te schaffen. | Votre expatriation. Il est allé acheter votre équipement. |Your emigrating.  He has gone up to buy your outfit.  
+|Ik laat onder geen beding mijn uitrusting door Jack aanschaffen.| Ah non ! Je ne laisserais certainement pas Jack acheter mon équipement. |I certainly wouldn’t let Jack buy my outfit.  
+|Hij heeft volstrekt geen smaak wat dassen betreft.|Il n’a aucun goût pour choisir une cravate. |He has no taste in neckties at all.  
+|Ik denk niet dat u dassen nodig zal hebben.| Je ne pense pas que vous aurez besoin d’une cravate. |I don’t think you will require neckties.  
+|U gaat naar Australië. |Oncle Jack vous envoie en Australie.|Uncle Jack is sending you to Australia.  
+|Australië! Dan ben ik nog liever dood. | En Australie ? Plutôt mourir. |Australia!  I’d sooner die.  
+|Wel, hij zei inderdaad tijdens het eten woensdagavond| Eh bien, il a dit mercredi soir au dîner que vous deviez choisir |Well, he said at dinner on Wednesday night, 
+|dat u zou moeten kiezen tussen deze wereld, de andere wereld, en Australië. |entre ce monde, l’autre monde et l’Australie. |that you would have to choose between this world, the next world, and Australia.  
+|De berichten die ik over Australië en de andere wereld hoor| Les nouvelles que j’ai reçues de l’Australie et de l’autre monde, |Oh, well!  The accounts I have received of Australia and the next world, 
+|zijn niet bijster bemoedigend.|ne sont pas particulièrement encourageantes. |are not particularly encouraging.  
+|Deze wereld is goed genoeg voor mij, nicht Cecily. |Ce monde est assez bon pour moi, cousine Cecily. |This world is good enough for me, cousin Cecily.  
+|Maar bent u goed genoeg voor deze wereld? | Oui, mais êtes-vous assez bon pour lui ? |Yes, but are you good enough for it?  
+|Ik vrees van niet.| Je crains bien que non. |I’m afraid I’m not that.  
+|Daarom zou u me moeten hervormen.| Il faut que vous m’aidiez à changer. |That is why I want you to reform me. 
+|U mag daar uw roeping van maken,|Ça pourrait être votre mission dans la vie, |You might make that your mission, 
+|als je het niet erg vindt, nicht Cecily. |si ça ne vous ennuie pas, cousine Cecily. |if you don’t mind, cousin Cecily.  
+|Ik heb vanmiddag geen tijd om u te hervormen. | J’ai peur de ne pas avoir le temps, cette après-midi. |I’m afraid I’ve no time, this afternoon.  
+|Heeft u er dan iets tegen als ik me vanmiddag zelf verbeter?| Alors, ça ne vous ennuierait pas que je me corrige moi-même ? |Well, would you mind my reforming myself this afternoon?  
+|Dat klinkt bijna als Don Quichot. Maar ik denk dat je het beter een keer probeert. | C’est plutôt illusoire, mais je crois que vous pourriez essayer. |It is rather Quixotic of you.  But I think you should try.  
+|Ik ben al bezig.| Je vais essayer. |I will.  
+|||
+|Ik voel me al een stuk beter. |Je me sens déjà mieux. |I feel better already.  
+|U ziet er juist wat slechter uit. | Ça n’en a pas l’air. |You are looking a little worse.  
+|Dat komt omdat ik honger heb. | C’est parce que j’ai faim. |That is because I am hungry.  
+|Hoe onattent van me.| Que je suis étourdie. |How thoughtless of me.  
+|Iemand die van plan is een nieuw leven te leiden|J’aurais dû me souvenir que quand quelqu’un se met à mener une vie tout à fait nouvelle, |I should have remembered that when one is going to lead an entirely new life, 
+|moet regelmatig en gezond eten.|il a besoin de repas copieux et réguliers. |one requires regular and wholesome meals.  
+|Kom je niet binnen? |Voulez-vous entrer ? |Won’t you come in?  
+|Dankuwel. Mag ik eerst een boutonnière hebben?| Merci. Pourrais-je d’abord avoir une fleur pour ma boutonnière ? |Thank you.  Might I have a buttonhole first?  
+|Ik heb nooit enige eetlust voor ik een boutonnière heb. |Je n'ai jamais d'appétit sans boutonnière.|I never have any appetite unless I have a buttonhole first.  
+|Een Marechal Niel? | Une Maréchale Niel?|A Marechal Niel?
+|Nee, ik heb liever een roze roos. | Non, je préfèrerais une rose rose. |No, I’d sooner have a pink rose.  
+|Waarom? | Pourquoi ? |Why?  
+|Omdat jij als een roze roos bent, nicht Cecily. | Parce que vous êtes une rose rose, cousine Cecily. |Because you are like a pink rose, Cousin Cecily.  
+|Ik denk dat het niet juist is dat je zo tegen me praat.| Je ne pense pas que ce soit convenable de me dire des choses comme ça. |I don’t think it can be right for you to talk to me like that.  
+|Miss Prism zegt nooit zo’n dingen tegen mij. |Miss Prism ne me dit jamais des choses pareilles. |Miss Prism never says such things to me.  
+|Dan is Miss Prism een kortzichtige oude vrouw.| Alors Miss Prism n’est qu’une vieille dame myope. |Then Miss Prism is a short-sighted old lady.  
+|Je bent het mooiste meisje dat ik al ooit gezien heb. |Vous êtes la plus jolie jeune fille que j’aie jamais vue. |You are the prettiest girl I ever saw.  
+|Miss Prism zegt dat een knap uiterlijk alleen maar een valstrik is. | Miss Prism dit que la beauté est un piège. |Miss Prism says that all good looks are a snare.  
+|Een valstrik waarin elke verstandige man zich graag wil laten vangen. | Il y a des pièges où tout homme raisonnable aimerait bien se faire attraper. |They are a snare that every sensible man would like to be caught in.  
+|Ik geloof niet dat ik een verstandige man zou willen vangen. | Oh, je n’ai pas envie d’attraper un homme raisonnable. |Oh, I don’t think I would care to catch a sensible man.  
+|Ik zou niet weten waar ik het met hem over moest hebben. |Je ne saurais pas quoi lui dire. |I shouldn’t know what to talk to him about. 
+|| |
+|U bent teveel alleen, mijn beste Chasuble. |Vous êtes trop solitaire, mon cher Révérend.|You are too much alone, dear Dr. Chasuble.
+|U zou moeten trouwen.|Vous devriez vous marier. |You should get married.  
+|Een misantroop kan ik me nog voorstellen – maar een vrouwantroop nee! |Un misanthrope je peux comprendre, un femmanthrope, jamais.|A misanthrope I can understand — a womanthrope, never!  
+|Zo’n neologisme verdien ik niet. |Vous le savez, je ne merite pas une phrase si neologistic.|Believe me, I do not deserve so neologistic a phrase.  
+|Zowel de leer als de praktijk van de Primitieve Kerk |les préceptes comme la pratique de l’Eglise Primitive|The precept as well as the practice of the Primitive Church 
+|was uitgesproken anti-huwelijk. |condamnaient le mariage.|was distinctly against matrimony.  
+|Vandaar dat de Primitieve Kerk |C’est justement pour ça que l’Eglise primitive|That is obviously the reason why the Primitive Church 
+|het niet tot de dag van vandaag heeft kunnen bolwerken. |n’a pas duré.|has not lasted up to the present day.  
+|U schijnt niet te beseffen, beste dominee, |Vous ne vous rendez pas compte|And you do not seem to realise, dear Doctor, 
+|dat een man door hardnekkig vrijgezel te blijven |qu’en restant durablement célibataire|that by persistently remaining single, 
+|zichzelf tot een onophoudelijke openbare verleiding maakt. |un homme devient une tentation permanente.|a man converts himself into a permanent public temptation.  
+|Mannen zouden zorgvuldiger moeten zijn. ||Men should be more careful; 
+|Het celibaat brengt zwakkere vaten maar op ’t verkeerde pad. | |this very celibacy leads weaker vessels astray.  
+|Maar blijft een man dan niet even aantrekkelijk wanneer hij getrouwd is? |Mais un homme ne peut-il être aussi attirant quand il est marié ? |But is a man not equally attractive when married?  
+|Geen getrouwde man is ooit aantrekkelijk, behalve voor zijn vrouw. |Aucun homme marié n’est attirant sauf pour sa femme. |No married man is ever attractive except to his wife.  
+|En zelfs voor haar vaak niet, naar ik hoor. |Et souvent, m’a-t-on dit, pas même pour elle. |And often, I’ve been told, not even to her.
+|Dat hangt af van de intellectuele verwachtingen van de vrouw. |Ça dépend de la femme.|That depends on the intellectual sympathies of the woman.  
+|Op volgroeidheid kan men rekenen. |On peut avoir confiance dans la maturité|Maturity can always be depended on.  
+|Op rijpheid kan men bouwen. ||Ripeness can be trusted.  
+|Jonge vrouwen zijn te groen. |mais les jeunes femmes sont trop vertes.|Young women are green.  
+|Ik bedoel dat tuinbouwkundig. |C’est une métaphore horticole.|I spoke horticulturally.  
+|Een zinnebeeld ontleent aan fruit. |Inspiré par les fruits.|My metaphor was drawn from fruits.  
+|Maar waar is Cecily? |Mais où donc est Cecily? |But where is Cecily?  
+|Misschien is ze ons gevolgd naar de school? |Peut-être nous a-t-elle suivis dans le parc ? |Perhaps she followed us to the schools. 
+|Mr. Worthing! |M. Worthing !|Mr. Worthing!  
+|Mr. Worthing? |M. Worthing ? |Mr. Worthing?  
+|Dit is een verrassing. |Quelle surprise,|This is indeed a surprise.  
+|We hadden u niet voor maandag terug verwacht. |nous ne pensions pas vous voir avant lundi après-midi.|We did not look for you till Monday afternoon.  
+|Ik ben eerder weergekeerd dan ik had voorzien. |Je suis revenu plus tôt que prévu.|I have returned sooner than I expected.  
+|Dr. Chasuble, met u gaat alles goed, hoop ik? |Dr Chasuble, j’espère que vous allez bien? |Dr. Chasuble, I hope you are well?  
+|M’n beste Mr. Worthing, deze staatsie van rouw |Cher M. Worthing, j’espère que ce costume de deuil|Dear Mr. Worthing, I trust this garb of woe 
+|duidt toch niet op een onheilstijding? |n’annonce pas quelque terrible catastrophe ? |does not betoken some terrible calamity?  
+|Mijn broer. |Mon frère. |My brother.  
+|Nieuwe schulden en schandalige verkwisting? |Encore des dettes et de honteuses extravagances ? |More shameful debts and extravagance?  
+|Nog altijd levend van genot naar genot? |Toujours sa vie de plaisir ?|Still leading his life of pleasure?  
+|Dood! |Mort. |Dead!  
+|Uw broer Ernst dood? |Votre frère Constant, mort ? |Your brother Ernest dead?  
+|Helemaal dood. |Tout à fait mort. |Quite dead.  
+|Een goede les voor hem! |Quelle leçon pour lui,|What a lesson for him!  
+|Ik geloof dat hij er voordeel zal uithalen. |j’espère qu’il en tirera profit! |I trust he will profit by it.  
+|Mr. Worthing, ik betuig u mijn innige deelnemingen. |M. Worthing, je vous présente mes sincères condoléances.|Mr. Worthing, I offer you my sincere condolence.  
+|U hebt tenminste de troost te weten |Vous avez au moins la consolation de savoir|You have at least the consolation of knowing 
+|dat u altijd de meest vrijgevige en vergevingsgezinde broer was. |que vous avez toujours été le plus indulgent et le plus généreux des frères. |that you were always the most generous and forgiving of brothers.  
+|Arme Ernst! Hij had vele gebreken, maar dit is een trieste, trieste tegenslag. |Pauvre Constant, il avait bien des défauts, mais c’est tout de même un coup dur. |Poor Ernest!  He had many faults, but it is a sad, sad blow.  
+|Inderdaad zeer triest. |Certes.|Very sad indeed.  
+|Was u bij hem op het einde? |Etiez-vous avec lui jusqu’à la fin ? |Were you with him at the end?  
+||Nee. Hij is in het buitenland gestorven; in Parijs eigenlijk. |Non, il est mort à l’étranger, à Paris en fait.|No.  He died abroad; in Paris, in fact.  
+|Ik heb vorige nacht een telegram gekregen van de manager van de Grand Hotel. |J’ai reçu un télégramme la nuit dernière du directeur du Grand Hôtel. |I had a telegram last night from the manager of the Grand Hotel.  
+|Hebben ze de doodsoorzaak vermeld? |Et quelle est la cause de la mort ? |Was the cause of death mentioned?  
+|Een ernstige verkoudheid, blijkbaar. |Un terrible refroidissement, semble-t-il. |A severe chill, it seems.  
+|Zoals een man zaait, zo zal hij oogsten. |Comme on a semé, on récolte.|As a man sows, so shall he reap.  
+|Barmhartigheid, beste Miss Prism, barmhartigheid! |Soyons charitables, chère Miss Prism, soyons charitables.|Charity, dear Miss Prism, charity!  
+|Niemand van ons is perfect! |Nul n’est parfait.|None of us are perfect.  
+|Ik bijvoorbeeld ben bijzonder gevoelig voor tocht. |Personnellement je suis très sensible aux courants d’air.|I myself am peculiarly susceptible to draughts.  
+|Zal de begrafenis hier plaatsvinden? |L’enterrement aura-t-il lieu ici ? |Will the interment take place here?  
+|Nee. Hij blijkt een verlangen uitgedrukt te hebben om in Parijs begraven te worden. |Non. Il semble qu’il ait manifesté le désir d’être enterré à Paris. |No.  He seems to have expressed a desire to be buried in Paris.  
+|In Parijs! |A Paris ! |In Paris!  
+|Het is duidelijk dat hij niet meer helder van geest was op zijn einde. |Je crains que ça n’indique quelque sérieux trouble mental.|I fear that hardly points to any very serious state of mind at the last.  
+|Wellicht wenst u |Vous voudrez bien, sans doute,|You would no doubt wish me 
+|dat ik op dit tragisch huiselijk drama zinspeel volgende zondag. |que je fasse une légère allusion, dimanche prochain, à cette tragédie familiale.|to make some slight allusion to this tragic domestic affliction next Sunday.  
+|Mijn preek over de betekenis van de mana in de wildernis, |Mon sermon sur la signification de la Manne dans le désert|My sermon on the meaning of the manna in the wilderness 
+|kan aangepast worden naar om het even welke gelegenheid, gelukkig, |peut être adapté à toutes les circonstances des plus joyeuses|can be adapted to almost any occasion, joyful, 
+|of zoals in het huidig geval, verontrustend.|aux plus tristes. |or, as in the present case, distressing. 
+|Ik heb het gepreekt op oogstfeesten, dopen,|Je l’ai prononcé aux fêtes des moissons, aux baptêmes,|I have preached it at harvest celebrations, christenings, 
+| vormsels, dagen van nederigheid en feestdagen. |aux confirmations, aux jours de joie comme aux jours d’amertume.|confirmations, on days of humiliation and festal days.  
+|De laatste dat ik het bracht was in de kathedraal, |La dernière fois, c’était à la cathédrale,|The last time I delivered it was in the Cathedral, 
+|bij een benefiet preek in naam van|je prêchais|as a charity sermon on behalf of 
+|de vereniging voor de preventie van ontevredenheid bij de hogere klassen. |pour la prévention du mécontentement dans les classes supérieures…|the Society for the Prevention of Discontent among the Upper Orders.  
+|De bisschop, die aanwezig was, was erg geraakt door sommige van mijn analogieën.| |The Bishop, who was present, was much struck by some of the analogies I drew.  
+|Ah, dat doet me eraan denken, u vermeldde dopen, dacht ik, Dr. Chasuble?|Excusez-moi, vous avez parlé de baptêmes je crois, Dr Chasuble ?|Ah! that reminds me, you mentioned christenings I think, Dr. Chasuble?  
+|Ik veronderstel dat u mag dopen? |Vous savez sûrement baptiser correctement?|I suppose you know how to christen all right?  
+|Ik bedoel natuurlijk, dat u regelmatig doopt, niet? |Je veux dire, vous baptisez souvent, n’est-ce pas ? |I mean, of course, you are continually christening, aren’t you?  
+|Jammer genoeg is het een van de dominee’s meest voorkomende bezigheden in deze parochie. |Bien sûr, c’est une des fonctions les plus importantes du recteur.|It is, I regret to say, one of the Rector’s most constant duties in this parish.  
+|Ik heb de lagere standen vaak over dit onderwerp aangesproken. | |I have often spoken to the poorer classes on the subject.  
+|Maar ze schijnen niet te weten wat matiging is. ||But they don’t seem to know what thrift is.  
+|Maar hebt u een speciaal kind op het oog, Mr. Worthing? |Y a-t-il un petit enfant à qui vous vous intéressez particulièrement, M. Worthing?|But is there any particular infant in whom you are interested, Mr. Worthing?  
+|Uw broer was toch niet getrouwd? |Votre frère était célibataire, je crois ? |Your brother was, I believe, unmarried, was he not?  
+|Nee, nee. |Oui, oui.|Oh yes.  
+|Mensen die uitsluitend voor hun plezier leven zijn dat nooit. |Comme tous ceux qui ne vivent que pour le plaisir. |People who live entirely for pleasure usually are.  
+|Het gaat niet om een kind, dominee. |Il ne s’agit pas d’un enfant, cher révérend.|But it is not for any child, dear Doctor.  
+|Ik ben ten zeerste gesteld op kinderen.|J’aime beaucoup les enfants|I am very fond of children.  
+| Nee het gaat erom dat ikzelf gedoopt wil worden. Deze middag nog,|mais le fait est que je voudrais être moi-même baptisé, cette après-midi.|No! The fact is, I would like to be christened myself, this afternoon, 
+| als u niets beters te doen heeft.|Si vous n’avez rien de mieux à faire.|if you have nothing better to do.  
+|Mr. Worthing, u bent toch vast al eens gedoopt? |Mais vous avez certainement été déjà baptisé, M. Worthing. |But surely, Mr. Worthing, you have been christened already?  
+|Niet dat ik me herinner. |Je ne m’en souviens pas du tout. |I don’t remember anything about it.  
+|Hebt u gegronde redenen daaraan te twijfelen? |Avez-vous des doutes sérieux sur la question? |But have you any grave doubts on the subject?  
+|Ik ben zeker van plan die te hebben. |Sans doute je voudrais en avoir.|I certainly intend to have.  
+|Natuurlijk weet ik niet of zoiets u op welke wijze dan ook zou storen, |Mais peutêtre que cette affaire vous ennuie,|Of course I don’t know if the thing would bother you in any way, 
+|of misschien denk je dat ik daar nu te oud voor ben. |ou que vous me trouvez un peu vieux. |or if you think I am a little too old now.  
+|Niet in het minste. ||Pas du tout.|Not at all.  
+Het besprenkelen, ja zelfs het onderdompelen van volwassenen |L’aspersion et l’immersion sont|The sprinkling, and, indeed, the immersion of adults 
+|past perfect in de kerkelijke leer. |des pratiques tout à fait canoniques. |is a perfectly canonical practice.  
+|Onderdompelen! |L’immersion! |Immersion!  
+|Wees niet bevreesd. |Ne craignez rien.|You need have no apprehensions.  
+|Besprenkelen, meer is niet nodig of zelfs verstandig. |L’aspersion est suffisante ou du moins adaptée à votre cas.|Sprinkling is all that is necessary, or indeed I think advisable.  
+|We hebben hier zo’n wisselvallig klimaat.|Notre climat est si variable.|Our weather is so changeable.  
+| Hoe laat wenst u de plechtigheid voltrokken te zien? |Et à quelle heure souhaitez-vous qu’ait lieu la cérémonie ? |At what hour would you wish the ceremony performed?  
+|Oh, ik kan eens langs springen rond vijf uur als dat past voor u. |Oh, je pourrais venir vers cinq heures, si ça vous convient. |Oh, I might trot round about five if that would suit you.  
+|Perfect, perfect! |Parfait, parfait!|Perfectly, perfectly!  
+|Ik heb dan al zo’n plechtigheid. |Il se trouve que j’ai deux baptêmes à célébrer à cette heure-là.|In fact I have two similar ceremonies to perform at that time.  
+|Een tweeling die onlangs werd geboren in een van die huisjes |Deux jumeaux nés|A case of twins that occurred recently in one of the outlying cottages 
+|aan de rand van uw eigen landerijen. |dans votre propriété,|on your own estate.  
+|Arme Jenkins, de voorman. Een harde werker.|du pauvre Jenkins le charretier, un homme qui travaille dur. |Poor Jenkins the carter, a most hard-working man.  
+|Oh! Ik zie het plezier ervan niet in om gedoopt te worden met andere baby’s. |Euh… ce n’est pas très drôle d’être baptisé avec d’autres bébés.|Oh!  I don’t see much fun in being christened along with other babies.  
+|Dat zou kinderlijk zijn.||It would be childish.  
+|Komt half zes ook gelegen? |Pourquoi pas à cinq heures et demie. |Would half-past five do?  
+|Uitmuntend! Uitmuntend! |Excellent! Excellent!|Admirably!  Admirably!  
+|En nu Mr. Worthing,|Maintenant, cher M. Worthing,|And now, dear Mr. Worthing, 
+|wil ik u niet langer tot last zijn in dit huis der smarten. |je ne veux pas m’imposer plus longtemps une maison de tristesse.|I will not intrude any longer into a house of sorrow.  
+|Laat u niet tezeer door het verdriet teneerslaan, Mr. Worthing. |Je vous souhaite simplement de ne pas vous laisser abattre.|I would merely beg you not to be too much bowed down by grief.  
+|Bedenk dat bittere beproevingen vaak verkapte zegeningen zijn. |Ce qui nous parait une épreuve amère se révèle souvent une bénédiction déguisée. |What seem to us bitter trials are often blessings in disguise.  
+|Dit lijkt me anders duidelijk genoeg een zegening. |Ça me parait une bénédiction pas déguisée du tout. |This seems to me a blessing of an extremely obvious kind.  
+|Oom Jack! ||Oncle Jack!|Uncle Jack!  
+Wat heerlijk dat u terug bent. |Que je suis contente de vous voir de retour.|Oh, I am pleased to see you back.  
+|Maar wat hebt u afschuwelijke kleren aan!|Mais, qu’est-que c’est que ces horribles vêtements.|But what horrid clothes you have got on! 
+|Ga u alstublieft verkleden. |Allez vite vous changer. |Do go and change them.  
+|Cecily! |Cecily! |Cecily!  
+|Kind! Kind toch! |Mon enfant! Mon enfant! |My child! my child!  
+|Wat is er aan de hand, oom Jack? |Qu’est-ce qui ne va pas, Oncle Jack?|What is the matter, Uncle Jack?  
+|Kijk toch blij! |Souriez!|Do look happy!  
+|U kijkt alsof u kiespijn hebt, |On dirait que vous avez mal aux dents.|You look as if you had toothache, 
+|en ik heb nog wel zo’n verassing voor u.|J’ai une grande surprise pour vous.|and I have got such a surprise for you.  
+|Raad eens wie er in de eetkamer?|Devinez qui est dans la salle à manger?|Who do you think is in the dining-room?  
+|Uw broer. |Votre frère! |Your brother!  
+|Wie? |Qui? |Who?  
+|Uw broer Ernst. |Votre frère Constant.|Your brother Ernest.  
+|Hij kwam een half uur geleden aan. |Il vient d’arriver. |He arrived about half an hour ago.  
+|Onzin. |Quelle absurdité!|What nonsense!  
+|Ik heb geen broer. |Je n’ai pas de frère ! |I haven’t got a brother.  
+|Zeg dat toch niet. |Oh, ne dites pas ça.|Oh, don’t say that.  
+|Hoe slecht hij zich in het verleden ook heeft gedragen, hij blijft uw broer. |Même s’il s’est mal conduit dans le passé c’est tout de même votre frère.|However badly he may have behaved to you in the past he is still your brother.  
+|U kunt toch niet zo harteloos zijn hem te verloochenen? |Vous êtes bon, vous ne pouvez pas le renier.|You couldn’t be so heartless as to disown him.  
+|Ik zal hem vragen hierheen te komen. |Je vais lui dire de venir ici|I’ll tell him to come out.  
+|En u zult hem een hand geven, hè, oom Jack? |et vous lui serrerez la main, n’est-ce pas, Oncle Jack? |And you will shake hands with him, won’t you, Uncle Jack?  
+|Een waarlijk heugelijke tijding. |Voilà de réjouissantes nouvelles! |These are very joyful tidings.  
+|Nu we ons bij zijn verlies hadden neergelegd, |Nous étions déjà résignés à sa disparition|After we had all been resigned to his loss, 
+|stemt me zijn plotselinge terugkeer uitermate verontrust. |et son retour soudain me semble vraiment affligeant. |his sudden return seems to me peculiarly distressing.  
+|Mijn broer in de eetkamer? |Mon frère est dans la salle à manger?|My brother is in the dining-room?  
+|Ik weet niet wat dat te betekenen heeft.|Je ne comprends pas,|I don’t know what it all means.  
+|Dat komt me volstrekt belachelijk voor.|c’est totalement absurde. |I think it is perfectly absurd.  
+|Goeie genade! |Bonté divine!|Good heavens!   
+|Broer John, ik ben speciaal uit de stad gekomen om je te vertellen |John, mon frère, je suis venu te dire|Brother John, I have come down from town to tell you 
+|hoezeer het me spijt dat ik je zoveel moeilijkheden heb bezorgd, |que je suis tout à fait désolé pour tous les ennuis que je t’ai causés.|that I am very sorry for all the trouble I have given you, 
+|en dat ik van plan ben mijn leven te beteren. |J’ai bien l’intention de changer de vie, tu sais. |and that I intend to lead a better life in the future.    
+|Oom Jack, u weigert toch niet de hand van uw eigen broer? |Oncle Jack, vous n’allez pas refuser de serrer la main de votre propre frère. |Uncle Jack, you are not going to refuse your own brother’s hand?  
+|Niets kan me ertoe brengen hem de hand te reiken. |Rien ne me persuadera de serrer cette main.|Nothing will induce me to take his hand.  
+|Ik vind het schandalig dat hij naar ons toe is gekomen. |Je trouve que sa venue est extrêmement déplaisante |I think his coming down here disgraceful.  
+|En hij weet donders goed waarom. |et il sait très bien pourquoi. |He knows perfectly well why.  
+|Oom Jack, wees nu aardig. |Oncle Jack, soyez gentil.|Uncle Jack, do be nice.  
+|Iedereen heeft iets goed in zich.|Il y a quelque chose de bon en chacun de nous.|There is some good in every one.  
+|Ernst heeft me zojuist verteld over zijn arme zieke vriend Mr. Bunbury,|Constant me parlait justement de M. Bunbury, qui est si malade |Ernest has just been telling me about his poor invalid friend Mr. Bunbury, 
+|die hij zo vaak gaat bezoeken. |et qu’il va souvent visiter.|whom he goes to visit so often.  
+|Er moet toch wel iets goeds zitten in iemand die zoveel geeft om een zieke vriend|Il y a sûrement quelque chose de bon dans une personne|And surely there must be much good in one who is kind to an invalid, 
+|en al het vertier van Londen in de steek laat om aan een ziekenbed te gaan zitten.|capable de quitter les plaisirs de Londres pour s’assoir près d’un lit de douleur. |and leaves the pleasures of London to sit by a bed of pain.  
+|Wat !? Bunbury! Hij heeft het over Bunbury gehad, hè|Alors, il vous a parlé de Bunbury, c’est ça ? |Oh! He has been talking about Bunbury, has he?  
+|Jazeker, hij heeft me alles verteld over arme bunbury|Oui, il m’a tout raconté au sujet de ce pauvre M. Bunbury |Yes, he has told me all about poor Mr. Bunbury, 
+|en zijn betreurenswaardige gezondheid.|et de son terrible état de santé. |and his terrible state of health.  
+|Wel, ik laat hem niet zomaar vertellen over Bunbury|Bunbury! Je vous défends de l’écouter.|Bunbury!  Well, I won’t have him talk to you about Bunbury 
+|of over wat dan ook. ||or about anything else.  
+|Hier wordt een mens toch horendol van. |Il y a de quoi devenir fou! |It is enough to drive one perfectly frantic.  
+|Natuurlijk, het is allemaal mijn schuld. |Naturellement, j’admets que les torts sont de mon côté.|Of course I admit that the faults were all on my side.  
+|Maar ik moet zeggen dat je koelte |Tout de même, je dois dire que la froideur de John, mon frère,|But I must say that I think that Brother John’s coldness to me 
+|me pijnlijk treft. |m’est très pénible.|is peculiarly painful.  
+|Ik had een warmer onthaal verwacht,|J’espérais un meilleur accueil,|I expected a more enthusiastic welcome, 
+|vooral omdat ik hier voor het eerst ben. |d’autant plus que c’est la première fois que je viens ici. |especially considering it is the first time I have come here.  
+|Oom Jack, als u Ernst geen hand geeft zal ik het u nooit vergeven. |Oncle Jack, si vous ne serrez pas la main de Constant, je ne vous le pardonnerai jamais. |Uncle Jack, if you don’t shake hands with Ernest I will never forgive you.  
+|Het mij nooit vergeven? |Jamais ? |Never forgive me?  
+|Nooit, nooit, nooit! |Jamais, jamais, jamais. |Never, never, never!  
+|Dan zit er niets anders op, vrees ik.  |C’est bien la dernière fois! |Well, this is the last time I shall ever do it.   
+|Is het niet aangenaam om van zo’n volmaakte verzoening getuige te zijn?|Comme c’est agréable de voir une réconciliation aussi parfaite.|It’s pleasant, is it not, to see so perfect a reconciliation?  
+|Ik denk dat we beter de twee broers alleen laten. |Eh bien, je crois que nous devrions laisser les deux frères seuls. |I think we might leave the two brothers together.  
+|Cecily, je kan met ons meekomen. |Venez, Cecily. |Cecily, you will come with us.  
+|Zeker, Miss Prism. |Bien sûr.|Certainly, 
+|Mijn verzoeningswerk is hier gedaan. |Mon petit rôle de conciliatrice est terminé. |My little task of reconciliation is over.  
+|Je hebt vandaag je goede daad verricht kind. |Vous avez fait une belle action aujourd’hui, chère enfant. |You have done a beautiful action to-day, dear child.  
+|Laten we maar niet te voorbarig zijn. |Ne nous avançons pas trop. |We must not be premature in our judgments.  
+|Ik voel me heel gelukkig. |Je me sens si heureuse. |I feel very happy.  
+|Schurk dat je bent, Algy. Maak dat je wegkomt. |Algy, espèce de voyou, tu vas filer|You young scoundrel, Algy, you must get out of this place 
+|Zo snel mogelijk!|tout de suite.|as soon as possible.  
+|Ik wil geen gebunburie hier. |Je ne te laisserai pas Bunburiser ici!|I don’t allow any Bunburying here.  
+|Ik heb de spullen van Mr. Ernst in de kamer naast de uwe gezet, meneer. |J’ai mis les affaires de M. Constant dans la chambre à côté de la votre, monsieur.|I have put Mr. Ernest’s things in the room next to yours, sir.  
+|Ik veronderstel dat dit naar behoren is. | |I suppose that is all right?  
+|Wat? |Quoi ? |What?  
+|De bagage van Mr. Ernst, meneer. |Les bagages de M. Constant, monsieur. |Mr. Ernest’s luggage, sir.  
+|Ik heb ze uitgepakt en in de kamer naast de uwe geplaatst. |Je les ai mis dans la chambre à côté de la votre. |I have unpacked it and put it in the room next to your own.  
+|Zijn bagage? | Ses bagages ? |His luggage?  
+|Ja, meneer. | Oui monsieur. |Yes, sir.  
+|Drie valiezen, een toiletkoffer, |Trois valises, une malle, |Three portmanteaus, a dressing-case, 
+|twee hoedendozen en een grote lunchmand. |deux cartons à chapeaux et un grand panier à pique-nique. |two hat-boxes, and a large luncheon-basket.
+|Ik vrees dat ik dit keer maar een week kan blijven. | Je crains de ne pouvoir rester plus d’une semaine, cette fois. |I am afraid I can’t stay more than a week this time.  
+|Merriman, laat het rijtuig onmiddellijk komen. | Merriman, faites atteler tout de suite. |Merriman, order the dog-cart at once.  
+|Mr. Ernst wordt plots terug in de stad verwacht. |M. Constant vient d’être rappelé en ville. |Mr. Ernest has been suddenly called back to town.  
+|Ja, meneer. | Oui, monsieur. |Yes, sir.   
+|Wat een verschrikkelijke leugenaar ben je toch, Jack. | Quel terrible menteur tu fais, Jack. |What a fearful liar you are, 
+|Ik word helemaal niet in de stad verwacht. |Je n’ai pas été rappelé à Londres. |I have not been called back to town at all.
+|Je wordt zeker wel daar verwacht. | Mais si ! |Yes, you have.  
+|Wel dat is niet mijn verwachting! | Je n’ai pas entendu. |I haven’t heard any one call me.  
+|Het is wat er van een plichtsbewuste heer verwacht word. | Ce sont tes devoirs de gentleman qui te rappellent. |Your duty as a gentleman calls you back.  
+|Mijn plicht als een heer heeft nog nooit| Je n’ai jamais laissé mes devoirs de gentleman |My duty as a gentleman has never interfered 
+|in het minste mijn pleziertjes verstoord. |perturber mes plaisirs. |with my pleasures in the smallest degree.  
+|Dat kan ik zeker begrijpen. | Je vois ça. |I can quite understand that.  
+|Wel, Cecily is een schat. | Ecoute, Cecily est délicieuse. |Well, Cecily is a darling.  
+|Het bevalt me niet dat je op die manier over Miss Cardew praat. | Ne parle pas comme ça de Miss Cardew. |You are not to talk of Miss Cardew like that.  
+|Ik vind het maar niks.|Je n’aime pas ça. |I don’t like it.  
+|En jouw kleren bevallen me niet. | Eh bien moi je n’aime pas ton costume. |Well, I don’t like your clothes.  
+|Je ziet er helemaal belachelijk uit in die kleren. |Tu as l’air tout à fait ridicule. |You look perfectly ridiculous in them.  
+|Waarom ga je je niet verkleden? |Pourquoi ne vas-tu pas te changer? |Why on earth don’t you go up and change?  
+|Het is kinderachtig om in de rouw te zijn voor een man |C’est tout à fait grotesque de porter le deuil d’un homme |It is perfectly childish to be in deep mourning for a man 
+|die nog een week bij je blijft logeren. |qui va rester ici toute une semaine, comme invité, dans ta maison. |who is actually staying for a whole week with you in your house as a guest.  
+|Ik noem het zelfs grotesk. | J'appelle ça grotesque.|I call it grotesque.  
+|Jij blijft hier hoe dan ook geen week logeren | Tu ne vas certainement pas rester ici une semaine |You are certainly not staying with me for a whole week 
+|als een gast of wat dan ook. |comme invité ou quoi que ce soit d’autre. |as a guest or anything else.  
+|Ik wil dat je vertrekt ... met de trein van vier uur vijf. |Tu vas filer… par le train de quatre heures cinq.|You have got to leave, by the four-five train.  
+|Ik ga niet weg zolang jij in de rouw bent.| Je ne vais pas te quitter alors que tu es en deuil. |I certainly won’t leave you so long as you are in mourning.  
+|Dat zou onhoffelijk zijn. |Ce serait vraiment inamical. |It would be most unfriendly.  
+|Als ik in de rouw was zou jij ook bij me blijven, denk ik. |Si j’étais en deuil tu resterais près de moi, n’est-ce pas. |If I were in mourning you would stay with me, I suppose.  
+|Ik zou het zeer onhoffelijk vinden als je dat niet zou doen. ||I should think it very unkind if you didn’t.  
+|Je vertrekt dus als ik iets anders aantrek? | Bon, tu pars si je me change ? |Well, will you go if I change my clothes?  
+|Als je er niet te lang over doet. | Oui, oui, si ce n’est pas trop long. |Yes, if you are not too long.  
+|Ik ken niemand die er zolang over doet om zich te kleden, |Je ne connais personne d’aussi lent, |I never saw anybody take so long to dress, 
+|en met zo weinig resultaat. |et pour quel résultat ! |and with such little result.  
+|Wel in ieder geval is het nog altijd beter| En tous cas, |Well, at any rate, 
+|dan altijd overmatig chic gekleed te zijn, zoals jij. |c’est mieux que d’être toujours tiré à quatre épingles, comme toi. |that is better than being always over-dressed as you are.  
+|Als ik soms overmatig chic ben, | Oui, de temps en temps, |If I am occasionally a little over-dressed, 
+|maak ik dat goed door ook overmatig goed opgeleid te zijn. |mais c’est parce que je suis extrêmement bien élevé. |I make up for it by being always immensely over-educated.  
+|Jouw ijdelheid is belachelijk, je gedrag is een grof schandaal | Ta vanité est ridicule, ta conduite est scandaleuse |Your vanity is ridiculous, your conduct an outrage, 
+|en je aanwezigheid in mijn tuin ronduit absurd. |et ta présence insupportable. |and your presence in my garden utterly absurd.  
+|Maar je zult de trein van vier uur vijf halen, |Tu vas prendre le quatre heures cinq, |However, you have got to catch the four-five, 
+|en ik hoop dat je een aangename reis terug naar Londen hebt. |et je te souhaite bon voyage. |and I hope you will have a pleasant journey back to town.  
+|Je bunburie is nu eens geen succes geworden. |Bunburiser ne t’aura pas réussi cette fois.|This Bunburying, as you call it, has not been a great success for you.
+|||
+|AKT|AKT|AKT
+|||
 |Het feit dat ze ons niet meteen uit de tuin gevolgd zijn, zoals ieder ander zou gedaan hebben|Ils ne nous ont pas suivies.|The fact that they did not follow us at once into the house, as any one else would have done
 |lijkt erop te wijzen dat ze nog niet alle gevoel voor schaamte hebben verloren.|Ça me fait penser qu'ils se sentent tout de même un peu honteux.|seems to me to show that they have some sense of shame left.
 |Ze hebben muffins gegeten. Dat betekent berouw.|Ils mangeaient des muffins. C'est une forme de repentir.|They have been eating muffins. That looks like repentance.

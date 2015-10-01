@@ -2,10 +2,10 @@
 |Ik achtte het ongepast om te luisteren, meneer.
 |Dat is dan jammer, voor jou. Ik speel dan wel niet correct -correct spelen kan iedereen–
 |maar ik speel met een wonderbaarlijke expressie.
-| T.b.d //
-| T.b.d //
+| Waar het de piano betreft, is gevoel mijn sterkste punt.//
+|Muziek vereist gevoel. Rede is voor dagelijks leven.//
 |Zeker, meneer.
-| T.b.d //
+| Over dagelijks leven gesproken... //
 |Lane, staan de komkommersandwiches voor Lady Bracknell klaar?
 |Zeker, meneer.
 |Oh! ... Nu we het er toch over hebben, Lane, ik zag in je boekje dat donderdagavond,
@@ -27,7 +27,7 @@
 |Hij schijnt er nogal lakse ideeen over het huwelijk over na te houden, die Lane.
 |Goeie genade, als de lagere standen ons geen voorbeeld meer geven,
 |waar zijn ze dan nog goed voor?
-| T.b.d //
+|Ze hebben blijkbaar geen enkel besef van hun morele verantwoordelijkheid.
 |
 |Mr. Ernst Worthing.
 |Hoe is het, mijn beste Ernst? Waarom ben je in de stad?
@@ -75,7 +75,7 @@
 |Jij eet er anders constant al.
 |Dat is iets anders. Ze is m’n tante.
 |Hier, neem wat gewone sandwiches. Die zijn voor Gwendolen.
-|Gwendolen t.b.d//
+|Gwendolen is een onvoorwaardelijke liefhebber van sandwiches.//
 |En zeer goede sandwiches zijn het!
 |Kom, beste kerel, je hoeft niet te eten alsof je van plan bent alles op te eten.
 |Je gedraagt je alsof je al getrouwd bent. 
@@ -83,7 +83,8 @@
 |Waarom zeg je dat?
 | Wel, in de eerste plaats trouwen meisjes nooit met de mannen met wie ze flirten. Dat vinden meisjes niet netjes.
 |O, dat is onzin.
-| Dat is een onverbiddelijke waarheid. Het verklaart de reuzachtige aantal vrijgezellen waarover je hier al door struikelt.//wtf?
+| Dat is een onverbiddelijke waarheid.
+|Het verklaart de reuzachtige aantal vrijgezellen waarover je hier al door struikelt.//wtf?
 |En bovendien, ik geef mijn toestemming niet.
 |Jouw toestemming?
 |Beste kerel, Gwendolen is een volle nicht van me. En voor ik je toesta haar te trouwen,
@@ -118,7 +119,7 @@
 |Maar waarom noemt ze zich kleine Cecily als ze je tante is
 |en in Tunbridge Weells woont?
 |“Van je kleine Cecily, met veel liefs.”
-|Mijn beste kerel, TBD // wat maakt dat toch uit?
+|Mijn beste kerel, wat maakt dat toch uit? // wat maakt dat toch uit?
 |Sommige tantes zijn groot, andere tantes weer niet.
 |Dat mag elke tante toch zeker voor zichzelf uitmaken.
 |Jij denkt zeker dat elke tante er zo moet uitzien als jouw tante! Absurd!
@@ -135,16 +136,16 @@
 |Je ziet er het ernstigst uit van alle mensen die ik ooit gekend heb.
 |Het is ridicuul om te beweren dat je naam niet Ernst is. Het staat op je kaartje.
 |Hier. “Mr Ernest Worthing, B.4, The Albany, W.”
-|t.b.d. //
-|t.b.d. //
-|In de stad heet ik Ernst en buiten Jack, en die koker heb ik buiten gekregen.//
+|Dit wordt mijn bewijs dat jouw naam Ernest is //
+|moest je het ooit proberen ontkennen tegen mij, Gwendolen of iemand anders. //
+|Wel, in de stad heet ik Ernst en buiten Jack, en die koker heb ik buiten gekregen.//
 |Geweldig, maar dat verklaart nog niet waarom je kleine tante Cecily,
 |Die woont in Tunbridge Wells, jou haar dierbare oom noemt.
 |Kom, ouwe jongen, biecht maar op. 
-| T.B.D //
-| T.B.D //
-| T.B.D //
-| T.B.D //
+| Algy, je spreekt als een tandarts. //
+| Het is uiterst vulgair om te spreken als een tandarts, als je er geen bent. //
+| Dat geeft een verkeerd beeld.//
+| Daarvoor zorgen tandartsen altijd. Maar kom, vertel me nu alles. //
 |Ik heb je er altijd van verdacht in het geheim een Bunburyist te zijn;
 |maar nu weet ik het zeker. 
 |Wat is in vredesnaam een Bunburyist? 
@@ -267,7 +268,7 @@
 |waarin staat dat mijn arme vriend Bunbury weer zo ernstig ziek is.
 |Mijn komst schijnt dringend gewenst.
 |Die Mr. Bunbury schijnt een zeldzaam slechte gezondheid te hebben.
-|T.B.D //
+|Ja, Bunbury is permanent invalide. //
 |Ik vind het hoog tijd dat die Mr. Bunbury eens beslist
 |of hij nu doodgaat of niet.
 |Belachelijk om daar altijd omheen te draaien.
@@ -367,7 +368,7 @@
 |Mr. Worthing! Sta op, meneer, uit die half neerwaards gebogen houding.
 |Dat is hoogst onwelvoeglijk. 
 |Mama! 
-|Ik verzoek u heen te gaan. //
+|Ik verzoek u heen te gaan. Hier is geen plaats voor u. //
 |Mr. Worthing is nog bezig. 
 |Waarmee, als ik vragen mag? 
 |Ik ben verloofd met Mr. Worthing, mama. 
@@ -404,11 +405,11 @@
 |Ik weet niets, Lady Bracknell. 
 |Zo mag ik het horen.
 |Ik heb een hekel aan elke verstoring van de natuurlijke onwetendheid.
-|T.B.D. //
+|Onwetendheid is als een bloem. Als je ze aanraakt verdwijnt haar pracht. //
 |De hele modere onderwijstheorie is in weze ongezond.
 |Gelukkig heeft, in Engeland tenminste, het onderwijs geen enkel effect.
 |Als dat wel het geval was zou het een ernstig gevaar voor de hogere klasse betekenen.
-|T.B.D. //
+|En waarschijnlijk zorgt het voor opstanden in Grosvenor square.//
 |Wat is uw inkomen? 
 |Tussen de zeven en achtduizend per jaar. 
 |Uit grondbezit of effecten? 
@@ -586,8 +587,8 @@
 |O nee! Ik heb een afkeer aan luisteren.
 |Naar de club dan maar?
 |O nee! Ik haat praten.
-| T.B.D. //
-| T.B.D. //
+|Laat ons dan naar The Empire gaan rond 10. //
+|Naar de dansende meisjes kijken, neen dankje. //
 |Wat stel je dan voor?
 |Niets.
 |Niets doen is verschrikkelijk zwaar werk.

@@ -60,7 +60,7 @@
 |How utterly unromantic you are!
 |I really don't see anything romantic in proposing.
 |It is very romantic to be in love.
-|But there is nothing romantic about a definite proposal.
+|But there is nothing romantic about a definite proposal. 
 |Why, one may be accepted. One usually is, I believe.
 |Then the excitement is all over.
 |The very essence of romance is uncertainty.
@@ -78,12 +78,13 @@
 |Gwendolen is devoted to bread and butter.
 |And very good bread and butter it is too.
 |Well, my dear fellow, you need not eat as if you were going to eat it all.
-|You behave as if you were married to her already.
+|You behave as if you were married to her already. 
 |You are not married to her already, and I don't think you ever will be.
 |Why on earth do you say that?
 |Well, in the first place girls never marry the men they flirt with. Girls don't think it right.
 |Oh, that is nonsense!
-|It isn't. It is a great truth. It accounts for the extraordinary number of bachelors that one sees all over the place.
+|It isn't. It is a great truth.
+|It accounts for the extraordinary number of bachelors that one sees all over the place.
 |In the second place, I don't give my consent.
 |Your consent!
 |My dear fellow, Gwendolen is my first cousin. And before I allow you to marry her,
@@ -106,7 +107,7 @@
 |and you have no right whatsoever to read what is written inside.
 |It is a very ungentlemanly thing to read a private cigarette case.
 |Oh! it is absurd to have a hard and fast rule
-|about what one should read and what one shouldn't.
+|about what one should read and what one shouldn't. 
 |More than half of modern culture depends on what one shouldn't read.
 |I am quite aware of the fact, and I don't propose to discuss modern culture.
 |It isn't the sort of thing one should talk of in private. I simply want my cigarette case back.
@@ -145,7 +146,7 @@
 |It is very vulgar to talk like a dentist when one isn't a dentist.
 |It produces a false impression.
 |Well, that is exactly what dentists always do. Now, go on! Tell me the whole thing.
-|I may mention that I have always suspected you of being a confirmed and secret Bunburyist;
+|I may mention that I have always suspected you of being a confirmed and secret Bunburyist; 
 |and I am quite sure of it now.
 |Bunburyist? What on earth do you mean by a Bunburyist?
 |I'll reveal to you the meaning of that incomparable expression as soon as you are kind enough to inform me
@@ -154,24 +155,24 @@
 |Here it is. Now produce your explanation, and pray make it improbable.
 |My dear fellow, there is nothing improbable about myexplanation at all. In fact it's perfectly ordinary.
 |Old Mr. Thomas Cardew, who adopted me when I was a little boy, made me in his will
-|guardian to his grand-daughter, Miss Cecily Cardew.
-|Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate,
+|guardian to his grand-daughter, Miss Cecily Cardew. 
+|Cecily, who addresses me as her uncle from motives of respect that you could not possibly appreciate, 
 |lives at my place in the country under the charge of her admirable governess, Miss Prism.
 |Where in that place in the country, by the way?
 |That is nothing to you, dear boy. You are not going to be invited
 |I may tell you candidly that the place is not in Shropshire.
-|I suspected that, my dear fellow! I have Bunburyed all over Shropshire on two separate occasions.
+|I suspected that, my dear fellow! I have Bunburyed all over Shropshire on two separate occasions. 
 |Now, go on. Why are you Ernest in town and Jack in the country?
 |My dear Algy, I don't know whether you will be able to understand my real motives.
 |You are hardly serious enough. When one is placed in the position of guardian,
-|one has to adopt a very high moral tone on all subjects.
+|one has to adopt a very high moral tone on all subjects. 
 |It's one's duty to do so.
 |And as a high moral tone can hardly be said to conduce very much to either one's health or one's happiness,
 |in order to get up to town I have always pretended to have a younger brother
-| of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes.
+| of the name of Ernest, who lives in the Albany, and gets into the most dreadful scrapes. 
 |That, my dear Algy, is the whole truth pure and simple.
-|The truth is rarely pure and never simple.
-|Modern life would be very tedious if it were either,
+|The truth is rarely pure and never simple. 
+|Modern life would be very tedious if it were either, 
 |and modern literature a complete impossibility!
 |That wouldn't be at all a bad thing.
 |Literary criticism is not your forte, my dear fellow. Don't try it.
@@ -187,15 +188,15 @@
 |I wouldn't be able to dine with you at Willis's to-night
 |for I have been really engaged to Aunt Augusta for more than a week.
 |I haven't asked you to dine with me anywhere to-night.
-|I know. You are absurdly careless about sending out invitations.
+|I know. You are absurdly careless about sending out invitations. 
 |It is very foolish of you. Nothing annoys people so much as not receiving invitations.
 |You had much better dine with your Aunt Augusta.
 |I haven't the smallest intention of doing anything of the kind.
 |To begin with, I dined there on Monday, and once a week is quite enough to dine with one's own relations.
 |In the second place, whenever I do dine there I am always treated as a member of the family
-|and sent down with either no woman at all, or two.
+|and sent down with either no woman at all, or two. 
 |In the third place, I know perfectly well whom she will place me next to, to-night.
-|She will place me next Mary Farquhar,
+|She will place me next Mary Farquhar, 
 |who always flirts with her own husband across the dinner-table.
 |That is not very pleasant. Indeed, it is not even decent...
 |and that sort of thing is enormously on the increase.
@@ -225,7 +226,7 @@
 |Now, if I get her out of the way for ten minutes, so that you can have an opportunity for proposing to Gwendolen,
 |may I dine with you to-night at Willis's?
 |I suppose so, if you want to.
-|Yes, but you must be serious about it.
+|Yes, but you must be serious about it. 
 |I hate people who are not serious about meals. It is so shallow of them.
 |Lady Bracknell and Miss Fairfax.
 |Good afternoon, dear Algernon, I hope you are behaving very well.
@@ -236,8 +237,8 @@
 |You're quite perfect, Miss Fairfax.
 |Oh! I hope I am not that. It would leave no room for developments,
 |and I intend to develop in many directions.
-|I'm sorry if we are a little late, Algernon, but I was obliged to call on dear Lady Harbury.
-|I hadn't been there since her poor husband's death.
+|I'm sorry if we are a little late, Algernon, but I was obliged to call on dear Lady Harbury. 
+|I hadn't been there since her poor husband's death. 
 |I never saw a woman so altered; she looks quite twenty years younger.
 |And now I'll have a cup of tea,
 |and one of those nice cucumber sandwiches you promised me.
@@ -253,37 +254,37 @@
 |Thank you, sir.
 |I am greatly distressed, Aunt Augusta, about there being no cucumbers,
 |not even for ready money.
-|It really makes no matter, Algernon. I had some crumpets with Lady Harbury,
+|It really makes no matter, Algernon. I had some crumpets with Lady Harbury, 
 |who seems to me to be living entirely for pleasure now.
 |I hear her hair has turned quite gold from grief.
 |It certainly has changed its colour. From what cause I, of course, cannot say.
 | Thank you. I've quite a treat for you to-night, Algernon.
-|I am going to send you down with Mary Farquhar.
+|I am going to send you down with Mary Farquhar. 
 |She is such a nice woman, and so attentive to her husband. It's delightful to watch them.
 |I am afraid, Aunt Augusta, I shall have to give up the pleasure of dining with you to-night after all.
 |I hope not, Algernon. It would put my table completely out.
 |Your uncle would have to dine upstairs. Fortunately he is accustomed to that.
-|It is a great bore, and, I need hardly say, a terrible disappointment to me,
+|It is a great bore, and, I need hardly say, a terrible disappointment to me, 
 |but the fact is I have just had a telegram to say that my poor friend Bunbury is very ill again.
 |They seem to think I should be with him.
 |It is very strange. This Mr. Bunbury seems to suffer from curiously bad health.
 |Yes; poor Bunbury is a dreadful invalid.
-|Well, I must say, Algernon, that I think it is high time that Mr. Bunbury
+|Well, I must say, Algernon, that I think it is high time that Mr. Bunbury 
 |made up his mind whether he was going to live or to die.
-|This shilly-shallying with the question is absurd.
+|This shilly-shallying with the question is absurd. 
 |Nor do I in any way approve of the modern sympathy with invalids.
 |I consider it morbid. Illness of any kind is hardly a thing to be encouraged in others.
 |Health is the primary duty of life.
 |I am always telling that to your poor uncle, but he never seems to take much notice...
 |as far as any improvement in his ailment goes.
-|I should be much obliged if you would ask Mr. Bunbury, from me, to be kind enough
+|I should be much obliged if you would ask Mr. Bunbury, from me, to be kind enough 
 |not to have a relapse on Saturday, for I rely on you to arrange my music for me.
 |It is my last reception, and one wants something that will encourage conversation
 |particularly at the end of the season when every one has practically said whatever they had to say,
 |which, in most cases, was probably not much.
 |I'll speak to Bunbury, Aunt Augusta, if he is stillconscious,
 |and I think I can promise you he'll be all right by Saturday.
-|Of course the music is a great difficulty.
+|Of course the music is a great difficulty. 
 |You see, if one plays good music, people don't listen
 |and if one plays bad music people don't talk.
 |But I'll run over the programme I've drawn out
@@ -291,8 +292,8 @@
 |Thank you, Algernon. It is very thoughtful of you.
 |I'm sure the programme will be delightful, after a few expurgations.
 |French songs I cannot possibly allow.
-|People always seem to think that they are improper,
-|and either look shocked, which is vulgar, or laugh, which is worse.
+|People always seem to think that they are improper, 
+|and either look shocked, which is vulgar, or laugh, which is worse. 
 |But German sounds a thoroughly respectable language, and indeed, I believe is so. Gwendolen, you will accompany me.
 |Certainly, mamma.
 |Charming day it has been, Miss Fairfax.
@@ -304,13 +305,13 @@
 |And I would like to be allowed to take advantage of Lady Bracknell's temporary absence...
 |I would certainly advise you to do so. Mamma has a way of coming back suddenly into a room
 |that I have often had to speak to her about.
-|Miss Fairfax, ever since I met you I have admired you more than any girl...
+|Miss Fairfax, ever since I met you I have admired you more than any girl... 
 |I have ever met since... I met you.
-|Yes, I am quite well aware of the fact.
+|Yes, I am quite well aware of the fact. 
 |And I often wish that in public, at any rate, you had been more demonstrative.
 |For me you have always had an irresistible fascination.
 |Even before I met you I was far from indifferent to you.
-|We live, as I hope you know, Mr Worthing, in an age of ideals.
+|We live, as I hope you know, Mr Worthing, in an age of ideals. 
 |The fact is constantly mentioned in the more expensive monthly magazines,
 |and has reached the provincial pulpits, I am told;
 |And my ideal has always been to love some one of the name of Ernest.
@@ -330,12 +331,12 @@
 |I don't think the name suits me at all.
 |It suits you perfectly. It is a divine name.
 |It has a music of its own. It produces vibrations.
-|Well, really, Gwendolen, I must say that I think there are lots of other much nicer names.
+|Well, really, Gwendolen, I must say that I think there are lots of other much nicer names. 
 |I think Jack, for instance, a charming name.
 |Jack?... No, there is very little music in the name Jack, if any at all, indeed.
 |It does not thrill. It produces absolutely no vibrations...
 |I have known several Jacks, and they all, without exception, were more than usually plain.
-|Besides, Jack is a notorious domesticity for John!
+|Besides, Jack is a notorious domesticity for John! 
 |And I pity any woman who is married to a man called John.
 |She would probably never be allowed to know the entrancing pleasure of a single moment's solitude.
 |The only really safe name is Ernest
@@ -348,7 +349,7 @@
 |Nothing has been said at all about marriage. The subject has not even been touched on.
 |Well... may I propose to you now?
 |I think it would be an admirable opportunity.
-|And to spare you any possible disappointment, Mr. Worthing, I think it only fair to tell you
+|And to spare you any possible disappointment, Mr. Worthing, I think it only fair to tell you 
 |quite frankly before-hand that I am fully determined to accept you.
 |Gwendolen!
 |Yes, Mr. Worthing, what have you got to say to me?
@@ -360,14 +361,14 @@
 |My own one, I have never loved any one in the world but you.
 |Yes, but men often propose for practice.
 |I know my brother Gerald does.
-|All my girl-friends tell me so.
+|All my girl-friends tell me so. 
 |What wonderfully blue eyes you have, Ernest! They are quite, quite, ...
 |blue.
 |I hope you will always look at me just like that, especially when there are other people present.
 |Mr. Worthing! Rise, sir, from this semi-recumbent posture.
 |It is most indecorous.
 |Mamma!
-|I must beg you to retire. This is no place for you.
+|I must beg you to retire. This is no place for you. 
 |Besides, Mr. Worthing has not quite finished yet.
 |Finished what, may I ask?
 |I am engaged to Mr. Worthing, mamma.
@@ -375,7 +376,7 @@
 |When you do become engaged to some one, I, or your father,
 |should his health permit him, will inform you of the fact.
 |An engagement should come on a young girl as a surprise,
-|pleasant or unpleasant, as the case may be.
+|pleasant or unpleasant, as the case may be. 
 |It is hardly a matter that she could be allowed to arrange for herself...
 |And now I have a few questions to put to you, Mr. Worthing.
 |While I am making these inquiries, you, Gwendolen, will wait for me below in the carriage.
@@ -387,22 +388,22 @@
 |You can take a seat, Mr. Worthing.
 |Thank you, Lady Bracknell, I prefer standing.
 |I feel bound to tell you that you are not down on my list of eligible young men,
-|although I have the same list as the dear Duchess of Bolton has.
+|although I have the same list as the dear Duchess of Bolton has. 
 |We work together, in fact.
-|However, I am quite ready to enter your name,
-|should your answers be what a really affectionate mother requires.
+|However, I am quite ready to enter your name, 
+|should your answers be what a really affectionate mother requires. 
 |Do you smoke?
 |Well, yes, I must admit I smoke.
 |I am glad to hear it. A man should always have an occupation of some kind.
 |There are far too many idle men in London as it is.
 |How old are you?
 |Twenty-nine.
-|A very good age to be married at.
+|A very good age to be married at. 
 |I have always been of opinion that a man who desires to get married
 |should know either everything or nothing. Which do you know?
 |
 |I know nothing, Lady Bracknell.
-|I am pleased to hear it.
+|I am pleased to hear it. 
 |I do not approve of anything that tampers with natural ignorance.
 |Ignorance is like a delicate exotic fruit; touch it and the bloom is gone.
 |The whole theory of modern education is radically unsound.
@@ -415,17 +416,17 @@
 |In investments, chiefly.
 |That is satisfactory.
 |What between the duties expected of one during one's lifetime,
-|and the duties exacted from one after one's death,
-|land has ceased to be either a profit or a pleasure.
+|and the duties exacted from one after one's death, 
+|land has ceased to be either a profit or a pleasure. 
 |It gives one position, and prevents one from keeping it up.
 |That's all that can be said about land.
 |I have a country house with some land, of course, attached to it, about fifteen hundred acres
 |but I don't depend on that for my real income.
 |In fact, as far as I can make out, the poachers are the only people who make anything out of it.
-|A country house! How many bedrooms?
+|A country house! How many bedrooms? 
 |Well, that point can be cleared up afterwards.
 |You have a town house, I hope?
-|A girl with a simple, unspoiled nature, like Gwendolen,
+|A girl with a simple, unspoiled nature, like Gwendolen, 
 |could hardly be expected to reside in the country.
 |Well, I own a house in Belgrave Square, but it is let by the year to Lady Bloxham.
 |Of course, I can get it back whenever I like, at six months' notice.
@@ -435,27 +436,27 @@
 |Ah, nowadays that is no guarantee of respectability of character.
 |What number in Belgrave Square?
 |149.
-|The unfashionable side. I thought there was something.
+|The unfashionable side. I thought there was something. 
 |However, that could easily be altered.
 |Do you mean the fashion, or the side?
-|Both, if necessary, I presume.
+|Both, if necessary, I presume. 
 |What are your polities?
 |Well, I am afraid I really have none. I am a Liberal Unionist.
-|Oh, they count as Tories. They dine with us.
+|Oh, they count as Tories. They dine with us. 
 |Or come in the evening, at any rate.
 |Now to minor matters. Are your parents living?
 |I have lost both my parents.
 |To lose one parent, Mr. Worthing, may be regarded as a misfortune;
 |to lose both looks like carelessness.
-|Who was your father?
+|Who was your father? 
 |He was evidently a man of some wealth.
 |Was he born in what the Radical papers call the purple of commerce,
 |or did he rise from the ranks of the aristocracy?
 |I am afraid I really don't know.
-|The fact is, Lady Bracknell, I said I had lost my parents.
+|The fact is, Lady Bracknell, I said I had lost my parents. 
 |It would be nearer the truth to say that my parents
 |seem to have lost me...
-|I don't actually know who I am by birth. I was...
+|I don't actually know who I am by birth. I was... 
 |well, I was found.
 |Found!
 |The late Mr. Thomas Cardew, an old gentleman of a very charitable and kindly disposition,
@@ -474,35 +475,35 @@
 |It was given to him in mistake for his own.
 |The cloak-room at Victoria Station?
 |Yes. The Brighton line.
-|The line is immaterial.
+|The line is immaterial. 
 |Mr. Worthing, I confess I feel somewhat bewildered by what you have just told me.
-|To be born, or at any rate bred, in a hand-bag,
+|To be born, or at any rate bred, in a hand-bag, 
 |whether it had handles or not, seems to me to display a contempt
 |for the ordinary decencies of family life that
 |reminds one of the worst excesses of the French Revolution.
 |And I presume you know what that unfortunate movement led to?
-|As for the particular locality in which the hand-bag was found,
+|As for the particular locality in which the hand-bag was found, 
 |a cloak room at a railway station might serve
 |to conceal a social indiscretion --
 |has probably, indeed, been used for that purpose before now --
-|but it could hardly be regarded as an assured basis
+|but it could hardly be regarded as an assured basis 
 |for a recognised position in good society.
 |May I ask you then what you would advise me to do?
 |I need hardly say I would do anything in the world
 |to ensure Gwendolen's happiness.
 |I would strongly advise you, Mr. Worthing, to try and acquire
-|some relations as soon as possible,
+|some relations as soon as possible, 
 |and to make a definite effort to produce at any rate one parent,
 |of either sex, before the season is quite over.
 |Well, I don't see how I could possibly manage to do that.
 |I can produce the hand-bag at any moment.
 |It is in my dressing room at home.
 |I really think that should satisfy you, Lady Bracknell.
-|Me, sir! What has it to do with me?
+|Me, sir! What has it to do with me? 
 |You can hardly imagine that I and Lord Bracknell would dream
 |of allowing our only daughter -- a girl brought up with the utmost care --
-|to marry into a cloak-room,
-|and form an alliance with a parcel?
+|to marry into a cloak-room, 
+|and form an alliance with a parcel? 
 |Good morning, Mr. Worthing!
 |Good morning!
 |For goodness' sake don't play that ghastly tune, Algy.
@@ -512,20 +513,20 @@
 |I think it is most ill-natured of her.
 |Oh, Gwendolen is as right as a trivet.
 |As far as she is concerned, we are engaged.
-|Her mother is perfectly unbearable.
+|Her mother is perfectly unbearable. 
 |Never met such a Gorgon...
 |I don't really know what a Gorgon is like,
 |but I am quite sure that Lady Bracknell is one.
 |In any case, she is a monster, without being a myth, which is rather unfair.
-|I beg your pardon, Algy, I suppose I shouldn't talk about your own aunt
+|I beg your pardon, Algy, I suppose I shouldn't talk about your own aunt 
 |in that way before you.
 |My dear boy, I love hearing my relations abused.
 |It is the only thing that makes me put up with them at all.
 |Relations are simply a tedious pack of people,
 |who haven't got the remotest knowledge of how to live, nor the smallest instinct about when to die.
-|Oh, that is nonsense!
+|Oh, that is nonsense! 
 |It isn't!
-|Well, I won't argue about the matter.
+|Well, I won't argue about the matter. 
 |You always want to argue about things.
 |That is exactly what things were originally made for.
 |Upon my word, if I thought that, I'd shoot myself...
@@ -539,7 +540,7 @@
 |and quite as true as any observation in civilised life should be.
 |I am sick to death of cleverness. Everybody is clever nowadays.
 |You can't go anywhere without meeting clever people.
-|The thing has become an absolute public nuisance.
+|The thing has become an absolute public nuisance. 
 |I wish to goodness we had a few fools left.
 |We have.
 |I should extremely like to meet them. What do they talk about?
@@ -547,14 +548,14 @@
 |What fools!
 |By the way, did you tell Gwendolen the truth about your being
 |Ernest in town, and Jack in the country?
-|My dear fellow, the truth isn't quite the sort of thing one tells to a nice, sweet, refined girl.
+|My dear fellow, the truth isn't quite the sort of thing one tells to a nice, sweet, refined girl. 
 |What extraordinary ideas you have about the way to behave to a woman!
 |The only way to behave to a woman is to make love to her,
 |if she is pretty, and to some one else, if she is plain.
 |Oh, that is nonsense.
 |What about your brother? What about the profligate Ernest?
 |Oh, before the end of the week I shall have got rid of him.
-|I'll say he died in Paris of apoplexy.
+|I'll say he died in Paris of apoplexy. 
 |Lots of people die of apoplexy, quite suddenly, don't they?
 |Yes, but it's hereditary, my dear fellow. It's a sort of thing that runs in families.
 |You had much better say a severe chill.
@@ -568,11 +569,11 @@
 |I am glad to say. She has got a capital appetite,
 |goes long walks, and pays no attention at all to her lessons.
 |I would rather like to see Cecily.
-|I will take very good care you never do.
+|I will take very good care you never do. 
 |She is excessively pretty, and she is only just eighteen.
 |Have you told Gwendolen yet that you have an excessively pretty ward
 |who is only just eighteen?
-|Oh! one doesn't blurt these things out to people.
+|Oh! one doesn't blurt these things out to people. 
 |Cecily and Gwendolen are perfectly certain to be extremely great friends.
 |I'll bet you anything you like that half an hour after they have met,
 |they will be calling each other sister.
@@ -594,7 +595,7 @@
 |However, I don't mind hard work where there is no definite object of any kind.
 |Miss Fairfax.
 |Gwendolen, upon my word!
-|Algy, kindly turn your back.
+|Algy, kindly turn your back. 
 |I have something very particular to say to Mr. Worthing.
 |Really, Gwendolen, I don't think I can allow this at all.
 |Algy, you always adopt a strictly immoral attitude towards life.
@@ -606,7 +607,7 @@
 |The old- fashioned respect for the young is fast dying out.
 |Whatever influence I ever had over mamma, I lost at the age of three.
 |But although she may prevent us from becoming man and wife,
-|and I may marry some one else, and marry often,
+|and I may marry some one else, and marry often, 
 |nothing that she can possibly do can alter my eternal devotion to you.
 |Dear Gwendolen!
 |The story of your romantic origin, as related to me by mamma,
@@ -616,9 +617,9 @@
 |Your town address at the Albany I have.
 |What is your address in the country?
 |The Manor House, Woolton, Hertfordshire.
-|There is a good postal service, I suppose?
-|It may be necessary to do something desperate.
-|That of course will require serious consideration.
+|There is a good postal service, I suppose? 
+|It may be necessary to do something desperate. 
+|That of course will require serious consideration. 
 |I will communicate with you daily.
 |My own one!
 |How long do you remain in town?
@@ -645,15 +646,434 @@
 |the only girl I ever cared for in my life.
 |What on earth are you so amused at?
 |Oh, I'm a little anxious about poor Bunbury, that in all.
-|If you don't take care, your friend Bunbury will get you
+|If you don't take care, your friend Bunbury will get you 
 |into a serious scrape some day.
-|I love scrapes.
+|I love scrapes. 
 |They are the only things that are never serious.
 |Oh, that's nonsense, Algy. You never talk anything but nonsense.
 |Nobody ever does.
-
-
-
+|
+|AKT
+|
+|Cecily, Cecily!  Surely such a utilitarian occupation 
+|as the watering of flowers is rather Moulton’s duty than yours?
+|Especially at a moment when intellectual pleasures await you.  
+|Your German grammar is on the table.
+|Pray open it at page fifteen.  
+|We will repeat yesterday’s lesson.  
+|But I don’t like German.  
+|It isn’t at all a becoming language. 
+|I know perfectly well that I look quite plain after my German lesson.  
+|Child, you know how anxious your guardian is that you should improve yourself in every way.
+|He laid particular stress on your German, as he was leaving for town yesterday.
+|Indeed, he always lays stress on your German when he is leaving for town.  
+|Dear Uncle Jack is so very serious!
+|Sometimes he is so serious that I think he cannot be quite well.  
+|Your guardian enjoys the best of health,
+|and his gravity of demeanour is especially to be commended in one so comparatively young as he is.
+|I know no one who has a higher sense of duty and responsibility.  
+|I suppose that is why he often looks a little bored when we three are together.  
+|Cecily!  I am surprised at you.
+|Mr. Worthing has many troubles in his life.  
+|Idle merriment and triviality would be out of place in his conversation.
+|You must remember his constant anxiety 
+|about that unfortunate young man his brother.  
+|I wish Uncle Jack would allow that unfortunate young man, his brother,
+|to come down here sometimes.  
+|We might have a good influence over him, Miss Prism, 
+|I am sure you certainly would.  
+|You know German, and geology, 
+|and things of that kind influence a man very much.  
+|I do not think that even I could produce any effect on a character 
+|that according to his own brother’s admission
+|is irretrievably weak and vacillating.  
+|Indeed I am not sure that I would desire to reclaim him.
+|I am not in favour of this modern mania for turning bad people 
+|into good people at a moment’s notice. 
+|As a man sows so let him reap.  
+|You must put away your diary, 
+|I really don’t see why you should keep a diary at all.
+|I keep a diary in order to enter the wonderful secrets of my life.
+|If I didn’t write them down, I should probably forget all about them.  
+|Memory, my dear Cecily, 
+|is the diary that we all carry about with us.  
+|Yes, but it usually chronicles the things that have never happened, 
+|and couldn’t possibly have happened.
+|I believe that Memory is responsible for nearly all the three-volume novels that Mudie sends us.  
+|Do not speak slightingly of the three-volume novel, 
+|I wrote one myself in earlier days.  
+|Did you really, Miss Prism?  How wonderfully clever you are!
+|I hope it did not end happily?  
+|I don’t like novels that end happily. 
+|They depress me so much.  
+|The good ended happily, and the bad unhappily.  
+|That is what Fiction means.  
+|I suppose so.  But it seems very unfair.  
+|And was your novel ever published?  
+|Alas! no.  
+|The manuscript unfortunately was abandoned. 
+|
+|I use the word in the sense of lost or mislaid.  
+|To your work, child, these speculations are profitless.  
+|But I see dear Dr. Chasuble coming up through the garden.  
+|Dr. Chasuble!  This is indeed a pleasure. 
+|And how are we this morning?  
+|Miss Prism, you are, I trust, well?  
+|Miss Prism has just been complaining of a slight headache.
+|I think it would do her so much good to have a short stroll with you in the Park, Dr. Chasuble.  
+|Cecily, I have not mentioned anything about a headache.  
+|No, dear Miss Prism, I know that, but I felt instinctively that you had a headache.
+|Indeed I was thinking about that, 
+|and not about my German lesson, when the Rector came in.  
+|I hope, Cecily, you are not inattentive.  
+|Oh, I am afraid I am.  
+|That is strange.  
+|Were I fortunate enough to be Miss Prism’s pupil, 
+|I would hang upon her lips. 
+|I spoke metaphorically.
+|My metaphor was drawn from bees.  Ahem!
+|Mr. Worthing, I suppose, has not returned from town yet?  
+|We do not expect him till Monday afternoon.  
+|Ah yes, he usually likes to spend his Sunday in London. 
+|He is not one of those whose sole aim is enjoyment, as, by all accounts, 
+|that unfortunate young man his brother seems to be.  
+|But I must not disturb Egeria and her pupil any longer.  
+|Egeria?  My name is Lætitia, Doctor.  
+|A classical allusion merely, drawn from the Pagan authors.  
+|I shall see you both no doubt at Evensong?
+|I think, dear Doctor, I will have a stroll with you. 
+|I find I have a headache after all,
+|and a walk might do it good.  
+|With pleasure, Miss Prism, with pleasure.
+|We might go as far as the schools and back.  
+|That would be delightful. 
+|Cecily, you will read your Political Economy in my absence.
+| The chapter on the Fall of the Rupee you may omit. It is somewhat too sensational.  
+|Even these metallic problems have their melodramatic side.
+|Horrid Political Economy!  
+|Horrid Geography!  
+|Horrid, horrid German!  
+|Mr. Ernest Worthing has just driven over from the station.  
+|He has brought his luggage with him.  
+|‘Mr. Ernest Worthing, B. 4, The Albany, W.’ 
+|Uncle Jack’s brother!  
+|Did you tell him Mr. Worthing was in town?  
+|Yes, Miss.  He seemed very much disappointed. 
+|I mentioned that you and Miss Prism were in the garden.
+|He said he was anxious to speak to you privately for a moment.  
+|Ask Mr. Ernest Worthing to come here. 
+|I suppose you had better talk to the housekeeper about a room for him.  
+|Yes, Miss.
+|I have never met any really wicked person before.  I feel rather frightened.
+|I am so afraid he will look just like every one else.
+|He does!  
+|You are my little cousin Cecily, I’m sure.  
+|You are under some strange mistake.  I am not little. 
+|In fact, I believe I am more than usually tall for my age. 
+|But I am your cousin. 
+|You, I see from your card, are Uncle Jack’s brother, my cousin Ernest,
+|my wicked cousin Ernest.  
+|Oh! I am not really wicked at all, cousin Cecily!
+|You mustn’t think that I am wicked.  
+|If you are not, then you have certainly been deceiving us all in a very inexcusable manner.
+|I hope you have not been leading a double life,
+|pretending to be wicked and being really good all the time.
+|That would be hypocrisy.  
+|Oh!  Of course I have been rather reckless.  
+|I am glad to hear it.  
+|In fact, now you mention the subject, I have been very bad in my own small way.  
+|I don’t think you should be so proud of that,
+|though I am sure it must have been very pleasant.  
+|It is much pleasanter being here with you.  
+|I can’t understand how you are here at all.  
+|Uncle Jack won’t be back till Monday afternoon.  
+|That is a great disappointment.  
+|I am obliged to go up by the first train on Monday morning.  
+|I have a business appointment that I am anxious...
+|to miss?  
+|Couldn’t you miss it anywhere but in London?  
+|No: the appointment is in London.  
+|Well, I know, of course, how important it is not to keep a business engagement, 
+|if one wants to retain any sense of the beauty of life, 
+|but still I think you had better wait till Uncle Jack arrives.
+|I know he wants to speak to you about your emigrating.  
+|About my what?  
+|Your emigrating.  He has gone up to buy your outfit.  
+|I certainly wouldn’t let Jack buy my outfit.  
+|He has no taste in neckties at all.  
+|I don’t think you will require neckties.  
+|Uncle Jack is sending you to Australia.  
+|Australia!  I’d sooner die.  
+|Well, he said at dinner on Wednesday night, 
+|that you would have to choose between this world, the next world, and Australia.  
+|Oh, well!  The accounts I have received of Australia and the next world, 
+|are not particularly encouraging.  
+|This world is good enough for me, cousin Cecily.  
+|Yes, but are you good enough for it?  
+|I’m afraid I’m not that.  
+|That is why I want you to reform me. 
+|You might make that your mission, 
+|if you don’t mind, cousin Cecily.  
+|I’m afraid I’ve no time, this afternoon.  
+|Well, would you mind my reforming myself this afternoon?  
+|It is rather Quixotic of you.  But I think you should try.  
+|I will.  
+|
+|I feel better already.  
+|You are looking a little worse.  
+|That is because I am hungry.  
+|How thoughtless of me.  
+|I should have remembered that when one is going to lead an entirely new life, 
+|one requires regular and wholesome meals.  
+|Won’t you come in?  
+|Thank you.  Might I have a buttonhole first?  
+|I never have any appetite unless I have a buttonhole first.  
+|A Marechal Niel?
+|No, I’d sooner have a pink rose.  
+|Why?  
+|Because you are like a pink rose, Cousin Cecily.  
+|I don’t think it can be right for you to talk to me like that.  
+|Miss Prism never says such things to me.  
+|Then Miss Prism is a short-sighted old lady.  
+|You are the prettiest girl I ever saw.  
+|Miss Prism says that all good looks are a snare.  
+|They are a snare that every sensible man would like to be caught in.  
+|Oh, I don’t think I would care to catch a sensible man.  
+|I shouldn’t know what to talk to him about. 
+|
+|You are too much alone, dear Dr. Chasuble.
+|You should get married.  
+|A misanthrope I can understand — a womanthrope, never!  
+|Believe me, I do not deserve so neologistic a phrase.  
+|The precept as well as the practice of the Primitive Church 
+|was distinctly against matrimony.  
+|That is obviously the reason why the Primitive Church 
+|has not lasted up to the present day.  
+|And you do not seem to realise, dear Doctor, 
+|that by persistently remaining single, 
+|a man converts himself into a permanent public temptation.  
+|Men should be more careful; 
+|this very celibacy leads weaker vessels astray.  
+|But is a man not equally attractive when married?  
+|No married man is ever attractive except to his wife.  
+|And often, I’ve been told, not even to her.
+|That depends on the intellectual sympathies of the woman.  
+|Maturity can always be depended on.  
+|Ripeness can be trusted.  
+|Young women are green.  
+|I spoke horticulturally.  
+|My metaphor was drawn from fruits.  
+|But where is Cecily?  
+|Perhaps she followed us to the schools. 
+|Mr. Worthing!  
+|Mr. Worthing?  
+|This is indeed a surprise.  
+|We did not look for you till Monday afternoon.  
+|I have returned sooner than I expected.  
+|Dr. Chasuble, I hope you are well?  
+|Dear Mr. Worthing, I trust this garb of woe 
+|does not betoken some terrible calamity?  
+|My brother.  
+|More shameful debts and extravagance?  
+|Still leading his life of pleasure?  
+|Dead!  
+|Your brother Ernest dead?  
+|Quite dead.  
+|What a lesson for him!  
+|I trust he will profit by it.  
+|Mr. Worthing, I offer you my sincere condolence.  
+|You have at least the consolation of knowing 
+|that you were always the most generous and forgiving of brothers.  
+|Poor Ernest!  He had many faults, but it is a sad, sad blow.  
+|Very sad indeed.  
+|Were you with him at the end?  
+|No.  He died abroad; in Paris, in fact.  
+|I had a telegram last night from the manager of the Grand Hotel.  
+|Was the cause of death mentioned?  
+|A severe chill, it seems.  
+|As a man sows, so shall he reap.  
+|Charity, dear Miss Prism, charity!  
+|None of us are perfect.  
+|I myself am peculiarly susceptible to draughts.  
+|Will the interment take place here?  
+|No.  He seems to have expressed a desire to be buried in Paris.  
+|In Paris!  
+|I fear that hardly points to any very serious state of mind at the last.  
+|You would no doubt wish me 
+|to make some slight allusion to this tragic domestic affliction next Sunday.  
+|My sermon on the meaning of the manna in the wilderness 
+|can be adapted to almost any occasion, joyful, 
+|or, as in the present case, distressing. 
+|I have preached it at harvest celebrations, christenings, 
+|confirmations, on days of humiliation and festal days.  
+|The last time I delivered it was in the Cathedral, 
+|as a charity sermon on behalf of 
+|the Society for the Prevention of Discontent among the Upper Orders.  
+|The Bishop, who was present, was much struck by some of the analogies I drew.  
+|Ah! that reminds me, you mentioned christenings I think, Dr. Chasuble?  
+|I suppose you know how to christen all right?  
+|I mean, of course, you are continually christening, aren’t you?  
+|It is, I regret to say, one of the Rector’s most constant duties in this parish.  
+|I have often spoken to the poorer classes on the subject.  
+|But they don’t seem to know what thrift is.  
+|But is there any particular infant in whom you are interested, Mr. Worthing?  
+|Your brother was, I believe, unmarried, was he not?  
+|Oh yes.  
+|People who live entirely for pleasure usually are.  
+|But it is not for any child, dear Doctor.  
+|I am very fond of children.  
+|No! The fact is, I would like to be christened myself, this afternoon, 
+|if you have nothing better to do.  
+|But surely, Mr. Worthing, you have been christened already?  
+|I don’t remember anything about it.  
+|But have you any grave doubts on the subject?  
+|I certainly intend to have.  
+|Of course I don’t know if the thing would bother you in any way, 
+|or if you think I am a little too old now.  
+|Not at all.  
+|The sprinkling, and, indeed, the immersion of adults 
+|is a perfectly canonical practice.  
+|Immersion!  
+|You need have no apprehensions.  
+|Sprinkling is all that is necessary, or indeed I think advisable.  
+|Our weather is so changeable.  
+|At what hour would you wish the ceremony performed?  
+|Oh, I might trot round about five if that would suit you.  
+|Perfectly, perfectly!  
+|In fact I have two similar ceremonies to perform at that time.  
+|A case of twins that occurred recently in one of the outlying cottages 
+|on your own estate.  
+|Poor Jenkins the carter, a most hard-working man.  
+|Oh!  I don’t see much fun in being christened along with other babies.  
+|It would be childish.  
+|Would half-past five do?  
+|Admirably!  Admirably!  
+|And now, dear Mr. Worthing, 
+|I will not intrude any longer into a house of sorrow.  
+|I would merely beg you not to be too much bowed down by grief.  
+|What seem to us bitter trials are often blessings in disguise.  
+|This seems to me a blessing of an extremely obvious kind.  
+|Uncle Jack!  
+|Oh, I am pleased to see you back.  
+|But what horrid clothes you have got on! 
+|Do go and change them.  
+|Cecily!  
+|My child! my child!  
+|What is the matter, Uncle Jack?  
+|Do look happy!  
+|You look as if you had toothache, 
+|and I have got such a surprise for you.  
+|Who do you think is in the dining-room?  
+|Your brother!  
+|Who?  
+|Your brother Ernest.  
+|He arrived about half an hour ago.  
+|What nonsense!  
+|I haven’t got a brother.  
+|Oh, don’t say that.  
+|However badly he may have behaved to you in the past he is still your brother.  
+|You couldn’t be so heartless as to disown him.  
+|I’ll tell him to come out.  
+|And you will shake hands with him, won’t you, Uncle Jack?  
+|These are very joyful tidings.  
+|After we had all been resigned to his loss, 
+|his sudden return seems to me peculiarly distressing.  
+|My brother is in the dining-room?  
+|I don’t know what it all means.  
+|I think it is perfectly absurd.  
+|Good heavens!   
+|Brother John, I have come down from town to tell you 
+|that I am very sorry for all the trouble I have given you, 
+|and that I intend to lead a better life in the future.    
+|Uncle Jack, you are not going to refuse your own brother’s hand?  
+|Nothing will induce me to take his hand.  
+|I think his coming down here disgraceful.  
+|He knows perfectly well why.  
+|Uncle Jack, do be nice.  
+|There is some good in every one.  
+|Ernest has just been telling me about his poor invalid friend Mr. Bunbury, 
+|whom he goes to visit so often.  
+|And surely there must be much good in one who is kind to an invalid, 
+|and leaves the pleasures of London to sit by a bed of pain.  
+|Oh! He has been talking about Bunbury, has he?  
+|Yes, he has told me all about poor Mr. Bunbury, 
+|and his terrible state of health.  
+|Bunbury!  Well, I won’t have him talk to you about Bunbury 
+|or about anything else.  
+|It is enough to drive one perfectly frantic.  
+|Of course I admit that the faults were all on my side.  
+|But I must say that I think that Brother John’s coldness to me 
+|is peculiarly painful.  
+|I expected a more enthusiastic welcome, 
+|especially considering it is the first time I have come here.  
+|Uncle Jack, if you don’t shake hands with Ernest I will never forgive you.  
+|Never forgive me?  
+|Never, never, never!  
+|Well, this is the last time I shall ever do it.   
+|It’s pleasant, is it not, to see so perfect a reconciliation?  
+|I think we might leave the two brothers together.  
+|Cecily, you will come with us.  
+|Certainly, 
+|My little task of reconciliation is over.  
+|You have done a beautiful action to-day, dear child.  
+|We must not be premature in our judgments.  
+|I feel very happy.  
+|You young scoundrel, Algy, you must get out of this place 
+|as soon as possible.  
+|I don’t allow any Bunburying here.  
+|I have put Mr. Ernest’s things in the room next to yours, sir.  
+|I suppose that is all right?  
+|What?  
+|Mr. Ernest’s luggage, sir.  
+|I have unpacked it and put it in the room next to your own.  
+|His luggage?  
+|Yes, sir.  
+|Three portmanteaus, a dressing-case, 
+|two hat-boxes, and a large luncheon-basket.
+|I am afraid I can’t stay more than a week this time.  
+|Merriman, order the dog-cart at once.  
+|Mr. Ernest has been suddenly called back to town.  
+|Yes, sir.   
+|What a fearful liar you are, 
+|I have not been called back to town at all.
+|Yes, you have.  
+|I haven’t heard any one call me.  
+|Your duty as a gentleman calls you back.  
+|My duty as a gentleman has never interfered 
+|with my pleasures in the smallest degree.  
+|I can quite understand that.  
+|Well, Cecily is a darling.  
+|You are not to talk of Miss Cardew like that.  
+|I don’t like it.  
+|Well, I don’t like your clothes.  
+|You look perfectly ridiculous in them.  
+|Why on earth don’t you go up and change?  
+|It is perfectly childish to be in deep mourning for a man 
+|who is actually staying for a whole week with you in your house as a guest.  
+|I call it grotesque.  
+|You are certainly not staying with me for a whole week 
+|as a guest or anything else.  
+|You have got to leave, by the four-five train.  
+|I certainly won’t leave you so long as you are in mourning.  
+|It would be most unfriendly.  
+|If I were in mourning you would stay with me, I suppose.  
+|I should think it very unkind if you didn’t.  
+|Well, will you go if I change my clothes?  
+|Yes, if you are not too long.  
+|I never saw anybody take so long to dress, 
+|and with such little result.  
+|Well, at any rate, 
+|that is better than being always over-dressed as you are.  
+|If I am occasionally a little over-dressed, 
+|I make up for it by being always immensely over-educated.  
+|Your vanity is ridiculous, your conduct an outrage, 
+|and your presence in my garden utterly absurd.  
+|However, you have got to catch the four-five, 
+|and I hope you will have a pleasant journey back to town.  
+|This Bunburying, as you call it, has not been a great success for you.
+|
+|AKT
+|
 |The fact that they did not follow us at once into the house, as any one else would have done
 |seems to me to show that they have some sense of shame left.
 |They have been eating muffins. That looks like repentance.
