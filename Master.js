@@ -44,24 +44,10 @@ var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
 var engelsTitel = d3.select("#original").selectAll("h2");
 
-var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false, preview: 1, postview: 1};
+var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false, preview: 1, postview: 1, blackout: false};
 
 d3.select("html").on('click', forward);
 d3.select("body").on('keydown', keyListener);
-
-function blackout(){
-	nederlands = nederlandsTitel.data([""]);
-	frans = fransTitel.data([""]);
-
-	var black = function (d){
-		return "";
-	}
-
-	nederlands.text(black);
-	frans.text(black);
-
-	globalConnection.send(JSON.stringify({type: "subtitle", nl: "", fr: "", en: getEnglish(subtitle.current, subtitle.preview, subtitle.postview)}));
-};
 
 function getEnglish(a, preview, postview){
 	var enWindow = [];
@@ -97,11 +83,18 @@ function jumpTo(a) {
 		return d;
 	}
 
-	nederlands.text(returnText);
-	frans.text(returnText);
+	var returnCheckBlackout = function(d){
+		if(subtitle.blackout){
+			return "";
+		}
+		return d;
+	}
+
+	nederlands.text(returnCheckBlackout);
+	frans.text(returnCheckBlackout);
 	engels.text(returnText);
 
-	globalConnection.send(JSON.stringify({type: "subtitle", nl:subtitle.nl[a], fr: subtitle.fr[a], en: getEnglish(a, subtitle.preview, subtitle.postview)}));
+	globalConnection.send(JSON.stringify({type: "subtitle", nl:returnCheckBlackout(subtitle.nl[a]), fr: returnCheckBlackout(subtitle.fr[a]), en: getEnglish(a, subtitle.preview, subtitle.postview)}));
 };
 
 function setSize(){
@@ -133,7 +126,8 @@ function keyListener(){
 			setSize();
 		}
 	} else if(d3.event.keyCode == 66){
-		blackout();
+		subtitle.blackout = !subtitle.blackout;
+		jumpTo(subtitle.current);
 	} else if(d3.event.keyCode == 73){
 		globalConnection.send(JSON.stringify({type: "identify"}));
 	} else if(d3.event.keyCode == 77){
