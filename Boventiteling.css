@@ -161,7 +161,7 @@ html, body {
 	 * Subtitles that are current are colored white.
 	 */
 	.current {
-		color: white;
+		color: #C0C0C0;
 	}
 
 	/**
