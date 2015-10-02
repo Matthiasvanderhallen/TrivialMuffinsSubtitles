@@ -853,14 +853,14 @@
 |Vous ne vous rendez pas compte
 |qu’en restant durablement célibataire
 |un homme devient une tentation permanente.
-|//TODO
-|//TODO
+|Les hommes devraient faire plus attention.
+|Ce célibat a déjà fait dévier plus d'une vertueuse.
 |Mais un homme ne peut-il être aussi attirant quand il est marié ?
 |Aucun homme marié n’est attirant sauf pour sa femme.
 |Et souvent, m’a-t-on dit, pas même pour elle.
 |Ça dépend de la femme.
-|On peut avoir confiance dans la maturité
-|//TODO
+|La maturité est constante.
+|On peut avoir confiance dans l'âge
 |mais les jeunes femmes sont trop vertes.
 |C’est une métaphore horticole.
 |Inspiré par les fruits.
@@ -910,13 +910,13 @@
 |La dernière fois, c’était à la cathédrale,
 |je prêchais
 |pour la prévention du mécontentement dans les classes supérieures…
-|//TODO
+|L'évêque qui était présent a été très impressionné par certaines de mes analogies.
 |Excusez-moi, vous avez parlé de baptêmes je crois, Dr Chasuble ?
 |Vous savez sûrement baptiser correctement?
 |Je veux dire, vous baptisez souvent, n’est-ce pas ?
 |Bien sûr, c’est une des fonctions les plus importantes du recteur.
-|//TODO
-|//TODO
+|J'en ai souvent touché un mot aux classes les plus plauvres,
+|Mais ils ne semblent pas savoir ce qu'estla tempérance.
 |Y a-t-il un petit enfant à qui vous vous intéressez particulièrement, M. Worthing?
 |Votre frère était célibataire, je crois ?
 |Oui, oui.
@@ -946,7 +946,7 @@
 |dans votre propriété,
 |du pauvre Jenkins le charretier, un homme qui travaille dur.
 |Euh… ce n’est pas très drôle d’être baptisé avec d’autres bébés.
-|//TODO
+|Ce serait puéril.
 |Pourquoi pas à cinq heures et demie.
 |Excellent! Excellent!
 |Maintenant, cher M. Worthing,
@@ -999,8 +999,8 @@
 |Alors, il vous a parlé de Bunbury, c’est ça ?
 |Oui, il m’a tout raconté au sujet de ce pauvre M. Bunbury
 |et de son terrible état de santé.
-|Bunbury! Je vous défends de l’écouter.
-| //TODO
+|Bunbury! Je vous défends de l’écouter à ce sujet...
+|ou à n'importe quel autre sujet!
 |Il y a de quoi devenir fou!
 |Naturellement, j’admets que les torts sont de mon côté.
 |Tout de même, je dois dire que la froideur de John, mon frère,
@@ -1023,7 +1023,7 @@
 |tout de suite.
 |Je ne te laisserai pas Bunburiser ici!
 |J’ai mis les affaires de M. Constant dans la chambre à côté de la votre, monsieur.
-|//TODO
+|Je suppose que cela vous convient.
 |Quoi ?
 |Les bagages de M. Constant, monsieur.
 |Je les ai mis dans la chambre à côté de la votre.
@@ -1058,7 +1058,7 @@
 | Je ne vais pas te quitter alors que tu es en deuil.
 |Ce serait vraiment inamical.
 |Si j’étais en deuil tu resterais près de moi, n’est-ce pas.
-|//TODO
+|Ce serait très mesquin si tu partais.
 | Bon, tu pars si je me change ?
 | Oui, oui, si ce n’est pas trop long.
 |Je ne connais personne d’aussi lent,
@@ -1596,8 +1596,8 @@
 |Mais parce que je voulais avoir l'occasion de vous rencontrer.
 |Ça parait une explication satisfaisante, n'estce pas?
 |Oui, ma chérie. Et tu le crois?
-|Non. Mais ça ne ternit pas la merveilleuse beauté de sa réponse.
-|//TODO
+|Non. 
+|Mais ça ne ternit pas la merveilleuse beauté de sa réponse.
 |C'est vrai. Dans les questions de grande importance le style est la chose essentielle. Pas la sincérité.
 |Monsieur Worthing, quelle explication pouvez-vous donner au fait de prétendre avoir un frère?
 |Etait-ce pour avoir l'occasion de monter à Londres pour me voir aussi souvent que possible?
@@ -1734,8 +1734,8 @@
 |
 |Non, c'est le profil que je veux voir.
 |Oui, comme j'ai pensée.
-|//TODO
-|//TODO
+|Il y a des possibilités sociales distinctes dans sont profil.
+|Les deux points faibles de notre ère sont sa volonté de principe et de profil.
 |Le menton un peu plus haut, ma chère.
 |Le style dépend beaucoup de la façon dont on porte le menton.
 |On le porte très haut aujourd'hui.
@@ -1806,14 +1806,14 @@
 |restées à l'âge de trente-cinq ans. Par exemple, Lady Dumbleton.
 |A ma connaissance elle a toujours eu trente-cinq ans depuis qu'elle a atteint l'âge de quarante ans,
 |il y a déjà bien des années.
-|//TODO
-|//TODO
+|Je ne vois pas pourquoi cette chère Cecily ne serait pas plus attirante
+|à l'âge que vous mentionnez que maintenant. Elle aura une large accumulation d'avoirs.
 |Algy, pourrais-tu m'attendre jusqu'à mes trente-cinq ans?
 |Bien sûr, Cecily,
 |tu sais que je le peux.
 |Oui, je le sentais bien. Mais moi je ne pourrais pas attendre tout ce temps.
 |J'ai horreur d'attendre, même cinq minutes, pour quoi que ce soit. Ça me met en colère.
-|//TODO
+|Je sais ne pas être ponctuelle moi-même mais j'aime cela chez les autres.
 |Et attendre, surtout pour me marier, est tout à fait hors de question.
 |Que faire alors, Cecily ?
 |Je ne sais pas, monsieur Moncrieff.
@@ -1917,10 +1917,10 @@
 |On dirait bien que c'est le mien.
 |Oui, voici l'éraflure qui s'est produite
 |dans l'omnibus lors de jours plus heureuses.
-|Et là, je vois la tache sur la doublure.
-|//TODO
+|Et là, je vois la tache sur la doublure, suite à l'explosion d'une boisson,
+|incident qui s'est produit à Leamington.
 |Et là sur la fermeture, voici mes initiales.
-|//TODO
+|J'avais oublié que dans un moment d'extravagance, je les y avais placées.
 |Ce sac est le mien sans nul doute.
 |Je suis ravie qu'il me soit rendu de façon aussi inattendue.
 |Si vous saviez comme il m'a manqué pendant toutes ces années.

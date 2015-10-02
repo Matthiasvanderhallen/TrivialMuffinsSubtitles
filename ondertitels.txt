@@ -854,14 +854,14 @@ nr|nederlands|frans|engels
 |U schijnt niet te beseffen, beste dominee,|Vous ne vous rendez pas compte|And you do not seem to realise, dear Doctor,
 |dat een man door hardnekkig vrijgezel te blijven|qu’en restant durablement célibataire|that by persistently remaining single,
 |zichzelf tot een onophoudelijke openbare verleiding maakt.|un homme devient une tentation permanente.|a man converts himself into a permanent public temptation.
-|Mannen zouden zorgvuldiger moeten zijn.|//TODO|Men should be more careful;
-|Het celibaat brengt zwakkere vaten maar op ’t verkeerde pad.|//TODO|this very celibacy leads weaker vessels astray.
+|Mannen zouden zorgvuldiger moeten zijn.|Les hommes devraient faire plus attention.|Men should be more careful;
+|Het celibaat brengt zwakkere vaten maar op ’t verkeerde pad.|Ce célibat a déjà fait dévier plus d'une vertueuse.|this very celibacy leads weaker vessels astray.
 |Maar blijft een man dan niet even aantrekkelijk wanneer hij getrouwd is?|Mais un homme ne peut-il être aussi attirant quand il est marié ?|But is a man not equally attractive when married?
 |Geen getrouwde man is ooit aantrekkelijk, behalve voor zijn vrouw.|Aucun homme marié n’est attirant sauf pour sa femme.|No married man is ever attractive except to his wife.
 |En zelfs voor haar vaak niet, naar ik hoor.|Et souvent, m’a-t-on dit, pas même pour elle.|And often, I’ve been told, not even to her.
 |Dat hangt af van de intellectuele verwachtingen van de vrouw.|Ça dépend de la femme.|That depends on the intellectual sympathies of the woman.
-|Op volgroeidheid kan men rekenen.|On peut avoir confiance dans la maturité|Maturity can always be depended on.
-|Op rijpheid kan men bouwen.|//TODO|Ripeness can be trusted.
+|Op volgroeidheid kan men rekenen.|La maturité est constante.|Maturity can always be depended on.
+|Op rijpheid kan men bouwen.|On peut avoir confiance dans l'âge|Ripeness can be trusted.
 |Jonge vrouwen zijn te groen.|mais les jeunes femmes sont trop vertes.|Young women are green.
 |Ik bedoel dat tuinbouwkundig.|C’est une métaphore horticole.|I spoke horticulturally.
 |Een zinnebeeld ontleent aan fruit.|Inspiré par les fruits.|My metaphor was drawn from fruits.
@@ -911,13 +911,13 @@ nr|nederlands|frans|engels
 |De laatste dat ik het bracht was in de kathedraal,|La dernière fois, c’était à la cathédrale,|The last time I delivered it was in the Cathedral,
 |bij een benefiet preek in naam van|je prêchais|as a charity sermon on behalf of
 |de vereniging voor de preventie van ontevredenheid bij de hogere klassen.|pour la prévention du mécontentement dans les classes supérieures…|the Society for the Prevention of Discontent among the Upper Orders.
-|De bisschop, die aanwezig was, was erg geraakt door sommige van mijn analogieën.|//TODO|The Bishop, who was present, was much struck by some of the analogies I drew.
+|De bisschop, die aanwezig was, was erg geraakt door sommige van mijn analogieën.|L'évêque qui était présent a été très impressionné par certaines de mes analogies.|The Bishop, who was present, was much struck by some of the analogies I drew.
 |Ah, dat doet me eraan denken, u vermeldde dopen, dacht ik, Dr. Chasuble?|Excusez-moi, vous avez parlé de baptêmes je crois, Dr Chasuble ?|Ah! that reminds me, you mentioned christenings I think, Dr. Chasuble?
 |Ik veronderstel dat u mag dopen?|Vous savez sûrement baptiser correctement?|I suppose you know how to christen all right?
 |Ik bedoel natuurlijk, dat u regelmatig doopt, niet?|Je veux dire, vous baptisez souvent, n’est-ce pas ?|I mean, of course, you are continually christening, aren’t you?
 |Jammer genoeg is het een van de dominee’s meest voorkomende bezigheden in deze parochie.|Bien sûr, c’est une des fonctions les plus importantes du recteur.|It is, I regret to say, one of the Rector’s most constant duties in this parish.
-|Ik heb de lagere standen vaak over dit onderwerp aangesproken.|//TODO|I have often spoken to the poorer classes on the subject.
-|Maar ze schijnen niet te weten wat matiging is.|//TODO|But they don’t seem to know what thrift is.
+|Ik heb de lagere standen vaak over dit onderwerp aangesproken.|J'en ai souvent touché un mot aux classes les plus plauvres,|I have often spoken to the poorer classes on the subject.
+|Maar ze schijnen niet te weten wat matiging is.|Mais ils ne semblent pas savoir ce qu'estla tempérance.|But they don’t seem to know what thrift is.
 |Maar hebt u een speciaal kind op het oog, Mr. Worthing?|Y a-t-il un petit enfant à qui vous vous intéressez particulièrement, M. Worthing?|But is there any particular infant in whom you are interested, Mr. Worthing?
 |Uw broer was toch niet getrouwd?|Votre frère était célibataire, je crois ?|Your brother was, I believe, unmarried, was he not?
 |Nee, nee.|Oui, oui.|Oh yes.
@@ -947,7 +947,7 @@ nr|nederlands|frans|engels
 |aan de rand van uw eigen landerijen.|dans votre propriété,|on your own estate.
 |Arme Jenkins, de voorman. Een harde werker.|du pauvre Jenkins le charretier, un homme qui travaille dur.|Poor Jenkins the carter, a most hard-working man.
 |Oh! Ik zie het plezier ervan niet in om gedoopt te worden met andere baby’s.|Euh… ce n’est pas très drôle d’être baptisé avec d’autres bébés.|Oh!  I don’t see much fun in being christened along with other babies.
-|Dat zou kinderlijk zijn.|//TODO|It would be childish.
+|Dat zou kinderlijk zijn.|Ce serait puéril.|It would be childish.
 |Komt half zes ook gelegen?|Pourquoi pas à cinq heures et demie.|Would half-past five do?
 |Uitmuntend! Uitmuntend!|Excellent! Excellent!|Admirably!  Admirably!
 |En nu Mr. Worthing,|Maintenant, cher M. Worthing,|And now, dear Mr. Worthing,
@@ -1000,8 +1000,8 @@ nr|nederlands|frans|engels
 |Wat !? Bunbury! Hij heeft het over Bunbury gehad, hè|Alors, il vous a parlé de Bunbury, c’est ça ?|Oh! He has been talking about Bunbury, has he?
 |Jazeker, hij heeft me alles verteld over arme bunbury|Oui, il m’a tout raconté au sujet de ce pauvre M. Bunbury|Yes, he has told me all about poor Mr. Bunbury,
 |en zijn betreurenswaardige gezondheid.|et de son terrible état de santé.|and his terrible state of health.
-|Wel, ik laat hem niet zomaar vertellen over Bunbury|Bunbury! Je vous défends de l’écouter.|Bunbury!  Well, I won’t have him talk to you about Bunbury
-|of over wat dan ook.| //TODO|or about anything else.
+|Wel, ik laat hem niet zomaar vertellen over Bunbury|Bunbury! Je vous défends de l’écouter à ce sujet...|Bunbury!  Well, I won’t have him talk to you about Bunbury
+|of over wat dan ook.|ou à n'importe quel autre sujet!|or about anything else.
 |Hier wordt een mens toch horendol van.|Il y a de quoi devenir fou!|It is enough to drive one perfectly frantic.
 |Natuurlijk, het is allemaal mijn schuld.|Naturellement, j’admets que les torts sont de mon côté.|Of course I admit that the faults were all on my side.
 |Maar ik moet zeggen dat je koelte|Tout de même, je dois dire que la froideur de John, mon frère,|But I must say that I think that Brother John’s coldness to me
@@ -1024,7 +1024,7 @@ nr|nederlands|frans|engels
 |Zo snel mogelijk!|tout de suite.|as soon as possible.
 |Ik wil geen gebunburie hier.|Je ne te laisserai pas Bunburiser ici!|I don’t allow any Bunburying here.
 |Ik heb de spullen van Mr. Ernst in de kamer naast de uwe gezet, meneer.|J’ai mis les affaires de M. Constant dans la chambre à côté de la votre, monsieur.|I have put Mr. Ernest’s things in the room next to yours, sir.
-|Ik veronderstel dat dit naar behoren is.|//TODO|I suppose that is all right?
+|Ik veronderstel dat dit naar behoren is.|Je suppose que cela vous convient.|I suppose that is all right?
 |Wat?|Quoi ?|What?
 |De bagage van Mr. Ernst, meneer.|Les bagages de M. Constant, monsieur.|Mr. Ernest’s luggage, sir.
 |Ik heb ze uitgepakt en in de kamer naast de uwe geplaatst.|Je les ai mis dans la chambre à côté de la votre.|I have unpacked it and put it in the room next to your own.
@@ -1059,7 +1059,7 @@ nr|nederlands|frans|engels
 |Ik ga niet weg zolang jij in de rouw bent.| Je ne vais pas te quitter alors que tu es en deuil.|I certainly won’t leave you so long as you are in mourning.
 |Dat zou onhoffelijk zijn.|Ce serait vraiment inamical.|It would be most unfriendly.
 |Als ik in de rouw was zou jij ook bij me blijven, denk ik.|Si j’étais en deuil tu resterais près de moi, n’est-ce pas.|If I were in mourning you would stay with me, I suppose.
-|Ik zou het zeer onhoffelijk vinden als je dat niet zou doen.|//TODO|I should think it very unkind if you didn’t.
+|Ik zou het zeer onhoffelijk vinden als je dat niet zou doen.|Ce serait très mesquin si tu partais.|I should think it very unkind if you didn’t.
 |Je vertrekt dus als ik iets anders aantrek?| Bon, tu pars si je me change ?|Well, will you go if I change my clothes?
 |Als je er niet te lang over doet.| Oui, oui, si ce n’est pas trop long.|Yes, if you are not too long.
 |Ik ken niemand die er zolang over doet om zich te kleden,|Je ne connais personne d’aussi lent,|I never saw anybody take so long to dress,
@@ -1597,8 +1597,8 @@ nr|nederlands|frans|engels
 |Omdat me dat een gelegenheid bood om jou te ontmoeten.|Mais parce que je voulais avoir l'occasion de vous rencontrer.|In order that I might have an opportunity of meeting you.
 |Dat lijkt me een bevredigende verklaring.|Ça parait une explication satisfaisante, n'estce pas?|That certainly seems a satisfactory explanation, does it not?
 |Zeker, liefje, als je hem tenminste gelooft.|Oui, ma chérie. Et tu le crois?|Yes, dear, if you can believe him.
-|Daar is geen sprake van.|Non. Mais ça ne ternit pas la merveilleuse beauté de sa réponse.|I don't.
-|Maar dat doet aan de wonderbaarlijke schoonheid van zijn antwoord geen afbreuk.|//TODO|But that does not affect the wonderful beauty of his answer.
+|Daar is geen sprake van.|Non. |I don't.
+|Maar dat doet aan de wonderbaarlijke schoonheid van zijn antwoord geen afbreuk.|Mais ça ne ternit pas la merveilleuse beauté de sa réponse.|But that does not affect the wonderful beauty of his answer.
 |Dat is waar. Als het om echt belangrijke dingen gaat komt het op stijl en niet op oprechtheid.|C'est vrai. Dans les questions de grande importance le style est la chose essentielle. Pas la sincérité.|True. In matters of grave importance, style, not sincerity is the vital thing.
 |Mr. Worthing, welke verklaring kunt u mij geven voor het feit dat u deed alsof u een broer had?|Monsieur Worthing, quelle explication pouvez-vous donner au fait de prétendre avoir un frère?| Mr. Worthing, what explanation can you offer to me for pretending to have a brother?
 |Was het omdat dat u een gelegenheid bood om mij zo dikwijls in de stad op te zoeken?|Etait-ce pour avoir l'occasion de monter à Londres pour me voir aussi souvent que possible?|Was it in order that you might have an opportunity of coming up to town to see me as often as possible?
@@ -1735,8 +1735,8 @@ nr|nederlands|frans|engels
 |||
 |Nee, nee, ik moet het zijzicht hebben.|Non, c'est le profil que je veux voir.|No, the side view is what I want.
 |Ja, precies wat ik verwachtte.|Oui, comme j'ai pensée.|Yes, quite as I expected.
-|Je profiel biedt bepaalde sociale mogelijkheden.|//TODO|There are distinct social possibilities in your profile.
-|De zwakke punten van de huidige tijd zijn de hang naar principes en de hang naar profiel.|//TODO|The two weak points in our age are its want of principle and its want of profile.
+|Je profiel biedt bepaalde sociale mogelijkheden.|Il y a des possibilités sociales distinctes dans sont profil.|There are distinct social possibilities in your profile.
+|De zwakke punten van de huidige tijd zijn de hang naar principes en de hang naar profiel.|Les deux points faibles de notre ère sont sa volonté de principe et de profil.|The two weak points in our age are its want of principle and its want of profile.
 |De kin een beetje hoger, liefje.|Le menton un peu plus haut, ma chère.|The chin a little higher, dear.
 |Stijl wordt voor voornamelijk bepaald door de manier waarop de kin gehouden wordt.|Le style dépend beaucoup de la façon dont on porte le menton.|Style largely depends on the way the chin is worn.
 |Momenteel wordt hij erg hoog gedragen.|On le porte très haut aujourd'hui.|They are worn very high, just at present.
@@ -1807,14 +1807,14 @@ nr|nederlands|frans|engels
 |jarenlang vijfendertig zijn gebleven. Lady Dumbleton bijvoorbeeld.|restées à l'âge de trente-cinq ans. Par exemple, Lady Dumbleton.|remained thirty-five for years. Lady Dumbleton is an instance in point.
 |Ze is al sinds haar veertigste vijfendertig,|A ma connaissance elle a toujours eu trente-cinq ans depuis qu'elle a atteint l'âge de quarante ans,|To my own knowledge she has been thirty-five ever since she arrived at the age of forty,
 |en dat is toch ook al een hele tijd geleden.|il y a déjà bien des années.|which was many years ago now.
-|Ik zie geen reden waarom onze liefste Cecily niet nog veel aantrekkelijker zou zijn|//TODO|I see no reason why our dear Cecily should not be even still more attractive
-|op die leeftijd vergeleken met nu. Tegen dan heeft ze al heel wat rijkdom vergaard.|//TODO|at the age you mention than she is at present. There will be a large accumulation of property.
+|Ik zie geen reden waarom onze liefste Cecily niet nog veel aantrekkelijker zou zijn|Je ne vois pas pourquoi cette chère Cecily ne serait pas plus attirante|I see no reason why our dear Cecily should not be even still more attractive
+|op die leeftijd vergeleken met nu. Tegen dan heeft ze al heel wat rijkdom vergaard.|à l'âge que vous mentionnez que maintenant. Elle aura une large accumulation d'avoirs.|at the age you mention than she is at present. There will be a large accumulation of property.
 |Algy ... zou je tot mijn vijfendertigste op me kunnen wachten?|Algy, pourrais-tu m'attendre jusqu'à mes trente-cinq ans?|Algy, could you wait for me till I was thirty-five?
 |Natuurlijk kan ik dat, Cecily.|Bien sûr, Cecily,|Of course I could,
 |Hoe kun je me zoiets vragen?|tu sais que je le peux.|You know I could.
 |Ja, ik voelde dat intuïtief wel aan, maar ik zou zelf zolang niet kunnen wachten.|Oui, je le sentais bien. Mais moi je ne pourrais pas attendre tout ce temps.|Yes, I felt it instinctively, but I couldn't wait all that time.
 |Ik kan nauwelijks 5 minuten wachten op eender wat. Ik word daar altijd lichtjes geïriteerd van.|J'ai horreur d'attendre, même cinq minutes, pour quoi que ce soit. Ça me met en colère.|I hate waiting even five minutes for anybody. It always makes me rather cross.
-|Ik ben zelf helemaal niet punctueel, maar ik hou van punctualiteit bij anderen.|//TODO|I am not punctual myself, I know, but I do like punctuality in others,
+|Ik ben zelf helemaal niet punctueel, maar ik hou van punctualiteit bij anderen.|Je sais ne pas être ponctuelle moi-même mais j'aime cela chez les autres.|I am not punctual myself, I know, but I do like punctuality in others,
 |In wachten, al is het dan nog om te trouwen, heb ik helemaal geen zin.|Et attendre, surtout pour me marier, est tout à fait hors de question.|and waiting, even to be married, is quite out of the question.
 |Wat doen we dan, Cecily?|Que faire alors, Cecily ?|Then what is to be done, Cecily?
 |Ik zou het niet weten, Mr. Moncrieff.|Je ne sais pas, monsieur Moncrieff.|I don't know, Mr. Moncrieff.
@@ -1918,10 +1918,10 @@ nr|nederlands|frans|engels
 |Het lijkt me de mijne.|On dirait bien que c'est le mien.|It seems to be mine.
 |Ja, deze beschadiging in de bekleding werd veroorzaakt|Oui, voici l'éraflure qui s'est produite|Yes, here is the injury it received
 |door een bruuske beweging van een autobus in eerdere gelukkigere dagen.|dans l'omnibus lors de jours plus heureuses.|through the upsetting of a Gower Street omnibus in younger and happier days.
-|En hier is de vlek op de voering veroorzaakt door het ontploffen van een drankje,|Et là, je vois la tache sur la doublure.|Here is the stain on the lining caused by the explosion of a temperance beverage,
-|een ongeluk dat gebeurde in Leamington.|//TODO|an incident that occurred at Leamington.
+|En hier is de vlek op de voering veroorzaakt door het ontploffen van een drankje,|Et là, je vois la tache sur la doublure, suite à l'explosion d'une boisson,|Here is the stain on the lining caused by the explosion of a temperance beverage,
+|een ongeluk dat gebeurde in Leamington.|incident qui s'est produit à Leamington.|an incident that occurred at Leamington.
 |En hier, op het slot, staan mijn initialen.|Et là sur la fermeture, voici mes initiales.| And here, on the lock, are my initials.
-|Ik was vergeten dat ik die er in een uitbundige bui op had laten zetten.|//TODO| I had forgotten that in an extravagant mood I had had them placed there.
+|Ik was vergeten dat ik die er in een uitbundige bui op had laten zetten.|J'avais oublié que dans un moment d'extravagance, je les y avais placées.| I had forgotten that in an extravagant mood I had had them placed there.
 |Het is zonder twijfel mijn tas.|Ce sac est le mien sans nul doute.|The bag is undoubtedly mine.
 |Ik ben ongelooflijk blij dat ik hem zo plotseling weer terug heb.|Je suis ravie qu'il me soit rendu de façon aussi inattendue.|I am delighted to have it so unexpectedly restored to me.
 |Ik heb hem al die jaren maar moeilijk kunnen missen.|Si vous saviez comme il m'a manqué pendant toutes ces années.|It has been a great inconvenience being without it all these years.
