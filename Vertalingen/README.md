@@ -1,4 +1,4 @@
-#Formaat
+#Format
 Three files represent the three different languages:
 *Engelse vertaling.txt
 *Franse vertaling.txt
