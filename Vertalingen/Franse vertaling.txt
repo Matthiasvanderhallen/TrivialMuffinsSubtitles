@@ -2,8 +2,8 @@
 | Je ne pensais pas qu'il était respectueux d'écouter, monsieur.
 | Quel dommage pour vous. Je ne joue pas très bien, tout le monde peut jouer bien,
 | mais je joue d'une façon merveilleusement expressive.
-| En ce qui concerne le piano, la douceur est ma force.// <As far as piano is concerned...>
-| En ce qui concerne le piano, la douceur est ma force.// <As far as piano is concerned...>
+| En ce qui concerne le piano, la douceur est ma force.
+| En ce qui concerne le piano, la douceur est ma force.
 | Oui, monsieur.
 | Oui, monsieur.
 | Lane, avez-vous préparé les sandwiches au concombre pour Lady Bracknell?
@@ -93,7 +93,7 @@
 | Je ne connais personne du nom de Cecily.
 | Apportez-moi l’étui à cigarettes que M. Worthing
 | a laissé dans le fumoir la dernière fois qu’il a diné ici.
-| Oui, monsieur. //
+| Oui, monsieur.
 | Veux-tu dire que tu as gardé mon étui pendant tout ce temps.
 | Tu aurais pu me le dire. J’ai écrit des lettres frénétiques à Scotland Yard,
 | j’ai même failli offrir une grosse récompense.
@@ -124,7 +124,7 @@
 | C’est une question qu’une tante a le droit de décider elle-même.
 | Tu sembles croire que toutes les tantes doivent être exactement comme la tienne! C’est absurde!
 | Allez, pour l’amour du ciel, rendsmoi mon étui à cigarettes.
-| Oui, oui. Mais pourquoi ta tante t’appelle-t-elle son oncle? //Wat loopt er hier mis?
+| Oui, oui. Mais pourquoi ta tante t’appelle-t-elle son oncle?
 | 'De la petite Cecily à son cher Oncle Jack, avec son affection la plus vive'.
 | Bien sûr, je l’admets, une tante peut être une petite tante
 | mais pourquoi une tante, quelle que soit sa taille,
@@ -193,7 +193,7 @@
 | Tu ferais mieux de dîner avec ta Tante Augusta.
 | Je n’en ai pas la moindre intention.
 | D’abord, j’ai dîné avec elle lundi, et dîner une fois la semaine avec la famille, c’est bien suffisant.
-| Ensuite quand je dîne chez elle, elle me regarde toujours comme un membre de la famille.  //
+| Ensuite quand je dîne chez elle, elle me regarde toujours comme un membre de la famille.
 |je suis toujours placé près de deux femmes, ou aucune.
 | Enfin je sais parfaitement bien avec qui elle me mettrait ce soir.
 | Elle me placerait près de Marie Farquhar
@@ -304,7 +304,7 @@
 |C’est bien ce que je pensais. En fait, je ne me trompe jamais.
 |J’aimerais que vous me permettiez de profiter de l’absence temporaire de Lady Bracknell…
 |Oui, oui. Mais maman a une façon bien à elle de revenir brusquement…
-|je dois à chaque fois lui faire la remarque. //
+|je dois à chaque fois lui faire la remarque.
 |Miss Fairfax, depuis que je vous ai vue, je vous ai admirée plus que toutes les femmes…
 |que j’avais vues avant… de vous avoir vue.
 |Oui, j’ai très bien remarqué ça.
@@ -313,7 +313,7 @@
 |Même avant notre première rencontre, vous étiez loin de me laisser indifférente.
 |Nous vivons, et j’espère que vous le savez, M. Worthing, à l’Âge de l’Idéal.
 |C’est ce qu’on dit dans les magazines les plus coûteux.
-| et les moins coûteux, également. //
+| et les moins coûteux, également.
 |Et mon idéal a toujours été d’aimer quelqu’un du nom de Constant.
 |Il y a quelque chose dans ce nom qui m’inspire une confiance absolue.
 |Quand Algernon a expliqué pour la première fois qu’il avait un ami appelé Constant,
@@ -338,7 +338,7 @@
 |J’ai connu plusieurs Jack et tous, sans exception, étaient terriblement ordinaires.
 |D’ailleurs, Jack n’est qu’un diminutif pour John.
 |Et je plains une femme qui épouserait un homme appelé John.
-|Elle ne sera jamais seule. //
+|Elle ne sera jamais seule.
 |Non, Constant est le seul nom possible.
 |Gwendolen, il faut que je me fasse baptiser -
 |Je veux dire, nous devons nous marier tout de suite!
@@ -409,7 +409,7 @@
 |Toute la théorie moderne de l’éducation est radicalement stupide.
 |Fort heureusement, en Angleterre, l’éducation ne produit aucun effet d’aucune sorte
 |Sinon il s’ensuivrait de graves dangers pour les classes supérieures.
-|et des révoltes à Grosvenor Square.//
+|et des révoltes à Grosvenor Square.
 |Quel est votre revenu?
 |Entre sept et huit mille livres par an.
 |En terres ou en placements?
@@ -418,11 +418,11 @@
 |De nos jours, suite à nos devoirs terrestres
 |Et puis les taxes prélevées sur l'autre monde,
 |la terre n’est plus ni un profit, ni un plaisir.
-|Elle donne une position sociale, mais empêche de la garder //
+|Elle donne une position sociale, mais empêche de la garder
 |c’est tout ce qu’on peut en dire.
 |J’ai une maison de campagne avec un peu de terre, naturellement, à peu près quinze cent acres,
 |Mais ce n’est pas de là que vient mon revenu réel.
-|En fait si j’ai bien compris, il n’y a que les braconniers qui en tirent quelque chose.//
+|En fait si j’ai bien compris, il n’y a que les braconniers qui en tirent quelque chose.
 |Une maison de campagne! De combien de pièces?
 |Enfin, nous verrons cela plus tard.
 |Vous avez une maison de ville, j’espère?
@@ -853,14 +853,14 @@
 |Vous ne vous rendez pas compte
 |qu’en restant durablement célibataire
 |un homme devient une tentation permanente.
-|
-|
+|//TODO
+|//TODO
 |Mais un homme ne peut-il être aussi attirant quand il est marié ?
 |Aucun homme marié n’est attirant sauf pour sa femme.
 |Et souvent, m’a-t-on dit, pas même pour elle.
 |Ça dépend de la femme.
 |On peut avoir confiance dans la maturité
-|
+|//TODO
 |mais les jeunes femmes sont trop vertes.
 |C’est une métaphore horticole.
 |Inspiré par les fruits.
@@ -910,13 +910,13 @@
 |La dernière fois, c’était à la cathédrale,
 |je prêchais
 |pour la prévention du mécontentement dans les classes supérieures…
-|
+|//TODO
 |Excusez-moi, vous avez parlé de baptêmes je crois, Dr Chasuble ?
 |Vous savez sûrement baptiser correctement?
 |Je veux dire, vous baptisez souvent, n’est-ce pas ?
 |Bien sûr, c’est une des fonctions les plus importantes du recteur.
-|
-|
+|//TODO
+|//TODO
 |Y a-t-il un petit enfant à qui vous vous intéressez particulièrement, M. Worthing?
 |Votre frère était célibataire, je crois ?
 |Oui, oui.
@@ -946,7 +946,7 @@
 |dans votre propriété,
 |du pauvre Jenkins le charretier, un homme qui travaille dur.
 |Euh… ce n’est pas très drôle d’être baptisé avec d’autres bébés.
-|
+|//TODO
 |Pourquoi pas à cinq heures et demie.
 |Excellent! Excellent!
 |Maintenant, cher M. Worthing,
@@ -1023,7 +1023,7 @@
 |tout de suite.
 |Je ne te laisserai pas Bunburiser ici!
 |J’ai mis les affaires de M. Constant dans la chambre à côté de la votre, monsieur.
-| //TODO
+|//TODO
 |Quoi ?
 |Les bagages de M. Constant, monsieur.
 |Je les ai mis dans la chambre à côté de la votre.
@@ -1597,8 +1597,8 @@
 |Ça parait une explication satisfaisante, n'estce pas?
 |Oui, ma chérie. Et tu le crois?
 |Non. Mais ça ne ternit pas la merveilleuse beauté de sa réponse.
-|C'est vrai. //TODO
-|Dans les questions de grande importance le style est la chose essentielle. Pas la sincérité.
+|//TODO
+|C'est vrai. Dans les questions de grande importance le style est la chose essentielle. Pas la sincérité.
 |Monsieur Worthing, quelle explication pouvez-vous donner au fait de prétendre avoir un frère?
 |Etait-ce pour avoir l'occasion de monter à Londres pour me voir aussi souvent que possible?
 |Pouvez-vous en douter, miss Fairfax?

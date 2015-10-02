@@ -15,12 +15,15 @@ This way, you can easily check that the text at a certain line number is the sam
 #Checking tips
 
 Some useful regexes exist to see whether all separate langauge files conform to the syntax rules.
-``
-\| : This must equal the total number of lines in the file
-\n[^\n] : This represents a new line, without a | at the start. Expected #: 0.
-[^\n]| : This represents a | that is not the first character of a line. Expected #: 0.
+
+*`\|` : This must equal the total number of lines in the file
+*`\n[^\n]` : This represents a new line, without a | at the start. Expected #: 0.
+*`[^\n]|` : This represents a | that is not the first character of a line. Expected #: 0.
 
 #Merging
 The command ``./merger`` creates a file called output.txt that represents the merged languages. Move it to a file called ondertitels.txt on the HTTP Server to load it.
 Reload the Master webpage to reflect these changes.
+
+For this merger file, the following might be a useful, albeit imperfect, regex:
+*`\n\|\s*.+?\|\s*\|\s*.+?\n`: By playing around with the location of `.+?` you can find lines wich are blank in one or two languages, but given in a third. These should be checked explicitly.
 
