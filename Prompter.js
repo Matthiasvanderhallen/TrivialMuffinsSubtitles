@@ -101,7 +101,7 @@ function showSubtitle(en){
     }
   }
 
-  prompt.text(returnText);
+  prompt.html(returnText);
 }
 
 var reconnect = inject(function(){

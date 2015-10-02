@@ -91,9 +91,9 @@ function jumpTo(a) {
 		return d;
 	}
 
-	nederlands.text(returnCheckBlackout);
-	frans.text(returnCheckBlackout);
-	engels.text(returnText);
+	nederlands.html(returnCheckBlackout);
+	frans.html(returnCheckBlackout);
+	engels.html(returnText);
 
 	globalConnection.send(JSON.stringify({type: "subtitle", nl:returnCheckBlackout(subtitle.nl[a]), fr: returnCheckBlackout(subtitle.fr[a]), en: getEnglish(a, subtitle.preview, subtitle.postview)}));
 };
