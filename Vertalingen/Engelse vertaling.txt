@@ -1983,7 +1983,9 @@
 |Generals M. Mallam, Maxbohm, Magley, what ghastly names they have,
 |Markby, Migsby, Mobbs, Moncrieff!
 |Lieutenant 1840, Captain, Lieutenant-Colonel, Colonel, General 1869.
-|Christian names: Ernest John.
+|Christian names:
+|Ernest 
+|John.
 |I always told you, Gwendolen, my name was Ernest, didn't I?
 |Well, it is Ernest after all.  I mean it naturally is Ernest.
 |Yes, I remember now that the General was called Ernest,

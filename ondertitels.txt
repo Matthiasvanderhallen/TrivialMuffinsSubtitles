@@ -1984,7 +1984,9 @@ nr|nederlands|frans|engels
 |Generaals M. Mallam, Maxbohm, Magley, wat een afgrijselijke namen allemaal,|Généraux M. Mallam, Maxbohm, Magley, quels drôles de noms,|Generals M. Mallam, Maxbohm, Magley, what ghastly names they have,
 |Markby, Migsby, Mobbs, Moncrieff!| Markby, Migsby, Mobbs, Moncrieff!|Markby, Migsby, Mobbs, Moncrieff!
 |Luitenant 1840, kapitein, luitenant-kolonel, kolonel, generaal 1860.|Lieutenant en 1840, capitaine, lieutenant-colonel, colonel, général en 1869.|Lieutenant 1840, Captain, Lieutenant-Colonel, Colonel, General 1869.
-|Voornamen: Ernst John.|Prénom : Constant!|Christian names: Ernest John.
+|Voornamen:|Prénom : |Christian names:
+|Ernst|Constant!|Ernest 
+|John.|John|John.
 |Ik heb je toch altijd gezegd, Gwendolen, dat ik Ernst heette?|Je te l'ai toujours dit, Gwendolen, que mon nom c'était Constant, n'est-ce pas?|I always told you, Gwendolen, my name was Ernest, didn't I?
 |Welnu, het is Ernst.|Eh bien c'est Constant, naturellement.|Well, it is Ernest after all.  I mean it naturally is Ernest.
 |Ja, nu herinner ik me ook dat de generaal Ernst heette.| Oui, je me souviens maintenant que le général s'appelait Constant.|Yes, I remember now that the General was called Ernest,
