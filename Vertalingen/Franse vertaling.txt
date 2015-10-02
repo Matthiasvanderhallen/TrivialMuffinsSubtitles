@@ -83,7 +83,7 @@
 | Comment ça?
 | D’abord, les filles n’épousent pas leurs flirts. Elles pensent que ce n’est pas correct.
 | C’est absurde!
-| Pas du tout, c’est profond. 
+| Pas du tout, c’est profond.
 |Cela explique l’incroyable nombre de célibataires qu’on trouve partout.
 | Ensuite, je ne donne pas mon consentement.
 | Ton consentement!
@@ -124,212 +124,212 @@
 | C’est une question qu’une tante a le droit de décider elle-même.
 | Tu sembles croire que toutes les tantes doivent être exactement comme la tienne! C’est absurde!
 | Allez, pour l’amour du ciel, rendsmoi mon étui à cigarettes.
- | Oui, oui. Mais pourquoi ta tante t’appelle-t-elle son oncle? //Wat loopt er hier mis?
- | 'De la petite Cecily à son cher Oncle Jack, avec son affection la plus vive'.
- | Bien sûr, je l’admets, une tante peut être une petite tante
- | mais pourquoi une tante, quelle que soit sa taille,
- | appellerait elle 'mon oncle' son propre neveu, je n’y comprends rien.
- | En plus ton nom n’est pas du tout Jack, c’est Constant.
- | Ce n’est pas Constant, c’est Jack.
- | Tu m’as toujours dit que c’était Constant. Je t’ai présenté à tout le monde sous le nom de Constant.
- | Tu réponds au nom de Constant. Tu as l’air de t’appeler Constant.
- | Tu es l’homme qui a l’air le plus constant que j’ai jamais vu.
- | C’est totalement absurde de dire que ton nom n’est pas Constant. C’est marqué sur tes cartes.
- | En voilà une. 'Monsieur Constant Worthing, B. 4, The Albany.'
- | Je la garde comme preuve que ton nom est bien Constant
- | au cas tu essaierais de nier la chose devant Gwendolen ou même n’importe qui.
- | Eh bien mon nom est Constant à la ville et Jack à la campagne et, l’étui, on me l’a donné à la campagne.
- | Bien, bien. Mais ça n’explique pas que ta petite tante Cecily
- | qui vit à Tunbridge Wells, t’appelle mon cher oncle. 
- |Allez mon vieux, tu ferais mieux de tout déballer.
- | Algy, mon cher, tu parles exactement comme un dentiste.
- | C’est extrêmement vulgaire de parler comme un dentiste quand on n’est pas un dentiste.
- | Cela crée un malaise.
- | Bon, bon! Allez, maintenant dis-moi tout.
- | Je dois dire que je t’ai toujours soupçonné d’être un Bunburiste clandestin
- | et j’en suis tout à fait sûr maintenant.
- | Bunburiste? C’est quoi sur terre un Bunburiste?
- | Je te révélerai le sens caché de ce mot dès que tu m’auras dit
- | pourquoi tu es Constant à la ville et Jack à la campagne.
- | Bon. Donne-moi d’abord mon étui.
- | Le voilà. Maintenant, j’écoute tes explications et s’il te plait fais-les bien improbables.
- | Mon cher, il n’y a rien d’improbable dans mes explications. En fait la situation est tout à fait banale.
- | Le vieux M. Thomas Cardew qui m’a adopté quand j’étais petit m’a désigné dans son testament
- | comme tuteur de sa petite-fille, Mlle Cecily Cardew.
- | Cecily, qui me considère comme son oncle par respect ce que tu es bien incapable de comprendre
- | vit chez moi à la campagne, sous la responsabilité de son admirable gouvernante, Miss Prism.
- | Et où ça, à la campagne?
- | Tu n’as rien à y faire, mon vieux et tu n’es pas près d’être invité…
- | Tout ce que je peux te dire c’est que ce n’est pas dans le Shropshire.
- | Je m’en doutais, mon cher, J’ai Bunburisé dans le Shropshire en deux occasions différentes.
- | Mais tu n’as pas tout dit. Pourquoi es-tu Constant à la ville et Jack à la campagne?
- | Ecoute, je ne suis pas sûr que tu sois capable de comprendre mes vraies raisons.
- | Tu n’es pas assez sérieux. Quand on se trouve dans la situation de tuteur
- | on doit montrer une attitude hautement morale sur tous les sujets.
- | C’est un devoir. 
- | Et comme une attitude hautement morale n’est pas compatible avec la santé et le plaisir,
- | quand je veux aller en ville je prétends toujours que j’ai un jeune frère 
- |du nom de Constant qui vit à Albany, et qui mène la vie la plus dissipée. 
- | Voilà, mon cher, la vérité pure et simple.
- | La vérité est rarement pure et jamais simple.
- | Sinon la vie moderne serait profondément ennuyeuse
- | et la littérature moderne tout à fait impossible.
- | Ce ne serait pas une mauvaise chose.
- | La critique littéraire n’est pas ton point fort, mon vieux.
- | Inutile d’essayer, laisse donc ça aux types qui ne sont pas allés à l’Université.
- | Ils font ça très bien dans les journaux. En fait ce que tu es vraiment, c’est un Bunburiste.
- | J’avais tout à fait raison en disant que tu es un Bunburiste, le plus parfait que je connaisse.
- | Mais bon sang qu’est-ce que ça veut dire?
- | Tu t’es inventé un jeune frère bien utile appelé Constant
- | pour pouvoir aller en ville aussi souvent que tu veux.
- | Moi j’ai inventé Bunbury, un grand malade qui me permet
- | de filer à la campagne aussi souvent que je veux. Bunbury est très commode.
- | Par exemple, sans sa terrible mauvaise santé, 
- |je ne pourrais pas dîner ce soir au Willis’s avec toi 
- |car je suis retenu par Tante Augusta depuis déjà huit jours.
- | Je ne t’ai pas prié de dîner avec moi ce soir, où que ce soit
- | Je sais. Tu es absurdement négligent pour tes invitations.
- | C’est bête, rien n’est aussi ennuyeux que de ne pas recevoir d’invitations.
- | Tu ferais mieux de dîner avec ta Tante Augusta.
- | Je n’en ai pas la moindre intention.
- | D’abord, j’ai dîné avec elle lundi, et dîner une fois la semaine avec la famille, c’est bien suffisant.
- | Ensuite quand je dîne chez elle, elle me regarde toujours comme un membre de la famille.  //
- |je suis toujours placé près de deux femmes, ou aucune.
- | Enfin je sais parfaitement bien avec qui elle me mettrait ce soir.
- | Elle me placerait près de Marie Farquhar
- | qui flirte toujours par-dessus la table avec son propre mari.
- | ce n'est pas très plaisant. En fait, ce n'est même pas décent.
- |Ce genre de choses arrive de plus en plus souvent.
- | La quantité de femmes à Londres qui flirtent avec leur mari est parfaitement scandaleuse.
- | C’est vraiment moche, c’est tout simplement laver son linge sale en public.
- | Bon, maintenant que je sais que tu es un Bunburiste il faut que je te parle de la technique.
- | Je veux t'expliquer les règles.
- | Je ne suis pas du tout un Bunburiste. Si Gwendolen m’accepte, je vais tuer mon frère.
- | D’ailleurs de toute façon je crois que je vais le tuer. Cecily s’intéresse un peu trop à lui.
- | C’est plutôt ennuyeux. Allons, c’est dit, je vais me débarrasser de Constant.
- | Et je te recommande vivement d’en faire autant avec monsieur… avec ton grand malade au nom absurde.
- | Rien ne me convaincra de me séparer de Bunbury, et si tu te maries,
- | ce qui me parait extrêmement problématique, tu seras bien content de connaître Bunbury.
- | Un homme marié qui ne connait pas Bunbury se prépare bien des ennuis.
- | C’est encore une de tes absurdités. Si j’épouse une fille charmante comme Gwendolen,
- | et c’est la seule fille que je voudrais épouser,
- | je n’aurai certainement pas besoin de connaître Bunbury.
- | Alors ta femme le fera. Tu ne sembles pas comprendre que dans le mariage,
- | trois c’est bien, deux c’est nul.
- | Ça, mon jeune ami, c’est la théorie que le Drame Français corrompu a répandu
- |pendant les cinquante dernières années.
- | Oui. Et c’est ce que la respectable famille anglaise a mis en pratique.
-  | Pour l’amour du ciel, ne joue pas les cyniques. C’est trop facile.
- | Mon petit vieux, ce n’est pas facile d’être quoi que ce soit de nos jours.
- | Il y a tellement de compétition.
- |Ah, ça doit être la tante Augusta. Il n’y a que la famille, ou les créanciers, pour sonner dans ce style wagnérien.
- | Ecoute, si je l’occupe pendant dix minutes, tu auras la possibilité de faire ta demande à Gwendolen.
- | Et alors je pourrai diner avec toi ce soir chez Willis’s?
- | Bon, si tu veux.
- | Parfait. Mais un repas sérieux, n’est-ce pas?
- | Je déteste les gens qui ne prennent pas les repas au sérieux. C’est la preuve d’un caractère très superficiel.
- | Lady Bracknell et Miss Fairfax.
- | Bonjour, mon cher Algernon, j’espère que tu te comportes bien.
- | Je me sens très bien, tante Augusta. 
- | Ce n’est pas du tout la même chose. En fait les deux choses vont rarement ensemble.
- | Comme tu es élégante, ma chère!
- | Je suis toujours élégante. N’est-ce pas, M. Worthing?
- | Vous êtes absolument parfaite, Miss Fairfax.
- | Oh! Mais j’espère bien que je ne le suis pas. Ça ne laisserait aucune place au progrès
- | et j’ai l’intention de progresser.
- | Désolée d’arriver un peu en retard, Algernon, mais il fallait que je passe chez Lady Harbury,
- | je ne l’avais pas vue depuis la mort de son pauvre mari.
- | Jamais je n’ai vu une femme aussi changée, elle parait avoir ans de moins.
- | Et maintenant je vais prendre une tasse de thé 
- |et un de ces délicieux sandwichs aux concombres que tu m’as promis.
- | Bien sûr, Tante Augusta.
- | Viens donc t’assoir près de moi, Gwendolen.
- | Merci, maman, je suis très bien où je suis.
- | Dieux du ciel, Lane! Pourquoi n’y a-t-il pas de sandwichs au concombre?
- | Je les avais demandés tout particulièrement.
- | Il n’y avait pas de concombre au marché ce matin, monsieur. Et j’y suis allé deux fois.
- | Pas de concombres!
- | Non, monsieur. Même en payant comptant.
- | Ça ira, Lane, merci.
- | Merci, monsieur.
- | Je suis complètement désespéré, Tante Augusta, qu'il n'y avait pas de concombres,
- |même en payant comptant.
- | Ça n’a pas vraiment d’importance, Algernon. J’ai pris quelques crumpets chez Lady Harbury,
- | une femme qui ne vit plus que pour le plaisir, me semble-t-il.
- | J’ai entendu dire que ses cheveux ont viré au blond. Le chagrin.
- | Eh oui, ils ont changé de couleur. Pourquoi? Je ne saurais le dire.
- | Merci. J’ai une vraie surprise pour toi, Algernon.
- | Au dîner ce soir, je vais te mettre à côté de Mary Farquhar.
- | C’est une femme si délicieuse et si attentive pour son mari. C’est charmant de les observer tous deux.
- | Je crains fort, Tante Augusta, d’être obligé finalement de renoncer au plaisir de diner avec vous ce soir.
- | J’espère que non, Algernon. Ça démolirait complètement ma table.
- | Et ton oncle serait obligé de diner dans sa chambre. Heureusement, il a l’habitude.
- | Ça m’ennuie beaucoup, je suis très désappointé mais je viens de reçevoir un télégramme
- | qui m’annonce que mon pauvre ami Bunbury est encore très malade.
- | On semble penser que je dois y aller.
- | C’est vraiment curieux. Ce M. Bunbury semble affligé d’une santé particulièrement mauvaise.
- | Eh oui. Le pauvre Bunbury est un grand malade.
- | Eh bien, je dois le dire, Algernon, je pense qu’il est grand temps que M. Bunbury se décide
- | à savoir s’il veut vivre ou mourir.
- | Cette valse-hésitation est absurde.
- | D’ailleurs je n’approuve pas du tout la sympathie moderne pour les malades.
- | Je considère que c’est morbide. 
- | La santé est le premier devoir de la vie.
- | C’est ce que je dis toujours à votre pauvre oncle mais il ne m’écoute pas
- | si bien qu’il n’en résulte aucune amélioration pour sa santé...
- | Je te serais très obligée de prier, de ma part, M. Bunbury d’être assez gentil
- | pour ne pas avoir de rechute samedi car je compte sur toi pour organiser ma soirée musicale.
- | C’est ma dernière soirée et il faut quelque chose qui facilite la conversation:
- | c’est la fin de la saison et chacun a dit tout ce qui pouvait être dit.
- | Ce qui bien souvent est probablement peu de choses.
- |Je parlerai à Bunbury, Tante Augusta, s’il a toute sa conscience
- |et je crois que je peux vous promettre qu’il sera tout à fait bien samedi.
- |Naturellement, organiser une soirée musicale n’est pas facile.
- |Voyez-vous, si on joue de la bonne musique les gens n’écoutent pas 
- |et si on joue de la mauvaise les gens ne parlent pas.
- |Mais je vais revoir le programme que j’ai prévu
- | voulez-vous m’accompagner dans la pièce d’à-côté pour en parler. 
- |Merci Algernon. C’est très gentil.
- |Je suis sûre que le programme sera très agréable. Après quelques suppressions.
- |Par exemple, je ne peux tolérer les chansons françaises.
- |Les gens trouvent toujours qu’elles sont indécentes et,
- |ou bien ils paraissent choqués ce qui est vulgaire, ou ils rient ce qui est pire.
- |Mais la musique allemande est tout à fait respectable. Gwendolen! Viens avec moi.
- |Mais oui, maman!
- |Quelle belle journée, Miss Fairfax.
- |S’il vous plait, M. Worthing, ne parlez pas du temps qu’il fait. 
- |Quand les gens me parlent du temps je sens bien qu’ils veulent dire autre chose.
- |Ça m’agace.
- |Eh bien, je voulais dire autre chose. 
- |C’est bien ce que je pensais. En fait, je ne me trompe jamais.
- |J’aimerais que vous me permettiez de profiter de l’absence temporaire de Lady Bracknell… 
- |Oui, oui. Mais maman a une façon bien à elle de revenir brusquement…
- |je dois à chaque fois lui faire la remarque. //
- |Miss Fairfax, depuis que je vous ai vue, je vous ai admirée plus que toutes les femmes… 
- |que j’avais vues avant… de vous avoir vue. 
- |Oui, j’ai très bien remarqué ça. 
- |Et souvent j’aurais voulu qu’en public, vous soyez un peu plus démonstratif. 
- |Et vous, vous m’avez toujours irrésistiblement fascinée. 
- |Même avant notre première rencontre, vous étiez loin de me laisser indifférente. 
+| Oui, oui. Mais pourquoi ta tante t’appelle-t-elle son oncle? //Wat loopt er hier mis?
+| 'De la petite Cecily à son cher Oncle Jack, avec son affection la plus vive'.
+| Bien sûr, je l’admets, une tante peut être une petite tante
+| mais pourquoi une tante, quelle que soit sa taille,
+| appellerait elle 'mon oncle' son propre neveu, je n’y comprends rien.
+| En plus ton nom n’est pas du tout Jack, c’est Constant.
+| Ce n’est pas Constant, c’est Jack.
+| Tu m’as toujours dit que c’était Constant. Je t’ai présenté à tout le monde sous le nom de Constant.
+| Tu réponds au nom de Constant. Tu as l’air de t’appeler Constant.
+| Tu es l’homme qui a l’air le plus constant que j’ai jamais vu.
+| C’est totalement absurde de dire que ton nom n’est pas Constant. C’est marqué sur tes cartes.
+| En voilà une. 'Monsieur Constant Worthing, B. 4, The Albany.'
+| Je la garde comme preuve que ton nom est bien Constant
+| au cas tu essaierais de nier la chose devant Gwendolen ou même n’importe qui.
+| Eh bien mon nom est Constant à la ville et Jack à la campagne et, l’étui, on me l’a donné à la campagne.
+| Bien, bien. Mais ça n’explique pas que ta petite tante Cecily
+| qui vit à Tunbridge Wells, t’appelle mon cher oncle.
+|Allez mon vieux, tu ferais mieux de tout déballer.
+| Algy, mon cher, tu parles exactement comme un dentiste.
+| C’est extrêmement vulgaire de parler comme un dentiste quand on n’est pas un dentiste.
+| Cela crée un malaise.
+| Bon, bon! Allez, maintenant dis-moi tout.
+| Je dois dire que je t’ai toujours soupçonné d’être un Bunburiste clandestin
+| et j’en suis tout à fait sûr maintenant.
+| Bunburiste? C’est quoi sur terre un Bunburiste?
+| Je te révélerai le sens caché de ce mot dès que tu m’auras dit
+| pourquoi tu es Constant à la ville et Jack à la campagne.
+| Bon. Donne-moi d’abord mon étui.
+| Le voilà. Maintenant, j’écoute tes explications et s’il te plait fais-les bien improbables.
+| Mon cher, il n’y a rien d’improbable dans mes explications. En fait la situation est tout à fait banale.
+| Le vieux M. Thomas Cardew qui m’a adopté quand j’étais petit m’a désigné dans son testament
+| comme tuteur de sa petite-fille, Mlle Cecily Cardew.
+| Cecily, qui me considère comme son oncle par respect ce que tu es bien incapable de comprendre
+| vit chez moi à la campagne, sous la responsabilité de son admirable gouvernante, Miss Prism.
+| Et où ça, à la campagne?
+| Tu n’as rien à y faire, mon vieux et tu n’es pas près d’être invité…
+| Tout ce que je peux te dire c’est que ce n’est pas dans le Shropshire.
+| Je m’en doutais, mon cher, J’ai Bunburisé dans le Shropshire en deux occasions différentes.
+| Mais tu n’as pas tout dit. Pourquoi es-tu Constant à la ville et Jack à la campagne?
+| Ecoute, je ne suis pas sûr que tu sois capable de comprendre mes vraies raisons.
+| Tu n’es pas assez sérieux. Quand on se trouve dans la situation de tuteur
+| on doit montrer une attitude hautement morale sur tous les sujets.
+| C’est un devoir.
+| Et comme une attitude hautement morale n’est pas compatible avec la santé et le plaisir,
+| quand je veux aller en ville je prétends toujours que j’ai un jeune frère
+|du nom de Constant qui vit à Albany, et qui mène la vie la plus dissipée.
+| Voilà, mon cher, la vérité pure et simple.
+| La vérité est rarement pure et jamais simple.
+| Sinon la vie moderne serait profondément ennuyeuse
+| et la littérature moderne tout à fait impossible.
+| Ce ne serait pas une mauvaise chose.
+| La critique littéraire n’est pas ton point fort, mon vieux.
+| Inutile d’essayer, laisse donc ça aux types qui ne sont pas allés à l’Université.
+| Ils font ça très bien dans les journaux. En fait ce que tu es vraiment, c’est un Bunburiste.
+| J’avais tout à fait raison en disant que tu es un Bunburiste, le plus parfait que je connaisse.
+| Mais bon sang qu’est-ce que ça veut dire?
+| Tu t’es inventé un jeune frère bien utile appelé Constant
+| pour pouvoir aller en ville aussi souvent que tu veux.
+| Moi j’ai inventé Bunbury, un grand malade qui me permet
+| de filer à la campagne aussi souvent que je veux. Bunbury est très commode.
+| Par exemple, sans sa terrible mauvaise santé,
+|je ne pourrais pas dîner ce soir au Willis’s avec toi
+|car je suis retenu par Tante Augusta depuis déjà huit jours.
+| Je ne t’ai pas prié de dîner avec moi ce soir, où que ce soit
+| Je sais. Tu es absurdement négligent pour tes invitations.
+| C’est bête, rien n’est aussi ennuyeux que de ne pas recevoir d’invitations.
+| Tu ferais mieux de dîner avec ta Tante Augusta.
+| Je n’en ai pas la moindre intention.
+| D’abord, j’ai dîné avec elle lundi, et dîner une fois la semaine avec la famille, c’est bien suffisant.
+| Ensuite quand je dîne chez elle, elle me regarde toujours comme un membre de la famille.  //
+|je suis toujours placé près de deux femmes, ou aucune.
+| Enfin je sais parfaitement bien avec qui elle me mettrait ce soir.
+| Elle me placerait près de Marie Farquhar
+| qui flirte toujours par-dessus la table avec son propre mari.
+| ce n'est pas très plaisant. En fait, ce n'est même pas décent.
+|Ce genre de choses arrive de plus en plus souvent.
+| La quantité de femmes à Londres qui flirtent avec leur mari est parfaitement scandaleuse.
+| C’est vraiment moche, c’est tout simplement laver son linge sale en public.
+| Bon, maintenant que je sais que tu es un Bunburiste il faut que je te parle de la technique.
+| Je veux t'expliquer les règles.
+| Je ne suis pas du tout un Bunburiste. Si Gwendolen m’accepte, je vais tuer mon frère.
+| D’ailleurs de toute façon je crois que je vais le tuer. Cecily s’intéresse un peu trop à lui.
+| C’est plutôt ennuyeux. Allons, c’est dit, je vais me débarrasser de Constant.
+| Et je te recommande vivement d’en faire autant avec monsieur… avec ton grand malade au nom absurde.
+| Rien ne me convaincra de me séparer de Bunbury, et si tu te maries,
+| ce qui me parait extrêmement problématique, tu seras bien content de connaître Bunbury.
+| Un homme marié qui ne connait pas Bunbury se prépare bien des ennuis.
+| C’est encore une de tes absurdités. Si j’épouse une fille charmante comme Gwendolen,
+| et c’est la seule fille que je voudrais épouser,
+| je n’aurai certainement pas besoin de connaître Bunbury.
+| Alors ta femme le fera. Tu ne sembles pas comprendre que dans le mariage,
+| trois c’est bien, deux c’est nul.
+| Ça, mon jeune ami, c’est la théorie que le Drame Français corrompu a répandu
+|pendant les cinquante dernières années.
+| Oui. Et c’est ce que la respectable famille anglaise a mis en pratique.
+| Pour l’amour du ciel, ne joue pas les cyniques. C’est trop facile.
+| Mon petit vieux, ce n’est pas facile d’être quoi que ce soit de nos jours.
+| Il y a tellement de compétition.
+|Ah, ça doit être la tante Augusta. Il n’y a que la famille, ou les créanciers, pour sonner dans ce style wagnérien.
+| Ecoute, si je l’occupe pendant dix minutes, tu auras la possibilité de faire ta demande à Gwendolen.
+| Et alors je pourrai diner avec toi ce soir chez Willis’s?
+| Bon, si tu veux.
+| Parfait. Mais un repas sérieux, n’est-ce pas?
+| Je déteste les gens qui ne prennent pas les repas au sérieux. C’est la preuve d’un caractère très superficiel.
+| Lady Bracknell et Miss Fairfax.
+| Bonjour, mon cher Algernon, j’espère que tu te comportes bien.
+| Je me sens très bien, tante Augusta.
+| Ce n’est pas du tout la même chose. En fait les deux choses vont rarement ensemble.
+| Comme tu es élégante, ma chère!
+| Je suis toujours élégante. N’est-ce pas, M. Worthing?
+| Vous êtes absolument parfaite, Miss Fairfax.
+| Oh! Mais j’espère bien que je ne le suis pas. Ça ne laisserait aucune place au progrès
+| et j’ai l’intention de progresser.
+| Désolée d’arriver un peu en retard, Algernon, mais il fallait que je passe chez Lady Harbury,
+| je ne l’avais pas vue depuis la mort de son pauvre mari.
+| Jamais je n’ai vu une femme aussi changée, elle parait avoir ans de moins.
+| Et maintenant je vais prendre une tasse de thé
+|et un de ces délicieux sandwichs aux concombres que tu m’as promis.
+| Bien sûr, Tante Augusta.
+| Viens donc t’assoir près de moi, Gwendolen.
+| Merci, maman, je suis très bien où je suis.
+| Dieux du ciel, Lane! Pourquoi n’y a-t-il pas de sandwichs au concombre?
+| Je les avais demandés tout particulièrement.
+| Il n’y avait pas de concombre au marché ce matin, monsieur. Et j’y suis allé deux fois.
+| Pas de concombres!
+| Non, monsieur. Même en payant comptant.
+| Ça ira, Lane, merci.
+| Merci, monsieur.
+| Je suis complètement désespéré, Tante Augusta, qu'il n'y avait pas de concombres,
+|même en payant comptant.
+| Ça n’a pas vraiment d’importance, Algernon. J’ai pris quelques crumpets chez Lady Harbury,
+| une femme qui ne vit plus que pour le plaisir, me semble-t-il.
+| J’ai entendu dire que ses cheveux ont viré au blond. Le chagrin.
+| Eh oui, ils ont changé de couleur. Pourquoi? Je ne saurais le dire.
+| Merci. J’ai une vraie surprise pour toi, Algernon.
+| Au dîner ce soir, je vais te mettre à côté de Mary Farquhar.
+| C’est une femme si délicieuse et si attentive pour son mari. C’est charmant de les observer tous deux.
+| Je crains fort, Tante Augusta, d’être obligé finalement de renoncer au plaisir de diner avec vous ce soir.
+| J’espère que non, Algernon. Ça démolirait complètement ma table.
+| Et ton oncle serait obligé de diner dans sa chambre. Heureusement, il a l’habitude.
+| Ça m’ennuie beaucoup, je suis très désappointé mais je viens de reçevoir un télégramme
+| qui m’annonce que mon pauvre ami Bunbury est encore très malade.
+| On semble penser que je dois y aller.
+| C’est vraiment curieux. Ce M. Bunbury semble affligé d’une santé particulièrement mauvaise.
+| Eh oui. Le pauvre Bunbury est un grand malade.
+| Eh bien, je dois le dire, Algernon, je pense qu’il est grand temps que M. Bunbury se décide
+| à savoir s’il veut vivre ou mourir.
+| Cette valse-hésitation est absurde.
+| D’ailleurs je n’approuve pas du tout la sympathie moderne pour les malades.
+| Je considère que c’est morbide.
+| La santé est le premier devoir de la vie.
+| C’est ce que je dis toujours à votre pauvre oncle mais il ne m’écoute pas
+| si bien qu’il n’en résulte aucune amélioration pour sa santé...
+| Je te serais très obligée de prier, de ma part, M. Bunbury d’être assez gentil
+| pour ne pas avoir de rechute samedi car je compte sur toi pour organiser ma soirée musicale.
+| C’est ma dernière soirée et il faut quelque chose qui facilite la conversation:
+| c’est la fin de la saison et chacun a dit tout ce qui pouvait être dit.
+| Ce qui bien souvent est probablement peu de choses.
+|Je parlerai à Bunbury, Tante Augusta, s’il a toute sa conscience
+|et je crois que je peux vous promettre qu’il sera tout à fait bien samedi.
+|Naturellement, organiser une soirée musicale n’est pas facile.
+|Voyez-vous, si on joue de la bonne musique les gens n’écoutent pas
+|et si on joue de la mauvaise les gens ne parlent pas.
+|Mais je vais revoir le programme que j’ai prévu
+| voulez-vous m’accompagner dans la pièce d’à-côté pour en parler.
+|Merci Algernon. C’est très gentil.
+|Je suis sûre que le programme sera très agréable. Après quelques suppressions.
+|Par exemple, je ne peux tolérer les chansons françaises.
+|Les gens trouvent toujours qu’elles sont indécentes et,
+|ou bien ils paraissent choqués ce qui est vulgaire, ou ils rient ce qui est pire.
+|Mais la musique allemande est tout à fait respectable. Gwendolen! Viens avec moi.
+|Mais oui, maman!
+|Quelle belle journée, Miss Fairfax.
+|S’il vous plait, M. Worthing, ne parlez pas du temps qu’il fait.
+|Quand les gens me parlent du temps je sens bien qu’ils veulent dire autre chose.
+|Ça m’agace.
+|Eh bien, je voulais dire autre chose.
+|C’est bien ce que je pensais. En fait, je ne me trompe jamais.
+|J’aimerais que vous me permettiez de profiter de l’absence temporaire de Lady Bracknell…
+|Oui, oui. Mais maman a une façon bien à elle de revenir brusquement…
+|je dois à chaque fois lui faire la remarque. //
+|Miss Fairfax, depuis que je vous ai vue, je vous ai admirée plus que toutes les femmes…
+|que j’avais vues avant… de vous avoir vue.
+|Oui, j’ai très bien remarqué ça.
+|Et souvent j’aurais voulu qu’en public, vous soyez un peu plus démonstratif.
+|Et vous, vous m’avez toujours irrésistiblement fascinée.
+|Même avant notre première rencontre, vous étiez loin de me laisser indifférente.
 |Nous vivons, et j’espère que vous le savez, M. Worthing, à l’Âge de l’Idéal.
-|C’est ce qu’on dit dans les magazines les plus coûteux. 
+|C’est ce qu’on dit dans les magazines les plus coûteux.
 | et les moins coûteux, également. //
 |Et mon idéal a toujours été d’aimer quelqu’un du nom de Constant.
 |Il y a quelque chose dans ce nom qui m’inspire une confiance absolue.
 |Quand Algernon a expliqué pour la première fois qu’il avait un ami appelé Constant,
 |j’ai su que j’étais destinée à vous aimer.
-|Vraiment, vous m’aimez, Gwendolen? 
+|Vraiment, vous m’aimez, Gwendolen?
 |Passionnément!
 |Chérie! Tu ne peux pas savoir à quel point tu me rends heureux.
 |Mon Constant à moi!
 |Mais tu ne veux pas dire que tu ne m’aimerais pas si je ne m’appelais pas Constant?
 |Mais ton nom est Constant.
 |Mais supposons que ce soit un autre nom, est-ce que tu veux dire que tu ne pourrais pas m’aimer?
-|Ça c’est clairement un problème… métaphysique, et les problèmes métaphysiques ont bien 
+|Ça c’est clairement un problème… métaphysique, et les problèmes métaphysiques ont bien
 |peu de rapports avec la vie réelle.
-|Vois-tu chérie, pour parler fran&shy;chement, je ne tiens pas particulièr&shy;ement au nom de Constant… 
-|Je trouve qu’il ne me va pas du tout. 
-|Il te convient parfaitement. C’est un nom divin. 
+|Vois-tu chérie, pour parler fran&shy;chement, je ne tiens pas particulièr&shy;ement au nom de Constant…
+|Je trouve qu’il ne me va pas du tout.
+|Il te convient parfaitement. C’est un nom divin.
 |Il a une musique bien à lui. Il produit des vibrations douces.
 |Eh bien, Gwendolen, je pense qu’il y a beaucoup d’autres noms bien plus beaux.
 |Jack, par exemple, je trouve que c’est un nom charmant.
@@ -338,17 +338,17 @@
 |J’ai connu plusieurs Jack et tous, sans exception, étaient terriblement ordinaires.
 |D’ailleurs, Jack n’est qu’un diminutif pour John.
 |Et je plains une femme qui épouserait un homme appelé John.
-|Elle ne sera jamais seule. // 
+|Elle ne sera jamais seule. //
 |Non, Constant est le seul nom possible.
 |Gwendolen, il faut que je me fasse baptiser -
-|Je veux dire, nous devons nous marier tout de suite! 
+|Je veux dire, nous devons nous marier tout de suite!
 |Nous marier, M. Worthing?
 |Eh bien… certainement. Vous savez que je vous aime et vous m’avez laissé croire, Miss Fairfax
 |que je ne vous étais pas entièrement indifférent.
-|Je vous adore. Mais vous n’avez pas encore demandé ma main. 
+|Je vous adore. Mais vous n’avez pas encore demandé ma main.
 |Rien n’a été dit concernant un mariage, le sujet n’a pas même été effleuré.
-|Eh bien, puis-je vous demander votre main, tout de suite? 
-|Il me semble que c’est une merveilleuse occasion. 
+|Eh bien, puis-je vous demander votre main, tout de suite?
+|Il me semble que c’est une merveilleuse occasion.
 |Et pour vous épargner tout désappointement, M. Worthing,
 |je pense qu’il serait plus franc de vous dire avant tout que je suis tout à fait déterminée à  accepter.
 |Gwendolen!
@@ -367,39 +367,39 @@
 |J’espère que tu me regarderas toujours comme ça, juste comme ça. Particulièrement en public.
 |M. Worthing! Relevez-vous.
 |Cette posture à demi-allongée est tout à fait incorrecte.
-|Maman! 
+|Maman!
 |Je dois vous prier de vous retirer. Vous n’êtes pas à votre place.
 |D’ailleurs M. Worthing n’a pas complètement terminé.
 |Terminé quoi, puis-je savoir?
 |Je suis fiancée à M. Worthing, maman.
-|Pardonne-moi mais tu n’es fiancée à personne. 
+|Pardonne-moi mais tu n’es fiancée à personne.
 |Quand vous devrez vous fiancer, moi, ou votre père
-|si sa santé le lui permet, te tiendront informée. 
+|si sa santé le lui permet, te tiendront informée.
 |Des fiançailles qui tomberaient sur une jeune fille par surprise,
 |une surprise bonne ou mauvaise.
 |Ce n’est pas une question qu’il t’est permis de décider toute seule.
 |Et maintenant, j’ai quelques questions à vous poser, M. Worthing.
-|Va donc m’attendre dans la voiture, Gwendolen. 
+|Va donc m’attendre dans la voiture, Gwendolen.
 |Maman!
 |Dans la voiture, Gwendolen!
 |
 |Gwendolen, dans la voiture!
-|Oui, maman. 
+|Oui, maman.
 |Vous pouvez vous assoir M. Worthing.
-|Merci, Lady Bracknell, je préfère rester debout. 
+|Merci, Lady Bracknell, je préfère rester debout.
 |Je suis obligée de vous dire que vous ne figurez pas sur ma liste des jeunes hommes possibles,
-|bien que j’ai la même que cette chère duchesse de Bolton. 
+|bien que j’ai la même que cette chère duchesse de Bolton.
 |Nous travaillons ensemble, en fait.
-|Cependant je suis toute prête à vous inscrire 
-|si vos réponses sont celles qu’une mère affectionnée peut souhaiter. 
+|Cependant je suis toute prête à vous inscrire
+|si vos réponses sont celles qu’une mère affectionnée peut souhaiter.
 |Fumez-vous?
 |Eh bien, oui, je dois admettre que je fume.
 |Je suis heureuse de l’apprendre. Un homme doit toujours avoir quelque occupation,
-|il y a déjà beaucoup trop de paresseux à Londres. 
+|il y a déjà beaucoup trop de paresseux à Londres.
 |Quel âge avez-vous?
 |Vingt-neuf ans.
 |Un très bon âge pour se marier.
-|Ensuite, j’ai toujours été d’avis qu’un homme qui désire se marier 
+|Ensuite, j’ai toujours été d’avis qu’un homme qui désire se marier
 | devrait tout savoir, ou rien. Que savez-vous?
 |
 |Rien, Lady Bracknell.
@@ -414,13 +414,13 @@
 |Entre sept et huit mille livres par an.
 |En terres ou en placements?
 |En placements, principalement.
-|Voilà qui est satisfaisant. 
-|De nos jours, suite à nos devoirs terrestres 
+|Voilà qui est satisfaisant.
+|De nos jours, suite à nos devoirs terrestres
 |Et puis les taxes prélevées sur l'autre monde,
-|la terre n’est plus ni un profit, ni un plaisir. 
+|la terre n’est plus ni un profit, ni un plaisir.
 |Elle donne une position sociale, mais empêche de la garder //
 |c’est tout ce qu’on peut en dire.
-|J’ai une maison de campagne avec un peu de terre, naturellement, à peu près quinze cent acres, 
+|J’ai une maison de campagne avec un peu de terre, naturellement, à peu près quinze cent acres,
 |Mais ce n’est pas de là que vient mon revenu réel.
 |En fait si j’ai bien compris, il n’y a que les braconniers qui en tirent quelque chose.//
 |Une maison de campagne! De combien de pièces?
@@ -428,7 +428,7 @@
 |Vous avez une maison de ville, j’espère?
 |Une fille toute simple comme Gwendolen
 |pourrait difficilement vivre à la campagne.
-|Eh bien, je possède une maison à Belgrave Square, mais elle est louée à l’année à lady Bloxham. 
+|Eh bien, je possède une maison à Belgrave Square, mais elle est louée à l’année à lady Bloxham.
 |Naturellement je peux la récupérer quand je veux après un préavis de six mois.
 |Lady Bloxham? Je ne la connais pas.
 |Oh, elle sort très peu.
@@ -439,24 +439,24 @@
 |Le côté qui n’est pas à la mode. Je sentais bien qu’il y avait un hic.
 |Cependant ça peut facilement se changer.
 |Voulez-vous dire la mode, ou le côté?
-|Les deux, s’il le faut. 
+|Les deux, s’il le faut.
 |Quelles sont vos opinions politiques?
 |J’ai bien peur de n’en avoir aucune. Je suis un Libéral Unioniste.
-|Oh, on les compte avec les Tories. Ils dînent avec nous. 
+|Oh, on les compte avec les Tories. Ils dînent avec nous.
 |Ou, du moins, sont invités aux réceptions.
 |Passons aux choses moins importantes. Vos parents sont-ils vivants?
 |J’ai perdu mes deux parents.
 |Perdre un parent, M. Worthing, peut être considéré comme un malheur.
 |Mais perdre les deux ressemble à de la négligence.
 |Qui était votre père?
-|C’était visiblement un homme fortuné. 
+|C’était visiblement un homme fortuné.
 |Etait-il issu du commerce
 | ou de l’aristocratie?
 |Je ne sais pas vraiment, je le crains.
 | Le fait est, Lady Bracknell, que j’ai dit avoir perdu mes parents.
 |Il serait plus juste de dire que ce sont eux
 |qui m’ont perdu.
-|Je ne sais vraiment pas de qui je suis né. Je suis, eh bien, 
+|Je ne sais vraiment pas de qui je suis né. Je suis, eh bien,
 |je suis un enfant trouvé.
 |Trouvé!
 |Feu M. Thomas Cardew, un vieux gentilhomme très charitable,
@@ -467,11 +467,11 @@
 |Dans un cabas.
 |Un cabas?
 |Oui, Lady Bracknell. J’étais dans un cabas
-|un grand cabas de cuir brun, avec des poignées. 
+|un grand cabas de cuir brun, avec des poignées.
 |Un cabas très ordinaire en fait.
-|Et en quel lieu M. James, ou Thomas, Cardew 
+|Et en quel lieu M. James, ou Thomas, Cardew
 |rencontra-t-il ce cabas très ordinaire?
-|A la consigne de la gare de Victoria. 
+|A la consigne de la gare de Victoria.
 |On le lui a donné par erreur à la place du sien.
 |La consigne de la gare de Victoria?
 |Oui. Ligne de Brighton.
@@ -480,7 +480,7 @@
 |Être né, ou engendré, dans un cabas,
 |qu’il ait des poignées ou non, me semble relever
 |d’un total mépris des traditions familiales.
-|Cela rappelle les pires excès de la Révolution Française 
+|Cela rappelle les pires excès de la Révolution Française
 |et je pense que vous savez à quoi ce malheureux événement nous a conduits.
 |Quant au lieu précis où le cabas fut trouvé,
 |la consigne d’une gare a pu servir
@@ -489,7 +489,7 @@
 |mais cela peut difficilement être regardé comme une base crédible
 |pour obtenir une position dans la bonne société.
 |Puis-je vous demander ce que vous me conseillez de faire?
-|J’ai à peine besoin de dire que je ferais n’importe quoi 
+|J’ai à peine besoin de dire que je ferais n’importe quoi
 |pour assurer le bonheur de Gwendolen.
 |M. Worthing, je vous conseille vivement d’essayer
 |de trouver des parents aussi tôt que possible,
@@ -506,7 +506,7 @@
 |et de s’allier avec un colis.
 |Adieu, M. Worthing!
 |Adieu, Lady Bracknell.
-|Algy, espèce d’idiot, arrête de jouer cette satanée musique. 
+|Algy, espèce d’idiot, arrête de jouer cette satanée musique.
 |Alors mon vieux, ça n’a pas marché?
 |Ne me dis pas que Gwendolen a refusé.
 |Je sais qu’elle est comme ça, toujours à refuser les gens.
@@ -516,7 +516,7 @@
 |Mais sa mère est parfaitement insupportable.
 |Jamais rencontré une pareille… Gorgone.
 |Je ne sais pas vraiment à quoi ressemble une Gorgone
-|mais je suis sûr que Lady Bracknell en est une. 
+|mais je suis sûr que Lady Bracknell en est une.
 |En tous cas, c’est un monstre sans être un mythe ce qui est déloyal…
 |Pardonne-moi, Algy, je suppose que je ne devrais pas parler
 |comme ça de ta tante devant toi.
@@ -529,14 +529,14 @@
 |Eh bien, je ne veux pas discuter de ça.
 |Tu veux toujours discuter, discuter sur des trucs.
 |Les trucs sont justement faits pour ça.
-|Ma parole, si je pensais à ça, je me tirerais une balle dans la tête… 
+|Ma parole, si je pensais à ça, je me tirerais une balle dans la tête…
 |
-|Dis Algy, tu ne crois pas que Gwendolen pourrait 
+|Dis Algy, tu ne crois pas que Gwendolen pourrait
 |devenir comme sa mère dans un centaine d'années?
 |Toutes les femmes deviennent comme leur mère. C’est leur tragédie.
 |Et aucun homme. C’est la leur.
 |Et tu te crois intelligent?
-|En tout cas, c’est bien trouvé! 
+|En tout cas, c’est bien trouvé!
 |Et aussi vrai que n’importe quelle remarque sur notre belle civilisation.
 |Je suis fatigué à mourir, de l’intelligence. Tout le monde est intelligent aujourd’hui.
 |Tu ne peux aller nulle part sans rencontrer des gens intelligents.
@@ -544,7 +544,7 @@
 |Pourvu qu’il nous reste quelques idiots!
 |Il en reste.
 |J’aimerais beaucoup en rencontrer. De quoi parlent-ils?
-|Les idiots? Des gens intelligents, naturellement. 
+|Les idiots? Des gens intelligents, naturellement.
 |Quels idiots!
 |Au fait, as-tu dit la vérité à Gwendolen?
 |Que tu étais Constant en ville et Jack à la campagne?
@@ -569,11 +569,11 @@
 |je suis heureux de le dire. Elle a un excellent appétit,
 |fait de longues promenades et ne s’intéresse pas du tout à ses études.
 |J’aimerais bien voir Cecily.
-|Je veillerai à ce que ça ne se produise pas. 
+|Je veillerai à ce que ça ne se produise pas.
 |Elle est extrêmement jolie et a tout juste dixhuit ans.
 |As-tu dit à Gwendolen que tu avais une pupille extrêmement jolie
 |qui a tout juste dix-huit ans?
-|On n’envoie pas ça comme ça à la figure des gens. 
+|On n’envoie pas ça comme ça à la figure des gens.
 |Je suis parfaitement certain que Cecily et Gwendolen vont devenir de grandes amies.
 |Je parierais n’importe quoi qu’au bout d’une demi-heure
 |elles vont s’appeler « ma chérie ».
@@ -591,18 +591,18 @@
 |Oh non! Je ne supporte pas de regarder des femmes se tortiller, c’est stupide.
 |Alors, qu’est-ce qu’on va faire?
 |Rien!
-|C’est un dur travail que de ne rien faire. 
+|C’est un dur travail que de ne rien faire.
 |Mais un dur travail ne me gêne pas du moment que ça n’engage à rien de précis.
 |Miss Fairfax.
 |Ma parole, c’est Gwendolen!
-|Algy, retourne-toi s’il te plait. 
+|Algy, retourne-toi s’il te plait.
 |J’ai quelque chose de confidentiel à dire à M. Worthing.
 |Vraiment, Gwendolen, je ne sais pas si je peux permettre ça.
 |Algy, tu as toujours fait preuve d’une attitude parfaitement immorale.
 |D’ailleurs tu es bien trop jeune pour jouer les chaperons.
 |Ma chérie.
-|Constant, nous ne nous marierons peut-être jamais. 
-|Quand je vois la tête de maman… 
+|Constant, nous ne nous marierons peut-être jamais.
+|Quand je vois la tête de maman…
 |Peu de parents de nos jours écoutent leurs enfants.
 |L’ancien respect pour la jeunesse disparait rapidement.
 |Même si j’ai eu de l’influence sur maman, je l’ai perdue à l’âge de trois ans.
@@ -610,9 +610,9 @@
 |même si je dois épouser quelqu’un d’autre, et peutêtre plusieurs fois,
 |rien de tout ce qu’elle pourra faire ne m’empêchera de t’aimer pour l’éternité.
 |Gwendolen, ma chérie!
-|Maman m’a raconté avec des commentaires déplaisants, l’histoire romanesque 
+|Maman m’a raconté avec des commentaires déplaisants, l’histoire romanesque
 |de tes origines. J’en ai été émue jusqu’au plus profond de moi-même.
-|Ton nom, Constant, me fascine irrésistiblement. 
+|Ton nom, Constant, me fascine irrésistiblement.
 |La simplicité de ton caractère te rend délicieu&shy;sement incom&shy;préhensible à mes yeux.
 |J’ai ton adresse à Albany
 |quelle est ton adresse à la campagne?
@@ -635,18 +635,18 @@
 |Oui, monsieur.
 |Demain, Lane, je vais Bunburiser.
 |Oui, monsieur.
-|Je ne reviendrai probablement pas avant lundi. 
+|Je ne reviendrai probablement pas avant lundi.
 |Vous pouvez préparer mon smoking et tout ce qu’il faut pour Bunburiser.
 |Oui, monsieur.
 |J’espère que nous aurons une belle journée demain, Lane.
 |Ça n’arrive jamais, monsieur.
 |Vous être un parfait pessimiste.
 |Je fais de mon mieux pour donner satisfaction, monsieur.
-|Quelle jeune fille raisonnable, et intelligente! 
+|Quelle jeune fille raisonnable, et intelligente!
 |La seule qui m’ait intéressé de toute ma vie.
 |Qu’est qui te fait rire comme ça?
 |Oh, je suis un peu inquiet pour ce pauvre Bunbury.
-|Fais attention, ton ami Bunbury pourrait bien t’attirer 
+|Fais attention, ton ami Bunbury pourrait bien t’attirer
 |de sérieux ennuis un de ces jours.
 |J’adore les ennuis.
 |Ce sont les seules choses qui ne m’ennuient pas.
@@ -656,194 +656,194 @@
 |
 |AKT
 |
-| Cecily, Cecily ! Une occupation aussi terre-à-terre que l’arrosage des fleurs 
+| Cecily, Cecily ! Une occupation aussi terre-à-terre que l’arrosage des fleurs
 |est plutôt la fonction de Moulton que la vôtre, non?
-| Surtout au moment où le plaisir intellectuel vous attend. 
+| Surtout au moment où le plaisir intellectuel vous attend.
 |Votre grammaire allemande est sur la table.
-| S’il vous plait, ouvrez-la page quinze. 
+| S’il vous plait, ouvrez-la page quinze.
 |Nous allons reprendre la leçon d’hier.
-| Mais je n’aime pas l’allemand. 
+| Mais je n’aime pas l’allemand.
 |C’est une langue qui ne me va pas
-| et je sais bien qu’après la leçon je serai tout à fait laide. 
+| et je sais bien qu’après la leçon je serai tout à fait laide.
 | Mon enfant, vous savez à quel point votre tuteur est désireux de vous voir progresser.
 |Il a mis spécialement l’accent sur l’allemand en partant hier pour la ville.
-| A vrai dire, il insiste toujours sur l’allemand quand il va en ville. 
+| A vrai dire, il insiste toujours sur l’allemand quand il va en ville.
 | Ce cher oncle Jack est tellement sérieux !
 | Parfois il est si sérieux que je me demande s’il n’est pas malade.
 |Votre tuteur jouit d’une excellente santé
 | et la gravité de son maintien est très louable pour quelqu'un d'aussi jeune,
-| je ne connais personne qui ait un tel sens du devoir et de la responsabilité. 
-| C’est peut-être pour ça qu’il semble s’ennuyer quand nous sommes tous les trois. 
+| je ne connais personne qui ait un tel sens du devoir et de la responsabilité.
+| C’est peut-être pour ça qu’il semble s’ennuyer quand nous sommes tous les trois.
 | Cecily ! Vous me surprenez.
 | M. Worthing a bien des problèmes.
 |Une gaité immodérée est hors de question pour lui.
-| Et rappelez-vous ses perpétuelles inquiétudes 
-|au sujet de son malheureux frère cadet. 
+| Et rappelez-vous ses perpétuelles inquiétudes
+|au sujet de son malheureux frère cadet.
 | J’aimerais bien qu’oncle Jack permette à ce terrible frère
-| de venir ici quelquefois. 
+| de venir ici quelquefois.
 | Nous pourrions avoir une bonne influence sur lui, Miss Prism.
 | Je suis sûre que vous en aurez une!
-| Vous qui connaissez l’allemand, et la géologie, 
+| Vous qui connaissez l’allemand, et la géologie,
 |et des choses de ce genre qui impressionnent beaucoup un homme.
-| Je ne crois pas que je puisse produire le moindre effet 
+| Je ne crois pas que je puisse produire le moindre effet
 |sur un personnage qui, de l’avis de son propre frère,
-|est irrémédiablement faible et irrésolu. 
+|est irrémédiablement faible et irrésolu.
 |A vrai dire, je ne suis même pas sûre d’avoir envie de l’amender.
 |Je n’aime pas du tout cette manie actuelle
 | de vouloir transformer les méchants en bons.
-|Comme on sème, on récolte. 
-|Posez donc cet agenda, Cecily. 
-|Je ne vois d’ailleurs pas pourquoi il vous faut un agenda. 
+|Comme on sème, on récolte.
+|Posez donc cet agenda, Cecily.
+|Je ne vois d’ailleurs pas pourquoi il vous faut un agenda.
 | Je tiens un agenda pour y noter tous mes petits secrets.
-| Si je ne les écris pas, je vais tout oublier. 
-| La mémoire, ma chère Cecily, 
-|est l’agenda que nous avons toujours sur nous. 
-| Oui, mais en général elle retrace des choses qui ne sont jamais arrivées 
+| Si je ne les écris pas, je vais tout oublier.
+| La mémoire, ma chère Cecily,
+|est l’agenda que nous avons toujours sur nous.
+| Oui, mais en général elle retrace des choses qui ne sont jamais arrivées
 |et n’aurait pas même pu arriver.
-| Je crois que la mémoire est responsable de presque tous ces incroyables romans en trois tomes. 
+| Je crois que la mémoire est responsable de presque tous ces incroyables romans en trois tomes.
 | Ne parlez pas si méchamment des romans en trois tomes, Cecily,
-| j’en ai écrit un moi-même dans ma jeunesse. 
+| j’en ai écrit un moi-même dans ma jeunesse.
 | Vraiment, Miss Prism ? Comme vous êtes intelligente.
-| J’espère qu’il ne finissait pas bien ? 
+| J’espère qu’il ne finissait pas bien ?
 |Je n’aime pas les romans qui finissent bien.
-| Ils me dépriment tellement. 
-| Eh bien, les bons sont récompensés et les méchants sont punis. 
-|C’est de la fiction, voyez-vous. 
-| Sans doute. Mais ça me semble injuste. 
-|Et votre roman a-t-il été publié ? 
-| Hélas non. 
-|Malheureusement le manuscrit a été abandonné. 
+| Ils me dépriment tellement.
+| Eh bien, les bons sont récompensés et les méchants sont punis.
+|C’est de la fiction, voyez-vous.
+| Sans doute. Mais ça me semble injuste.
+|Et votre roman a-t-il été publié ?
+| Hélas non.
+|Malheureusement le manuscrit a été abandonné.
 |
 |Je veux dire perdu, égaré.
-| Mais cette conversation ne fait pas avancer votre travail. 
-| Mais je vois ce cher Dr Chasuble qui arrive. 
-|Dr Chasuble ! C’est un vrai plaisir.  
-| Et comment allons-nous ce matin ? 
-|Miss Prism, vous allez bien, j’en suis sûr. 
+| Mais cette conversation ne fait pas avancer votre travail.
+| Mais je vois ce cher Dr Chasuble qui arrive.
+|Dr Chasuble ! C’est un vrai plaisir.
+| Et comment allons-nous ce matin ?
+|Miss Prism, vous allez bien, j’en suis sûr.
 | Miss Prism se plaignait à l’instant d’un léger mal de tête.
-| Je crois qu’une petite promenade avec vous dans le parc lui ferait beaucoup de bien, Docteur Chasuble. 
-| Cecily, je n’ai jamais parlé de mal de tête. 
-| Je sais, chère Miss Prism, mais mon instinct m’a dit que vous aviez un mal de tête. 
-|A vrai dire, c’est à ça que je pensais 
+| Je crois qu’une petite promenade avec vous dans le parc lui ferait beaucoup de bien, Docteur Chasuble.
+| Cecily, je n’ai jamais parlé de mal de tête.
+| Je sais, chère Miss Prism, mais mon instinct m’a dit que vous aviez un mal de tête.
+|A vrai dire, c’est à ça que je pensais
 |et pas à ma leçon d’allemand quand M. le recteur est arrivé.
-| J’espère que vous n’êtes pas une élève étourdie, Cecily. 
-| Oh, je le crains. 
-| C’est étrange. 
-|Si j’avais le bonheur d’être l’élève de Miss Prism, 
+| J’espère que vous n’êtes pas une élève étourdie, Cecily.
+| Oh, je le crains.
+| C’est étrange.
+|Si j’avais le bonheur d’être l’élève de Miss Prism,
 |je serais suspendu à ses lèvres.
 |C’est une métaphore...
 |inspirée des abeilles. Hum!
-|Au fait, M. Worthing n’est pas encore revenu de la ville, je suppose. 
+|Au fait, M. Worthing n’est pas encore revenu de la ville, je suppose.
 | Nous ne l’attendons pas avant lundi après-midi.
 | Eh oui, il aime bien passer le dimanche à Londres.
 | Il n’est pas de ceux dont le seul but est le divertissement
 | comme son dissipé jeune frère.
-| Mais je ne veux pas déranger plus longtemps Egérie et son élève. 
-| Egérie ? Mon prénom est Laetitia, docteur. 
+| Mais je ne veux pas déranger plus longtemps Egérie et son élève.
+| Egérie ? Mon prénom est Laetitia, docteur.
 |Une simple allusion classique tirée des auteurs païens.
 |Je vous verrai toutes deux aux vêpres, sans doute ?
-| Je pense, mon cher docteur, que je vais faire une petite promenade avec vous. 
-|Finalement il se trouve que j’ai mal à la tête 
+| Je pense, mon cher docteur, que je vais faire une petite promenade avec vous.
+|Finalement il se trouve que j’ai mal à la tête
 |et une promenade pourrait me faire du bien.
 | Avec plaisir, Miss Prism, avec plaisir.
-| Nous pourrions aller jusqu’à l’école et revenir. 
+| Nous pourrions aller jusqu’à l’école et revenir.
 | Ce serait délicieux.
-|Cecily, vous lirez votre Economie Politique en mon absence. 
-|Vous pouvez passer le chapitre sur la chute de la roupie qui est trop scandaleux. 
-|Même ces questions monétaires ont un côté choquant. 
-|Horrible Economie Politique ! 
-|Horrible géographie ! 
-|Horrible, horrible allemand ! 
+|Cecily, vous lirez votre Economie Politique en mon absence.
+|Vous pouvez passer le chapitre sur la chute de la roupie qui est trop scandaleux.
+|Même ces questions monétaires ont un côté choquant.
+|Horrible Economie Politique !
+|Horrible géographie !
+|Horrible, horrible allemand !
 |M. Constant Worthing vient d’arriver de la gare.
 |Il a apporté ses bagages.
-|'M. Constant Worthing, B.4, The Albany, W'. 
-|Le frère de l’oncle Jack ! 
-|Lui avez-vous dit que M. Worthing était à Londres ? 
+|'M. Constant Worthing, B.4, The Albany, W'.
+|Le frère de l’oncle Jack !
+|Lui avez-vous dit que M. Worthing était à Londres ?
 | Oui, mademoiselle. Il avait l’air très désappointé.
 |Je lui ai signalé que vous étiez dans le jardin avec Miss Prism
-|et il a dit qu’il était très désireux de vous parler un moment en privé. 
+|et il a dit qu’il était très désireux de vous parler un moment en privé.
 | Dites à M. Worthing de venir ici.
-|Je suppose que vous feriez bien de demander à la gouvernante de lui préparer une chambre. 
+|Je suppose que vous feriez bien de demander à la gouvernante de lui préparer une chambre.
 | Oui, mademoiselle.
 | Je n’ai encore jamais rencontré de personne vraiment dépravée. J’ai un peu peur.
 |J’ai un peu peur qu’il soit juste comme tout le monde.
 |Il l'est.
-|Vous êtes ma petite cousine Cecily, j’en suis sûr ! 
+|Vous êtes ma petite cousine Cecily, j’en suis sûr !
 | Vous faites une étrange erreur. Je ne suis pas petite.
 |En fait je crois que je suis plutôt grande pour mon âge.
 |Mais je suis bien votre cousine Cecily.
 |Vous, je vois ça sur votre carte, vous êtes le frère de mon Oncle Jack,
-|mon méchant cousin Constant. 
-| Oh ! Je ne suis pas du tout méchant, cousine Cecily. 
-|Vous ne devez pas penser que je suis méchant. 
+|mon méchant cousin Constant.
+| Oh ! Je ne suis pas du tout méchant, cousine Cecily.
+|Vous ne devez pas penser que je suis méchant.
 | Si vous ne l’êtes pas vous nous avez tous trompés d’une façon inexcusable.
 |J’espère que vous ne menez pas une double vie,
-|à faire semblant d’être méchant tout en étant parfaitement normal. 
+|à faire semblant d’être méchant tout en étant parfaitement normal.
 |Ce serait de l’hypocrisie, vous savez.
-|Oh, naturellement je suis plutôt dépravé. 
-| Je suis heureuse de vous l’entendre dire. 
-| Puisque vous en parlez, en fait j’ai été très méchant, à ma façon. 
-| Vous ne devriez pas en être si fier, 
-|pourtant je suis sûre que c’était très amusant. 
-| C’est beaucoup plus amusant d’être ici près de vous. 
-| Je ne comprends pas du tout pourquoi vous êtes venu. 
-|Oncle Jack ne sera pas de retour avant lundi après-midi. 
-| C’est un grand désappointement, 
-|je suis obligé de partir lundi matin par le premier train. 
-|J’ai un rendez-vous d’affaires que je dois absolument… 
-|manquer. 
-|Ne pourriez-vous pas le manquer ailleurs qu’à Londres ? 
-| Non, le rendez-vous est à Londres. 
-| Eh bien, naturellement, je sais comme c’est important de rater un rendez-vous d’affaires 
-|si on veut préserver le vrai sens de la vie. 
-|Mais je crois tout de même que vous feriez mieux d’attendre qu’Oncle Jack revienne. 
-|Je sais qu’il veut vous parler au sujet de votre exil. 
-| De mon quoi ? 
-| Votre expatriation. Il est allé acheter votre équipement. 
-| Ah non ! Je ne laisserais certainement pas Jack acheter mon équipement. 
-|Il n’a aucun goût pour choisir une cravate. 
-| Je ne pense pas que vous aurez besoin d’une cravate. 
+|Oh, naturellement je suis plutôt dépravé.
+| Je suis heureuse de vous l’entendre dire.
+| Puisque vous en parlez, en fait j’ai été très méchant, à ma façon.
+| Vous ne devriez pas en être si fier,
+|pourtant je suis sûre que c’était très amusant.
+| C’est beaucoup plus amusant d’être ici près de vous.
+| Je ne comprends pas du tout pourquoi vous êtes venu.
+|Oncle Jack ne sera pas de retour avant lundi après-midi.
+| C’est un grand désappointement,
+|je suis obligé de partir lundi matin par le premier train.
+|J’ai un rendez-vous d’affaires que je dois absolument…
+|manquer.
+|Ne pourriez-vous pas le manquer ailleurs qu’à Londres ?
+| Non, le rendez-vous est à Londres.
+| Eh bien, naturellement, je sais comme c’est important de rater un rendez-vous d’affaires
+|si on veut préserver le vrai sens de la vie.
+|Mais je crois tout de même que vous feriez mieux d’attendre qu’Oncle Jack revienne.
+|Je sais qu’il veut vous parler au sujet de votre exil.
+| De mon quoi ?
+| Votre expatriation. Il est allé acheter votre équipement.
+| Ah non ! Je ne laisserais certainement pas Jack acheter mon équipement.
+|Il n’a aucun goût pour choisir une cravate.
+| Je ne pense pas que vous aurez besoin d’une cravate.
 |Oncle Jack vous envoie en Australie.
-| En Australie ? Plutôt mourir. 
-| Eh bien, il a dit mercredi soir au dîner que vous deviez choisir 
-|entre ce monde, l’autre monde et l’Australie. 
-| Les nouvelles que j’ai reçues de l’Australie et de l’autre monde, 
-|ne sont pas particulièrement encourageantes. 
-|Ce monde est assez bon pour moi, cousine Cecily. 
-| Oui, mais êtes-vous assez bon pour lui ? 
-| Je crains bien que non. 
-| Il faut que vous m’aidiez à changer. 
-|Ça pourrait être votre mission dans la vie, 
-|si ça ne vous ennuie pas, cousine Cecily. 
-| J’ai peur de ne pas avoir le temps, cette après-midi. 
-| Alors, ça ne vous ennuierait pas que je me corrige moi-même ? 
-| C’est plutôt illusoire, mais je crois que vous pourriez essayer. 
-| Je vais essayer. 
+| En Australie ? Plutôt mourir.
+| Eh bien, il a dit mercredi soir au dîner que vous deviez choisir
+|entre ce monde, l’autre monde et l’Australie.
+| Les nouvelles que j’ai reçues de l’Australie et de l’autre monde,
+|ne sont pas particulièrement encourageantes.
+|Ce monde est assez bon pour moi, cousine Cecily.
+| Oui, mais êtes-vous assez bon pour lui ?
+| Je crains bien que non.
+| Il faut que vous m’aidiez à changer.
+|Ça pourrait être votre mission dans la vie,
+|si ça ne vous ennuie pas, cousine Cecily.
+| J’ai peur de ne pas avoir le temps, cette après-midi.
+| Alors, ça ne vous ennuierait pas que je me corrige moi-même ?
+| C’est plutôt illusoire, mais je crois que vous pourriez essayer.
+| Je vais essayer.
 |
-|Je me sens déjà mieux. 
-| Ça n’en a pas l’air. 
-| C’est parce que j’ai faim. 
-| Que je suis étourdie. 
-|J’aurais dû me souvenir que quand quelqu’un se met à mener une vie tout à fait nouvelle, 
-|il a besoin de repas copieux et réguliers. 
-|Voulez-vous entrer ? 
-| Merci. Pourrais-je d’abord avoir une fleur pour ma boutonnière ? 
+|Je me sens déjà mieux.
+| Ça n’en a pas l’air.
+| C’est parce que j’ai faim.
+| Que je suis étourdie.
+|J’aurais dû me souvenir que quand quelqu’un se met à mener une vie tout à fait nouvelle,
+|il a besoin de repas copieux et réguliers.
+|Voulez-vous entrer ?
+| Merci. Pourrais-je d’abord avoir une fleur pour ma boutonnière ?
 |Je n'ai jamais d'appétit sans boutonnière.
 | Une Maréchale Niel?
-| Non, je préfèrerais une rose rose. 
-| Pourquoi ? 
-| Parce que vous êtes une rose rose, cousine Cecily. 
-| Je ne pense pas que ce soit convenable de me dire des choses comme ça. 
-|Miss Prism ne me dit jamais des choses pareilles. 
-| Alors Miss Prism n’est qu’une vieille dame myope. 
-|Vous êtes la plus jolie jeune fille que j’aie jamais vue. 
-| Miss Prism dit que la beauté est un piège. 
-| Il y a des pièges où tout homme raisonnable aimerait bien se faire attraper. 
-| Oh, je n’ai pas envie d’attraper un homme raisonnable. 
-|Je ne saurais pas quoi lui dire. 
-| 
+| Non, je préfèrerais une rose rose.
+| Pourquoi ?
+| Parce que vous êtes une rose rose, cousine Cecily.
+| Je ne pense pas que ce soit convenable de me dire des choses comme ça.
+|Miss Prism ne me dit jamais des choses pareilles.
+| Alors Miss Prism n’est qu’une vieille dame myope.
+|Vous êtes la plus jolie jeune fille que j’aie jamais vue.
+| Miss Prism dit que la beauté est un piège.
+| Il y a des pièges où tout homme raisonnable aimerait bien se faire attraper.
+| Oh, je n’ai pas envie d’attraper un homme raisonnable.
+|Je ne saurais pas quoi lui dire.
+|
 |Vous êtes trop solitaire, mon cher Révérend.
-|Vous devriez vous marier. 
+|Vous devriez vous marier.
 |Un misanthrope je peux comprendre, un femmanthrope, jamais.
 |Vous le savez, je ne merite pas une phrase si neologistic.
 |les préceptes comme la pratique de l’Eglise Primitive
@@ -854,721 +854,721 @@
 |qu’en restant durablement célibataire
 |un homme devient une tentation permanente.
 |
-| 
-|Mais un homme ne peut-il être aussi attirant quand il est marié ? 
-|Aucun homme marié n’est attirant sauf pour sa femme. 
-|Et souvent, m’a-t-on dit, pas même pour elle. 
+|
+|Mais un homme ne peut-il être aussi attirant quand il est marié ?
+|Aucun homme marié n’est attirant sauf pour sa femme.
+|Et souvent, m’a-t-on dit, pas même pour elle.
 |Ça dépend de la femme.
 |On peut avoir confiance dans la maturité
 |
 |mais les jeunes femmes sont trop vertes.
 |C’est une métaphore horticole.
 |Inspiré par les fruits.
-|Mais où donc est Cecily? 
-|Peut-être nous a-t-elle suivis dans le parc ? 
+|Mais où donc est Cecily?
+|Peut-être nous a-t-elle suivis dans le parc ?
 |M. Worthing !
-|M. Worthing ? 
+|M. Worthing ?
 |Quelle surprise,
 |nous ne pensions pas vous voir avant lundi après-midi.
 |Je suis revenu plus tôt que prévu.
-|Dr Chasuble, j’espère que vous allez bien? 
+|Dr Chasuble, j’espère que vous allez bien?
 |Cher M. Worthing, j’espère que ce costume de deuil
-|n’annonce pas quelque terrible catastrophe ? 
-|Mon frère. 
-|Encore des dettes et de honteuses extravagances ? 
+|n’annonce pas quelque terrible catastrophe ?
+|Mon frère.
+|Encore des dettes et de honteuses extravagances ?
 |Toujours sa vie de plaisir ?
-|Mort. 
-|Votre frère Constant, mort ? 
-|Tout à fait mort. 
+|Mort.
+|Votre frère Constant, mort ?
+|Tout à fait mort.
 |Quelle leçon pour lui,
-|j’espère qu’il en tirera profit! 
+|j’espère qu’il en tirera profit!
 |M. Worthing, je vous présente mes sincères condoléances.
 |Vous avez au moins la consolation de savoir
-|que vous avez toujours été le plus indulgent et le plus généreux des frères. 
-|Pauvre Constant, il avait bien des défauts, mais c’est tout de même un coup dur. 
+|que vous avez toujours été le plus indulgent et le plus généreux des frères.
+|Pauvre Constant, il avait bien des défauts, mais c’est tout de même un coup dur.
 |Certes.
-|Etiez-vous avec lui jusqu’à la fin ? 
+|Etiez-vous avec lui jusqu’à la fin ?
 |Non, il est mort à l’étranger, à Paris en fait.
-|J’ai reçu un télégramme la nuit dernière du directeur du Grand Hôtel. 
-|Et quelle est la cause de la mort ? 
-|Un terrible refroidissement, semble-t-il. 
+|J’ai reçu un télégramme la nuit dernière du directeur du Grand Hôtel.
+|Et quelle est la cause de la mort ?
+|Un terrible refroidissement, semble-t-il.
 |Comme on a semé, on récolte.
 |Soyons charitables, chère Miss Prism, soyons charitables.
 |Nul n’est parfait.
 |Personnellement je suis très sensible aux courants d’air.
-|L’enterrement aura-t-il lieu ici ? 
-|Non. Il semble qu’il ait manifesté le désir d’être enterré à Paris. 
-|A Paris ! 
+|L’enterrement aura-t-il lieu ici ?
+|Non. Il semble qu’il ait manifesté le désir d’être enterré à Paris.
+|A Paris !
 |Je crains que ça n’indique quelque sérieux trouble mental.
 |Vous voudrez bien, sans doute,
 |que je fasse une légère allusion, dimanche prochain, à cette tragédie familiale.
 |Mon sermon sur la signification de la Manne dans le désert
 |peut être adapté à toutes les circonstances des plus joyeuses
-|aux plus tristes. 
+|aux plus tristes.
 |Je l’ai prononcé aux fêtes des moissons, aux baptêmes,
 |aux confirmations, aux jours de joie comme aux jours d’amertume.
 |La dernière fois, c’était à la cathédrale,
 |je prêchais
 |pour la prévention du mécontentement dans les classes supérieures…
-| 
+|
 |Excusez-moi, vous avez parlé de baptêmes je crois, Dr Chasuble ?
 |Vous savez sûrement baptiser correctement?
-|Je veux dire, vous baptisez souvent, n’est-ce pas ? 
+|Je veux dire, vous baptisez souvent, n’est-ce pas ?
 |Bien sûr, c’est une des fonctions les plus importantes du recteur.
-| 
+|
 |
 |Y a-t-il un petit enfant à qui vous vous intéressez particulièrement, M. Worthing?
-|Votre frère était célibataire, je crois ? 
+|Votre frère était célibataire, je crois ?
 |Oui, oui.
-|Comme tous ceux qui ne vivent que pour le plaisir. 
+|Comme tous ceux qui ne vivent que pour le plaisir.
 |Il ne s’agit pas d’un enfant, cher révérend.
 |J’aime beaucoup les enfants
 |mais le fait est que je voudrais être moi-même baptisé, cette après-midi.
 |Si vous n’avez rien de mieux à faire.
-|Mais vous avez certainement été déjà baptisé, M. Worthing. 
-|Je ne m’en souviens pas du tout. 
-|Avez-vous des doutes sérieux sur la question? 
+|Mais vous avez certainement été déjà baptisé, M. Worthing.
+|Je ne m’en souviens pas du tout.
+|Avez-vous des doutes sérieux sur la question?
 |Sans doute je voudrais en avoir.
 |Mais peutêtre que cette affaire vous ennuie,
-|ou que vous me trouvez un peu vieux. 
+|ou que vous me trouvez un peu vieux.
 |Pas du tout.
 |L’aspersion et l’immersion sont
-|des pratiques tout à fait canoniques. 
-|L’immersion! 
+|des pratiques tout à fait canoniques.
+|L’immersion!
 |Ne craignez rien.
 |L’aspersion est suffisante ou du moins adaptée à votre cas.
 |Notre climat est si variable.
-|Et à quelle heure souhaitez-vous qu’ait lieu la cérémonie ? 
-|Oh, je pourrais venir vers cinq heures, si ça vous convient. 
+|Et à quelle heure souhaitez-vous qu’ait lieu la cérémonie ?
+|Oh, je pourrais venir vers cinq heures, si ça vous convient.
 |Parfait, parfait!
 |Il se trouve que j’ai deux baptêmes à célébrer à cette heure-là.
 |Deux jumeaux nés
 |dans votre propriété,
-|du pauvre Jenkins le charretier, un homme qui travaille dur. 
+|du pauvre Jenkins le charretier, un homme qui travaille dur.
 |Euh… ce n’est pas très drôle d’être baptisé avec d’autres bébés.
 |
-|Pourquoi pas à cinq heures et demie. 
+|Pourquoi pas à cinq heures et demie.
 |Excellent! Excellent!
 |Maintenant, cher M. Worthing,
 |je ne veux pas m’imposer plus longtemps une maison de tristesse.
 |Je vous souhaite simplement de ne pas vous laisser abattre.
-|Ce qui nous parait une épreuve amère se révèle souvent une bénédiction déguisée. 
-|Ça me parait une bénédiction pas déguisée du tout. 
+|Ce qui nous parait une épreuve amère se révèle souvent une bénédiction déguisée.
+|Ça me parait une bénédiction pas déguisée du tout.
 |Oncle Jack!
 |Que je suis contente de vous voir de retour.
 |Mais, qu’est-que c’est que ces horribles vêtements.
-|Allez vite vous changer. 
-|Cecily! 
-|Mon enfant! Mon enfant! 
+|Allez vite vous changer.
+|Cecily!
+|Mon enfant! Mon enfant!
 |Qu’est-ce qui ne va pas, Oncle Jack?
 |Souriez!
 |On dirait que vous avez mal aux dents.
 |J’ai une grande surprise pour vous.
 |Devinez qui est dans la salle à manger?
-|Votre frère! 
-|Qui? 
+|Votre frère!
+|Qui?
 |Votre frère Constant.
-|Il vient d’arriver. 
+|Il vient d’arriver.
 |Quelle absurdité!
-|Je n’ai pas de frère ! 
+|Je n’ai pas de frère !
 |Oh, ne dites pas ça.
 |Même s’il s’est mal conduit dans le passé c’est tout de même votre frère.
 |Vous êtes bon, vous ne pouvez pas le renier.
 |Je vais lui dire de venir ici
-|et vous lui serrerez la main, n’est-ce pas, Oncle Jack? 
-|Voilà de réjouissantes nouvelles! 
+|et vous lui serrerez la main, n’est-ce pas, Oncle Jack?
+|Voilà de réjouissantes nouvelles!
 |Nous étions déjà résignés à sa disparition
-|et son retour soudain me semble vraiment affligeant. 
+|et son retour soudain me semble vraiment affligeant.
 |Mon frère est dans la salle à manger?
 |Je ne comprends pas,
-|c’est totalement absurde. 
+|c’est totalement absurde.
 |Bonté divine!
 |John, mon frère, je suis venu te dire
 |que je suis tout à fait désolé pour tous les ennuis que je t’ai causés.
-|J’ai bien l’intention de changer de vie, tu sais. 
-|Oncle Jack, vous n’allez pas refuser de serrer la main de votre propre frère. 
+|J’ai bien l’intention de changer de vie, tu sais.
+|Oncle Jack, vous n’allez pas refuser de serrer la main de votre propre frère.
 |Rien ne me persuadera de serrer cette main.
-|Je trouve que sa venue est extrêmement déplaisante 
-|et il sait très bien pourquoi. 
+|Je trouve que sa venue est extrêmement déplaisante
+|et il sait très bien pourquoi.
 |Oncle Jack, soyez gentil.
 |Il y a quelque chose de bon en chacun de nous.
-|Constant me parlait justement de M. Bunbury, qui est si malade 
+|Constant me parlait justement de M. Bunbury, qui est si malade
 |et qu’il va souvent visiter.
 |Il y a sûrement quelque chose de bon dans une personne
-|capable de quitter les plaisirs de Londres pour s’assoir près d’un lit de douleur. 
-|Alors, il vous a parlé de Bunbury, c’est ça ? 
-|Oui, il m’a tout raconté au sujet de ce pauvre M. Bunbury 
-|et de son terrible état de santé. 
+|capable de quitter les plaisirs de Londres pour s’assoir près d’un lit de douleur.
+|Alors, il vous a parlé de Bunbury, c’est ça ?
+|Oui, il m’a tout raconté au sujet de ce pauvre M. Bunbury
+|et de son terrible état de santé.
 |Bunbury! Je vous défends de l’écouter.
 | //TODO
-|Il y a de quoi devenir fou! 
+|Il y a de quoi devenir fou!
 |Naturellement, j’admets que les torts sont de mon côté.
 |Tout de même, je dois dire que la froideur de John, mon frère,
 |m’est très pénible.
 |J’espérais un meilleur accueil,
-|d’autant plus que c’est la première fois que je viens ici. 
-|Oncle Jack, si vous ne serrez pas la main de Constant, je ne vous le pardonnerai jamais. 
-|Jamais ? 
-|Jamais, jamais, jamais. 
-|C’est bien la dernière fois! 
+|d’autant plus que c’est la première fois que je viens ici.
+|Oncle Jack, si vous ne serrez pas la main de Constant, je ne vous le pardonnerai jamais.
+|Jamais ?
+|Jamais, jamais, jamais.
+|C’est bien la dernière fois!
 |Comme c’est agréable de voir une réconciliation aussi parfaite.
-|Eh bien, je crois que nous devrions laisser les deux frères seuls. 
-|Venez, Cecily. 
+|Eh bien, je crois que nous devrions laisser les deux frères seuls.
+|Venez, Cecily.
 |Bien sûr.
-|Mon petit rôle de conciliatrice est terminé. 
-|Vous avez fait une belle action aujourd’hui, chère enfant. 
-|Ne nous avançons pas trop. 
-|Je me sens si heureuse. 
+|Mon petit rôle de conciliatrice est terminé.
+|Vous avez fait une belle action aujourd’hui, chère enfant.
+|Ne nous avançons pas trop.
+|Je me sens si heureuse.
 |Algy, espèce de voyou, tu vas filer
 |tout de suite.
 |Je ne te laisserai pas Bunburiser ici!
 |J’ai mis les affaires de M. Constant dans la chambre à côté de la votre, monsieur.
 | //TODO
-|Quoi ? 
-|Les bagages de M. Constant, monsieur. 
-|Je les ai mis dans la chambre à côté de la votre. 
-| Ses bagages ? 
-| Oui monsieur. 
-|Trois valises, une malle, 
-|deux cartons à chapeaux et un grand panier à pique-nique. 
-| Je crains de ne pouvoir rester plus d’une semaine, cette fois. 
-| Merriman, faites atteler tout de suite. 
-|M. Constant vient d’être rappelé en ville. 
-| Oui, monsieur. 
-| Quel terrible menteur tu fais, Jack. 
-|Je n’ai pas été rappelé à Londres. 
-| Mais si ! 
-| Je n’ai pas entendu. 
-| Ce sont tes devoirs de gentleman qui te rappellent. 
-| Je n’ai jamais laissé mes devoirs de gentleman 
-|perturber mes plaisirs. 
-| Je vois ça. 
-| Ecoute, Cecily est délicieuse. 
-| Ne parle pas comme ça de Miss Cardew. 
-|Je n’aime pas ça. 
-| Eh bien moi je n’aime pas ton costume. 
-|Tu as l’air tout à fait ridicule. 
-|Pourquoi ne vas-tu pas te changer? 
-|C’est tout à fait grotesque de porter le deuil d’un homme 
-|qui va rester ici toute une semaine, comme invité, dans ta maison. 
+|Quoi ?
+|Les bagages de M. Constant, monsieur.
+|Je les ai mis dans la chambre à côté de la votre.
+| Ses bagages ?
+| Oui monsieur.
+|Trois valises, une malle,
+|deux cartons à chapeaux et un grand panier à pique-nique.
+| Je crains de ne pouvoir rester plus d’une semaine, cette fois.
+| Merriman, faites atteler tout de suite.
+|M. Constant vient d’être rappelé en ville.
+| Oui, monsieur.
+| Quel terrible menteur tu fais, Jack.
+|Je n’ai pas été rappelé à Londres.
+| Mais si !
+| Je n’ai pas entendu.
+| Ce sont tes devoirs de gentleman qui te rappellent.
+| Je n’ai jamais laissé mes devoirs de gentleman
+|perturber mes plaisirs.
+| Je vois ça.
+| Ecoute, Cecily est délicieuse.
+| Ne parle pas comme ça de Miss Cardew.
+|Je n’aime pas ça.
+| Eh bien moi je n’aime pas ton costume.
+|Tu as l’air tout à fait ridicule.
+|Pourquoi ne vas-tu pas te changer?
+|C’est tout à fait grotesque de porter le deuil d’un homme
+|qui va rester ici toute une semaine, comme invité, dans ta maison.
 | J'appelle ça grotesque.
-| Tu ne vas certainement pas rester ici une semaine 
-|comme invité ou quoi que ce soit d’autre. 
+| Tu ne vas certainement pas rester ici une semaine
+|comme invité ou quoi que ce soit d’autre.
 |Tu vas filer… par le train de quatre heures cinq.
-| Je ne vais pas te quitter alors que tu es en deuil. 
-|Ce serait vraiment inamical. 
-|Si j’étais en deuil tu resterais près de moi, n’est-ce pas. 
+| Je ne vais pas te quitter alors que tu es en deuil.
+|Ce serait vraiment inamical.
+|Si j’étais en deuil tu resterais près de moi, n’est-ce pas.
 |//TODO
-| Bon, tu pars si je me change ? 
-| Oui, oui, si ce n’est pas trop long. 
-|Je ne connais personne d’aussi lent, 
-|et pour quel résultat ! 
-| En tous cas, 
-|c’est mieux que d’être toujours tiré à quatre épingles, comme toi. 
-| Oui, de temps en temps, 
-|mais c’est parce que je suis extrêmement bien élevé. 
-| Ta vanité est ridicule, ta conduite est scandaleuse 
-|et ta présence insupportable. 
-|Tu vas prendre le quatre heures cinq, 
-|et je te souhaite bon voyage. 
+| Bon, tu pars si je me change ?
+| Oui, oui, si ce n’est pas trop long.
+|Je ne connais personne d’aussi lent,
+|et pour quel résultat !
+| En tous cas,
+|c’est mieux que d’être toujours tiré à quatre épingles, comme toi.
+| Oui, de temps en temps,
+|mais c’est parce que je suis extrêmement bien élevé.
+| Ta vanité est ridicule, ta conduite est scandaleuse
+|et ta présence insupportable.
+|Tu vas prendre le quatre heures cinq,
+|et je te souhaite bon voyage.
 |Bunburiser ne t’aura pas réussi cette fois.
 |
 |Et moi je suis sûr que c’est une réussite. Je suis amoureux de Cecily. Voilà tout!
-|Mais je dois la voir et arranger un autre bunburisme. 
-|Ah, la voilà. 
-|Je venais juste arroser les fleurs. Je croyais que vous étiez avec Oncle Jack. 
-|Il est allé faire atteler pour moi. 
-|Il vous emmène en promenade ? 
-|Il me renvoie. 
-|Alors, nous devons nous séparer ? 
-|J’en ai peur. C’est une séparation si douloureuse. 
-|C’est toujours douloureux de se séparer de gens qu’on connait à peine. 
-|Les vieux amis, on peut s’y faire. 
+|Mais je dois la voir et arranger un autre bunburisme.
+|Ah, la voilà.
+|Je venais juste arroser les fleurs. Je croyais que vous étiez avec Oncle Jack.
+|Il est allé faire atteler pour moi.
+|Il vous emmène en promenade ?
+|Il me renvoie.
+|Alors, nous devons nous séparer ?
+|J’en ai peur. C’est une séparation si douloureuse.
+|C’est toujours douloureux de se séparer de gens qu’on connait à peine.
+|Les vieux amis, on peut s’y faire.
 |Mais quand il faut quitter quelqu’un à qui on vient tout juste d’être présenté,
-|c’est presque insupportable. 
+|c’est presque insupportable.
 |Je vous remercie.
-|La voiture attend, monsieur. 
-|Ça peut attendre, Merriman, ça peut attendre cinq minutes. 
-|Oui, mademoiselle. 
-|Cecily, j’espère que vous ne serez pas choquée 
-|si j’affirme tout à fait franchement et ouvertement 
-|que vous me semblez de toutes les façons 
-|la personnification visible de la perfection absolue. 
+|La voiture attend, monsieur.
+|Ça peut attendre, Merriman, ça peut attendre cinq minutes.
+|Oui, mademoiselle.
+|Cecily, j’espère que vous ne serez pas choquée
+|si j’affirme tout à fait franchement et ouvertement
+|que vous me semblez de toutes les façons
+|la personnification visible de la perfection absolue.
 |Cette franchise vous fait honneur, Constant.
 |Si vous le permettez je vais copier cette phrase dans mon journal.
-|Vous tenez un journal intime ? 
-|Je donnerais n’importe quoi pour y jeter un coup d’oeil. 
-|Vous permettez ? 
+|Vous tenez un journal intime ?
+|Je donnerais n’importe quoi pour y jeter un coup d’oeil.
+|Vous permettez ?
 |Oh non !
 |Voyez-vous c’est simplement les pensées et impressions d’une très jeune fille.
 |Je le destine à la publication.
-|Quand il paraitra j’espère que vous en commanderez un exemplaire. 
+|Quand il paraitra j’espère que vous en commanderez un exemplaire.
 |Mais continuez, Constant,
-|j’adore copier sous la dictée. 
-|J’en suis à « perfection absolue ». 
-|Allez-y, je suis prête. 
+|j’adore copier sous la dictée.
+|J’en suis à « perfection absolue ».
+|Allez-y, je suis prête.
 |Hum! hum!
-|Ne toussez pas, Constant. 
-|Quand on dicte il faut bien articuler, ne pas tousser. 
+|Ne toussez pas, Constant.
+|Quand on dicte il faut bien articuler, ne pas tousser.
 |En plus je ne sais pas comment écrire une toux.
 |Cecily, à peine avais-je aperçu votre merveilleuse et incomparable beauté
-|que je suis tombé amoureux sauvagement, passionnément, absolument, désespérément. 
-|Je ne crois pas que vous devriez dire 
-|sauvagement, passionnément, absolument, désespérément. 
-|Désespérément, ça n’a pas de sens, non ? 
-|Cecily ! 
+|que je suis tombé amoureux sauvagement, passionnément, absolument, désespérément.
+|Je ne crois pas que vous devriez dire
+|sauvagement, passionnément, absolument, désespérément.
+|Désespérément, ça n’a pas de sens, non ?
+|Cecily !
 |La voiture est prête, monsieur.
-|Qu’elle revienne la semaine prochaine, à la même heure. 
+|Qu’elle revienne la semaine prochaine, à la même heure.
 |Oui, monsieur.
-|Oncle Jack serait très contrarié 
-|s’il savait que vous restez jusqu’à la semaine prochaine à la même heure. 
-|Oh, peu m’importe Jack. 
-|Je ne me soucie de personne que de vous. 
-|Je vous aime, Cecily. 
-|Epousez-moi, voulez-vous ? 
-|Quel nigaud! Bien sûr, ça fait déjà trois mois que nous sommes fiancés. 
-|Déjà trois mois ? 
-|Oui, ça fera exactement trois mois jeudi. 
-|Mais comment nous sommes-nous fiancés ? 
+|Oncle Jack serait très contrarié
+|s’il savait que vous restez jusqu’à la semaine prochaine à la même heure.
+|Oh, peu m’importe Jack.
+|Je ne me soucie de personne que de vous.
+|Je vous aime, Cecily.
+|Epousez-moi, voulez-vous ?
+|Quel nigaud! Bien sûr, ça fait déjà trois mois que nous sommes fiancés.
+|Déjà trois mois ?
+|Oui, ça fera exactement trois mois jeudi.
+|Mais comment nous sommes-nous fiancés ?
 |Eh bien depuis le jour où Oncle Jack nous a raconté
-|qu’il avait un vilain jeune frère. 
-|Naturellement, depuis, vous êtes devenu le principal sujet de conversation 
-|entre Miss Prism et moi. 
+|qu’il avait un vilain jeune frère.
+|Naturellement, depuis, vous êtes devenu le principal sujet de conversation
+|entre Miss Prism et moi.
 |Et naturellement un homme dont on parle toujours devient toujours très attirant.
-|On se dit qu’il doit y avoir quelque chose de fort en lui. 
+|On se dit qu’il doit y avoir quelque chose de fort en lui.
 |C’était fou de ma part,
-|mais je suis tombée amoureuse de vous, Constant. 
-|Ma chérie ! Et quand eurent lieu, les fiançailles ? 
-|Le 14 février dernier. 
-|Lasse de vous laisser ignorer mon existence, 
-|j’ai décidé de résoudre la question d’une manière ou d’une autre. 
-|Après un long combat avec moi-même 
-|j’ai accepté votre demande, ici-même, sous ce cher vieux grand arbre. 
+|mais je suis tombée amoureuse de vous, Constant.
+|Ma chérie ! Et quand eurent lieu, les fiançailles ?
+|Le 14 février dernier.
+|Lasse de vous laisser ignorer mon existence,
+|j’ai décidé de résoudre la question d’une manière ou d’une autre.
+|Après un long combat avec moi-même
+|j’ai accepté votre demande, ici-même, sous ce cher vieux grand arbre.
 |
 |Le lendemain j’ai acheté cette petite bague, en votre nom,
 |et voici le petit bracelet avec le ruban des vrais amoureux
-|que je vous ai promis de porter toujours sur moi. 
-|Je vous ai donné ça ? C’est très joli, n’est-ce pas ? 
-|Mais oui. Vous avez merveilleusement bon goût, Constant. 
-|Ça vous excuse d’avoir mené une vie si dissolue. 
+|que je vous ai promis de porter toujours sur moi.
+|Je vous ai donné ça ? C’est très joli, n’est-ce pas ?
+|Mais oui. Vous avez merveilleusement bon goût, Constant.
+|Ça vous excuse d’avoir mené une vie si dissolue.
 |Et voici la boite dans laquelle je garde toutes vos chères lettres.
-|Mes lettres ? 
-|Mais, ma douce petite Cecily à moi, je ne vous ai jamais écrit de lettres. 
-|Inutile de me le faire remarquer, Constant. 
-|Je me souviens trop bien qu’il m’a fallu écrire ces lettres à votre place. 
+|Mes lettres ?
+|Mais, ma douce petite Cecily à moi, je ne vous ai jamais écrit de lettres.
+|Inutile de me le faire remarquer, Constant.
+|Je me souviens trop bien qu’il m’a fallu écrire ces lettres à votre place.
 |Je vous écrivais trois fois par semaine, et plus souvent parfois.
-|Oh, puis-je les lire, Cecily ? 
-|Impossible, ça vous rendrait trop vaniteux. 
-|Les trois que vous m’avez écrites après que j’ai rompu nos fiançailles 
+|Oh, puis-je les lire, Cecily ?
+|Impossible, ça vous rendrait trop vaniteux.
+|Les trois que vous m’avez écrites après que j’ai rompu nos fiançailles
 |sont si belles, et tellement pleines de fautes d’orthographe,
-|que même aujourd’hui je ne peux les lire sans pleurer un peu. 
-|Parce que nos fiançailles ont été rompues ? 
-|Bien sûr. 
-|C’était le 22 mars. 
+|que même aujourd’hui je ne peux les lire sans pleurer un peu.
+|Parce que nos fiançailles ont été rompues ?
+|Bien sûr.
+|C’était le 22 mars.
 |Vous pouvez lire mes notes si vous voulez:
-|'Aujourd’hui, j’ai rompu mes fiançailles avec Constant.' 
+|'Aujourd’hui, j’ai rompu mes fiançailles avec Constant.'
 |'Je pense que c'est mieux ainsi.'
 |'Le temps est toujours aussi beau.'
-|Mais pourquoi avez-vous rompu ? 
-|Qu’avais-je fait ? 
+|Mais pourquoi avez-vous rompu ?
+|Qu’avais-je fait ?
 |Je n’avais rien fait du tout.
 |Cecily, je suis profondément blessé que vous ayez rompu.
 |
-|Surtout si le temps était si beau. 
-|Il ne peut pas y avoir de fiançailles sérieuses 
+|Surtout si le temps était si beau.
+|Il ne peut pas y avoir de fiançailles sérieuses
 |si elles n’ont pas été rompues au moins une fois.
-|Mais je vous avais pardonné avant la fin de la semaine. 
-|Quel ange de perfection vous êtes, Cecily. 
-|Quel garçon sentimental vous êtes, Constant. 
+|Mais je vous avais pardonné avant la fin de la semaine.
+|Quel ange de perfection vous êtes, Cecily.
+|Quel garçon sentimental vous êtes, Constant.
 |
-|J’espère que tes cheveux frisent naturellement. 
-|Oui ma chérie, 
-|avec un peu d’aide, tout de même. 
-|Je suis si heureuse. 
-|Tu ne rompras plus jamais nos fiançailles ? 
-|Je ne peux pas faire ça maintenant qu’on s’est vraiment rencontrés. 
+|J’espère que tes cheveux frisent naturellement.
+|Oui ma chérie,
+|avec un peu d’aide, tout de même.
+|Je suis si heureuse.
+|Tu ne rompras plus jamais nos fiançailles ?
+|Je ne peux pas faire ça maintenant qu’on s’est vraiment rencontrés.
 |
-|Et puis, il y a la question de ton nom. 
-|Bien sûr. 
+|Et puis, il y a la question de ton nom.
+|Bien sûr.
 |Ne te moque pas de moi, chéri,
-|mais c’était déjà mon rêve de petite fille 
-|d’aimer un garçon qui s’appelle Constant. 
-|Il y a quelque chose dans ce nom qui inspire une confiance absolue. 
-|Je plains les pauvres femmes dont le mari ne s’appelle pas Constant. 
-|Mais, chère enfant, veux-tu dire que tu ne pourrais pas m’aimer 
-|si je portais un autre nom ? 
-|Par exemple ? 
-|Oh, n’importe… 
-|Algernon par exemple… 
-|Je n’aime pas du tout le nom d’Algernon. 
+|mais c’était déjà mon rêve de petite fille
+|d’aimer un garçon qui s’appelle Constant.
+|Il y a quelque chose dans ce nom qui inspire une confiance absolue.
+|Je plains les pauvres femmes dont le mari ne s’appelle pas Constant.
+|Mais, chère enfant, veux-tu dire que tu ne pourrais pas m’aimer
+|si je portais un autre nom ?
+|Par exemple ?
+|Oh, n’importe…
+|Algernon par exemple…
+|Je n’aime pas du tout le nom d’Algernon.
 |Mais, ma douce petite chérie adorée,
-|je ne peux pas comprendre ce que tu reproches au nom d’Algernon. 
-|Ce n’est pas du tout un vilain nom. 
-|Et même il est plutôt aristocratique. 
-|La moitié des types paraissant devant le tribunal des faillites s’appellent Algernon. 
-|Mais sérieusement, Cecily… 
-|Si mon nom était Algy, 
-|tu ne pourrais pas m’aimer ? 
+|je ne peux pas comprendre ce que tu reproches au nom d’Algernon.
+|Ce n’est pas du tout un vilain nom.
+|Et même il est plutôt aristocratique.
+|La moitié des types paraissant devant le tribunal des faillites s’appellent Algernon.
+|Mais sérieusement, Cecily…
+|Si mon nom était Algy,
+|tu ne pourrais pas m’aimer ?
 |Je pourrais de te respecter,
 |Constant,
 |admirer ton caractère,
-|mais je crois que je ne serais pas capable de me donner à toi. 
+|mais je crois que je ne serais pas capable de me donner à toi.
 |Ahem ! Cecily !
-|Le recteur a certainement une grande expérience 
-|de tous les rites et cérémonials écclésiastiques? 
-|Oui, oui. 
-|Dr Chasuble est un homme très instruit. 
-|Il n’a jamais écrit un seul livre, 
+|Le recteur a certainement une grande expérience
+|de tous les rites et cérémonials écclésiastiques?
+|Oui, oui.
+|Dr Chasuble est un homme très instruit.
+|Il n’a jamais écrit un seul livre,
 |tu vois comme il est savant.
 |Je dois le voir tout de suite pour un baptême très important…
-|je veux dire une affaire très importante. 
-|Oh ! 
-|Je ne m’absenterai pas plus d’une demi-heure. 
+|je veux dire une affaire très importante.
+|Oh !
+|Je ne m’absenterai pas plus d’une demi-heure.
 |Comme nous sommes fiancés depuis le 14 février,
 |et que je t’ai rencontré aujourd’hui pour la première fois,
 |c’est plutôt dur de me laisser pour un temps aussi long qu'une demi-heure.
 |
-|Ne peux-tu faire ça en vingt minutes ? 
+|Ne peux-tu faire ça en vingt minutes ?
 |Je reviens tout de suite.
-|Quel garçon impétueux. 
+|Quel garçon impétueux.
 |Et j’aime beaucoup ses cheveux.
-|Il faut que je note sa demande dans mon journal. 
-|Une certaine Miss Fairfax demande à voir M. Worthing. 
+|Il faut que je note sa demande dans mon journal.
+|Une certaine Miss Fairfax demande à voir M. Worthing.
 |Pour une affaire très importante.
-|M. Worthing n’est pas dans la bibliothèque ? 
-|M. Worthing est parti pour le presbytère il y a quelques minutes. 
-|Priez cette dame de venir ici. M. Worthing ne va certainement pas tarder. 
-|Et vous pouvez apporter le thé. 
+|M. Worthing n’est pas dans la bibliothèque ?
+|M. Worthing est parti pour le presbytère il y a quelques minutes.
+|Priez cette dame de venir ici. M. Worthing ne va certainement pas tarder.
+|Et vous pouvez apporter le thé.
 |Oui, mademoiselle.
-|Miss Fairfax ! C’est sans doute l’une de ces nombreuses dames âgées charitables 
-|qui aident Oncle Jack à Londres dans son travail philanthropique. 
+|Miss Fairfax ! C’est sans doute l’une de ces nombreuses dames âgées charitables
+|qui aident Oncle Jack à Londres dans son travail philanthropique.
 |Je déteste les dames ayant un intérêt pour la philanthropie.
 |Je déteste les dames ayant un intérêt pour la philanthropie.
-|Miss Fairfax ! 
-|Permettez-moi de me présenter. Je suis Cecily Cardew. 
-|Cecily Cardew ? 
-|Quel joli nom. 
+|Miss Fairfax !
+|Permettez-moi de me présenter. Je suis Cecily Cardew.
+|Cecily Cardew ?
+|Quel joli nom.
 |Quelque chose me dit que nous allons devenir de grandes amies.
 |Je vous aime déjà plus que je ne peux dire. Et ma première impression ne me trompe jamais.
-|Que c’est gentil de m’aimer tellement 
-|alors que nous nous connaissons depuis si peu de temps. Mais asseyez-vous, je vous prie. 
-|Puis-je vous appeler Cecily ? 
-|Avec plaisir ! 
-|Et vous m’appellerez Gwendolen, n’est-ce pas ? 
-|Si vous voulez. 
-|Alors tout est bien au point entre nous ? 
-|J’espère, oui. 
-|C’est peut-être le bon moment pour me présenter. 
-|Mon père est Lord Bracknell. 
-|Vous n’avez jamais entendu parler de papa, je suis sûre ? 
-|Je ne pense pas. 
-|En dehors du cercle de famille, 
+|Que c’est gentil de m’aimer tellement
+|alors que nous nous connaissons depuis si peu de temps. Mais asseyez-vous, je vous prie.
+|Puis-je vous appeler Cecily ?
+|Avec plaisir !
+|Et vous m’appellerez Gwendolen, n’est-ce pas ?
+|Si vous voulez.
+|Alors tout est bien au point entre nous ?
+|J’espère, oui.
+|C’est peut-être le bon moment pour me présenter.
+|Mon père est Lord Bracknell.
+|Vous n’avez jamais entendu parler de papa, je suis sûre ?
+|Je ne pense pas.
+|En dehors du cercle de famille,
 |papa est complètement inconnu, je suis fière de le dire.
-|Le foyer est le seul lieu convenable pour un mari. 
-|Et si les hommes commencent à négliger leurs devoirs domestiques, 
+|Le foyer est le seul lieu convenable pour un mari.
+|Et si les hommes commencent à négliger leurs devoirs domestiques,
 |ça les rend trop attirants. Et je n’aime pas ça.
 |Savez-vous, Cecily, que maman dont les vues sur l’éducation sont extrêmement strictes
-|m’a élevée dans la myopie la plus complète, ça fait partie de son système. 
-|Alors, ça ne vous ennuie pas que je vous observe avec mes lunettes ? 
-|Pas du tout, Gwendolen, j’adore qu’on m’observe. 
+|m’a élevée dans la myopie la plus complète, ça fait partie de son système.
+|Alors, ça ne vous ennuie pas que je vous observe avec mes lunettes ?
+|Pas du tout, Gwendolen, j’adore qu’on m’observe.
 |Vous êtes ici pour une petite visite, je crois.
-|Non, non. Je vis ici. 
-|Vraiment ? 
-|Votre mère sans doute ou quelque parente âgée, vit ici avec vous ? 
-|Non, non. Je n’ai pas de mère, et en fait pas de parents. 
-|Vraiment ? 
-|Mon cher tuteur, avec l’aide de Miss Prism, a la tâche délicate de veiller sur moi. 
-|Votre tuteur ? 
-|Oui, je suis la pupille de Monsieur Worthing. 
-|C’est curieux qu’il ne m’ait jamais dit qu’il avait une pupille. Comme il est mystérieux. 
-|Il devient de plus en plus intéressant. 
+|Non, non. Je vis ici.
+|Vraiment ?
+|Votre mère sans doute ou quelque parente âgée, vit ici avec vous ?
+|Non, non. Je n’ai pas de mère, et en fait pas de parents.
+|Vraiment ?
+|Mon cher tuteur, avec l’aide de Miss Prism, a la tâche délicate de veiller sur moi.
+|Votre tuteur ?
+|Oui, je suis la pupille de Monsieur Worthing.
+|C’est curieux qu’il ne m’ait jamais dit qu’il avait une pupille. Comme il est mystérieux.
+|Il devient de plus en plus intéressant.
 |Pourtant je ne suis pas sûre que tout cela m’inspire des sentiments sans mélange.
-|Je vous aime beaucoup, Cecily, je vous ai aimée au premier regard. 
-|Mais il faut dire que maintenant que je sais que vous êtes la pupille de monsieur Worthing, 
-|je ne peux pas m’empêcher de regretter que vous ne soyez pas… 
-|juste un peu plus... 
-|En fait, si je peux parler franchement… 
-|Faites, je vous en prie. Je crois que quand on a quelque chose de déplaisant à dire, 
-|il faut le dire franchement. 
-|Eh bien, je vais parler à coeur ouvert, Cecily, 
-|j’aurais préféré que vous ayez la bonne quarantaine 
-|et que vous soyez bien laide même pour votre âge. 
-|Constant a un naturel très droit, il est plein de franchise et d’honneur, 
-|la déloyauté lui serait aussi impossible que le mensonge. 
-|Mais les hommes les plus nobles, du caractère le plus élevé, 
-|sont extrêmement sensibles aux charmes physiques des femmes. 
+|Je vous aime beaucoup, Cecily, je vous ai aimée au premier regard.
+|Mais il faut dire que maintenant que je sais que vous êtes la pupille de monsieur Worthing,
+|je ne peux pas m’empêcher de regretter que vous ne soyez pas…
+|juste un peu plus...
+|En fait, si je peux parler franchement…
+|Faites, je vous en prie. Je crois que quand on a quelque chose de déplaisant à dire,
+|il faut le dire franchement.
+|Eh bien, je vais parler à coeur ouvert, Cecily,
+|j’aurais préféré que vous ayez la bonne quarantaine
+|et que vous soyez bien laide même pour votre âge.
+|Constant a un naturel très droit, il est plein de franchise et d’honneur,
+|la déloyauté lui serait aussi impossible que le mensonge.
+|Mais les hommes les plus nobles, du caractère le plus élevé,
+|sont extrêmement sensibles aux charmes physiques des femmes.
 |L’Histoire moderne, l’Histoire ancienne,
-|nous en fournissent beaucoup d’exemples douloureux. 
-|Sinon, d’ailleurs, l’Histoire ne présenterait aucun intérêt. 
-|Pardon, Gwendolen, vous avez dit : Constant ? 
-|Oui. 
-|Oh, mais ce n’est pas monsieur Constant Worthing qui est mon tuteur, 
-|c’est son frère, son frère aîné. 
-|Constant ne m’a jamais dit qu’il avait un frère. 
-|Je suis désolée de dire qu’ils ne sont pas en bons termes, et depuis longtemps. 
-|Ah, ça explique tout. 
-|Et maintenant que j’y pense je n’ai jamais entendu personne parler de son frère. 
-|Ce sujet semble être de mauvais goût. 
-|Cecily vous me soulagez, je sombrais dans l’anxiété. 
-|Cela aurait été affreux qu’un nuage vienne ternir une amitié comme la nôtre, 
+|nous en fournissent beaucoup d’exemples douloureux.
+|Sinon, d’ailleurs, l’Histoire ne présenterait aucun intérêt.
+|Pardon, Gwendolen, vous avez dit : Constant ?
+|Oui.
+|Oh, mais ce n’est pas monsieur Constant Worthing qui est mon tuteur,
+|c’est son frère, son frère aîné.
+|Constant ne m’a jamais dit qu’il avait un frère.
+|Je suis désolée de dire qu’ils ne sont pas en bons termes, et depuis longtemps.
+|Ah, ça explique tout.
+|Et maintenant que j’y pense je n’ai jamais entendu personne parler de son frère.
+|Ce sujet semble être de mauvais goût.
+|Cecily vous me soulagez, je sombrais dans l’anxiété.
+|Cela aurait été affreux qu’un nuage vienne ternir une amitié comme la nôtre,
 |n’est-ce pas ?
-|Et vous êtes tout à fait sûre que monsieur Constant Worthing n’est pas votre tuteur ? 
-|Tout à fait sûre. 
-|En fait, c’est plutôt moi qui vais devenir le sien. 
+|Et vous êtes tout à fait sûre que monsieur Constant Worthing n’est pas votre tuteur ?
+|Tout à fait sûre.
+|En fait, c’est plutôt moi qui vais devenir le sien.
 |Pardon ?
-|Ma très chère Gwendolen, il n’a pas de raison de vous cacher ça. 
-|Notre petit journal régional va certainement en parler la semaine prochaine. 
-|Monsieur Constant Worthing et moi sommes fiancés. 
-|Cecily, ma chérie, il doit y avoir légère erreur. 
-|C’est avec moi que monsieur Constant Worthing est fiancé. 
-|L’annonce paraitra dans le Morning Post samedi au plus tard. 
-|Je crains qu’il y ait une confusion. 
-|Constant a demandé ma main il y a dix minutes, exactement. 
+|Ma très chère Gwendolen, il n’a pas de raison de vous cacher ça.
+|Notre petit journal régional va certainement en parler la semaine prochaine.
+|Monsieur Constant Worthing et moi sommes fiancés.
+|Cecily, ma chérie, il doit y avoir légère erreur.
+|C’est avec moi que monsieur Constant Worthing est fiancé.
+|L’annonce paraitra dans le Morning Post samedi au plus tard.
+|Je crains qu’il y ait une confusion.
+|Constant a demandé ma main il y a dix minutes, exactement.
 |
-|C’est vraiment très curieux, 
-|car il m’a demandé d’être sa femme hier après-midi à cinq heures trente. 
-|Vous pouvez vérifier, je vous en prie. 
+|C’est vraiment très curieux,
+|car il m’a demandé d’être sa femme hier après-midi à cinq heures trente.
+|Vous pouvez vérifier, je vous en prie.
 |
-|Je ne voyage jamais sans ce carnet. 
+|Je ne voyage jamais sans ce carnet.
 |On doit toujours avoir quelque chose de sensationnel à lire dans le train...
-|Je suis navrée, ma chère Cecily, 
-|mais il est clair que j’ai la priorité. 
-|Je serais très chagrinée 
-|de vous contrarier 
-|mais il est clair que 
+|Je suis navrée, ma chère Cecily,
+|mais il est clair que j’ai la priorité.
+|Je serais très chagrinée
+|de vous contrarier
+|mais il est clair que
 |Constant a changé d’avis.
 |Si ce pauvre garçon a été piégé, s’il s’est engagé dans de folles promesses,
-|il est de mon devoir de le secourir tout de suite, et avec fermeté. 
-|Quel que soit le traquenard où mon cher Constant a pu tomber, 
-|je ne le lui reprocherai rien quand nous serons mariés. 
-|Est-ce à moi que vous faites allusion en parlant de traquenard, Miss Cardew ? Quelle audace ! 
+|il est de mon devoir de le secourir tout de suite, et avec fermeté.
+|Quel que soit le traquenard où mon cher Constant a pu tomber,
+|je ne le lui reprocherai rien quand nous serons mariés.
+|Est-ce à moi que vous faites allusion en parlant de traquenard, Miss Cardew ? Quelle audace !
 |En pareille occasion, cela devient plus qu'un plaisir d'exprimer sa pensée.
 |Cela devient un plaisir.
-|Et vous, Miss Fairfax , suggérez-vous que j’ai piégé Constant ? 
+|Et vous, Miss Fairfax , suggérez-vous que j’ai piégé Constant ?
 |Laissez donc tomber le masque de vos prétendues bonnes manières.
 |J'ai coutume d'appeler un chat un chat.
 |Je suis heureuse d'avoir moins d'affinités avec les bêtes que vous.
 |Il est clair aue nos sphères sociales sont grandement différentes.
 |
-|Puis-je installer le thé ici, comme d’habitude, Miss ? 
+|Puis-je installer le thé ici, comme d’habitude, Miss ?
 |Oui, comme d’habitude.
 |
 |Y a-t-il d’intéressantes promenades à faire dans les environs, miss Cardew ?
-|Oh oui, beaucoup. 
-|Du sommet de la colline on peut voir cinq comtés. 
-|Cinq comtés ! Je ne crois pas que j’aimerais ça. 
-Je déteste la foule. 
+|Oh oui, beaucoup.
+|Du sommet de la colline on peut voir cinq comtés.
+|Cinq comtés ! Je ne crois pas que j’aimerais ça.
+|Je déteste la foule.
 |C’est sans doute pour ça que vous vivez à Londres.
-|Quel jardin bien tenu, Miss Cardew ! 
-|Heureuse qu’il vous plaise, miss Fairfax. 
-|Je ne croyais pas qu’il y avait des fleurs à la campagne. 
+|Quel jardin bien tenu, Miss Cardew !
+|Heureuse qu’il vous plaise, miss Fairfax.
+|Je ne croyais pas qu’il y avait des fleurs à la campagne.
 |Les fleurs sont banales ici, miss Fairfax, comme les gens à Londres.
-|Je ne comprends pas comment on peut vivre à la campagne. 
-|Est-ce qu’on peut supporter ça quand on est vraiment quelqu’un ? 
-|Moi, la campagne m’ennuie à mourir. 
+|Je ne comprends pas comment on peut vivre à la campagne.
+|Est-ce qu’on peut supporter ça quand on est vraiment quelqu’un ?
+|Moi, la campagne m’ennuie à mourir.
 |C’est ce que les journaux appellent la dépression aristocratique.
 |Je pense qu'ils en souffrent beaucoup ces temps-ci
 |On m'a raconté que c'était presque une épidémie
-|Puis-je vous offrir le thé, miss Fairfax? 
-|Merci. 
-|Quelle fille haïssable ! 
-|Mais il me faut absolument du thé. 
-|Sucre ? 
-|Non merci. 
-|Le sucre n’est plus à la mode. 
-|Gâteau ou tartine beurrée? 
-|Tartine, s’il vous plait. 
+|Puis-je vous offrir le thé, miss Fairfax?
+|Merci.
+|Quelle fille haïssable !
+|Mais il me faut absolument du thé.
+|Sucre ?
+|Non merci.
+|Le sucre n’est plus à la mode.
+|Gâteau ou tartine beurrée?
+|Tartine, s’il vous plait.
 |On ne voit plus de gâteaux aujourd’hui dans les bonnes maisons.
-|Donnez ça à miss Fairfax. 
-|Vous avez sucré mon thé ! 
-|Et bien que j’aie clairement demandé une tartine beurrée 
-|vous m’avez donné du cake. 
-|Je suis connue pour ma gentillesse 
-|et la remarquable douceur de ma nature, 
-|mais je vous préviens miss Cardew vous pourriez aller trop loin. 
-|Pour sauver mon pauvre garçon, si innocent, si confiant, 
-|des machinations d’une femme, 
-|rien ne m’arrêtera. 
-|Dès que je vous ai vue je me suis méfiée. 
-|J’ai senti que vous étiez fausse et trompeuse. 
+|Donnez ça à miss Fairfax.
+|Vous avez sucré mon thé !
+|Et bien que j’aie clairement demandé une tartine beurrée
+|vous m’avez donné du cake.
+|Je suis connue pour ma gentillesse
+|et la remarquable douceur de ma nature,
+|mais je vous préviens miss Cardew vous pourriez aller trop loin.
+|Pour sauver mon pauvre garçon, si innocent, si confiant,
+|des machinations d’une femme,
+|rien ne m’arrêtera.
+|Dès que je vous ai vue je me suis méfiée.
+|J’ai senti que vous étiez fausse et trompeuse.
 |Je ne me méprends jamais sur ces choses
-|Et ma première impression est toujours la bonne. 
-|Je ne voudrais pas abuser 
-|de votre temps, Miss Fairfax. 
-|Je suis sûre que vous avez bien d’autres propositions de ce genre 
-|à faire dans le voisinage. 
-|Constant! Mon Constant ! 
-|Gwendolen! Ma chérie ! 
-|Un instant ! Puis-je demander si vous êtes fiancé à cette jeune dame? 
-|Fiancé à la chère petite Cecily ! Bien sûr que non. 
-|Qu’est-ce qui a pu mettre cette idée dans votre jolie petite tête? 
-|Merci. Vous pouvez. 
-|Je savais bien qu’il y avait une confusion, miss Fairfax. 
-|Ce gentleman est mon tuteur, 
-|monsieur John Worthing. 
-|Pardon ? 
-|C’est Oncle Jack ! 
-|Jack ! Oh ! 
-|Et voici Constant. 
-|Mon amour ! 
-|Un instant, Constant. 
-|Puis-je vous demander si vous êtes fiancé à cette jeune dame ? 
-|Quelle jeune dame ? Ciel, Gwendolen! 
-|Oui, ciel Gwendolen, je veux bien dire Gwendolen ! 
-|Bien sûr que non ! 
-|Qu’est ce qui a bien pu mettre cette idée dans votre jolie petite tête ? 
-|Merci. Vous pouvez. 
-|Je sentais bien qu’il y avait une petite erreur. 
-|Le gentleman qui vous embrasse est mon cousin, monsieur Algernon Moncrieff. 
-|Algernon Moncrieff! Oh! 
-|Vous vous appelez Algernon? 
-|Je ne peux pas nier. 
-|Oh! 
-|Votre nom est vraiment John? 
-|Je pourrais nier si je voulais. 
-|Je peux nier n’importe quoi si je veux. 
-|Mais mon nom est certainement John. 
-|Et depuis des années. 
-|Quelle déception pour nous deux! 
-|Ma pauvre Cecily blessée! 
-|Ma douce Gwendolen trompée! 
-|Appelle-moi « grande soeur », tu veux bien ? 
-|Il y a une question que je voudrais poser à mon tuteur. 
-|Mais oui! 
-|Monsieur Worthing, il y a une question que j’aimerais vous poser. 
-|Où est votre frère Constant? 
-|Nous sommes toutes deux fiancées à votre frère Constant, 
+|Et ma première impression est toujours la bonne.
+|Je ne voudrais pas abuser
+|de votre temps, Miss Fairfax.
+|Je suis sûre que vous avez bien d’autres propositions de ce genre
+|à faire dans le voisinage.
+|Constant! Mon Constant !
+|Gwendolen! Ma chérie !
+|Un instant ! Puis-je demander si vous êtes fiancé à cette jeune dame?
+|Fiancé à la chère petite Cecily ! Bien sûr que non.
+|Qu’est-ce qui a pu mettre cette idée dans votre jolie petite tête?
+|Merci. Vous pouvez.
+|Je savais bien qu’il y avait une confusion, miss Fairfax.
+|Ce gentleman est mon tuteur,
+|monsieur John Worthing.
+|Pardon ?
+|C’est Oncle Jack !
+|Jack ! Oh !
+|Et voici Constant.
+|Mon amour !
+|Un instant, Constant.
+|Puis-je vous demander si vous êtes fiancé à cette jeune dame ?
+|Quelle jeune dame ? Ciel, Gwendolen!
+|Oui, ciel Gwendolen, je veux bien dire Gwendolen !
+|Bien sûr que non !
+|Qu’est ce qui a bien pu mettre cette idée dans votre jolie petite tête ?
+|Merci. Vous pouvez.
+|Je sentais bien qu’il y avait une petite erreur.
+|Le gentleman qui vous embrasse est mon cousin, monsieur Algernon Moncrieff.
+|Algernon Moncrieff! Oh!
+|Vous vous appelez Algernon?
+|Je ne peux pas nier.
+|Oh!
+|Votre nom est vraiment John?
+|Je pourrais nier si je voulais.
+|Je peux nier n’importe quoi si je veux.
+|Mais mon nom est certainement John.
+|Et depuis des années.
+|Quelle déception pour nous deux!
+|Ma pauvre Cecily blessée!
+|Ma douce Gwendolen trompée!
+|Appelle-moi « grande soeur », tu veux bien ?
+|Il y a une question que je voudrais poser à mon tuteur.
+|Mais oui!
+|Monsieur Worthing, il y a une question que j’aimerais vous poser.
+|Où est votre frère Constant?
+|Nous sommes toutes deux fiancées à votre frère Constant,
 |C'est donc pour nous d'une certaine importance
-|de savoir où est votre frère Constant. 
-|Gwendolen - Cecily - ça m’est très pénible d’être obligé de dire la vérité. 
-|C’est la première fois de ma vie 
-|que j'en suis réduit à une si douloureuse position 
-|et je manque d’expérience. 
-|Pourtant, je dois dire franchement que je n’ai pas de frère Constant. 
-|Et même que je n’ai pas de frère du tout. 
-|Je n’ai jamais eu de frère 
-|et je n’ai pas l’intention d’en avoir un à l’avenir. 
-|Pas de frère du tout? 
-|Aucun! 
-|Vous n’avez jamais eu de frère d’aucune sorte ? 
-|Jamais. 
-|Je crois que c’est parfaitement clair, Cecily. 
-|Aucune de nous deux n’est fiancée à personne. 
-|Ce n’est pas une situation agréable pour une jeune fille. 
+|de savoir où est votre frère Constant.
+|Gwendolen - Cecily - ça m’est très pénible d’être obligé de dire la vérité.
+|C’est la première fois de ma vie
+|que j'en suis réduit à une si douloureuse position
+|et je manque d’expérience.
+|Pourtant, je dois dire franchement que je n’ai pas de frère Constant.
+|Et même que je n’ai pas de frère du tout.
+|Je n’ai jamais eu de frère
+|et je n’ai pas l’intention d’en avoir un à l’avenir.
+|Pas de frère du tout?
+|Aucun!
+|Vous n’avez jamais eu de frère d’aucune sorte ?
+|Jamais.
+|Je crois que c’est parfaitement clair, Cecily.
+|Aucune de nous deux n’est fiancée à personne.
+|Ce n’est pas une situation agréable pour une jeune fille.
 |N'est-ce pas?
-|Rentrons 
-|Ils n’oseront pas nous suivre. 
-|Non ! Les hommes sont si poltrons, n’est-ce pas ? 
-|C’est ça que tu appelles bunburiser, je suppose. 
-|Oui, et c’est un bunburisme tout à fait merveilleux, 
-|le plus merveilleux que j’ai jamais fait de toute ma vie. 
-|Tu n’as pas le droit, pas le moindre droit de bunburiser ici. 
-|C’est absurde. 
-|On a le droit de bunburiser où on veut. 
-|Tous les bunburistes sérieux savent ça. 
-|Des bunburistes sérieux! Bonté divine! 
-|On doit croire à quelque chose dans sa vie. Avoir des valeurs. 
-|Moi je crois que ce qui est important c’est de bunburiser. 
-|Et toi, qu’est-ce qui est important pour toi? 
-|Tout et n’importe quoi, j’imagine. 
-|Tu est tellement frivole. 
-|J’ai tout de même une petite satisfaction dans cette maudite affaire 
-|c’est que ton ami Bunbury s’est évaporé. 
-|Tu ne pourras plus courir à la campagne 
-|aussi souvent, mon cher, 
-|et c’est une bonne chose. 
-|Ton frère Constant est un peu pâlichon, mon cher Jack, non? 
-|Tu ne pourras plus filer à Londres aussi souvent. 
-|Ce n’est pas mal non plus. 
-|Se conduire ainsi avec miss Cardew! 
-|S’en prendre à une pure, douce et innocente jeune fille! 
-|C’est inexcusable. 
-|Et en plus c’est ma pupille. 
+|Rentrons
+|Ils n’oseront pas nous suivre.
+|Non ! Les hommes sont si poltrons, n’est-ce pas ?
+|C’est ça que tu appelles bunburiser, je suppose.
+|Oui, et c’est un bunburisme tout à fait merveilleux,
+|le plus merveilleux que j’ai jamais fait de toute ma vie.
+|Tu n’as pas le droit, pas le moindre droit de bunburiser ici.
+|C’est absurde.
+|On a le droit de bunburiser où on veut.
+|Tous les bunburistes sérieux savent ça.
+|Des bunburistes sérieux! Bonté divine!
+|On doit croire à quelque chose dans sa vie. Avoir des valeurs.
+|Moi je crois que ce qui est important c’est de bunburiser.
+|Et toi, qu’est-ce qui est important pour toi?
+|Tout et n’importe quoi, j’imagine.
+|Tu est tellement frivole.
+|J’ai tout de même une petite satisfaction dans cette maudite affaire
+|c’est que ton ami Bunbury s’est évaporé.
+|Tu ne pourras plus courir à la campagne
+|aussi souvent, mon cher,
+|et c’est une bonne chose.
+|Ton frère Constant est un peu pâlichon, mon cher Jack, non?
+|Tu ne pourras plus filer à Londres aussi souvent.
+|Ce n’est pas mal non plus.
+|Se conduire ainsi avec miss Cardew!
+|S’en prendre à une pure, douce et innocente jeune fille!
+|C’est inexcusable.
+|Et en plus c’est ma pupille.
 |Je ne vois vraiment aucune excuse
-|pour mystifier une jeune lady brillante, intelligente et sans détours, 
-|comme miss Fairfax! 
-|Et en plus, c’est ma cousine! 
-|Je voulais me fiancer à Gwendolen, c’est tout. 
-|Je l’aime. 
-|Je voulais tout simplement me fiancer avec Cecily. 
-|Je l’adore. 
-|Tu n’as aucune chance d’épouser Miss Cardew. 
-|Je ne crois pas que ce soit très probable, Jack, 
-|que tu épouses Miss Fairfax. 
-|Ce n’est pas ton affaire. 
-|Si c’était mon affaire je n’en parlerais pas. 
-|C’est très vulgaire de parler des affaires de quelqu’un. 
-|Il n’y a que des représentants de commerce pour agir ainsi. 
+|pour mystifier une jeune lady brillante, intelligente et sans détours,
+|comme miss Fairfax!
+|Et en plus, c’est ma cousine!
+|Je voulais me fiancer à Gwendolen, c’est tout.
+|Je l’aime.
+|Je voulais tout simplement me fiancer avec Cecily.
+|Je l’adore.
+|Tu n’as aucune chance d’épouser Miss Cardew.
+|Je ne crois pas que ce soit très probable, Jack,
+|que tu épouses Miss Fairfax.
+|Ce n’est pas ton affaire.
+|Si c’était mon affaire je n’en parlerais pas.
+|C’est très vulgaire de parler des affaires de quelqu’un.
+|Il n’y a que des représentants de commerce pour agir ainsi.
 |
-|Comment peux-tu rester assis, à manger tranquillement des muffins 
-|alors que nous sommes dans les pires ennuis. 
-|Je ne peux pas comprendre ça. 
-|Tu est vraiment sans coeur. 
+|Comment peux-tu rester assis, à manger tranquillement des muffins
+|alors que nous sommes dans les pires ennuis.
+|Je ne peux pas comprendre ça.
+|Tu est vraiment sans coeur.
 |
-|Je ne peux pas manger des muffins en m’agitant. 
-|Le beurre tomberait sur mes vêtements. 
-|On doit toujours manger les muffins calmement. 
-|C’est la seule façon de les manger. 
-|C’est parfaitement sans coeur ta façon de manger des muffins, dans ces circonstances. 
-|Quand j’ai des ennuis manger est la seule chose qui me console. 
+|Je ne peux pas manger des muffins en m’agitant.
+|Le beurre tomberait sur mes vêtements.
+|On doit toujours manger les muffins calmement.
+|C’est la seule façon de les manger.
+|C’est parfaitement sans coeur ta façon de manger des muffins, dans ces circonstances.
+|Quand j’ai des ennuis manger est la seule chose qui me console.
 |En effet, quand j'ai de vraiment gros ennuis
 |comme tous mes amis intimes te raconteront
-|je refuse tout sauf nourriture et boisson. 
+|je refuse tout sauf nourriture et boisson.
 |En ce moment je mange des muffins...
-|parce que je suis malheureux. 
-|En plus, j'adore les muffins. 
-|Il n’y a pas de raison de te laisser t’empiffrer comme ça. 
-|Prends plutôt un cake. 
-|Je n’aime pas le cake. 
-|Bonté divine ! 
-|Je peux tout de même manger mes propres muffins dans mon propre jardin. 
-|Mais tu viens de dire que c’était cruel de manger des muffins. 
-|J’ai dit que c’était cruel de ta part étant donné les circonstances. 
-|C’est tout à fait différent. 
+|parce que je suis malheureux.
+|En plus, j'adore les muffins.
+|Il n’y a pas de raison de te laisser t’empiffrer comme ça.
+|Prends plutôt un cake.
+|Je n’aime pas le cake.
+|Bonté divine !
+|Je peux tout de même manger mes propres muffins dans mon propre jardin.
+|Mais tu viens de dire que c’était cruel de manger des muffins.
+|J’ai dit que c’était cruel de ta part étant donné les circonstances.
+|C’est tout à fait différent.
 |Peut-être mais les muffins sont les mêmes.
-|Algy, bon sang, je veux que tu déguerpisse. 
+|Algy, bon sang, je veux que tu déguerpisse.
 |Tu ne peux pas me demander de partir sans diner.
-|C’est absurde. Je ne partirai pas sans diner. 
-|Personne ne fait ça, sauf les végétariens et le gens de la sorte... 
-|En plus je me suis arrangé avec Dr Chasuble 
-|pour être baptisé à six heures moins le quart sous le nom de Constant. 
-|Quelle bêtise, mon petit vieux, oublie ça ! 
+|C’est absurde. Je ne partirai pas sans diner.
+|Personne ne fait ça, sauf les végétariens et le gens de la sorte...
+|En plus je me suis arrangé avec Dr Chasuble
+|pour être baptisé à six heures moins le quart sous le nom de Constant.
+|Quelle bêtise, mon petit vieux, oublie ça !
 |J’ai pris rendez-vous ce matin avec le Dr Chasuble
 |pour être baptisé à cinq heures et demie, et naturellement je prendrai le nom de Constant.
-|Gwendolen y tient. 
+|Gwendolen y tient.
 |Nous ne pouvons pas tous les deux être baptisés sous le nom de Constant.
-|C’est absurde. 
-|En plus j’ai parfaitement le droit d’être baptisé si je veux. 
-|Il n’y a aucune preuve que j’aie jamais été baptisé par qui que ce soit. 
+|C’est absurde.
+|En plus j’ai parfaitement le droit d’être baptisé si je veux.
+|Il n’y a aucune preuve que j’aie jamais été baptisé par qui que ce soit.
 |Je pense que c'est très probable que je ne l'ai jamais été, Dr Chasuble le pense aussi.
-|Ton cas est tout différent : tu as déjà été baptisé. 
-|Oui, mais il y a bien des années que je n’ai pas été baptisé. 
+|Ton cas est tout différent : tu as déjà été baptisé.
+|Oui, mais il y a bien des années que je n’ai pas été baptisé.
 |Peut-être, mais tu as été baptisé.
-|C’est ce qui compte. 
-|En effet! 
-|Du coup je sais que ma santé peut supporter ça. 
+|C’est ce qui compte.
+|En effet!
+|Du coup je sais que ma santé peut supporter ça.
 |Si tu n’es pas tout à fait sûr d’avoir été baptisé,
 |je crois que c’est plutôt dangereux de t’y aventurer maintenant.
-|Cela pourrait te rendre fort malade. 
-|N’oublie pas qu’un de tes proches a été emporté cette semaine 
-|à Paris par un terrible refroidissement. 
-|Mais tu m’as dit toi-même qu’un refroidissement n’est pas héréditaire. 
-|Non, ce n'était pas le cas avant, je sais, mais aujourd’hui ça l'est, je pense… 
-|La science fait de tels progrès. 
-|Encore tes bêtises ! Tu n’arrêtes pas de dire des bêtises. 
-|Jack, tu as repris des muffins. 
-|Ne fais pas cela! Il n’en reste que deux. 
-|Je t’ai dit que j’aimais beaucoup les muffins. 
+|Cela pourrait te rendre fort malade.
+|N’oublie pas qu’un de tes proches a été emporté cette semaine
+|à Paris par un terrible refroidissement.
+|Mais tu m’as dit toi-même qu’un refroidissement n’est pas héréditaire.
+|Non, ce n'était pas le cas avant, je sais, mais aujourd’hui ça l'est, je pense…
+|La science fait de tels progrès.
+|Encore tes bêtises ! Tu n’arrêtes pas de dire des bêtises.
+|Jack, tu as repris des muffins.
+|Ne fais pas cela! Il n’en reste que deux.
+|Je t’ai dit que j’aimais beaucoup les muffins.
 |Mais je déteste le cake!
 |
 |Alors pourquoi fais-tu servir des cakes à tes invités?
 |Quel affreux sens de l’hospitalité!
-|Algernon ! Je t’ai dit de partir. 
+|Algernon ! Je t’ai dit de partir.
 |Je ne veux pas de toi, ici!
 |Pourquoi ne pars-tu pas?
 |
-|Je n’ai pas encore fini mon thé. 
-|Et il reste un muffin. 
+|Je n’ai pas encore fini mon thé.
+|Et il reste un muffin.
 |
 |AKT
 |
@@ -1924,7 +1924,7 @@ Je déteste la foule.
 |Ce sac est le mien sans nul doute.
 |Je suis ravie qu'il me soit rendu de façon aussi inattendue.
 |Si vous saviez comme il m'a manqué pendant toutes ces années.
-|Miss Prism, ce n'est pas seulement le cabas qui vous est rendu. 
+|Miss Prism, ce n'est pas seulement le cabas qui vous est rendu.
 |Je suis le bébé que vous aviez mis dedans.
 | Vous ?
 | Moi... maman !
