@@ -178,16 +178,24 @@ html, body {
 		font-size: 45px;
 	}
 
-	.prompter.current, .slave.current{
+	.slave.current{
 		font-size: 72px;
+	}
+
+	.prompter.current{
+		font-size: 85px;
 	}
 
 	.relative.current{
 		font-size: 5vw;
 	}
 
-	.prompter.next, .slave.next{
+	.slave.next{
 		font-size: 45px;
+	}
+
+	.prompter.next{
+		font-size: 60px;
 	}
 
 /** PANIC **/
