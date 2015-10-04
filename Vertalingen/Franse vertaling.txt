@@ -1005,7 +1005,6 @@
 |Naturellement, j’admets que les torts sont de mon côté.
 |Tout de même, je dois dire que la froideur de John, mon frère,
 |m’est très pénible.
-|J’espérais un meilleur accueil,
 |d’autant plus que c’est la première fois que je viens ici.
 |Oncle Jack, si vous ne serrez pas la main de Constant, je ne vous le pardonnerai jamais.
 |Jamais ?
@@ -1019,6 +1018,7 @@
 |Vous avez fait une belle action aujourd’hui, chère enfant.
 |Ne nous avançons pas trop.
 |Je me sens si heureuse.
+|
 |Algy, espèce de voyou, tu vas filer
 |tout de suite.
 |Je ne te laisserai pas Bunburiser ici!
@@ -1047,8 +1047,8 @@
 | Ne parle pas comme ça de Miss Cardew.
 |Je n’aime pas ça.
 | Eh bien moi je n’aime pas ton costume.
-|Tu as l’air tout à fait ridicule.
 |Pourquoi ne vas-tu pas te changer?
+|Tu as l’air tout à fait ridicule.
 |C’est tout à fait grotesque de porter le deuil d’un homme
 |qui va rester ici toute une semaine, comme invité, dans ta maison.
 | J'appelle ça grotesque.
@@ -1092,8 +1092,7 @@
 |Oui, mademoiselle.
 |Cecily, j’espère que vous ne serez pas choquée
 |si j’affirme tout à fait franchement et ouvertement
-|que vous me semblez de toutes les façons
-|la personnification visible de la perfection absolue.
+|que vous me semblez de toutes les façons la person&shy;nification visible de la perfection absolue.
 |Cette franchise vous fait honneur, Constant.
 |Si vous le permettez je vais copier cette phrase dans mon journal.
 |Vous tenez un journal intime ?
@@ -1112,7 +1111,8 @@
 |Quand on dicte il faut bien articuler, ne pas tousser.
 |En plus je ne sais pas comment écrire une toux.
 |Cecily, à peine avais-je aperçu votre merveilleuse et incomparable beauté
-|que je suis tombé amoureux sauvagement, passionnément, absolument, désespérément.
+|que je suis tombé amoureux sauvagement, passionnément, absolument
+|désespérément.
 |Je ne crois pas que vous devriez dire
 |sauvagement, passionnément, absolument, désespérément.
 |Désespérément, ça n’a pas de sens, non ?
@@ -1173,7 +1173,6 @@
 |Qu’avais-je fait ?
 |Je n’avais rien fait du tout.
 |Cecily, je suis profondément blessé que vous ayez rompu.
-|
 |Surtout si le temps était si beau.
 |Il ne peut pas y avoir de fiançailles sérieuses
 |si elles n’ont pas été rompues au moins une fois.
@@ -1216,8 +1215,7 @@
 |Ahem ! Cecily !
 |Le recteur a certainement une grande expérience
 |de tous les rites et cérémonials écclésiastiques?
-|Oui, oui.
-|Dr Chasuble est un homme très instruit.
+|Oui, oui. Dr Chasuble est un homme très instruit.
 |Il n’a jamais écrit un seul livre,
 |tu vois comme il est savant.
 |Je dois le voir tout de suite pour un baptême très important…
@@ -1258,6 +1256,7 @@
 |Si vous voulez.
 |Alors tout est bien au point entre nous ?
 |J’espère, oui.
+|
 |C’est peut-être le bon moment pour me présenter.
 |Mon père est Lord Bracknell.
 |Vous n’avez jamais entendu parler de papa, je suis sûre ?
@@ -1271,6 +1270,7 @@
 |m’a élevée dans la myopie la plus complète, ça fait partie de son système.
 |Alors, ça ne vous ennuie pas que je vous observe avec mes lunettes ?
 |Pas du tout, Gwendolen, j’adore qu’on m’observe.
+|
 |Vous êtes ici pour une petite visite, je crois.
 |Non, non. Je vis ici.
 |Vraiment ?
@@ -1380,6 +1380,7 @@
 |Tartine, s’il vous plait.
 |On ne voit plus de gâteaux aujourd’hui dans les bonnes maisons.
 |Donnez ça à miss Fairfax.
+|
 |Vous avez sucré mon thé !
 |Et bien que j’aie clairement demandé une tartine beurrée
 |vous m’avez donné du cake.
@@ -1433,6 +1434,7 @@
 |Ma pauvre Cecily blessée!
 |Ma douce Gwendolen trompée!
 |Appelle-moi « grande soeur », tu veux bien ?
+|
 |Il y a une question que je voudrais poser à mon tuteur.
 |Mais oui!
 |Monsieur Worthing, il y a une question que j’aimerais vous poser.
@@ -1459,6 +1461,7 @@
 |Rentrons
 |Ils n’oseront pas nous suivre.
 |Non ! Les hommes sont si poltrons, n’est-ce pas ?
+|
 |C’est ça que tu appelles bunburiser, je suppose.
 |Oui, et c’est un bunburisme tout à fait merveilleux,
 |le plus merveilleux que j’ai jamais fait de toute ma vie.
@@ -1501,8 +1504,7 @@
 |Il n’y a que des représentants de commerce pour agir ainsi.
 |
 |Comment peux-tu rester assis, à manger tranquillement des muffins
-|alors que nous sommes dans les pires ennuis.
-|Je ne peux pas comprendre ça.
+|alors que nous sommes dans les pires ennuis. Je ne peux pas comprendre ça.
 |Tu est vraiment sans coeur.
 |
 |Je ne peux pas manger des muffins en m’agitant.
@@ -1656,8 +1658,7 @@
 |Oui, tante Augusta.
 |Puis-je te demander si c'est dans cette maison que réside monsieur Bunbury, ton ami handicapé?
 |Oh non! Bunbury ne vit pas ici. Bunbury est ailleurs maintenant.
-|En fait,
-|Bunbury est mort.
+|En fait, Bunbury est mort.
 |Mort? Quand monsieur Bunbury est-il mort? Ce décès est extrêmement soudain.
 |Oh! J'ai tué Bunbury cet après-midi.
 |Je veux dire... le pauvre Bunbury est mort cet aprèsmidi.
@@ -1773,7 +1774,8 @@
 |Ça me peine beaucoup de devoir vous parler de votre neveu en toute franchise, Lady Bracknell,
 |mais le fait est que je n'approuve pas du tout sa moralité.
 |Je le suspecte d'être un menteur.
-|Un menteur, mon neveu Algernon? Impossible! Il sort d'Oxford!
+|Un menteur, mon neveu Algernon?
+|Impossible! Il sort d'Oxford!
 |Je crains que le doute ne soit pas possible.
 |Cet après-midi pendant mon absence,
 |il s'est fait recevoir dans ma maison en prétendant faussement qu'il était mon frère.
@@ -1898,6 +1900,7 @@
 |Gwendolen, attends-moi ici.
 | Si tu n'es pas trop long, je suis prête à t'attendre toute ma vie.
 | Qu'en pensez-vous, Lady Bracknell ?
+|
 | Je n'ose pas même penser.
 |Je n'ai pas besoin de vous dire que dans les familles de la haute société d'aussi
 |étranges coïncidences ne sont pas censées se produire.
@@ -1909,8 +1912,10 @@
 |Je déteste les bagarres.
 |C'est toujours vulgaire et parfois persuasif.
 | Ah, c'est fini !
+|
 | J'aimerais que ça se termine, d'une manière ou d'une autre.
 | Ce suspense est terrible. J'espère que ça va bientôt finir.
+|
 |Est-ce bien ce cabas, Miss Prism ?
 |Examinez-le soigneusement avant de répondre.
 |Le bonheur de tous dépend de votre réponse.

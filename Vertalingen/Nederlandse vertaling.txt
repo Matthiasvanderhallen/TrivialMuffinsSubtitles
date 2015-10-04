@@ -774,8 +774,8 @@
 |Maar ik ben uw nichtje Cecily.
 |En u, zie ik van uw kaartje, bent de broer van oom Jack, mijn neef Ernst,
 |mijn slechte neef Ernst.
-|O! Ik ben helemaal niet zo slecht, nicht Cecily.
-|Je moet niet denken dat ik slecht ben.
+|O! Je moet niet denken dat ik slecht ben, nicht Cecily.
+|Ik ben helemaal niet zo slecht.
 |Als u niet slecht bent, dan hebt u ons allemaal op een onvergeeflijke manier misleid.
 |Ik hoop dat u niet stiekem een dubbelleven hebt geleid,
 |door net te doen of u slecht bent en intussen gewoon goed te zijn.
@@ -844,7 +844,7 @@
 |
 |U bent teveel alleen, mijn beste Chasuble.
 |U zou moeten trouwen.
-|Een misantroop kan ik me nog voorstellen – maar een vrouwantroop nee!
+|Een misantroop kan ik me nog voorstellen – maar een vrouwantroop, nee!
 |Zo’n neologisme verdien ik niet.
 |Zowel de leer als de praktijk van de Primitieve Kerk
 |was uitgesproken anti-huwelijk.
@@ -863,7 +863,7 @@
 |Op rijpheid kan men bouwen.
 |Jonge vrouwen zijn te groen.
 |Ik bedoel dat tuinbouwkundig.
-|Een zinnebeeld ontleent aan fruit.
+|Een zinnebeeld ontleend aan fruit.
 |Maar waar is Cecily?
 |Misschien is ze ons gevolgd naar de school?
 |Mr. Worthing!
@@ -964,7 +964,7 @@
 |Kijk toch blij!
 |U kijkt alsof u kiespijn hebt,
 |en ik heb nog wel zo’n verassing voor u.
-|Raad eens wie er in de eetkamer?
+|Raad eens wie er in de eetkamer is?
 |Uw broer.
 |Wie?
 |Uw broer Ernst.
@@ -1004,21 +1004,21 @@
 |Hier wordt een mens toch horendol van.
 |Natuurlijk, het is allemaal mijn schuld.
 |Maar ik moet zeggen dat je koelte
-|me pijnlijk treft.
-|Ik had een warmer onthaal verwacht,
+|me pijnlijk treft,
 |vooral omdat ik hier voor het eerst ben.
 |Oom Jack, als u Ernst geen hand geeft zal ik het u nooit vergeven.
 |Het mij nooit vergeven?
 |Nooit, nooit, nooit!
 |Dan zit er niets anders op, vrees ik.
 |Is het niet aangenaam om van zo’n volmaakte verzoening getuige te zijn?
-|Ik denk dat we beter de twee broers alleen laten.
+|Ik denk dat we de twee broers maar beter alleen laten.
 |Cecily, je kan met ons meekomen.
 |Zeker, Miss Prism.
 |Mijn verzoeningswerk is hier gedaan.
 |Je hebt vandaag je goede daad verricht kind.
 |Laten we maar niet te voorbarig zijn.
 |Ik voel me heel gelukkig.
+|
 |Schurk dat je bent, Algy. Maak dat je wegkomt.
 |Zo snel mogelijk!
 |Ik wil geen gebunburie hier.
@@ -1039,7 +1039,7 @@
 |Ik word helemaal niet in de stad verwacht.
 |Je wordt zeker wel daar verwacht.
 |Wel dat is niet mijn verwachting!
-|Het is wat er van een plichtsbewuste heer verwacht word.
+|Het is wat er van een plichtsbewuste heer verwacht wordt.
 |Mijn plicht als een heer heeft nog nooit
 |in het minste mijn pleziertjes verstoord.
 |Dat kan ik zeker begrijpen.
@@ -1047,8 +1047,8 @@
 |Het bevalt me niet dat je op die manier over Miss Cardew praat.
 |Ik vind het maar niks.
 |En jouw kleren bevallen me niet.
-|Je ziet er helemaal belachelijk uit in die kleren.
 |Waarom ga je je niet verkleden?
+|Je ziet er helemaal belachelijk uit in die kleren.
 |Het is kinderachtig om in de rouw te zijn voor een man
 |die nog een week bij je blijft logeren.
 |Ik noem het zelfs grotesk.
@@ -1092,8 +1092,7 @@
 |Zeker, mejuffrouw.
 |Ik hoop dat ik je niet beledig, Cecily,
 |als ik je ronduit beken
-|dat je me voorkomt als de belichaming
-|van de absolute volmaaktheid.
+|dat je me voorkomt als de belichaming van de absolute volmaaktheid.
 |Je oprechtheid is een punt in je voordeel, Ernst.
 |Met jouw goedkeuring, zal ik je uitspraak in mijn dagboek noteren.
 |Hou je echt een dagboek bij?
@@ -1112,7 +1111,8 @@
 |Wie dicteert moet vloeiend spreken.
 |Ik weet trouwens niet hoe je een kuch moet spellen.
 |Cecily, toen ik voor het eerst uw onvergelijkbare schoonheid aanschouwde,
-|waagde ik het zelfs om van je te houden, wild, hartstochtelijk, toegewijd en hopeloos.
+|waagde ik het zelfs om van je te houden, wild, hartstochtelijk, toegewijd en
+|hopeloos.
 |Ik denk niet dat je moet zeggen dat je van me houdt,
 |wild, hartstochtelijk, toegewijd en hopeloos.
 |Hopeloos lijkt weinig zin te hebben.
@@ -1164,7 +1164,7 @@
 |dat ik er zelfs nu nog een beetje bij moet huilen.
 |Is onze verloving dan verbroken geweest?
 |Natuurlijk.
-|22 maart jonstleden.
+|22 maart jongstleden.
 |Je mag het lezen als je wilt:
 |'Vandaag verbrak ik mijn verloving met Ernst.'
 |'Ik voel dat het beter zo is.'
@@ -1173,7 +1173,6 @@
 |Wat had ik gedaan?
 |Ik had helemaal niets gedaan.
 |Cecily, het kwetst me diep dat je onze verloving hebt verbroken.
-|
 |Vooral omdat het weer daarbij zo aangenaam was.
 |Elke serieuze verloving wordt minstens een keer verbroken.
 |Elke serieuze verloving wordt minstens een keer verbroken.
@@ -1216,8 +1215,7 @@
 |Ahum! Cecily!
 |Jullie dominee hier beschikt, veronderstel ik, over een grondige ervaring
 |in het voltrekken van al de riten en ceremoniën van de kerk?
-|O ja.
-|Dr. Chasuble is een zeer geleerde man.
+|O ja. Dr. Chasuble is een zeer geleerde man.
 |Hij heeft nog nooit een boek geschreven,
 |dus je kunt nagaan hoeveel hij weet.
 |Ik moet onmiddellijk naar hem toe voor een zeer belangrijke doop –
@@ -1258,6 +1256,7 @@
 |Als u dat wilt.
 |Dan is het allemaal geregeld, nietwaar?
 |Ik hoop van wel.
+|
 |Misschien is dit een niet ongeschikte gelegenheid  om te zeggen wie ik ben.
 |Mijn vader is Lord Bracknell. U hebt, neem ik aan, nooit van papa gehoord?
 |Niet dat ik weet.
@@ -1271,6 +1270,7 @@
 |heeft me geleerd zo kortzichtig mogelijk te zijn,
 |dus je vindt het toch niet erg als ik je door mijn bril bekijk?
 |O nee, Gwendolen, ik word graag bekeken.
+|
 |Je bent hier even op bezoek, neem ik aan.
 |O nee! Ik woon hier.
 |Werkelijk?
@@ -1380,12 +1380,13 @@
 |Brood, graag.
 |Cake treft men in goeie families niet meer aan.
 |Geef dit aan Miss Fairfax.
+|
 |U hebt mijn thee met suiker volgestopt,
 |en hoewel ik onmiskenbaar om brood vroeg,
 |gaf u mij cake.
 |Ik sta bekend om de zachtaardigheid van mijn karakter
 |en mijn buitengewone goedgemutstheid,
-|maar ik waarschuw u, Miss Fairfax, er komt een moment dat men te ver gaat.
+|maar ik waarschuw u, Miss Cardew, er komt een moment dat men te ver gaat.
 |Om mijn onschuldige, goedgelovige jongen
 |uit de klauwen van een ander meisje te redden
 |zal ik zover gaan als nodig is.
@@ -1433,6 +1434,7 @@
 |Mijn arme, gekrenkte Cecily!
 |Mijn liefste, bedrogen Gwendolen!
 |Wil jij me voortaan zus noemen?
+|
 |Er is nog een vraag die ik mijn voogd zou willen stellen.
 |Voortreffelijk idee!
 |Mr. Worthing, er is een vraag die ik jou nog zou willen stellen.
@@ -1443,7 +1445,7 @@
 |Gwendolen – Cecily – het is erg pijnlijk voor me jullie de waarheid te moeten vertellen.
 |De eerste keer in mijn leven
 |dat ik me voor die situatie geplaatst zie,
-|dus ik heb er werkelijk geen ervaring in.
+|dus ik heb er werkelijk geen ervaring mee.
 |Ik heb geen broer Ernst.
 |Ik heb geen broer,
 |ik heb nooit een broer gehad,
@@ -1451,7 +1453,7 @@
 |Helemaal geen broer?
 |Helemaal geen!
 |U had al die tijd niets wat op een broer leek?
-|Zelfs niet wat er op leek.
+|Zelfs niets wat er op leek.
 |Het is nu wel duidelijk, Cecily,
 |dat geen van ons beiden verloofd is met wie dan ook.
 |Het is geen aangename positie voor een vrouw om zich plotseling in te bevinden.
@@ -1459,6 +1461,7 @@
 |Laten we maar naar binnen gaan.
 |Ze zullen ons toch wel niet achterna durven komen.
 |Nee, mannen zijn zo laf.
+|
 |Dus deze afgrijselijke toestand is wat jij bunburiën noemt, neem ik aan?
 |Ja, en het is verrukkelijke Bunbury,
 |de verrukkelijkste die ik ooit heb meegemaakt.
@@ -1472,7 +1475,7 @@
 |Ik heb niet het flauwste vermoeden waar jij serieus in bent.
 |In alles, neem ik aan.
 |Je hebt zo’n absoluut triviaal karakter.
-|Well, het enige kleine genot dat ik beleef aan deze situatie
+|Wel, het enige kleine genot dat ik beleef aan deze situatie
 |is dat je vriend Bunbury helemaal opgeblazen is.
 |Je mogelijkheden om de stad uit te rennen
 |zijn iets beperkter geworden, beste Algy.
@@ -1501,8 +1504,7 @@
 |Alleen makelaars en zo praten over hun eigen zaken en dan alleen tijdens etentjes.
 |
 |Hoe jij daar, nu de hele wereld op zijn kop staat,
-|doodkalm muffins kunt zitten eten,
-|is mij een raadsel.
+|doodkalm muffins kunt zitten eten, is mij een raadsel.
 |Het lijkt me harteloos.
 |
 |Ik kan geen muffins eten in opgewonden staat.
@@ -1656,8 +1658,7 @@
 |Ja, Tante Augusta.
 |Mag ik vragen of het in dit huis is dat je doodzieke vriend Mr. Bunbury verblijft?
 |O! Nee! Bunbury woont hier niet. Bunbury is ergens anders.
-|Om u de waarheid te zeggen,
-|Bunbury is dood.
+|Om u de waarheid te zeggen, Bunbury is dood.
 |Dood! Wanneer is Mr. Bunbury gestorven? Zijn dood moet wel erg plotseling zijn gekomen...
 |O! Ik heb Bunbury vanmiddag vermoord.
 |Ik bedoel, Bunbury is vanmiddag gestorven.
@@ -1705,7 +1706,7 @@
 |Tot dusver ben ik tevreden.
 |Buitengewoon vriendelijk van u, Lady Bracknell!
 |Ik ben bovendien in het bezit, u zult blij zijn dat te horen,
-|van de nodige papieren betreffende Miss Cardews geboorte, doop kinkhoest,
+|van de nodige papieren betreffende Miss Cardews geboorte, doop, kinkhoest,
 |aangifte, vaccinatie, bevestiging en mazelen,
 |zowel de Engelse als de Duitse variant.
 |Ah! Een veelbewogen leven, zie ik,
@@ -1725,7 +1726,7 @@
 |Wat een engeltje! Je jurk is jammerlijk eenvoudig,
 |en je haar ziet eruit zoals de natuur het je ooit schonk.
 |Maar dat is makkelijk verholpen.
-|Een Frans kamermeisje dat een beetje doorkneed is,
+|Een Frans kamermeisje dat een beetje ervaren is,
 |kan wat dat betreft in een oogwenk wonderen verrichten.
 |Ik heb er ooit een aangeraden aan de jonge Lady Lancing
 |en na drie maanden kende haar eigen echtgenoot haar niet meer.
@@ -1773,7 +1774,8 @@
 |Het doet me echt pijn, Lady Bracknell, om zo openharting met u over uw neef te moeten praten,
 |maar ik heb geen enkel vertrouwen in zijn morele karakter.
 |Ik verdenk hem van onoprechtheid.
-|Onoprechtheid? Mijn neef Algernon? Onmogelijk. Hij heeft in Oxford gestudeerd.
+|Onoprechtheid? Mijn neef Algernon?
+|Onmogelijk. Hij heeft in Oxford gestudeerd.
 |Ik vrees dat er geen twijfel mogelijk is.
 |Vanmiddag, toen ik voor een belangrijke romantische kwestie in Londen was,
 |verschafte hij zich toegang tot mijn huis onder het valse voorwendsel dat hij mijn broer was.
@@ -1833,7 +1835,7 @@
 |Alles staat gereed voor de doopplechtigheid.
 |De doopplechtigheid! Is dat niet wat voorbarig?
 |De beide heren hebben de wens te kennen gegeven terstond te worden gedoopt.
-|Op hun leeftijd? Wat een potsierlijke en ongodsdienstig idee!
+|Op hun leeftijd? Wat een potsierlijk en ongodsdienstig idee!
 |Algernon, ik verbied je om je te laten dopen. Ik wil niet van zulke uitspattingen horen.
 |Lord Bracknell zou het niet waarderen als hij hoorde
 |dat dat de manier was waarop je je tijd en geld verdeed.
@@ -1880,7 +1882,7 @@
 |Lady Bracknell, ik schaam me te moeten bekennen dat ik het niet weet.
 |Ik wou maar dat ik het wist.
 |De feiten zijn als volgt.
-|Ik maakte die dag, een dag die voor eeuwig in mijn geheugen staat gegrifd,
+|Ik maakte die dag, een dag die voor eeuwig in mijn geheugen staat gegrift,
 |zoals gebruikelijk aanstalten om met de baby uit wandelen te gaan.
 |Ik had ook een nogal versleten, maar ruime handtas bij me,
 |waarin ik het manuscript wilde opbergen van een letterkundig werk
@@ -1898,9 +1900,10 @@
 |Gwendolen! Blijf hier op me wachten.
 |Als het niet te lang duurt zal ik hier mijn hele leven op je wachten.
 |Wat denkt u dat dit te betekenen heeft, Lady Bracknell?
+|
 |Ik durf er niet eens naar te raden, Dr. Chasuble.
 |Ik hoef u niet te vertellen dat in hooggeplaatste kringen
-|vreemde coïncidenties niet horen voor te komen.
+|vreemde toevallen niet horen voor te komen.
 |Zoiets is nauwelijks fatsoenlijk.
 |Oom Jack schijnt wel erg opgewonden.
 |Je voogd heeft een erg emotionele aard.
@@ -1909,8 +1912,10 @@
 |Ik hou niet van discussies.
 |Ze zijn altijd vulgair en vaak overtuigend.
 |Nu is het afgelopen.
+|
 |Ik wou dat hij naar een conclusie evolueerde.
 |De spanning is ondraaglijk. Ik hoop dat hij aanhoudt.
+|
 |Is dit de handtas, Miss Prism?
 |Bekijk hem zorgvuldig voor u iets zegt.
 |Het geluk van meer dan één leven hangt van uw antwoord af.

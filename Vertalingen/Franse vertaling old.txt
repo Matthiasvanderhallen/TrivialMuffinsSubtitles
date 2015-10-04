@@ -1004,8 +1004,7 @@
 |Il y a de quoi devenir fou!
 |Naturellement, j’admets que les torts sont de mon côté.
 |Tout de même, je dois dire que la froideur de John, mon frère,
-|m’est très pénible.
-|J’espérais un meilleur accueil,
+|m’est très pénible
 |d’autant plus que c’est la première fois que je viens ici.
 |Oncle Jack, si vous ne serrez pas la main de Constant, je ne vous le pardonnerai jamais.
 |Jamais ?

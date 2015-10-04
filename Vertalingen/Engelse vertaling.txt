@@ -1005,7 +1005,6 @@
 |Of course I admit that the faults were all on my side.
 |But I must say that I think that Brother John’s coldness to me
 |is peculiarly painful.
-|I expected a more enthusiastic welcome,
 |especially considering it is the first time I have come here.
 |Uncle Jack, if you don’t shake hands with Ernest I will never forgive you.
 |Never forgive me?
@@ -1019,6 +1018,7 @@
 |You have done a beautiful action to-day, dear child.
 |We must not be premature in our judgments.
 |I feel very happy.
+|
 |You young scoundrel, Algy, you must get out of this place
 |as soon as possible.
 |I don’t allow any Bunburying here.
@@ -1047,8 +1047,8 @@
 |You are not to talk of Miss Cardew like that.
 |I don’t like it.
 |Well, I don’t like your clothes.
-|You look perfectly ridiculous in them.
 |Why on earth don’t you go up and change?
+|You look perfectly ridiculous in them.
 |It is perfectly childish to be in deep mourning for a man
 |who is actually staying for a whole week with you in your house as a guest.
 |I call it grotesque.
@@ -1092,8 +1092,7 @@
 |Yes, Miss.
 |I hope, Cecily, I shall not offend you
 |if I state quite frankly and openly
-|that you seem to me to be in every way
-|the visible personification of absolute perfection.
+|that you seem to me to be in every way the visible personification of absolute perfection.
 |I think your frankness does you great credit, Ernest.
 |If you will allow me, I will copy your remarks into my diary.
 |Do you really keep a diary?
@@ -1112,7 +1111,8 @@
 |When one is dictating one should speak fluently and not cough.
 |Besides, I don’t know how to spell a cough.
 |Cecily, ever since I first looked upon your wonderful and incomparable beauty,
-|I have dared to love you wildly, passionately, devotedly, hopelessly.
+|I have dared to love you wildly, passionately, devotedly
+|hopelessly.
 |I don’t think that you should tell me that you love me
 |wildly, passionately, devotedly, hopelessly.
 |Hopelessly doesn’t seem to make much sense, does it?
@@ -1173,7 +1173,6 @@
 |What had I done?
 |I had done nothing at all.
 |Cecily, I am very much hurt indeed to hear you broke it off.
-|
 |Particularly when the weather was so charming.
 |It would hardly have been a really serious engagement
 |if it hadn’t been broken off at least once.
@@ -1216,8 +1215,7 @@
 |Ahem!  Cecily!
 |Your Rector here is, I suppose, thoroughly experienced
 |in the practice of all the rites and ceremonials of the Church?
-|Oh, yes.
-|Dr. Chasuble is a most learned man.
+|Oh, yes. Dr. Chasuble is a most learned man.
 |He has never written a single book,
 |so you can imagine how much he knows.
 |I must see him at once on a most important christening—
@@ -1258,6 +1256,7 @@
 |If you wish.
 |Then that is all quite settled, is it not?
 |I hope so.
+|
 |Perhaps this might be a favourable opportunity for my mentioning who I am.
 |My father is Lord Bracknell.  You have never heard of papa, I suppose?
 |I don’t think so.
@@ -1271,6 +1270,7 @@
 |has brought me up to be extremely short-sighted; it is part of her system;
 |so do you mind my looking at you through my glasses?
 |Oh! not at all, I am very fond of being looked at.
+|
 |You are here on a short visit, I suppose.
 |Oh no!  I live here.
 |Really?
@@ -1380,6 +1380,7 @@
 |Bread and butter, please.
 |Cake is rarely seen at the best houses nowadays.
 |Hand that to Miss Fairfax.
+|
 |You have filled my tea with lumps of sugar,
 |and though I asked most distinctly for bread and butter,
 |you have given me cake.
@@ -1433,6 +1434,7 @@
 |My poor wounded Cecily!
 |My sweet wronged Gwendolen!
 |You will call me sister, will you not?
+|
 |There is just one question I would like to be allowed to ask my guardian.
 |An admirable idea!
 |Mr. Worthing, there is just one question I would like to be permitted to put to you.
@@ -1459,6 +1461,7 @@
 |Let us go into the house.
 |They will hardly venture to come after us there.
 |No, men are so cowardly, aren’t they?
+|
 |This ghastly state of things is what you call Bunburying, I suppose?
 |Yes, and a perfectly wonderful Bunbury it is.
 |The most wonderful Bunbury I have ever had in my life.
@@ -1501,8 +1504,7 @@
 |Only people like stock-brokers do that, and then merely at dinner parties.
 |
 |How can you sit there, calmly eating muffins
-|when we are in this horrible trouble,
-|I can’t make out.
+|when we are in this horrible trouble, I can’t make out.
 |You seem to me to be perfectly heartless.
 |
 |Well, I can’t eat muffins in an agitated manner.
@@ -1656,8 +1658,7 @@
 |Yes, Aunt Augusta.
 |May I ask if it is in this house that your invalid friend Mr. Bunbury resides?
 |Oh! No! Bunbury doesn't live here. Bunbury is somewhere else at present.
-|In fact,
-|Bunbury is dead.
+|In fact, Bunbury is dead.
 |Dead! When did Mr. Bunbury die? His death must have been extremely sudden.
 |Oh! I killed Bunbury this afternoon..
 |I mean... poor Bunbury died this afternoon.
@@ -1773,7 +1774,8 @@
 |It pains me very much to have to speak frankly to you, Lady Bracknell, about your nephew,
 |but the fact is that I do not approve at all of his moral character.
 |I suspect him of being untruthful.
-|Untruthful! My nephew Algernon? Impossible! He is an Oxonian.
+|Untruthful! My nephew Algernon?
+|Impossible! He is an Oxonian.
 |I fear there can be no possible doubt about the matter.
 |This afternoon during my temporary absence in London on an important question of romance,
 |he obtained admission to my house by means of the false pretence of being my brother.
@@ -1898,6 +1900,7 @@
 |Gwendolen, wait here for me.
 |If you are not too long, I will wait here for you all my life.
 |What do you think this means, Lady Bracknell?
+|
 |I dare not even suspect, Dr.
 |I need hardly tell you that in families of high position
 |strange coincidences are not supposed to occur.
@@ -1909,8 +1912,10 @@
 |I dislike arguments of any kind.
 |They are always vulgar, and often convincing.
 |It has stopped now.
+|
 |I wish he would arrive at some conclusion.
 |This suspense is terrible.  I hope it will last.
+|
 |Is this the hand-bag, Miss Prism?
 |Examine it carefully before you speak.
 |The happiness of more than one life depends on your answer.
