@@ -105,6 +105,7 @@ function jumpTo(a) {
 	slide.html(returnSlideText);
 
 	globalConnection.send(JSON.stringify({type: "subtitle", nl:returnCheckBlackout(subtitle.nl[a]), fr: returnCheckBlackout(subtitle.fr[a]), en: getEnglish(a, subtitle.preview, subtitle.postview)}));
+	globalConnection.send(JSON.stringify({type: "note", data: "*** " + Date.now() + " ** " + a}));
 };
 
 function setSize(){
@@ -115,27 +116,40 @@ function setSize(){
 }
 
 function keyListener(){
-	if(d3.event.keyCode == 39){
+
+	var LEFT = 37;
+	var RIGHT = 39;
+	var SPACE = 32;
+	var KEY_J = 74;
+	var KEY_S = 83;
+	var KEY_B = 66;
+	var KEY_I = 73;
+	var KEY_M = 77;
+	var KEY_P = 80;
+	var KEY_N = 78;
+	var KEY_C = 67;
+
+	if(d3.event.keyCode == RIGHT){
 		forward();
-	} else if(d3.event.keyCode == 32){
+	} else if(d3.event.keyCode == SPACE){
 		forward();
-	} else if(d3.event.keyCode == 37){
+	} else if(d3.event.keyCode == LEFT){
 		backward();
-	} else if(d3.event.keyCode == 74){
+	} else if(d3.event.keyCode == KEY_J){
 		var answer = prompt("To what slide do you want to jump?", subtitle.current);
 
 		if(isNumeric(answer) && answer <= subtitle.length){
 			subtitle.current = answer;
 			jumpTo(subtitle.current);
 		}
-	} else if(d3.event.keyCode == 83){
+	} else if(d3.event.keyCode == KEY_S){
 		var answer = prompt("Which size?", subtitle.size);
 		
 		if(isNumeric(answer)){
 			subtitle.size = answer;
 			setSize();
 		}
-	} else if(d3.event.keyCode == 66){
+	} else if(d3.event.keyCode == KEY_B){
 		subtitle.blackout = !subtitle.blackout;
 		if(subtitle.blackout){
 			blackoutBadge.style('visibility', 'visible');
@@ -144,9 +158,9 @@ function keyListener(){
 		}
 
 		jumpTo(subtitle.current);
-	} else if(d3.event.keyCode == 73){
+	} else if(d3.event.keyCode == KEY_I){
 		globalConnection.send(JSON.stringify({type: "identify"}));
-	} else if(d3.event.keyCode == 77){
+	} else if(d3.event.keyCode == KEY_M){
 		var mode = prompt("What mode (dual, fr, nl): ", "dual");
 		var peer = prompt("What peer: ", 0);
 
@@ -155,7 +169,7 @@ function keyListener(){
 				globalConnection.send(JSON.stringify({type: "mode", mode: mode, peer: peer}));
 			}
 		}
-	} else if(d3.event.keyCode == 80){
+	} else if(d3.event.keyCode == KEY_P){
 		subtitle.panic = !subtitle.panic;
 		if(subtitle.panic){
 			panicBadge.style('visibility', 'visible');
@@ -164,7 +178,13 @@ function keyListener(){
 		}
 
 		globalConnection.send(JSON.stringify({type: "panic", panic: subtitle.panic}));
-	} 
+	} else if(d3.event.keyCode == KEY_C){
+		var filename = prompt("Filename?");
+
+		globalConnection.send(JSON.stringify({type: "create", filename: filename}));
+	}else if(d3.event.keyCode == KEY_N){
+		globalConnection.send(JSON.stringify({type: "note", data: subtitle.current}));
+	}
 	/*else if(d3.event.keycode == 83){
 		var preview = prompt("Preview?", subtitle.preview);
 		var postview = prompt("Postview?", subtitle.postview);

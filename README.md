@@ -4,11 +4,12 @@
 
 # 2. Node.js packages
 
-The following commands install the necessary Node.js packages. To run the communication server, websockets is needed.
-For the reconnecting clients (Master, Slave, Prompter), reconnect-core and browserify is needed.
+The following commands install the necessary Node.js packages. To run the communication server, `websockets` and `hashmap` is needed.
+For the reconnecting clients (Master, Slave, Prompter), reconnect-core and browserify is needed (for development only).
 
 ```
 npm install websockets
+npm install hashmap
 npm install reconnect-core
 npm install browserify
 ```
