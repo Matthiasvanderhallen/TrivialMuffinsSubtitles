@@ -43,6 +43,9 @@ var globalConnection;
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
 var engelsTitel = d3.select("#original").selectAll("h2");
+var panicBadge = d3.selectAll(".panic");
+var blackoutBadge = d3.selectAll(".blackout");
+var slideBadge = d3.select("#slide");
 
 var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false, preview: 1, postview: 1, blackout: false};
 
@@ -77,6 +80,7 @@ function jumpTo(a) {
 	nederlands = nederlandsTitel.data([subtitle.nl[a]]);
 	frans = fransTitel.data([subtitle.fr[a]]);
 	engels = engelsTitel.data(getEnglish(a, 3, 3));
+	slide = slideBadge.data([a]);
 
 
 	var returnText = function (d){
@@ -90,9 +94,14 @@ function jumpTo(a) {
 		return d;
 	}
 
+	var returnSlideText = function(d){
+		return d + "/" + subtitle.length;
+	}
+
 	nederlands.html(returnCheckBlackout);
 	frans.html(returnCheckBlackout);
 	engels.html(returnText);
+	slide.html(returnSlideText);
 
 	globalConnection.send(JSON.stringify({type: "subtitle", nl:returnCheckBlackout(subtitle.nl[a]), fr: returnCheckBlackout(subtitle.fr[a]), en: getEnglish(a, subtitle.preview, subtitle.postview)}));
 };
@@ -114,7 +123,7 @@ function keyListener(){
 	} else if(d3.event.keyCode == 74){
 		var answer = prompt("To what slide do you want to jump?", subtitle.current);
 
-		if(isNumeric(answer) && answer < subtitle.length){
+		if(isNumeric(answer) && answer <= subtitle.length){
 			subtitle.current = answer;
 			jumpTo(subtitle.current);
 		}
@@ -127,6 +136,12 @@ function keyListener(){
 		}
 	} else if(d3.event.keyCode == 66){
 		subtitle.blackout = !subtitle.blackout;
+		if(subtitle.blackout){
+			blackoutBadge.style('visibility', 'visible');
+		}else{
+			blackoutBadge.style('visibility', 'hidden');
+		}
+
 		jumpTo(subtitle.current);
 	} else if(d3.event.keyCode == 73){
 		globalConnection.send(JSON.stringify({type: "identify"}));
@@ -141,12 +156,13 @@ function keyListener(){
 		}
 	} else if(d3.event.keyCode == 80){
 		subtitle.panic = !subtitle.panic;
-		globalConnection.send(JSON.stringify({type: "panic", panic: subtitle.panic}));
 		if(subtitle.panic){
-			d3.selectAll(".panic").style('display', 'block');
+			panicBadge.style('visibility', 'visible');
 		}else{
-			d3.selectAll(".panic").style('display', 'none');
+			panicBadge.style('visibility', 'hidden');
 		}
+
+		globalConnection.send(JSON.stringify({type: "panic", panic: subtitle.panic}));
 	} 
 	/*else if(d3.event.keycode == 83){
 		var preview = prompt("Preview?", subtitle.preview);

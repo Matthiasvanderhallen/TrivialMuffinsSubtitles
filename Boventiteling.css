@@ -198,11 +198,33 @@ html, body {
 		font-size: 60px;
 	}
 
-/** PANIC **/
-	.panic {
-		display:none;
+/** Menu **/
+	
+	.menu-horizontal {
+		width: 98%;
+		-webkit-align-items: center;
+		align-items: center;
+		-webkit-justify-content: space-between;
+		justify-content: space-between;
+		display: -webkit-flex;
+		display: flex;
+		-webkit-flex-direction: row;
+		flex-direction: row;
+	}
+
+	.hover-top{
+		position: absolute;
+		top: -10px;
+		border-bottom: 2px dashed white;
+	}
+
+/** Menu Bar Items **/
+	.badge {
+		visibility: hidden;
 		background:red;
-		position:absolute;
-		top: 0px;
-		right: 0px;
+	}
+
+	.slide {
+		background:black;
+		color: white;
 	}
