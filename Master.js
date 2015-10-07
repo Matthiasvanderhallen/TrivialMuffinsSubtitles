@@ -37,19 +37,24 @@ function getQueryVariable(variable) {
   return ""
 }
 
+//Var containing the connection
 var globalConnection;
-//var connection = new WebSocket('ws://localhost:1337');
 
+//D3 - Subtitles:
 var nederlandsTitel = d3.select("#Nederlands").selectAll("h1");
 var fransTitel = d3.select("#Frans").selectAll("h1");
 var engelsTitel = d3.select("#original").selectAll("h2");
+
+//D3 - Menu Bar
 var panicBadge = d3.selectAll(".panic");
 var blackoutBadge = d3.selectAll(".blackout");
 var slideBadge = d3.select("#slide");
 
+//General subtitle information data
 var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false, preview: 1, postview: 1, blackout: false};
 
-d3.select("html").on('click', forward);
+//D3 setting up the listeners.
+d3.select("body").on('click', forward);
 d3.select("body").on('keydown', keyListener);
 
 function getEnglish(a, preview, postview){
