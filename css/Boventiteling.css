@@ -228,3 +228,13 @@ html, body {
 		background:black;
 		color: white;
 	}
+
+	#slide.rec::after {
+		background-color: red;
+		border-radius: 50%;
+		content:"";
+		display:inline-block;
+		margin: 3px;
+		width: 10px;
+		height: 10px;
+	}

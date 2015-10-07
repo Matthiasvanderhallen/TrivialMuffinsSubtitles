@@ -185,6 +185,7 @@ function keyListener(){
 	} else if(d3.event.keyCode == KEY_C){
 		var filename = prompt("Filename?");
 
+		slideBadge.attr("class", "rec");
 		globalConnection.send(JSON.stringify({type: "create", filename: filename}));
 	}else if(d3.event.keyCode == KEY_N){
 		globalConnection.send(JSON.stringify({type: "note", data: subtitle.current}));
