@@ -49,13 +49,37 @@ var engelsTitel = d3.select("#original").selectAll("h2");
 var panicBadge = d3.selectAll(".panic");
 var blackoutBadge = d3.selectAll(".blackout");
 var slideBadge = d3.select("#slide");
+var downloadButton = d3.select("btn-real");
 
 //General subtitle information data
 var subtitle = {current: 0, nl: [], fr: [], en:[], length: 0, size: 72, panic: false, preview: 1, postview: 1, blackout: false};
 
 //D3 setting up the listeners.
+d3.select("#btn-real").on('click', downloadLog);
 d3.select("body").on('click', forward);
 d3.select("body").on('keydown', keyListener);
+
+function downloadLog(){
+	d3.event.stopPropagation();
+	globalConnection.send(JSON.stringify({type:"list"}));
+}
+
+function showList(list){
+	var options = [];
+	for(i = 0; i<list.length; i++){
+		if(/.*.log/.test(list[i])){
+			options.push("<option value='logs/" + list[i] + "'>" + list[i] + "</option>");
+		}
+	}
+
+	$("#FileSelector").append(options.join("")).selectmenu({
+		appendTo: "#DownloadDialog",
+		height: "auto",
+		width: 200
+	});
+
+	$("#DownloadDialog").dialog("open");
+}
 
 function getEnglish(a, preview, postview){
 	var enWindow = [];
@@ -198,6 +222,24 @@ function keyListener(){
 	}*/
 };
 
+function onMessage(message){
+	var json;
+
+	try{
+		json = JSON.parse(message.data);
+	} catch(e){
+		console.log(e);
+		console.log(message.data);
+		return;
+	}
+
+	if(json.type == "listResponse"){
+		console.log(json);
+		console.log(json.list);
+		showList(json.list);
+	}
+}
+
 function isNumeric(n) {
 		return !isNaN(parseFloat(n)) && isFinite(n);
 };
@@ -233,6 +275,7 @@ var reconnect = inject(function(){
 
 	var connection = new WebSocket('ws://' + server + ':1337');
 	globalConnection = connection;
+	connection.onmessage = onMessage;
 	return connection;
 });
 
@@ -242,3 +285,32 @@ var re = reconnect({}, function (stream) {
 .on('connect', function (con) {
 })
 .connect();
+
+
+//JQUERY setup
+$(document).ready(function(){
+	$("#DownloadDialog").dialog({
+		autoOpen: false,
+		modal: true,
+		width: "auto",
+		height: "auto",
+        buttons: {
+            "Ok": function(e) {
+            	e.preventDefault();
+				window.open($("#FileSelector option:selected").val());
+            	event.stopPropagation();
+                $(this).dialog("close");
+            },
+            "Cancel": function() {
+            	event.stopPropagation();
+                $(this).dialog("close");
+            }
+        },
+        open: function(){
+        	d3.select("body").on('click', null);
+        },
+        close: function(){
+        	d3.select("body").on('click', forward);
+        }
+	});
+});

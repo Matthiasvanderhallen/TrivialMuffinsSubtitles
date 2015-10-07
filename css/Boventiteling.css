@@ -238,3 +238,45 @@ html, body {
 		width: 10px;
 		height: 10px;
 	}
+
+	.button {
+		width:120px;
+		margin: 30;
+	}
+	.button a {
+		display: block; 
+		background: #d46a15; /* old browsers */
+    	background: -moz-linear-gradient(top, #d798000%, #d46a15 100%); /* firefox */
+    	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d79800), color-stop(100%,#d46a15)); /* webkit */
+    
+    	box-shadow: inset 0px 0px 6px #fff;
+    	-webkit-box-shadow: inset 0px 0px 6px #fff;
+    	border: 1px solid #222222;
+    	border-radius: 10px;
+    	text-align: center;
+	    text-transform: uppercase; 
+	    text-decoration: none;
+	    color: #222222;
+	    text-shadow: 0px 1px 2px #bf4c24;
+	    
+	    -moz-transition: color 0.25s ease-in-out;
+	    -webkit-transition: color 0.25s ease-in-out;
+	    transition: color 0.25s ease-in-out;    
+	}
+
+	.button a:hover {
+    	color: #efefef;
+    
+    	-moz-transition: color 0.25s ease-in-out;
+    	-webkit-transition: color 0.25s ease-in-out;
+    	transition: color 0.25s ease-in-out;
+	}
+
+	.button a:active { 
+    	-moz-transform: translate(0px, 3px); 
+    	-webkit-transform: translate(0px, 3px);
+	}
+
+	#btn-dummy { 
+		visibility: hidden;
+	}

@@ -45,6 +45,13 @@ wsServer.on('request', function(request) {
                     }
 
                     return;
+                } else if(json.type == "list"){
+                    var callback = function(err, files){
+                        connection.sendUTF(JSON.stringify({type:"listResponse", list:files}));
+                    }
+
+                    fs.readdir("logs/", callback);
+                    return;
                 }
             }catch (e){}
 
