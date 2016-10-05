@@ -1,0 +1,431 @@
+|Ils ne nous ont pas suivies.
+|Ça me fait penser qu'ils se sentent tout de même un peu honteux.
+|Ils mangeaient des muffins. C'est une forme de repentir.
+|
+|Ils n'ont pas l'air de faire attention à nous. Pourrais-tu tousser?
+|Mais je n'ai pas envie!
+|Ils regardent de notre côté. Quelle effronterie!
+|Ils viennent! Quelle audace!
+|Gardons un silence plein de dignité.
+|Certainement. C'est la seule chose à faire.
+|
+|Notre silence ne produit pas un bon effet.
+|Plutôt un effet déplaisant.
+|Mais nous ne serons pas les premières à parler.
+|Certainement pas.
+|
+|Monsieur Worthing, j'ai quelque chose de très personnel à vous demander.
+|Et votre réponse est très importante.
+|Gwendolen, ton bon sens est inestimable
+|Répondez-moi, Monsieur Moncrieff.
+|Pourquoi vouliez-vous faire croire que vous étiez le frère de mon tuteur?
+|Mais parce que je voulais avoir l'occasion de vous rencontrer.
+|Ça parait une explication satisfaisante, n'estce pas?
+|Oui, ma chérie. Et tu le crois?
+|Non. Mais ça ne ternit pas la merveilleuse beauté de sa réponse.
+|C'est vrai.
+|Dans les questions de grande importance le style est la chose essentielle. Pas la sincérité.
+|Monsieur Worthing, quelle explication pouvez-vous donner au fait de prétendre avoir un frère?
+|Etait-ce pour avoir l'occasion de monter à Londres pour me voir aussi souvent que possible?
+|Pouvez-vous en douter, miss Fairfax?
+|Certes, j'ai de grands doutes à ce sujet. Mais je les repousse.
+|Ce n'est pas le moment de tomber dans le scepticisme.
+|Leurs explications me paraissent tout à fait satisfaisantes, surtout celles de monsieur Worthing.
+|Cela me semble être la plus pure vérité.
+|Je suis totalement satisfaite de ce qu'a dit monsieur Moncrieff. Sa voix m'inspire une confiance absolue.
+|Alors, penses-tu que nous pouvons leur pardonner?
+|Oui.
+|Je veux dire : non.
+|C'est vrai qu'il y a une question de principe.
+|C'est vrai qu'il y a une question de principe.
+|Laquelle de nous deux va leur dire?
+|Est-ce qu'on ne pourrait pas parler toutes les deux en même temps?
+|Excellente idée! Je parle presque toujours en même temps que quelqu'un.
+|Alors, allons-y!
+|Oui, oui. Un… deux… trois!
+|Votre prénom est une barrière insurmontable, voilà tout!
+|Nos prénoms? Et c'est tout? Mais nous nous faisons baptiser cet après-midi!
+|Vraiment, vous êtes prêt à cette terrible épreuve?
+|Oui!
+|Pour me plaire vous êtes prêt à cet affreux supplice?
+|Oui!
+|Comme c'est absurde de parler de l'égalité des sexes.
+|Quand il s'agit de se sacrifier les hommes sont bien au dessus de nous.
+|Oui!
+|Ils ont des moments de courage physique que nous les femmes nous ne connaissons pas.
+|Mon chéri!
+|Ma chérie!
+|
+|Je vous prie de m'excuser. Lady Bracknell!
+|Ciel!
+|Gwendolen! Qu'est-ce que ça signifie?
+|Simplement que je suis fiancée à monsieur Worthing, maman.
+|Viens ici. Assieds-toi.
+|Assieds-toi immédiatement.
+|L'hésitation est un signe de décadence chez les jeunes,
+|de sénilité chez les vieux.
+|Informée, monsieur, de la fugue soudaine de ma fille par une servante fidèle,
+|dont j'ai acheté la confiance avec une petite pièce,
+|je l'ai suivie aussitôt par le train.
+|Son malheureux père, je suis heureuse de le dire, croit
+|qu'elle assiste à une conférence universitaire un peu longue
+|à propos de l'influence d'un revenu régulier sur la qualité de la pensée.
+|Je ne me propose pas de le détromper, d'ailleurs je ne l'ai jamais détrompé sur aucune question.
+|Je considère que ce serait une erreur.
+|Mais naturellement vous comprendrez que toute communication
+|entre vous-même et ma fille doit cesser immédiatement.
+|Sur ce point, comme sur tous les points, je serai inflexible.
+|Je suis fiancé à Gwendolen, Lady Bracknell!
+|Vous n'êtes rien de ce genre, monsieur. Et en ce qui concerne Algernon…
+|
+|Algernon!
+|Oui, tante Augusta.
+|Puis-je te demander si c'est dans cette maison que réside monsieur Bunbury, ton ami handicapé?
+|Oh non! Bunbury ne vit pas ici. Bunbury est ailleurs maintenant.
+|En fait,
+|Bunbury est mort.
+|Mort? Quand monsieur Bunbury est-il mort? Ce décès est extrêmement soudain.
+|Oh! J'ai tué Bunbury cet après-midi.
+|Je veux dire... le pauvre Bunbury est mort cet aprèsmidi.
+|Et de quoi est-il mort?
+|Bunbury? Oh il a…
+|explosé!
+|Explosé? A-t-il été victime de la violence révolutionnaire?
+|Je ne me doutais pas que monsieur Bunbury s'intéressait aux questions sociales.
+|Il a été bien puni de sa curiosité malsaine.
+|Ma chère tante Augusta,
+|le docteur a découvert que Bunbury ne vivait plus, c'est ça que je veux dire,
+|donc Bunbury est mort.
+|Il semblait avoir une grande confiance dans l'opinion de ses médecins.
+|Je suis heureuse, cependant, qu'il ait pris à la fin la décision d'agir
+|et de suivre un avis médical approprié.
+|Et maintenant que nous en avons fini avec ce monsieur Bunbury, puis-je demander, monsieur Worthing,
+|qui est la jeune personne que mon neveu Algernon tient par la main
+|d'une manière qui me semble peu convenable?
+|Il s'agit de Miss Cecily Cardew, ma pupille.
+|Je suis fiancé à Cecily, tante Augusta.
+|Je te demande pardon?
+|Monsieur Moncrieff et moi sommes fiancés
+|Je me demande s'il n'y a pas quelque chose de spécialement excitant
+|dans l'air de cette partie du Hertfordshire,
+|le nombre de fiançailles qui s'y font me parait être considérablement
+|au-dessus de la moyenne voulue par les statistiques.
+|Je crois qu'une enquête préliminaire de ma part ne sera pas hors de propos.
+|Monsieur Worthing, Miss Cardew est-elle liée de quelque façon
+|à l'une ou l'autre des gares de chemin de fer londoniennes?
+|Je désire simplement être informée.
+|Jusqu'à hier je n'avais pas la moindre idée qu'il existait des familles ou des personnes
+|dont l'origine était un Terminus.
+|Miss Cardew est la petite-fille de feu monsieur Thomas Cardew,
+|149 Belgrave Squarz , S.W. ;
+|Gervase Park, Dorking, Surrey ;
+|et Les Sporran, Fifeshire, N.B.
+|Cela n'est pas insatisfaisant. Trois adresses inspirent toujours confiance.
+|Mais quelle preuve ai-je de leur authenticité?
+|J'ai précieusement conservé le Bottin Mondain de l'époque. Vous pourrez le consulter, Lady Bracknell.
+|J'ai déjà trouvé d'étranges erreurs dans cet ouvrage.
+|Les notaires de la famille de la famille sont MM. Markby, Marby et Markby.
+|Markby, Marby et Markby?
+|Une étude de grande réputation.
+|On m'a même dit qu'on voit parfois un des Marby à des dîners respectables.
+|C'est très convaincant.
+|Comme c'est gentil à vous, Lady Bracknell.
+|J'ai aussi en ma possession, puisque ça vous intéresse
+|le certificat de naissance de Miss Cardew, son certificat de baptême,
+|de confirmation. Et de vaccination
+|contre la rougeole et la rubéole.
+|Ah! Quelle vie pleine d'aventures!
+|Quoique peut-être un peu trop excitante pour une jeune fille.
+|Je ne suis pas particulièrement favorable aux expériences prématurées.
+|Gwendolen! Le moment de notre départ approche. Nous n'avons pas un moment à perdre.
+|Simple question de forme, monsieur Worthing, j'aimerais vous demander si Miss Cardew a quelque fortune.
+|Oh! Cent trente mille livres environ. En fonds d'Etat. Eh bien, ce sera tout.
+|Heureux de vous avoir connu, Lady Bracknell.
+|Un moment, monsieur Worthing. Cent trente mille livres! Et en fonds d'Etat!
+|Miss Cardew me parait une très attrayante jeune lady, maintenant que je la regarde mieux.
+|Peu de jeunes filles de nos jours ont des qualités vraiment solides,
+|des qualités qui durent, et embellissent avec le temps.
+|Nous vivons, j'ai le regret de le dire à une époque qui ne s'attache qu'au superficiel.
+|Vien ici, petit fille.
+|
+|Ma belle enfant! Votre robe est fâcheusement simple
+|et votre chevelure comme la nature l'a faite.
+|Mais nous pourrons vite changer tout cela.
+|Une femme de chambre française expérimentée
+|fait des merveilles en très peu de temps.
+|J'en avais recommandé une à la jeune Lady Lancing.
+|Au bout de trois mois son propre mari ne la reconnaissait plus.
+|Et au bout de six mois, plus personne ne la reconnaissait?!
+|Tournez-vous, chère enfant.
+|
+|Non, c'est le profil que je veux voir.
+|Oui, comme j'ai pensée.
+|
+|
+|Le menton un peu plus haut, ma chère.
+|Le style dépend beaucoup de la façon dont on porte le menton.
+|On le porte très haut aujourd'hui.
+|Algernon!
+|Oui, tante Augusta!
+|Il y a des possibilités aristocratiques très nettes dans le profil de Miss Cardew.
+|Cecily est la plus douce, la plus tendre, la plus jolie jeune fille du monde entier.
+|Et je me moque éperdument de l'effet qu'elle fera dans la société aristocratique.
+|Ne parle jamais irrespectueusement de la Société, Algernon.
+|Il n'y a que les gens qui ne peuvent pas y entrer qui font ça.
+|Chère enfant, certainement vous savez qu'Algernon n'apporte rien d'autre que ses dettes.
+|Mais je n'approuve pas les mariages d'argent.
+|Quand j'ai épousé Lord Bracknell je n'avais aucune fortune.
+|Et je n'ai pas voulu que cela empêche notre mariage.
+|Bon, eh bien je suppose que je dois donner mon consentement.
+|Merci, tante Augusta.
+|Cecily, tu peux m'embrasser.
+|Merci, Lady Bracknell.
+|A l'avenir, tu peux aussi m'appeler Tante Augusta.
+|Merci, tante Augusta.
+|Je crois qu'il serait bon que le mariage se fasse très vite.
+|Merci, tante Augusta.
+|Merci, tante Augusta.
+|Pour parler franchement, je ne suis pas favorable aux longues fiançailles.
+|Cela donne aux gens le temps de connaitre leur caractère avant le mariage
+|et je crois que ce n'est pas recommandable.
+|Pardonnez-moi de vous interrompre, Lady Bracknell,
+|mais ces fiançailles sont complètement hors de question.
+|Je suis le tuteur de Miss Cardew et
+|elle ne peut se marier sans mon consentement avant l'âge voulu.
+|Et ce consentement je le refuse absolument.
+|Et sur quelles bases? Puis-je le demander?
+|Algernon un jeune homme extrêmement, presque osten&shy;tatoirement prêt pour le mariage.
+|Il n'a rien mais il veut tout. Que peut-on désirer de plus?
+|Ça me peine beaucoup de devoir vous parler de votre neveu en toute franchise, Lady Bracknell,
+|mais le fait est que je n'approuve pas du tout sa moralité.
+|Je le suspecte d'être un menteur.
+|Un menteur, mon neveu Algernon? Impossible! Il sort d'Oxford!
+|Je crains que le doute ne soit pas possible.
+|Cet après-midi pendant mon absence,
+|il s'est fait recevoir dans ma maison en prétendant faussement qu'il était mon frère.
+|Sous ce faux nom il a bu, c'est ce que vient de m'apprendre le maître d'hôtel,
+|une bouteille entière de mon champagne 89, que je réservais pour ma consommation personnelle.|
+|Et ce n'est pas tout,
+|il est parvenu à capter l'affection de ma pupille.
+|Puis il s'est invité pour le thé et a dévoré tous les muffins.
+|Et le pire,
+|c'est qu'il savait parfaitement bien que je n'ai pas de frère,
+|que je n'ai jamais eu de frère, que je ne veux pas avoir de frère
+|ou quoi que ce soit de ce genre. Et je le lui ai dit clairement hier.
+|Hum! Monsieur Worthing, après mûre réflexion,
+|j'ai décidé de surveiller de près la conduite de mon neveu à votre égard.
+|C'est très généreux de votre part, Lady Bracknell.
+|Cependant ma décision est inébranlable. Je refuse mon consentement.
+|Viens ici, mon enfant.
+|Quel âge as-tu ma chérie?
+|Eh bien j'ai tout juste dix-huit ans mais je dis toujours vingt quand je vais dans les réceptions.
+|Tu as tout à fait le droit de faire quelques petites retouches.
+|Aucune femme ne devrait jamais être vraiment précise quant à son âge.
+|Dix-huit ans mais qui paraissent vingt dans les soirées…
+|tu auras bientôt l'âge d'échapper aux contraintes de la tutelle.
+|Je ne crois donc pas que le consentement de votre tuteur ait beaucoup d'importance.
+|Je vous prie de m'excuser, Lady Bracknell, si je vous interromps de nouveau
+|mais je pense correct de vous signaler que d'après les termes du testament de son grand-père
+|Miss Cardew doit rester sous tutelle jusqu'à l'âge de trente-cinq ans.
+|Ça ne me parait pas être un grave problème. Trente-cinq ans est un âge très intéressant.
+|La Haute Société londonienne est pleine de femmes qui sont volontairement
+|restées à l'âge de trente-cinq ans. Par exemple, Lady Dumbleton.
+|A ma connaissance elle a toujours eu trente-cinq ans depuis qu'elle a atteint l'âge de quarante ans,
+|il y a déjà bien des années.
+|
+|
+|Algy, pourrais-tu m'attendre jusqu'à mes trente-cinq ans?
+|Bien sûr, Cecily,
+|tu sais que je le peux.
+|Oui, je le sentais bien. Mais moi je ne pourrais pas attendre tout ce temps.
+|J'ai horreur d'attendre, même cinq minutes, pour quoi que ce soit. Ça me met en colère.
+|
+|Et attendre, surtout pour me marier, est tout à fait hors de question.
+|Que faire alors, Cecily ?
+|Je ne sais pas, monsieur Moncrieff.
+|Mon cher monsieur Worthing, Miss Cardew vient le préciser clairement :
+|elle ne peut pas attendre jusqu'à ses trente-cinq ans,
+|une remarque qui me semble dénoter une nature plutôt impatiente.
+|Je vous prie donc de reconsidérer votre décision.
+|Mais, ma chère Lady Bracknell, la question est entièrement en vos mains.
+|Si vous consentez à mon mariage avec Gwendolen,
+|je serais tout à fait heureux d'autoriser votre neveu à épouser Cecily.
+|Vous devez bien vous rendre compte que ce que vous proposez est hors de question.
+| Alors un célibat passionné est ce qui nous attend tous.
+| Ce n'est pas l'avenir que j'ai choisi pour Gwendolen.
+|Algernon, naturellement, fera ce qu'il voudra.
+|Viens ma chère, nous avons déjà manqué cinq, peut-être six trains…
+|En manquer pllus pourrait nous exposer à des ragots sur le perron.
+| Tout est prêt pour les baptêmes.
+| Les baptêmes, monsieur ! N'est-ce pas un peu prématuré?
+| Ces deux gentlemen ont exprimé le désir d'être baptisés dès aujourd'hui.
+| A leur âge ? L'idée est grotesque et irréligieuse.
+|Algernon, je t'interdis de te faire baptiser. Jamais je n'ai vu de telles extravagances.
+|Lord Bracknell serait très contrarié s'il apprenait
+|comment tu gaspilles ton temps et ton argent.
+| Dois-je comprendre qu'il n'y aura pas de baptême cet après-midi ?
+| Au train où vont les choses,
+|je ne pense pas que ça présente beaucoup d'intérêt pour Algernon comme pour moi, Dr Chasuble.
+| Je suis vraiment peiné, monsieur Worthing.
+| C'est là le point de vue hérétique des Anabaptistes,
+| point de vue que j'ai absolument réfuté dans quatre de mes sermons encore non publiés.
+| Cependant, étant donnée votre attitude,
+| je rentre tout de suite à l'église.
+| La chaisière vient de m'informer que depuis une heure et demie
+| Miss Prism m'attend à la sacristie .
+| Miss Prism ! Vous avez parlé d'une Miss Prism?
+| Oui, je vais la rejoindre.
+| Permettez-moi de vous retenir un instant, je vous prie.
+| Cette question peut se révéler d'une importance extrême pour Lord Bracknell et moi-même.
+| Cette Miss Prism estelle un personnage répugnant,
+|sans la moindre éducation ?
+| C'est une vraie lady, cultivée et l'image15 même de la respectabilité.
+| C'est bien elle.
+| Puis-je demander le rôle qu'elle joue dans votre maisonnée ?
+| Je suis célibataire, madame.
+| Lady Bracknell, Miss Prism est depuis trois ans
+| la très estimée gouvernante et dame de compagnie de Miss Cardew.
+| Malgré tout, je dois absolument la voir.
+|Faites-la appeler.
+| Elle approche, je la sens.
+| On m'a dit que vous m'attendiez dans la sacristie, mon cher Canon.
+|J'y suis restée une heure trois-quarts…
+| Prism ! Venez ici, Prism!
+|Prism ! Où est le bébé ?
+| Il y a vingt-huit ans, Prism, vous êtes sortie de la maison de Lord Bracknell,
+|au 104 Grosvenor Street,
+|poussant un landau contenant un bébé du sexe masculin.
+|Vous n'êtes jamais revenue.
+|Quelques semaines après, suite aux enquêtes de la police,
+|le landau fut découvert à minuit,
+|abandonné dans un coin éloigné de Bayswater.
+|Il contenait le manuscrit d'un roman en trois volumes
+|d'une sentimentalité écoeurante.
+|Mais le bébé n'y était plus.
+|Prism, où est le bébé ?
+| Lady Bracknell, je dois avouer avec honte que je ne sais pas.
+|Je voudrais bien savoir.
+|Voilà ce qui s'est passé.
+|Ce jour-là, un jour qui est pour toujours gravé dans ma mémoire,
+|je me préparais à sortir le bébé dans son landau.
+|J'avais aussi un grand cabas
+|où je devais placer le manuscrit d'une oeuvre de fiction
+|que j'avais écrite pendant mon temps libre.
+|Dans un instant de distraction que je ne me pardonnerai jamais,
+|j'ai déposé le manuscrit dans la poussette et placé le bébé dans le cabas.
+|Mais qu'avez-vous fait du cabas ?
+| Ne me demandez pas cela, monsieur Worthing.
+| Miss Prism, cette question est vitale pour moi.
+|J'insiste : où avez-vous déposé le cabas qui contenait le bébé ?
+| Je l'ai laissé à la consigne d'une grande gare de Londres.
+| Quelle gare ?
+|Victoria. Ligne de Brighton.
+| Je dois aller un instant dans ma chambre.
+|Gwendolen, attends-moi ici.
+| Si tu n'es pas trop long, je suis prête à t'attendre toute ma vie.
+| Qu'en pensez-vous, Lady Bracknell ?
+| Je n'ose pas même penser.
+|Je n'ai pas besoin de vous dire que dans les familles de la haute société d'aussi
+|étranges coïncidences ne sont pas censées se produire.
+| C'est inacceptable.
+| Oncle Jack semble bien nerveux.
+| Votre tuteur est d'une nature très émotive.
+| Ce bruit est extrêmement déplaisant.
+|On dirait une bagarre.
+|Je déteste les bagarres.
+|C'est toujours vulgaire et parfois persuasif.
+| Ah, c'est fini !
+| J'aimerais que ça se termine, d'une manière ou d'une autre.
+| Ce suspense est terrible. J'espère que ça va bientôt finir.
+|Est-ce bien ce cabas, Miss Prism ?
+|Examinez-le soigneusement avant de répondre.
+|Le bonheur de tous dépend de votre réponse.
+|On dirait bien que c'est le mien.
+|Oui, voici l'éraflure qui s'est produite
+|dans l'omnibus lors de jours plus heureuses.
+|Et là, je vois la tache sur la doublure.
+|
+|Et là sur la fermeture, voici mes initiales.
+|
+|Ce sac est le mien sans nul doute.
+|Je suis ravie qu'il me soit rendu de façon aussi inattendue.
+|Si vous saviez comme il m'a manqué pendant toutes ces années.
+|Miss Prism, ce n'est pas seulement le cabas qui vous est rendu. |
+Je suis le bébé que vous aviez mis dedans.
+| Vous ?
+| Moi... maman !
+|Mais je suis célibataire, monsieur Worthing!
+| Célibataire ! J'avoue que c'est un coup dur.
+|Mais après tout, qui a le droit de jeter la pierre à quelqu'un qui a souffert?
+|Le repentir ne peut-il effacer un acte de folie?
+|Pourquoi y aurait-il une loi pour les hommes et une différente pour les femmes?
+|Ma mère je vous pardonne.
+|Monsieur Worthing, vous faites erreur.
+|Voici la lady qui peut vous dire qui vous êtes vraiment.
+|Lady Bracknell, j'ai horreur de paraître indiscret mais pourriez-vous me dire qui je suis?
+| Je crains que cela ne vous plaise pas beaucoup.
+|Vous êtes le fils de ma pauvre soeur, Mrs Moncrieff,
+|et par conséquent le frère ainé d'Algernon.
+| Le frère ainé d'Algernon!
+|Alors, j'ai un frère après tout.
+|Je savais que j'avais un frère. J'ai toujours dit que j'avais un frère!
+|Cecily, comment as-tu pu douter que j'avais un frère?
+|Dr Chasuble, voici mon pauvre frère.
+|Miss Prism, mon pauvre frère.
+|Gwendolen, mon pauvre frère.
+|Algy, jeune voyou, tu devras me traiter avec plus de respect à l'avenir.
+|Jamais dans ton vie tu m'as traité comme un frère.
+|Pas jusqu'à présent, j'admis.
+| Eh bien, j'ai de mon mieux mais je manquais d'entraînement.
+|Mon chéri! Mais quel chéri es-tu?
+|Quel est ton prénom maintenant que tu es devenu quelqu'un d'autre ?
+| Bonté divine ! J'avais complètement oublié ce problème.
+|Ton attitude sur la question est irrévocable, sans doute?
+| Je ne change jamais, sauf dans mes sentiments.
+| Quelle noblesse, Gwendolen !
+| Alors le problème doit être résolu immédiatement.
+|Tante Augusta, un moment.
+|Quand Miss Prism me perdit, avais-je déjà été baptisé ?
+|Vos parents n'ont reculé devant aucune dépense,
+|à l'occasion de votre naissance, y compris le baptême.
+| Alors, j'ai été baptisé. Voilà un point acquis.
+|Alors, quel nom m'a-t-on donné ? Je crains le pire.
+| En tant que fils ainé, vous avez reçu naturellement le prénom de votre père.
+|Oui, mais quel était le prénom de mon père?
+|Voilà que je ne souviens plus du prénom du général.
+|Mais je suis sûre qu'il en avait un.
+|Il était excentrique certes.
+|Mais seulement dans ses dernières années.
+|Vous comprenez, le climat de l'Inde, le mariage, la constipation,
+|tout ce genre de choses.
+| Algy, tu ne te souviens pas du prénom de ton père ?
+| Mon petit vieux, nous ne nous parlions pas.
+|Il est mort quand j'avais un an.
+| Son nom doit apparaitre dans les registres militaires de l'époque, je suppose, tante Augusta?
+| Le général était essentiellement un homme de paix, excepté dans sa vie familiale.
+|Mais certainement son nom doit apparaitre dans quelque répertoire militaire.
+| J'ai les registres militaires des quarante dernières années.
+|Je les étudierais sans cesse, comme passion.
+|Généraux M. Mallam, Maxbohm, Magley, quels drôles de noms,
+| Markby, Migsby, Mobbs, Moncrieff!
+|Lieutenant en 1840, capitaine, lieutenant-colonel, colonel, général en 1869.
+|Prénom : Constant!
+|Je te l'ai toujours dit, Gwendolen, que mon nom c'était Constant, n'est-ce pas?
+|Eh bien c'est Constant, naturellement.
+| Oui, je me souviens maintenant que le général s'appelait Constant.
+|Je savais que j'avais une bonne raison de détester ce nom.
+| Constant! Mon Constant à moi!
+|J'ai senti depuis le début que tu ne pouvais pas avoir un autre nom.
+| Gwendolen, c'est terrible pour moi de constater
+|que toute ma vie je n'ai dit que la vérité.
+|Me pardonnes-tu?
+| Mais oui, car je sens que tu vas changer.
+| Ma chérie à moi!
+|Laetitia!
+| Frédéric! Enfin!
+|Cecily! Enfin!
+|Gwendolen! Enfin!
+| Mon neveu, ne sombre pas dans la vulgarité!
+| Au contraire, Tante Augusta,
+|j'ai compris pour la première fois de ma vie
+|l'Importance d'être Constant.
