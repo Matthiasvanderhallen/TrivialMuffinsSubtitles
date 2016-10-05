@@ -33,7 +33,7 @@ function getQueryVariable(variable) {
     if (pair[0] == variable) {
       return pair[1];
     }
-  } 
+  }
   return ""
 }
 
@@ -84,7 +84,8 @@ function showList(list){
 function getEnglish(a, preview, postview){
 	var enWindow = [];
 	if(a-postview < 0){
-		enWindow = subtitle.en.slice(a-postview);
+		//enWindow = subtitle.en.slice(a-postview);
+		enWindow = Array(-a+postview).fill("");
 		enWindow = enWindow.concat(subtitle.en.slice(0,a));
 		enWindow = enWindow.concat(subtitle.en.slice(a, a+preview+1));
 	}else{
@@ -146,6 +147,7 @@ function setSize(){
 function keyListener(){
 
 	var LEFT = 37;
+  var SHIFT = 16;
 	var RIGHT = 39;
 	var SPACE = 32;
 	var KEY_J = 74;
@@ -172,12 +174,12 @@ function keyListener(){
 		}
 	} else if(d3.event.keyCode == KEY_S){
 		var answer = prompt("Which size?", subtitle.size);
-		
+
 		if(isNumeric(answer)){
 			subtitle.size = answer;
 			setSize();
 		}
-	} else if(d3.event.keyCode == KEY_B){
+	} else if(d3.event.keyCode == KEY_B || d3.event.keyCode == SHIFT){
 		subtitle.blackout = !subtitle.blackout;
 		if(subtitle.blackout){
 			blackoutBadge.style('visibility', 'visible');
@@ -280,7 +282,7 @@ var reconnect = inject(function(){
 });
 
 var re = reconnect({}, function (stream) {
-  // stream = the stream you should consume 
+  // stream = the stream you should consume
 })
 .on('connect', function (con) {
 })
