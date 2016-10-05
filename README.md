@@ -22,4 +22,7 @@ When any of the browser-running javascript files is editted (i.e. {Master,Slave,
 
 - `./Server` runs Server.js in node and starts a http-server listening on port 8000. It reads its subtitles from the file `ondertitels.txt` in the main folder.
 
-
+# 5. Usage
+- Go to http://localhost:8000/Master.html on your home screen
+- Show http://localhost:8000/Slave.html on your projection screen
+- Use the Master.html page to control the projection screen.
