@@ -1,3 +1,10 @@
+# 0. Submodules
+The subtitles for each play are located as branches in a submodule. Please do not forget to run 
+```
+git submodule init
+git submodule update
+```
+
 # 1. Requirements
 - Node.js and its package manager npm
 
