@@ -69,7 +69,7 @@ function showList(list){
 	var options = [];
 	for(i = 0; i<list.length; i++){
 		if(/.*.log/.test(list[i])){
-			options.push("<option value='logs/" + list[i] + "'>" + list[i] + "</option>");
+			options.push("<option value='CurrentPlay/logs/" + list[i] + "'>" + list[i] + "</option>");
 		}
 	}
 
@@ -248,7 +248,7 @@ function isNumeric(n) {
 };
 
 var pipeParser = d3.dsv("|", "text/plain");
-pipeParser("ondertitels.txt", parseData);
+pipeParser("CurrentPlay/ondertitels.txt", parseData);
 
 function sanatize(subtitle){
 	if(subtitle==undefined){
@@ -317,6 +317,7 @@ $(document).ready(function(){
         }
 	});
 });
+
 },{"reconnect-core":2}],2:[function(require,module,exports){
 var EventEmitter = require('events').EventEmitter
 var backoff = require('backoff')

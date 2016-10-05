@@ -31,7 +31,7 @@ wsServer.on('request', function(request) {
                 json = JSON.parse(message.utf8Data);
                 
                 if(json.type == "create") {
-                    stream = fs.createWriteStream(__dirname + "/logs/"+json.filename + ".log", {flags: 'a', defaultEncoding: 'utf8', fd: null});
+                    stream = fs.createWriteStream(__dirname + "CurrentPlay/logs/"+json.filename + ".log", {flags: 'a', defaultEncoding: 'utf8', fd: null});
                     stream.on('error', function(err) {
                         console.log(err);
                     });
